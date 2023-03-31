@@ -9,7 +9,7 @@ class Solution:
     def hasApple(self, row1, row2, col1, col2):
         return (self.prefix[row1][col1] + self.prefix[row2][col2] - self.prefix[row1][col2] - self.prefix[row2][col1]) > 0
     
-    @lru_cache(None)
+    @lru_cache(None) # for memoization
     def dp(self, m, n, k):
         if k == 0:
             return 1
