@@ -24,7 +24,10 @@ class Solution:
         return ans
 
     def largestVariance(self, s: str) -> int:
-        return max(self.kadane(c1, c2, s)
-            for c1 in string.ascii_lowercase
-            for c2 in string.ascii_lowercase
-            if c1 != c2)
+        unique_chars = set(s) # Get the unique characters in the string
+        max_variance = 0
+        for c1 in unique_chars:
+            for c2 in unique_chars:
+                if c1 != c2:
+                    max_variance = max(max_variance, self.kadane(c1, c2, s))
+        return max_variance
