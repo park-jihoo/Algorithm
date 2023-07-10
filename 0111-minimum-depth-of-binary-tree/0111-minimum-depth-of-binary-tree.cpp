@@ -23,11 +23,7 @@ public:
         else{
             int minLeft = minDepth(root->left);
             int minRight = minDepth(root->right);
-            if(minLeft < minRight){
-                return minLeft + 1;
-            }else{
-                return minRight + 1;
-            }
+            return min(minLeft, minRight) + 1;
         }
     }
 };
