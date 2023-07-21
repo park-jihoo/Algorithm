@@ -30,4 +30,13 @@ jobs:
           args: "."
       - name: Git Auto Commit
         uses: stefanzweifel/git-auto-commit-action@v4.16.0
+        with:
+          commit_message: python format
+  java:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3      
+      - name: Google Java Format
+        uses: axel-op/googlejavaformat-action@v3.6.0
+
           
