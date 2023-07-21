@@ -15,4 +15,4 @@ class Solution:
                     if length[j] + 1 == length[i]:
                         cnt[i] += cnt[j]
         maxlen = max(length)
-        return sum([cnt[i] for i in range(n) if length[i] == maxlen])
+        return sum(c for l, c in zip(length, cnt) if l == maxlen)
