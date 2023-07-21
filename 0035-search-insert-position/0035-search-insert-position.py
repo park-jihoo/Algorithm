@@ -11,5 +11,3 @@ class Solution:
             else:
                 return center
         return start
-                
-        

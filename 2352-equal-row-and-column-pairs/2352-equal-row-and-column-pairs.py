@@ -5,7 +5,6 @@ class Solution:
             for i in range(len(grid)):
                 col = [x[i] for x in grid]
                 if row == col:
-                    answer +=1
-
+                    answer += 1
 
         return answer

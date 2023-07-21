@@ -1,5 +1,6 @@
 import heapq
 
+
 class Solution:
     def lastStoneWeight(self, stones: List[int]) -> int:
         # Easy Good! Array Heap
@@ -18,5 +19,5 @@ class Solution:
             if not a[1] == b[1]:
                 val = a[1] - b[1]
                 heapq.heappush(heap, (-val, val))
-            
+
         return 0

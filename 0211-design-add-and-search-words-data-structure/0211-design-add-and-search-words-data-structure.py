@@ -1,5 +1,4 @@
 class WordDictionary:
-
     def __init__(self):
         self.words = defaultdict(set)
 
@@ -16,8 +15,6 @@ class WordDictionary:
             else:
                 return True
         return False
-
-
 
 
 # Your WordDictionary object will be instantiated and called as such:

@@ -1,11 +1,11 @@
 class Solution:
     def distributeCookies(self, cookies: List[int], k: int) -> int:
-        self.ans = float('inf')
+        self.ans = float("inf")
         self.cookies = cookies
         self.k = k
 
-        self.dfs(0, [0]*k)
-        
+        self.dfs(0, [0] * k)
+
         return self.ans
 
     def dfs(self, s, children):

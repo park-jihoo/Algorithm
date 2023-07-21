@@ -4,7 +4,9 @@
 #         self.val = val
 #         self.next = next
 class Solution:
-    def addTwoNumbers(self, l1: Optional[ListNode], l2: Optional[ListNode]) -> Optional[ListNode]:
+    def addTwoNumbers(
+        self, l1: Optional[ListNode], l2: Optional[ListNode]
+    ) -> Optional[ListNode]:
         q1, q2 = deque(), deque()
         while l1:
             q1.append(l1.val)
@@ -12,14 +14,14 @@ class Solution:
         while l2:
             q2.append(l2.val)
             l2 = l2.next
-        
+
         q3 = deque()
         temp = 0
         while q1 or q2:
             if q1:
-                temp+=q1.pop()
+                temp += q1.pop()
             if q2:
-                temp+=q2.pop()
+                temp += q2.pop()
             if temp >= 10:
                 q3.append(temp - 10)
                 temp = 1

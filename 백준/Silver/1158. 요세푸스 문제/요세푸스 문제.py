@@ -8,9 +8,9 @@ a = []
 for i in range(n):
     for j in range(k):
         temp = q.popleft()
-        if j == k-1:
+        if j == k - 1:
             a.append(str(temp))
         else:
             q.append(temp)
 
-print("<"+", ".join(a)+">")
+print("<" + ", ".join(a) + ">")

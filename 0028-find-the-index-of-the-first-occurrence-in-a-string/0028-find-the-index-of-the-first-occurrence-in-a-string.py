@@ -5,6 +5,6 @@ class Solution:
         for idx, char in enumerate(haystack):
             if idx > len(haystack) - len(needle):
                 return -1
-            if haystack[idx:idx+len(needle)] == needle:
+            if haystack[idx : idx + len(needle)] == needle:
                 return idx
         return -1

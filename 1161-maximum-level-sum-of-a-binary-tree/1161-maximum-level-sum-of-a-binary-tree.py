@@ -15,8 +15,8 @@ class Solution:
             self.lst.append(node.val)
         else:
             self.lst[level] += node.val
-        self.search(node.left, level+1)
-        self.search(node.right, level+1)
+        self.search(node.left, level + 1)
+        self.search(node.right, level + 1)
 
     def maxLevelSum(self, root: Optional[TreeNode]) -> int:
         self.search(root, 0)

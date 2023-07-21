@@ -9,12 +9,17 @@ class Solution:
                 return 1
             else:
                 answer = []
-                for i in range(len(coordinates)-1):
-                    if(coordinates[i][0]==coordinates[i+1][0] or coordinates[i][1] == coordinates[i+1][1]):
+                for i in range(len(coordinates) - 1):
+                    if (
+                        coordinates[i][0] == coordinates[i + 1][0]
+                        or coordinates[i][1] == coordinates[i + 1][1]
+                    ):
                         return 0
-                    answer.append((coordinates[i][0]-coordinates[i+1][0])/(coordinates[i][1]-coordinates[i+1][1]))
-                if(len(answer) == answer.count(answer[0])):
+                    answer.append(
+                        (coordinates[i][0] - coordinates[i + 1][0])
+                        / (coordinates[i][1] - coordinates[i + 1][1])
+                    )
+                if len(answer) == answer.count(answer[0]):
                     return 1
                 else:
                     return 0
-                

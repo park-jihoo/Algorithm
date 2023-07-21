@@ -1,8 +1,11 @@
 from collections import defaultdict
 import heapq
 
+
 class Solution:
-    def findCheapestPrice(self, n: int, flights: List[List[int]], src: int, dst: int, k: int) -> int:
+    def findCheapestPrice(
+        self, n: int, flights: List[List[int]], src: int, dst: int, k: int
+    ) -> int:
         graph = defaultdict(list)
         for start, end, distance in flights:
             graph[start].append([end, distance])

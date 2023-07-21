@@ -1,7 +1,10 @@
 from collections import defaultdict, deque
 
+
 class Solution:
-    def calcEquation(self, equations: List[List[str]], values: List[float], queries: List[List[str]]) -> List[float]:
+    def calcEquation(
+        self, equations: List[List[str]], values: List[float], queries: List[List[str]]
+    ) -> List[float]:
         graph = defaultdict(dict)
         answer = []
         for idx, val in enumerate(equations):
@@ -12,7 +15,7 @@ class Solution:
             if x not in graph.keys() or y not in graph.keys():
                 answer.append(-1.0)
                 continue
-            
+
             q = deque([x])
             visited = set([x])
             par = {x: None}
@@ -22,7 +25,7 @@ class Solution:
                 if now == y:
                     val = 1.0
                     while par[now] is not None:
-                        val *= (graph[par[now]][now])
+                        val *= graph[par[now]][now]
                         now = par[now]
                     answer.append(val)
                     flag = True

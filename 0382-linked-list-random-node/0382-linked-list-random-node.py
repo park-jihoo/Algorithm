@@ -1,18 +1,18 @@
 import random
 
+
 # Definition for singly-linked list.
 # class ListNode:
 #     def __init__(self, val=0, next=None):
 #         self.val = val
 #         self.next = next
 class Solution:
-
     def __init__(self, head: Optional[ListNode]):
         self.head = head
         self.length = 0
         now = self.head
         while now is not None:
-            self.length+=1
+            self.length += 1
             now = now.next
 
     def getRandom(self) -> int:

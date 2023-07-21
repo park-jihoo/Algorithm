@@ -1,5 +1,6 @@
 from collections import defaultdict
 
+
 class Solution:
     def __init__(self):
         self.parents = []
@@ -8,7 +9,7 @@ class Solution:
         cnt = 0
         for s1, s2 in zip(a, b):
             if s1 != s2:
-                cnt +=1
+                cnt += 1
             if cnt >= 3:
                 return False
         return True
@@ -18,7 +19,7 @@ class Solution:
             return a
         self.parents[a] = self.findParent(self.parents[a])
         return self.parents[a]
-    
+
     def union(self, a, b):
         a, b = self.findParent(a), self.findParent(b)
         if a < b:
@@ -41,7 +42,7 @@ class Solution:
         for _, ss in dic.items():
             self.parents = list(range(len(strs)))
             for i in range(len(strs)):
-                for j in range(i+1, len(strs)):
+                for j in range(i + 1, len(strs)):
                     if self.isSimilar(ss[i], ss[j]):
                         self.union(i, j)
             for i in range(len(self.parents)):

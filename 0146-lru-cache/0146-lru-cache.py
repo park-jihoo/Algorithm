@@ -1,5 +1,4 @@
 class LRUCache:
-
     def __init__(self, capacity: int):
         self.cache = dict()
         self.capacity = capacity
@@ -20,8 +19,6 @@ class LRUCache:
         if len(self.cache) > self.capacity:
             first_item_key = next(iter(self.cache))
             del self.cache[first_item_key]
-
-        
 
 
 # Your LRUCache object will be instantiated and called as such:

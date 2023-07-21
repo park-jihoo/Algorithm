@@ -6,15 +6,15 @@ class Solution:
         answer = 0
         maxlen = max(len(a), len(b), len(c))
         if len(a) < maxlen:
-            a = '0'*(maxlen-len(a)) + a
+            a = "0" * (maxlen - len(a)) + a
         if len(b) < maxlen:
-            b = '0'*(maxlen-len(b)) + b
+            b = "0" * (maxlen - len(b)) + b
         if len(c) < maxlen:
-            c = '0'*(maxlen-len(c)) + c
+            c = "0" * (maxlen - len(c)) + c
         for i, j, k in zip(a, b, c):
             print(i, j, k)
-            if i == '0' and j == '0' and k == '1':
-                answer +=1
-            elif k == '0' and int(i)+int(j)>0:
-                answer += int(i)+int(j)
+            if i == "0" and j == "0" and k == "1":
+                answer += 1
+            elif k == "0" and int(i) + int(j) > 0:
+                answer += int(i) + int(j)
         return answer

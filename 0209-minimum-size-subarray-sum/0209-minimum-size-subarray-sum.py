@@ -5,11 +5,11 @@ class Solution:
         while start < len(nums):
             if total < target and end < len(nums):
                 total += nums[end]
-                end +=1
+                end += 1
             elif total >= target:
-                minlen = min(minlen, end-start)
+                minlen = min(minlen, end - start)
                 total -= nums[start]
-                start+=1
+                start += 1
             else:
                 break
         return 0 if minlen > len(nums) else minlen

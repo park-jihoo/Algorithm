@@ -5,4 +5,4 @@ class Solution:
         elif n == 1:
             return 1
         else:
-            return self.fib(n-1)+self.fib(n-2)
+            return self.fib(n - 1) + self.fib(n - 2)

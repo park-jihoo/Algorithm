@@ -1,5 +1,6 @@
 from collections import deque
 
+
 class Solution:
     def __init__(self):
         self.visited = set()
@@ -14,10 +15,10 @@ class Solution:
         if self.grid[i][j] == 1 or (i, j) in self.visited:
             return 1
         self.visited.add((i, j))
-        t = self.dfs(i+1, j)
-        b = self.dfs(i-1, j)
-        l = self.dfs(i, j-1)
-        r = self.dfs(i, j+1)
+        t = self.dfs(i + 1, j)
+        b = self.dfs(i - 1, j)
+        l = self.dfs(i, j - 1)
+        r = self.dfs(i, j + 1)
         return t and b and l and r
 
     def closedIsland(self, grid: List[List[int]]) -> int:

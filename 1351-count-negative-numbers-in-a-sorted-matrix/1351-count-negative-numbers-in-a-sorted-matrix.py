@@ -11,6 +11,6 @@ class Solution:
                 else:
                     start = mid + 1
             if row[start] < 0:
-                answer += (len(grid[0]) - start)
+                answer += len(grid[0]) - start
                 idx = start
         return answer

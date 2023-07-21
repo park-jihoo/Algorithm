@@ -6,6 +6,6 @@ class Solution:
             if sub_map.get(a) is None:
                 sub_map[a] = 1
             else:
-                answer +=1
+                answer += 1
                 sub_map = {a: 1}
         return answer

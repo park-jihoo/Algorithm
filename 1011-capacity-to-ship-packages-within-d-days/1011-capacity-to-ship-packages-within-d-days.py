@@ -5,13 +5,14 @@ class Solution:
             for c in weights:
                 if c > capacity:
                     return False
-                elif len(ships)==0 or ships[-1] + c > capacity:
+                elif len(ships) == 0 or ships[-1] + c > capacity:
                     ships.append(c)
                 else:
-                    ships[-1]+=c
+                    ships[-1] += c
                 if len(ships) > days:
                     return False
             return True
+
         left = 0
         right = sum(weights)
         while left <= right:

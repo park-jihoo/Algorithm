@@ -9,7 +9,7 @@ class Solution:
         s1, s2 = head, head
         while s1.next:
             s1 = s1.next
-            idx+=1
+            idx += 1
         s1 = head
 
         for i in range(idx):
@@ -17,7 +17,7 @@ class Solution:
                 s1 = s1.next
             if i <= idx - k:
                 s2 = s2.next
-        
+
         temp = s1.val
         s1.val = s2.val
         s2.val = temp

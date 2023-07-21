@@ -1,5 +1,6 @@
 from collections import deque
 
+
 class Solution:
     def largestPathValue(self, colors: str, edges: List[List[int]]) -> int:
         n = len(colors)
@@ -7,7 +8,7 @@ class Solution:
         deg = [0 for _ in range(n)]
         flag = 0
         answer = 0
-        count = [[0]*26 for _ in range(n)]
+        count = [[0] * 26 for _ in range(n)]
         for s, e in edges:
             graph[s].append(e)
             deg[e] += 1
@@ -21,8 +22,8 @@ class Solution:
         while q:
             s = q.popleft()
             flag += 1
-            order = ord(colors[s]) - ord('a')
-            count[s][order]+=1
+            order = ord(colors[s]) - ord("a")
+            count[s][order] += 1
             answer = max(answer, count[s][order])
             for e in graph[s]:
                 for i in range(26):

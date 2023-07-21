@@ -16,7 +16,7 @@ for i in range(N):
         print(len(q))
     elif x[0] == "empty":
         print(int(len(q) == 0))
-    elif x[0] == 'top':
+    elif x[0] == "top":
         if q:
             print(q[-1])
         else:

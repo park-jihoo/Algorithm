@@ -1,5 +1,6 @@
 from itertools import combinations
 
+
 class Solution(object):
     def twoSum(self, nums, target):
         """
@@ -12,4 +13,4 @@ class Solution(object):
             if nums[i] in vals:
                 return [vals[nums[i]], i]
             else:
-                vals[target-nums[i]]=i
+                vals[target - nums[i]] = i

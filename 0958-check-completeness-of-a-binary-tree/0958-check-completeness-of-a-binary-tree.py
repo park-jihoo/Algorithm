@@ -21,4 +21,3 @@ class Solution:
                 q.append(temp.right)
 
         return True
-            

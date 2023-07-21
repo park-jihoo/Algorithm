@@ -1,5 +1,6 @@
 import heapq
 
+
 class SmallestInfiniteSet:
     def __init__(self):
         self.heap = list(range(1, 1001))

@@ -1,5 +1,6 @@
 from collections import deque
 
+
 # Definition for a binary tree node.
 # class TreeNode:
 #     def __init__(self, val=0, left=None, right=None):
@@ -16,11 +17,11 @@ class Solution:
         while cur:
             node, pos = cur.popleft()
             if node.left is not None:
-                nex.append((node.left, pos*2))
+                nex.append((node.left, pos * 2))
             if node.right is not None:
-                nex.append((node.right, pos*2+1))
+                nex.append((node.right, pos * 2 + 1))
             if len(cur) == 0 and len(nex) > 0:
                 cur, nex = nex, cur
-                answer= max(answer, cur[len(cur)-1][1] - cur[0][1] + 1)
+                answer = max(answer, cur[len(cur) - 1][1] - cur[0][1] + 1)
 
         return answer

@@ -14,7 +14,7 @@ class Solution:
         if head is None:
             return None
         if head.next is None:
-            return TreeNode(val = head.val)
+            return TreeNode(val=head.val)
         now = head
         mid = head
         mid2 = head
@@ -22,7 +22,7 @@ class Solution:
             now = now.next.next
             mid2 = mid
             mid = mid.next
-        answer = TreeNode(val = mid.val)
+        answer = TreeNode(val=mid.val)
         mid2.next = None
         answer.left = self.sortedListToBST(head)
         answer.right = self.sortedListToBST(mid.next)

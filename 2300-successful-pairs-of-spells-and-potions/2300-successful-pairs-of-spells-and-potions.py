@@ -8,8 +8,10 @@ class Solution:
             else:
                 left = mid + 1
         return len(nums) - left
-                
-    def successfulPairs(self, spells: List[int], potions: List[int], success: int) -> List[int]:
+
+    def successfulPairs(
+        self, spells: List[int], potions: List[int], success: int
+    ) -> List[int]:
         potions = sorted(potions)
         answer = []
         for spell in spells:

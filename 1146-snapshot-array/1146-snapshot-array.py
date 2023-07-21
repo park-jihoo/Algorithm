@@ -1,8 +1,7 @@
 class SnapshotArray:
-
     def __init__(self, length: int):
         self.curr = 0
-        self.arr = [[[0, 0]] for i in range(length+1)]
+        self.arr = [[[0, 0]] for i in range(length + 1)]
 
     def set(self, index: int, val: int) -> None:
         temp = self.arr[index][-1]
@@ -12,14 +11,14 @@ class SnapshotArray:
             self.arr[index].append([self.curr, val])
 
     def snap(self) -> int:
-        self.curr +=1
+        self.curr += 1
         return self.curr - 1
 
     def get(self, index: int, snap_id: int) -> int:
         temp = self.arr[index]
         low, high = 0, len(temp) - 1
         while low < high:
-            mid = low + (high - low + 1)//2
+            mid = low + (high - low + 1) // 2
             if temp[mid][0] <= snap_id:
                 low = mid
             else:

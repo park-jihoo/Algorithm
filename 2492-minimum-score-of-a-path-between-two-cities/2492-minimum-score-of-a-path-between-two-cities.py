@@ -1,9 +1,10 @@
 from collections import deque
 
+
 class Solution:
     def minScore(self, n: int, roads: List[List[int]]) -> int:
-        graph = {x: set() for x in range(n+1)}
-        score = [10**5 for x in range(n+1)]
+        graph = {x: set() for x in range(n + 1)}
+        score = [10**5 for x in range(n + 1)]
         answer = 10**10
         for s, e, d in roads:
             graph[s].add(e)

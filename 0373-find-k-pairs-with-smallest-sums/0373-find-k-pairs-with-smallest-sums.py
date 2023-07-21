@@ -1,5 +1,7 @@
 class Solution:
-    def kSmallestPairs(self, nums1: List[int], nums2: List[int], k: int) -> List[List[int]]:
+    def kSmallestPairs(
+        self, nums1: List[int], nums2: List[int], k: int
+    ) -> List[List[int]]:
         out = []
         cnt = 0
         for i in range(min(len(nums1), k)):
@@ -10,8 +12,6 @@ class Solution:
             s, p, i = heapq.heappop(out)
             answer.append(p)
             if i + 1 < len(nums2):
-                heapq.heappush(out, (p[0]+nums2[i+1], [p[0], nums2[i+1]], i+1))
+                heapq.heappush(out, (p[0] + nums2[i + 1], [p[0], nums2[i + 1]], i + 1))
             k -= 1
         return answer
-
-            

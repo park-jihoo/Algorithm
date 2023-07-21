@@ -1,5 +1,6 @@
 from collections import deque
 
+
 class Solution:
     def isBipartite(self, graph: List[List[int]]) -> bool:
         colors = [0] * len(graph)
@@ -12,7 +13,7 @@ class Solution:
                     node = queue.pop()
                     for child in graph[node]:
                         if colors[child] == 0:
-                            colors[child] = (colors[node]%2)+1
+                            colors[child] = (colors[node] % 2) + 1
                             queue.append(child)
                         elif colors[child] == colors[node]:
                             return False

@@ -9,7 +9,9 @@ class Solution:
         s, e = min(nums), max(nums)
         while s < e:
             mid = (s + e) // 2
-            left, right = self.calcSum(nums, cost, mid), self.calcSum(nums, cost, mid+1)
+            left, right = self.calcSum(nums, cost, mid), self.calcSum(
+                nums, cost, mid + 1
+            )
             if left < right:
                 e = mid
             else:

@@ -11,9 +11,11 @@ class Solution:
         elif left is None or right is None:
             return False
         if left.val == right.val:
-            return self.symm(left.left, right.right) and self.symm(left.right, right.left)
+            return self.symm(left.left, right.right) and self.symm(
+                left.right, right.left
+            )
         return False
-    
+
     def isSymmetric(self, root: Optional[TreeNode]) -> bool:
         if root is None:
             return True

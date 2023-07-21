@@ -15,7 +15,7 @@ class Solution:
     def getMinimumDifference(self, root: Optional[TreeNode]) -> int:
         values = []
         self.inorder(values, root)
-        answer = float('inf')
+        answer = float("inf")
         for idx in range(len(values) - 1):
-            answer = min(answer, values[idx+1] - values[idx])
+            answer = min(answer, values[idx + 1] - values[idx])
         return answer

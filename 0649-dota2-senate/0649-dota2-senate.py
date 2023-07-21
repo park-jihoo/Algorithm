@@ -1,5 +1,6 @@
 from collections import deque
 
+
 class Solution:
     def predictPartyVictory(self, senate: str) -> str:
         n = len(senate)
@@ -12,7 +13,7 @@ class Solution:
         while rq and dq:
             ri, di = rq.popleft(), dq.popleft()
             if ri < di:
-                rq.append(ri+n)
+                rq.append(ri + n)
             else:
-                dq.append(di+n)
+                dq.append(di + n)
         return "Radiant" if len(rq) > len(dq) else "Dire"

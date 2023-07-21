@@ -6,7 +6,7 @@ class Solution:
             node = q.pop()
             if not visited[node]:
                 visited[node] = True
-                result +=1
+                result += 1
                 q.extend(graph[node])
         return result
 
@@ -21,6 +21,6 @@ class Solution:
         for i in range(n):
             if not visited[i]:
                 cnt = self.dfs(i, graph, visited)
-                answer += cnt * (temp2-cnt)
+                answer += cnt * (temp2 - cnt)
                 temp2 -= cnt
         return answer

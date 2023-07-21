@@ -7,10 +7,10 @@ class Solution:
         for idx in range(k):
             while len(heap1) < candidates and i <= j:
                 heapq.heappush(heap1, costs[i])
-                i+=1
+                i += 1
             while len(heap2) < candidates and i <= j:
                 heapq.heappush(heap2, costs[j])
-                j -=1
+                j -= 1
             if not heap1:
                 answer += heapq.heappop(heap2)
             elif not heap2:

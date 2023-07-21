@@ -6,7 +6,7 @@ class Solution:
         if (s1, s2) in self.map:
             return self.map[(s1, s2)]
         if len(s1) == 1:
-            self.map[(s1, s2)] = s1==s2
+            self.map[(s1, s2)] = s1 == s2
             return s1 == s2
         if s1 == s2:
             self.map[(s1, s2)] = True

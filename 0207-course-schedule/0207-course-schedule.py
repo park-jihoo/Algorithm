@@ -4,8 +4,8 @@ class Solution:
         graph = defaultdict(list)
         for p in prerequisites:
             graph[p[0]].append(p[1])
-            indegree[p[1]]+=1
-        
+            indegree[p[1]] += 1
+
         result = []
         q = deque()
 
@@ -19,4 +19,4 @@ class Solution:
                 indegree[i] -= 1
                 if indegree[i] == 0:
                     q.append(i)
-        return len(result)==numCourses
+        return len(result) == numCourses

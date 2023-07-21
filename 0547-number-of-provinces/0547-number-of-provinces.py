@@ -1,15 +1,16 @@
 from collections import deque
 
+
 class Solution:
     def findCircleNum(self, isConnected: List[List[int]]) -> int:
         n = len(isConnected)
-        visited = [False]*n
+        visited = [False] * n
         answer = 0
         for i in range(n):
             if not visited[i]:
                 q = deque([i])
                 visited[i] = True
-                answer +=1
+                answer += 1
                 while q:
                     node = q.popleft()
                     for idx, child in enumerate(isConnected[node]):

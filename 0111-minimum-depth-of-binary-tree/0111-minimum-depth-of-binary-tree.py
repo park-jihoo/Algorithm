@@ -15,4 +15,4 @@ class Solution:
         elif root.right is None:
             return self.minDepth(root.left) + 1
         else:
-            return min(self.minDepth(root.right) , self.minDepth(root.left)) + 1
+            return min(self.minDepth(root.right), self.minDepth(root.left)) + 1

@@ -8,7 +8,7 @@ class ParkingSystem:
         if self.slot[carType - 1] == 0:
             return False
         else:
-            self.slot[carType -1 ]-=1
+            self.slot[carType - 1] -= 1
             return True
 
 

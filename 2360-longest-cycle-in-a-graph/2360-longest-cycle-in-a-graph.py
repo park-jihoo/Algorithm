@@ -22,5 +22,5 @@ class Solution:
                 start = i
                 dfsvisited = [i]
                 self.dfs(i, edges)
-        
+
         return answer

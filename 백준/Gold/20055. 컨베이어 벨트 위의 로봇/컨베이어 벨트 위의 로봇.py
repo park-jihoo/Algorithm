@@ -16,10 +16,10 @@ while True:
                 robot[i] = 0
                 belt[i + 1] -= 1
         robot[-1] = 0
-    if robot[0] == 0 and belt[0] >=1:
+    if robot[0] == 0 and belt[0] >= 1:
         robot[0] = 1
-        belt[0] -=1
-    time +=1
+        belt[0] -= 1
+    time += 1
     if belt.count(0) >= K:
         break
 print(time)

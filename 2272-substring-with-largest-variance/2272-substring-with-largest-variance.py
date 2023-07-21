@@ -24,7 +24,7 @@ class Solution:
         return ans
 
     def largestVariance(self, s: str) -> int:
-        unique_chars = set(s) # Get the unique characters in the string
+        unique_chars = set(s)  # Get the unique characters in the string
         max_variance = 0
         for c1 in unique_chars:
             for c2 in unique_chars:

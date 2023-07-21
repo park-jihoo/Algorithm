@@ -1,7 +1,7 @@
 class Solution:
     def asteroidCollision(self, asteroids):
         stack = []
-        
+
         for asteroid in asteroids:
             while stack and asteroid < 0 and stack[-1] > 0:
                 if abs(asteroid) > stack[-1]:
@@ -12,10 +12,11 @@ class Solution:
                 break
             else:
                 stack.append(asteroid)
-        
+
         return stack
+
     def asteroidCollision2(self, asteroids: List[int]) -> List[int]:
-        #Array Stack Simulation
+        # Array Stack Simulation
         passed = False
         while not passed:
             q = deque()
@@ -37,7 +38,7 @@ class Solution:
             passed = True
             asteroids = list(q)
             for i in range(len(asteroids) - 1):
-                if asteroids[i] > 0 and asteroids[i+1] < 0:
+                if asteroids[i] > 0 and asteroids[i + 1] < 0:
                     passed = False
                     break
 

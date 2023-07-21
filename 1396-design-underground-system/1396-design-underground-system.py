@@ -1,7 +1,7 @@
 from collections import defaultdict
 
-class UndergroundSystem:
 
+class UndergroundSystem:
     def __init__(self):
         self.logs = []
         self.train = defaultdict(tuple)
@@ -18,8 +18,8 @@ class UndergroundSystem:
         for log in self.logs:
             if log[0][0] == startStation and log[1][0] == endStation:
                 summ += log[1][1] - log[0][1]
-                cnt +=1
-        return summ/cnt
+                cnt += 1
+        return summ / cnt
 
 
 # Your UndergroundSystem object will be instantiated and called as such:

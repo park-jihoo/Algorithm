@@ -4,18 +4,18 @@ class Solution:
         def dp(i):
             if i == len(stoneValue):
                 return 0
-            res = float('-inf')
+            res = float("-inf")
             summ = 0
-            for j in range(i, i+3):
+            for j in range(i, i + 3):
                 if j == len(stoneValue):
                     break
                 summ += stoneValue[j]
-                res = max(res, summ - dp(j+1))
+                res = max(res, summ - dp(j + 1))
             return res
-        
+
         score = dp(0)
         if score == 0:
-            return 'Tie'
+            return "Tie"
         elif score > 0:
-            return 'Alice'
-        return 'Bob'
+            return "Alice"
+        return "Bob"

@@ -10,13 +10,13 @@ class Solution:
             return None
         cur = postorder[self.idx]
         node = TreeNode(cur)
-        self.idx-=1
+        self.idx -= 1
 
         if start == end:
             return node
         inIdx = self.d[cur]
-        node.right = self.buildTreeFunc(inorder, postorder, inIdx+1, end)
-        node.left = self.buildTreeFunc(inorder, postorder, start, inIdx-1)
+        node.right = self.buildTreeFunc(inorder, postorder, inIdx + 1, end)
+        node.left = self.buildTreeFunc(inorder, postorder, start, inIdx - 1)
         return node
 
     def buildTree(self, inorder: List[int], postorder: List[int]) -> Optional[TreeNode]:
@@ -24,5 +24,5 @@ class Solution:
         self.d, self.idx = {}, 0
         for i in range(n):
             self.d[inorder[i]] = i
-        self.idx = n-1
-        return self.buildTreeFunc(inorder, postorder, 0, n-1)
+        self.idx = n - 1
+        return self.buildTreeFunc(inorder, postorder, 0, n - 1)

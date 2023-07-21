@@ -30,5 +30,6 @@ def bfs(board, v):
             need_visited.extend(sorted(board[node]))
     return visited
 
+
 print(" ".join([str(x) for x in dfs(board, v)]))
 print(" ".join([str(x) for x in bfs(board, v)]))

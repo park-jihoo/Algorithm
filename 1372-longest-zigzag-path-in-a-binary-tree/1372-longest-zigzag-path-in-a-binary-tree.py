@@ -10,9 +10,9 @@ class Solution:
 
     def zig(self, root, isleft, length):
         if isleft and root.right is not None:
-            self.zig(root.right, False, length+1)
+            self.zig(root.right, False, length + 1)
         if not isleft and root.left is not None:
-            self.zig(root.left, True, length+1)
+            self.zig(root.left, True, length + 1)
         # start path
         if isleft and root.left is not None:
             self.zig(root.left, True, 1)

@@ -3,7 +3,7 @@ class Solution:
         self.nums = []
 
     def findIdx(self, num):
-        #binary search
+        # binary search
         left, right = 0, len(self.nums) - 1
         if num > self.nums[right]:
             return len(self.nums)
@@ -24,5 +24,5 @@ class Solution:
             if target - num < num:
                 break
             end = self.findIdx(target - num)
-            answer += 2 ** max(0, end - idx -1)
-        return answer % (10**9+7)
+            answer += 2 ** max(0, end - idx - 1)
+        return answer % (10**9 + 7)

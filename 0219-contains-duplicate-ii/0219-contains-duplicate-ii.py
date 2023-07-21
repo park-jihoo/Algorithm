@@ -3,7 +3,7 @@ class Solution:
         dic = {}
         for i in range(len(nums)):
             num = nums[i]
-            if num in dic and i-dic[num] <= k:
+            if num in dic and i - dic[num] <= k:
                 return True
             dic[num] = i
         return False

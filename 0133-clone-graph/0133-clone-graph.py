@@ -8,8 +8,9 @@ class Node:
 
 from collections import deque
 
+
 class Solution:
-    def cloneGraph(self, node: 'Node') -> 'Node':
+    def cloneGraph(self, node: "Node") -> "Node":
         if not node:
             return None
         q = deque([node])
