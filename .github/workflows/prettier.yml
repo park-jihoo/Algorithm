@@ -1,6 +1,5 @@
 name: Continuous Integration
 
-# This action works with pull requests and pushes
 on:
   pull_request:
   push:
@@ -8,7 +7,7 @@ on:
       - main
 
 jobs:
-  prettier:
+  prettify_code:
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -19,36 +18,21 @@ jobs:
 
       - name: Prettify code javascript
         uses: creyD/prettier_action@v4.3
-  black:
-    runs-on: ubuntu-latest
-    steps:  
-      - name: Checkout
-        uses: actions/checkout@v3      
+
       - name: Black Code Formatter
         uses: lgeiger/black-action@v1.0.1
         with:
           args: "."
-      - name: Git Auto Commit
-        uses: stefanzweifel/git-auto-commit-action@v4.16.0
-        with:
-          commit_message: python format
-  java:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3      
+
       - name: Google Java Format
         uses: axel-op/googlejavaformat-action@v3.6.0
-  c:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - name: clang-format lint
+
+      - name: Clang-format lint (C)
         uses: DoozyX/clang-format-lint-action@v0.16.2
         with:
           inplace: True
+
       - name: Git Auto Commit
         uses: stefanzweifel/git-auto-commit-action@v4.16.0
         with:
-          commit_message: c format
-
-          
+          commit_message: "Code formatting"
