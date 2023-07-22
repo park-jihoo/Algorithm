@@ -11,12 +11,12 @@ jobs:
 
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
       - name: Set up Node.js
-        uses: actions/setup-node@v2
+        uses: actions/setup-node@v3
         with:
-          node-version: 14
+          node-version: 16
 
       - name: Install Python, Java, C, C++, SQL, and JavaScript dependencies
         run: |
@@ -42,7 +42,5 @@ jobs:
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
-          git checkout -b automated-formatting
-          git add .
-          git commit -m "Automated code formatting after commit"
-          git push --set-upstream origin automated-formatting
+          git commit -am "Automated code formatting after commit" || true
+          git push
