@@ -1,38 +1,47 @@
-name: Continuous Integration
+name: Format Code
 
 on:
-  pull_request:
   push:
     branches:
       - main
 
 jobs:
-  prettify_code:
+  format-code:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
 
     steps:
-      - name: Checkout
-        uses: actions/checkout@v3
+      - name: Checkout Repository
+        uses: actions/checkout@v2
 
-      - name: Prettify code javascript
-        uses: creyD/prettier_action@v4.3
-
-      - name: Black Code Formatter
-        uses: lgeiger/black-action@v1.0.1
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
         with:
-          args: "."
+          node-version: 14
 
-      - name: Google Java Format
-        uses: axel-op/googlejavaformat-action@v3.6.0
+      - name: Install Python, Java, C, and C++ dependencies
+        run: |
+          sudo apt-get -y install clang-format
+          pip install black
+          wget https://github.com/google/google-java-format/releases/download/google-java-format-1.11.0/google-java-format-1.11.0-all-deps.jar
 
-      - name: Clang-format lint (C)
-        uses: DoozyX/clang-format-lint-action@v0.16.2
-        with:
-          inplace: True
+      - name: Format Python Code
+        run: black .
 
-      - name: Git Auto Commit
-        uses: stefanzweifel/git-auto-commit-action@v4.16.0
-        with:
-          commit_message: "Code formatting"
+      - name: Format C Code
+        run: clang-format -i *.c
+
+      - name: Format C++ Code
+        run: clang-format -i *.cpp
+
+      - name: Format Java Code
+        run: java -jar google-java-format-1.11.0-all-deps.jar --replace **/*.java
+
+      - name: Format JavaScript Code
+        run: prettier --write "**/*.js"
+
+      - name: Commit Changes
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git commit -am "Automated code formatting after commit" || true
+          git push
