@@ -24,7 +24,6 @@ jobs:
           pip install black
           wget https://github.com/google/google-java-format/releases/download/v1.17.0/google-java-format-1.17.0-all-deps.jar
           npm install --global prettier
-          pip install pg_format  # Install pg_format for PostgreSQL SQL formatting
 
       - name: Format Python Code
         run: black .
@@ -40,9 +39,6 @@ jobs:
 
       - name: Format JavaScript Code
         run: prettier --write "**/*.js"
-
-      - name: Format SQL Code
-        run: pg_format -r .
 
       - name: Commit Changes
         run: |
