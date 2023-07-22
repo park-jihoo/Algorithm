@@ -1,44 +1,38 @@
+name: Continuous Integration
+
 on:
+  pull_request:
   push:
     branches:
       - main
 
 jobs:
-  format-code:
+  prettify_code:
     runs-on: ubuntu-latest
-      
-    steps:      
-      - name: Checkout Repository
-        uses: actions/checkout@v3  
-        
-      - name: Set up Node.js 16
-        uses: actions/setup-node@v3
-        with:         
-          node-version: 16
-          
-      - name: Install formatters
-        run: |          
-          sudo apt-get -y install clang-format
-          pip install black
-          wget https://github.com/google/google-java-format/releases/download/v1.17.0/google-java-format-1.17.0-all-deps.jar 
-          npm install --global prettier
-      
-      - name: Format Python code
-        run: black . --check
-        
-      - name: Format C and C++ Code
-        run: |
-          find . -name "*.c" -o -name "*.cpp" | xargs clang-format -i  
-        
-      - name: Format Java code    
-        run: java -jar google-java-format-1.17.0-all-deps.jar --replace **/*.java
-     
-      - name: Format JavaScript code
-        run: prettier --check '**/*.js'    
-        
-      - name: Commit changes   
-        run: | 
-          git config --local user.email "actions@github.com"  
-          git config --local user.name "GitHub Actions"
-          git commit -am "Automated code formatting"
-          git push
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Prettify code javascript
+        uses: creyD/prettier_action@v4.3
+
+      - name: Black Code Formatter
+        uses: lgeiger/black-action@v1.0.1
+        with:
+          args: "."
+
+      - name: Google Java Format
+        uses: axel-op/googlejavaformat-action@v3.6.0
+
+      - name: Clang-format lint (C)
+        uses: DoozyX/clang-format-lint-action@v0.16.2
+        with:
+          inplace: True
+
+      - name: Git Auto Commit
+        uses: stefanzweifel/git-auto-commit-action@v4.16.0
+        with:
+          commit_message: "Code formatting"
