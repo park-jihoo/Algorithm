@@ -31,10 +31,10 @@ jobs:
           find . -name "*.c" -o -name "*.cpp" | xargs clang-format -i  
         
       - name: Format Java code    
-        run: java -jar google-java-format-1.17.0-all-deps.jar --replace '**/*.java'    
+        run: java -jar google-java-format-1.17.0-all-deps.jar --replace **/*.java
      
       - name: Format JavaScript code
-        run: prettier --check '**.js'    
+        run: prettier --check '**/*.js'    
         
       - name: Commit changes   
         run: | 
