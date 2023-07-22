@@ -1,5 +1,3 @@
-name: Format Code
-
 on:
   push:
     branches:
@@ -8,39 +6,38 @@ on:
 jobs:
   format-code:
     runs-on: ubuntu-latest
-
-    steps:
+      
+    steps:      
       - name: Checkout Repository
-        uses: actions/checkout@v3
-
-      - name: Set up Node.js
+        uses: actions/checkout@v3  
+        
+      - name: Set up Node.js 16
         uses: actions/setup-node@v3
-        with:
+        with:         
           node-version: 16
-
-      - name: Install Python, Java, C, C++, SQL, and JavaScript dependencies
-        run: |
+          
+      - name: Install formatters
+        run: |          
           sudo apt-get -y install clang-format
           pip install black
-          wget https://github.com/google/google-java-format/releases/download/v1.17.0/google-java-format-1.17.0-all-deps.jar
+          wget https://github.com/google/google-java-format/releases/download/v1.7.0/google-java-format-1.17.0-all-deps.jar 
           npm install --global prettier
-
-      - name: Format Python Code
-        run: black .
-
-      - name: Format C and C++ Code
-        run: |
-          find . -name "*.c" -o -name "*.cpp" | xargs clang-format -i
-
-      - name: Format Java Code
-        run: java -jar google-java-format-1.17.0-all-deps.jar --replace **/*.java
-
-      - name: Format JavaScript Code
-        run: prettier --write "**/*.js"
-
-      - name: Commit and Push Changes
-        run: |
-          git config --local user.email "actions@github.com"
+      
+      - name: Format Python code
+        run: black . --check
+        
+      - name: Format C/C++ code        
+        run: clang-format -i -style=file *.cpp *.h    
+        
+      - name: Format Java code    
+        run: java -jar google-java-format-1.17.0-all-deps.jar --replace '**/*.java'    
+     
+      - name: Format JavaScript code
+        run: prettier --check '**.js'    
+        
+      - name: Commit changes   
+        run: | 
+          git config --local user.email "actions@github.com"  
           git config --local user.name "GitHub Actions"
-          git commit -am "Automated code formatting after commit" || true
+          git commit -am "Automated code formatting"
           git push
