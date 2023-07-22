@@ -38,10 +38,11 @@ jobs:
       - name: Format JavaScript Code
         run: prettier --write "**/*.js"
 
-      - name: Commit Changes
+      - name: Commit and Push Changes
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
+          git checkout -b automated-formatting
           git add .
           git commit -m "Automated code formatting after commit"
-          git push
+          git push --set-upstream origin automated-formatting
