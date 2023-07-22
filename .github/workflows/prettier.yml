@@ -20,7 +20,7 @@ jobs:
         run: |          
           sudo apt-get -y install clang-format
           pip install black
-          wget https://github.com/google/google-java-format/releases/download/v1.7.0/google-java-format-1.17.0-all-deps.jar 
+          wget https://github.com/google/google-java-format/releases/download/v1.17.0/google-java-format-1.17.0-all-deps.jar 
           npm install --global prettier
       
       - name: Format Python code
