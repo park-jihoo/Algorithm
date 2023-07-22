@@ -26,8 +26,9 @@ jobs:
       - name: Format Python code
         run: black . --check
         
-      - name: Format C/C++ code        
-        run: clang-format -i -style=file *.cpp *.h    
+      - name: Format C and C++ Code
+        run: |
+          find . -name "*.c" -o -name "*.cpp" | xargs clang-format -i  
         
       - name: Format Java code    
         run: java -jar google-java-format-1.17.0-all-deps.jar --replace '**/*.java'    
