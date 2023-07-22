@@ -22,7 +22,7 @@ jobs:
         run: |
           sudo apt-get -y install clang-format
           pip install black
-          wget https://github.com/google/google-java-format/releases/download/google-java-format-1.12.0/google-java-format-1.12.0-all-deps.jar
+          wget https://github.com/google/google-java-format/releases/download/v1.17.0/google-java-format-1.17.0-all-deps.jar
           npm install --global prettier
 
       - name: Format Python Code
@@ -33,7 +33,7 @@ jobs:
           find . -name "*.c" -o -name "*.cpp" | xargs clang-format -i
 
       - name: Format Java Code
-        run: java -jar google-java-format-1.12.0-all-deps.jar --replace **/*.java
+        run: java -jar google-java-format-1.17.0-all-deps.jar --replace **/*.java
 
       - name: Format JavaScript Code
         run: prettier --write "**/*.js"
