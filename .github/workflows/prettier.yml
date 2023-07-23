@@ -19,13 +19,13 @@ jobs:
       - name: Prettify code javascript
         uses: creyD/prettier_action@v4.3
 
+      - name: Google Java Format
+        uses: axel-op/googlejavaformat-action@v3.6.0
+
       - name: Black Code Formatter
         uses: lgeiger/black-action@v1.0.1
         with:
           args: "."
-
-      - name: Google Java Format
-        uses: axel-op/googlejavaformat-action@v3.6.0
 
       - name: Clang-format lint (C)
         uses: DoozyX/clang-format-lint-action@v0.16.2
