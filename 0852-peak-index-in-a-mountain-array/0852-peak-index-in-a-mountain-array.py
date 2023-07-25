@@ -1,7 +1,7 @@
 class Solution:
     def peakIndexInMountainArray(self, arr: List[int]) -> int:
         # binary search
-        start, end = 0, len(arr)-1
+        start, end = 0, len(arr) - 1
         mid = (start + end) // 2
 
         while mid > 0 and mid < len(arr) - 1:
@@ -10,6 +10,6 @@ class Solution:
             elif arr[mid] < arr[mid - 1]:
                 end = mid
             else:
-                start= mid
+                start = mid
             mid = (start + end) // 2
         return 0
