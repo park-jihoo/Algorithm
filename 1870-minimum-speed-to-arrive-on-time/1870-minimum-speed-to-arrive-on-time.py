@@ -5,7 +5,7 @@ class Solution:
             if idx != len(dist) - 1:
                 ans += math.ceil(val / speed)
             else:
-                ans += val/speed
+                ans += val / speed
         return ans
 
     def minSpeedOnTime(self, dist: List[int], hour: float) -> int:
