@@ -1,4 +1,5 @@
 class Solution:
+    @cache
     def dfs(self, idx, lst):
         if len(lst) == self.k:
             self.answer.append(lst[:])
