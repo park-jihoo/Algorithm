@@ -8,11 +8,11 @@ class Solution:
             "6": "mno",
             "7": "pqrs",
             "8": "tuv",
-            "9": "wxyz"
+            "9": "wxyz",
         }
         if len(digits) == 0:
             return []
         answer = []
         for d in list(digits):
             answer.append(dictionary[d])
-        return [''.join(x) for x in itertools.product(*answer)]
+        return ["".join(x) for x in itertools.product(*answer)]
