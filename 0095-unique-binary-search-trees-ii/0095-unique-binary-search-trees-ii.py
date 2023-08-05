@@ -12,19 +12,19 @@ class Solution:
             return res
         if (start, end) in memo:
             return memo[(start, end)]
-        
+
         for i in range(start, end + 1):
             left = self.allPossibleBST(start, i - 1, memo)
             right = self.allPossibleBST(i + 1, end, memo)
-            
+
             for l in left:
                 for r in right:
                     root = TreeNode(i, l, r)
                     res.append(root)
-        
+
         memo[(start, end)] = res
         return res
-    
+
     def generateTrees(self, n: int) -> List[Optional[TreeNode]]:
         memo = {}
         return self.allPossibleBST(1, n, memo)
