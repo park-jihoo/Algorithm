@@ -1,5 +1,5 @@
-bool search(int *nums, int numsSize, int target) {
-  int start = 0;
+bool search(int* nums, int numsSize, int target){
+    int start = 0;
   int end = numsSize - 1;
 
   while (start <= end) {
@@ -9,10 +9,9 @@ bool search(int *nums, int numsSize, int target) {
       return true;
     }
 
-    if (nums[start] == nums[end]) {
-      start++;
-    }
-    if (nums[start] <= nums[mid]) {
+    if(nums[start] == nums[end]){
+        start++;
+    }else if (nums[start] <= nums[mid]) {
       if (target >= nums[start] && target < nums[mid]) {
         end = mid - 1;
       } else {
