@@ -11,9 +11,9 @@ public:
         return true;
       }
 
-      if(nums[start] == nums[end]){
-          start ++;
-      }else if (nums[start] <= nums[mid]) {
+      if (nums[start] == nums[end]) {
+        start++;
+      } else if (nums[start] <= nums[mid]) {
         if (target >= nums[start] && target < nums[mid]) {
           end = mid - 1;
         } else {
