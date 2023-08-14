@@ -4,8 +4,8 @@ class TrieNode:
         self.is_end = False
         self.children = {}
 
-class Trie:
 
+class Trie:
     def __init__(self):
         self.root = TrieNode("")
 
@@ -28,7 +28,6 @@ class Trie:
             else:
                 return False
         return node.is_end
-        
 
     def startsWith(self, prefix: str) -> bool:
         node = self.root
@@ -38,6 +37,7 @@ class Trie:
             else:
                 return False
         return True
+
 
 # Your Trie object will be instantiated and called as such:
 # obj = Trie()
