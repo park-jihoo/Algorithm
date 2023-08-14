@@ -1,4 +1,5 @@
 import sys
+
 sys.setrecursionlimit(10**6)
 
 scc = [0] * 10010
@@ -51,7 +52,7 @@ for i in range(1, v + 1):
     if scc[i] == -1:
         continue
     print(i, end=" ")
-    for j in range(i+1, v+1):
+    for j in range(i + 1, v + 1):
         if scc[j] == scc[i]:
             print(j, end=" ")
             scc[j] = -1
