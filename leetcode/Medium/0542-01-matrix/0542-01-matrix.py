@@ -18,9 +18,9 @@ class Solution:
             row, col = q[0]
             del q[0]
             for dr, dc in dirs:
-                r, c = row+dr, col + dc
-                if 0<=r<m and 0<=c<n:
-                    if mat[r][c] > mat[row][col]+1:
-                        q.append((r,c))
+                r, c = row + dr, col + dc
+                if 0 <= r < m and 0 <= c < n:
+                    if mat[r][c] > mat[row][col] + 1:
+                        q.append((r, c))
                         mat[r][c] = mat[row][col] + 1
         return mat
