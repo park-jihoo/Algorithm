@@ -5,4 +5,4 @@ class Solution:
             if nums[i] in vals:
                 return [vals[nums[i]], i]
             else:
-                vals[target-nums[i]]=i
+                vals[target - nums[i]] = i
