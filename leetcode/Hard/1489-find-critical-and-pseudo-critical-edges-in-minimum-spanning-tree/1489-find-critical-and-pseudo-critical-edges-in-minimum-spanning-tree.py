@@ -15,11 +15,14 @@ class UnionFind:
             self.p[x] = self.find(self.p[x])
         return self.p[x]
 
+
 class Solution:
-    def findCriticalAndPseudoCriticalEdges(self, n: int, edges: List[List[int]]) -> List[List[int]]:
+    def findCriticalAndPseudoCriticalEdges(
+        self, n: int, edges: List[List[int]]
+    ) -> List[List[int]]:
         for i, e in enumerate(edges):
             e.append(i)
-        edges.sort(key=lambda x:x[2])
+        edges.sort(key=lambda x: x[2])
         uf = UnionFind(n)
         v = sum(w for f, t, w, _ in edges if uf.union(f, t))
         ans = [[], []]
