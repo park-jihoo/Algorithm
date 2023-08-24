@@ -1,5 +1,5 @@
 def solution(lottos, win_nums):
-    answer = [0,0]
+    answer = [0, 0]
     notzero = set([x for x in lottos if x != 0])
     minnum = len(set(win_nums) & notzero)
     maxnum = minnum + 6 - len(notzero)
