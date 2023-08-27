@@ -24,8 +24,8 @@ while True:
                 flag = 1
                 break
     if flag == 0:
-        if board[r-dx[d]][c-dy[d]] == 1:
+        if board[r - dx[d]][c - dy[d]] == 1:
             print(cnt)
             break
         else:
-            r, c = r-dx[d], c-dy[d]
+            r, c = r - dx[d], c - dy[d]
