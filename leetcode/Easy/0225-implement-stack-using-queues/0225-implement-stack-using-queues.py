@@ -1,8 +1,7 @@
 class MyStack:
-
     queue1 = []
     queue2 = []
-    
+
     def __init__(self):
         self.queue1 = []
         self.queue2 = []
@@ -14,8 +13,8 @@ class MyStack:
         x = 0
         while self.queue1:
             self.queue2.append(self.queue1.pop())
-            x+=1
-        for i in range(x-1):
+            x += 1
+        for i in range(x - 1):
             self.queue1.append(self.queue2.pop())
         return self.queue2.pop()
 
@@ -23,16 +22,15 @@ class MyStack:
         x = 0
         while self.queue1:
             self.queue2.append(self.queue1.pop())
-            x+=1
-        for i in range(x-1):
+            x += 1
+        for i in range(x - 1):
             self.queue1.append(self.queue2.pop())
         answer = self.queue2.pop()
         self.queue1.append(answer)
         return answer
 
     def empty(self) -> bool:
-        return len(self.queue1)==0
-        
+        return len(self.queue1) == 0
 
 
 # Your MyStack object will be instantiated and called as such:
