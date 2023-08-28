@@ -1,43 +1,38 @@
 class MyStack {
-    queue<int> queue1;
-    queue<int> queue2;
+  queue<int> queue1;
+  queue<int> queue2;
 
 public:
-    MyStack() {
-    }
+  MyStack() {}
 
-    void push(int x) {
-        queue1.push(x);
-    }
+  void push(int x) { queue1.push(x); }
 
-    int pop() {
-        int x = queue1.size();
-        while (--x) {
-            queue2.push(queue1.front());
-            queue1.pop();
-        }
-        int answer = queue1.front();
-        queue1.pop();
-        swap(queue1, queue2);
-        return answer;
+  int pop() {
+    int x = queue1.size();
+    while (--x) {
+      queue2.push(queue1.front());
+      queue1.pop();
     }
+    int answer = queue1.front();
+    queue1.pop();
+    swap(queue1, queue2);
+    return answer;
+  }
 
-    int top() {
-        int x = queue1.size();
-        while (--x) {
-            queue2.push(queue1.front());
-            queue1.pop();
-        }
-        int answer = queue1.front();
-        queue2.push(queue1.front());
-        queue1.pop();
-        swap(queue1, queue2);
-        return answer;
+  int top() {
+    int x = queue1.size();
+    while (--x) {
+      queue2.push(queue1.front());
+      queue1.pop();
     }
+    int answer = queue1.front();
+    queue2.push(queue1.front());
+    queue1.pop();
+    swap(queue1, queue2);
+    return answer;
+  }
 
-    bool empty() {
-        return queue1.empty();
-    }
+  bool empty() { return queue1.empty(); }
 };
 
 /**
