@@ -4,12 +4,14 @@
 #         self.val = val
 #         self.next = next
 class Solution:
-    def splitListToParts(self, head: Optional[ListNode], k: int) -> List[Optional[ListNode]]:
+    def splitListToParts(
+        self, head: Optional[ListNode], k: int
+    ) -> List[Optional[ListNode]]:
         length = 0
         curr = head
         while curr:
             curr = curr.next
-            length +=1
+            length += 1
         wid, rem = divmod(length, k)
         answer = []
         curr = head
