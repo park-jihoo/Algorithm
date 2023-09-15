@@ -25,6 +25,10 @@ jobs:
         uses: lgeiger/black-action@v1.0.1
         with:
           args: "."
+          
+      - name: Reformat SQL Files
+        uses: credfeto/action-sql-format@v1.4.1
+            
 
       - name: Clang-format lint (C)
         uses: DoozyX/clang-format-lint-action@v0.16.2
