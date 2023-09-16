@@ -2,7 +2,6 @@ from collections import deque
 
 
 class Solution:
-
     def minimumEffortPath(self, heights: List[List[int]]) -> int:
         dx = [0, 1, 0, -1]
         dy = [1, 0, -1, 0]
@@ -16,8 +15,12 @@ class Solution:
                     return True
                 for i in range(4):
                     nx, ny = x + dx[i], y + dy[i]
-                    if not (0 <= nx < len(heights) and 0 <= ny < len(heights[0]) and abs(
-                            heights[nx][ny] - heights[x][y]) <= a and not visited[nx][ny]):
+                    if not (
+                        0 <= nx < len(heights)
+                        and 0 <= ny < len(heights[0])
+                        and abs(heights[nx][ny] - heights[x][y]) <= a
+                        and not visited[nx][ny]
+                    ):
                         continue
                     visited[nx][ny] = True
                     q.append((nx, ny))
