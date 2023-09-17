@@ -3,11 +3,11 @@ class Solution:
         n = len(graph)
         all_mask = (1 << n) - 1
         visited = set()
-        Node = namedtuple('Node', ['node', 'mask', 'cost'])
+        Node = namedtuple("Node", ["node", "mask", "cost"])
 
         q = deque()
         for i in range(n):
-            mask_value = (1 << i)
+            mask_value = 1 << i
             this_node = Node(i, mask_value, 1)
             q.append(this_node)
             visited.add((i, mask_value))
