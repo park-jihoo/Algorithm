@@ -12,10 +12,10 @@ class Solution:
         if mid1 + mid2 < k:
             if nums1[mid1] > nums2[mid2]:
                 # Discard elements before mid2 and search in the remaining array
-                return self.find_kth_element(k - mid2 - 1, nums1, nums2[mid2 + 1:])
+                return self.find_kth_element(k - mid2 - 1, nums1, nums2[mid2 + 1 :])
             else:
                 # Discard elements before mid1 and search in the remaining array
-                return self.find_kth_element(k - mid1 - 1, nums1[mid1 + 1:], nums2)
+                return self.find_kth_element(k - mid1 - 1, nums1[mid1 + 1 :], nums2)
         else:
             if nums1[mid1] > nums2[mid2]:
                 # Discard elements after mid1 and search in the remaining array
