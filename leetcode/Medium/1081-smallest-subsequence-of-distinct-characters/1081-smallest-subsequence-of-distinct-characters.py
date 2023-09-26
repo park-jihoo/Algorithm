@@ -5,8 +5,8 @@ class Solution:
             counter[l] -= 1
             if l in seen:
                 continue
-            while stack and l < stack[-1] and counter[stack[-1]]>0:
+            while stack and l < stack[-1] and counter[stack[-1]] > 0:
                 seen.remove(stack.pop())
             stack.append(l)
             seen.add(l)
-        return ''.join(stack)
+        return "".join(stack)
