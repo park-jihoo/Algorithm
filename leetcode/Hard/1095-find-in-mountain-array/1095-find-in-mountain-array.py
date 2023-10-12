@@ -2,12 +2,13 @@
 # This is MountainArray's API interface.
 # You should not implement it, or speculate about its implementation
 # """
-#class MountainArray:
+# class MountainArray:
 #    def get(self, index: int) -> int:
 #    def length(self) -> int:
 
+
 class Solution:
-    def findInMountainArray(self, target: int, mountain_arr: 'MountainArray') -> int:
+    def findInMountainArray(self, target: int, mountain_arr: "MountainArray") -> int:
         # Find max value
         length = mountain_arr.length()
 
@@ -28,12 +29,12 @@ class Solution:
                 left = mid + 1
             else:
                 right = mid
-        
+
         if mountain_arr.get(left) == target:
             return left
-        
+
         # decreasing part
-        left, right = max_idx+1, length - 1
+        left, right = max_idx + 1, length - 1
         while left != right:
             mid = (left + right) // 2
             if mountain_arr.get(mid) > target:
