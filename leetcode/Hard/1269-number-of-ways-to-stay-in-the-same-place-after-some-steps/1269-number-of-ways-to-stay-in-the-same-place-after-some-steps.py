@@ -8,12 +8,12 @@ class Solution:
         prevDp[0] = 1
         for r in range(1, steps + 1):
             dp = [0] * arrLen
-            for c in range(arrLen - 1, -1 ,-1):
+            for c in range(arrLen - 1, -1, -1):
                 ans = prevDp[c]
-                if c>0:
-                    ans = (ans + prevDp[c-1])%(10**9+7)
-                if c<arrLen - 1:
-                    ans = (ans + prevDp[c+1])%(10**9+7)
+                if c > 0:
+                    ans = (ans + prevDp[c - 1]) % (10**9 + 7)
+                if c < arrLen - 1:
+                    ans = (ans + prevDp[c + 1]) % (10**9 + 7)
                 dp[c] = ans
             prevDp = dp
         return dp[0]
