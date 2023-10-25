@@ -5,5 +5,5 @@ class Solution:
         elems = 2 ** (n - 1)
         half = 2 ** (n - 2)
         if k > half:
-            return 1 - self.kthGrammar(n, k-half)
-        return self.kthGrammar(n-1, k)
+            return 1 - self.kthGrammar(n, k - half)
+        return self.kthGrammar(n - 1, k)
