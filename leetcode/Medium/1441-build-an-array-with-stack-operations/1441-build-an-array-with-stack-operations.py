@@ -3,7 +3,7 @@ class Solution:
         n = min(max(target), n)
         answer = []
         for i in range(n):
-            if i+1 in target:
+            if i + 1 in target:
                 answer.append("Push")
             else:
                 answer.extend(["Push", "Pop"])
