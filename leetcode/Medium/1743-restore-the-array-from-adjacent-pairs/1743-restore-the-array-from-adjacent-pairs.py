@@ -4,7 +4,7 @@ class Solution:
         for x, y in adjacentPairs:
             adj_dict[x].append(y)
             adj_dict[y].append(x)
-        
+
         ans = []
         for key, value in adj_dict.items():
             if len(value) == 1:
