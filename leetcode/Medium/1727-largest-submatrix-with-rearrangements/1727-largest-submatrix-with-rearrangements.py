@@ -11,5 +11,5 @@ class Solution:
                     height[j] += 1
             order_height = sorted(height)
             for j in range(n):
-                ans = max(ans, order_height[j]*(n-j))
+                ans = max(ans, order_height[j] * (n - j))
         return ans
