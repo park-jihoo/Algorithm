@@ -1,46 +1,45 @@
-<h2><a href="https://leetcode.com/problems/customers-who-never-order/">183. Customers Who Never Order</a></h2><h3>Easy</h3><hr>Can you solve this real interview question? Customers Who Never Order - Table: Customers
+<h2><a href="https://leetcode.com/problems/customers-who-never-order">183. Customers Who Never Order</a></h2><h3>Easy</h3><hr><p>Table: <code>Customers</code></p>
 
-
+<pre>
 +-------------+---------+
 | Column Name | Type    |
 +-------------+---------+
 | id          | int     |
 | name        | varchar |
 +-------------+---------+
-id is the primary key column for this table.
+id is the primary key (column with unique values) for this table.
 Each row of this table indicates the ID and name of a customer.
+</pre>
 
+<p>&nbsp;</p>
 
- 
+<p>Table: <code>Orders</code></p>
 
-Table: Orders
-
-
+<pre>
 +-------------+------+
 | Column Name | Type |
 +-------------+------+
 | id          | int  |
 | customerId  | int  |
 +-------------+------+
-id is the primary key column for this table.
-customerId is a foreign key of the ID from the Customers table.
+id is the primary key (column with unique values) for this table.
+customerId is a foreign key (reference columns) of the ID from the Customers table.
 Each row of this table indicates the ID of an order and the ID of the customer who ordered it.
+</pre>
 
+<p>&nbsp;</p>
 
- 
+<p>Write a solution to find all customers who never order anything.</p>
 
-Write an SQL query to report all customers who never order anything.
+<p>Return the result table in <strong>any order</strong>.</p>
 
-Return the result table in any order.
+<p>The result format is in the following example.</p>
 
-The query result format is in the following example.
+<p>&nbsp;</p>
+<p><strong class="example">Example 1:</strong></p>
 
- 
-
-Example 1:
-
-
-Input: 
+<pre>
+<strong>Input:</strong> 
 Customers table:
 +----+-------+
 | id | name  |
@@ -57,10 +56,11 @@ Orders table:
 | 1  | 3          |
 | 2  | 1          |
 +----+------------+
-Output: 
+<strong>Output:</strong> 
 +-----------+
 | Customers |
 +-----------+
 | Henry     |
 | Max       |
 +-----------+
+</pre>
