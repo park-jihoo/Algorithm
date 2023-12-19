@@ -2,7 +2,7 @@ class Solution:
     def imageSmoother(self, img: List[List[int]]) -> List[List[int]]:
         m = len(img)
         n = len(img[0])
-        temp = [0]*n
+        temp = [0] * n
         for i in range(m):
             for j in range(n):
                 sum = 0
@@ -25,7 +25,7 @@ class Solution:
                     sum += temp[j - 1]
                     count += 1
                 if i - 1 >= 0:
-                    if j - 1 >=  0:
+                    if j - 1 >= 0:
                         sum += prev_val
                         count += 1
                     sum += temp[j]
