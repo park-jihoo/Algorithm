@@ -22,9 +22,10 @@ jobs:
         uses: axel-op/googlejavaformat-action@v3.6.0
             
       - name: Run black formatter
-        uses: rickstaa/action-black@v1.3.3
-        with:
-          black_args: "."
+        uses: psf/black@stable
+        # uses: rickstaa/action-black@v1.3.3
+        # with:
+        #   black_args: "."
           
       - name: Reformat SQL Files
         uses: credfeto/action-sql-format@v1.4.1
