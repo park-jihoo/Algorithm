@@ -23,6 +23,9 @@ jobs:
             
       - name: Run black formatter
         uses: psf/black@stable
+        with:
+          jupyter: true
+          options: ""
         # uses: rickstaa/action-black@v1.3.3
         # with:
         #   black_args: "."
