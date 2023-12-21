@@ -5,7 +5,7 @@ class Solution:
         up = 0
 
         for i in range(1, len(nums)):
-            if nums[i] != nums[i-1]:
-                up +=1
+            if nums[i] != nums[i - 1]:
+                up += 1
             ans += up
         return ans
