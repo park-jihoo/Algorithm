@@ -1,4 +1,5 @@
 class Graph:
+
     def __init__(self, n: int, edges: List[List[int]]):
         self.adj_list = [[] for _ in range(n)]
         for from_node, to_node, cost in edges:
