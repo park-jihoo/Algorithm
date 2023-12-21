@@ -4,5 +4,5 @@ class Solution:
         for c in string.ascii_lowercase:
             i, j = s.find(c), s.rfind(c)
             if i > -1:
-                ans += len(set(s[i + 1: j]))
+                ans += len(set(s[i + 1 : j]))
         return ans
