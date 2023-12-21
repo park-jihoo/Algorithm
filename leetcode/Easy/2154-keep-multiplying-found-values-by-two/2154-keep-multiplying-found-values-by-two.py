@@ -3,5 +3,5 @@ class Solution:
         for i in range(len(nums)):
             if original not in nums:
                 return original
-            original *=2
+            original *= 2
         return original
