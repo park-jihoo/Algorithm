@@ -5,5 +5,5 @@ class Solution:
             if cnt == 1:
                 return -1
             else:
-                ans += ((cnt-1) // 3 +1)
+                ans += (cnt - 1) // 3 + 1
         return ans
