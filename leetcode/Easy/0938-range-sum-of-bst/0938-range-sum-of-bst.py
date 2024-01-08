@@ -13,5 +13,5 @@ class Solution:
             ans += root.val
         ans += self.rangeSumBST(root.left, low, high)
         ans += self.rangeSumBST(root.right, low, high)
-            
+
         return ans
