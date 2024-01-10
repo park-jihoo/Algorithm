@@ -12,7 +12,7 @@ class Solution:
         # root에서의 거리 + 가장 깊은 노드까지의 거리 혹은 leaf까지의 거리
         self.traverse(root, start)
         return self.max_distance
-    
+
     def traverse(self, root, start):
         depth = 0
         if root is None:
