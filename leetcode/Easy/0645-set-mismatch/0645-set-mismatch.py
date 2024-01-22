@@ -1,11 +1,6 @@
-from collections import Counter
-
-
 class Solution:
     def findErrorNums(self, nums: List[int]) -> List[int]:
-        numset = set(nums)
-        numCounter = Counter(nums)
-        return [
-            numCounter.most_common()[0][0],
-            list(set(range(1, len(nums) + 1)) - numset)[0],
-        ]
+        original = set(range(1, len(nums)+1))
+        duplicate = Counter(nums).most_common()[0][0]
+        loss = list(original - set(nums))[0]
+        return [duplicate, loss]
