@@ -8,5 +8,5 @@ class Solution:
             for c in dp[:]:
                 if a & c:
                     continue
-                dp.append(a|c)
+                dp.append(a | c)
         return max(len(a) for a in dp)
