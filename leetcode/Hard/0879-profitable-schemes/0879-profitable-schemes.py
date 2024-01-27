@@ -16,7 +16,5 @@ class Solution:
                         dp[k][i][j] += dp[k - 1][i - group[k - 1]][
                             max(0, j - profit[k - 1])
                         ]
-        answer = sum([dp[len(group)][i][minProfit] for i in range(n + 1)]) % (
-            10**9 + 7
-        )
+        answer = sum([dp[len(group)][i][minProfit] for i in range(n + 1)]) % (10**9 + 7)
         return answer
