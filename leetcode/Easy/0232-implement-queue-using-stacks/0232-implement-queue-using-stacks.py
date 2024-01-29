@@ -18,7 +18,7 @@ class MyQueue:
         if not self.pop_stack:
             while self.push_stack:
                 temp = self.push_stack.pop()
-                self.pop_stack.append(temp)  
+                self.pop_stack.append(temp)
         return self.pop_stack[-1]
 
     def empty(self) -> bool:
