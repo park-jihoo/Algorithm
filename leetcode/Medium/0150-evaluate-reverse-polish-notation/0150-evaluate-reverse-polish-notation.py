@@ -7,11 +7,11 @@ class Solution:
             else:
                 r, l = stack.pop(), stack.pop()
                 if token == "+":
-                    stack.append(l+r)
+                    stack.append(l + r)
                 elif token == "-":
-                    stack.append(l-r)
+                    stack.append(l - r)
                 elif token == "*":
-                    stack.append(l*r)
+                    stack.append(l * r)
                 else:
-                    stack.append(int(l/r))
+                    stack.append(int(l / r))
         return stack.pop()
