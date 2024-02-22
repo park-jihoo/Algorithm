@@ -5,7 +5,7 @@ class Solution:
         for a, b in trust:
             graph_a[a].add(b)
             graph_b[b].add(a)
-        for i in range(1, n+1):
-            if len(graph_a[i]) == 0 and len(graph_b[i]) == n-1:
+        for i in range(1, n + 1):
+            if len(graph_a[i]) == 0 and len(graph_b[i]) == n - 1:
                 return i
         return -1
