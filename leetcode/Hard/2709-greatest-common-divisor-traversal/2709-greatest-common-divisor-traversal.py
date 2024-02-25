@@ -5,13 +5,13 @@ class Solution:
             return True
         f = [_ for _ in range(0, n)]
         num = [1] * n
-        
+
         def getf(x: int) -> int:
             if f[x] == x:
                 return x
             f[x] = getf(f[x])
             return f[x]
-        
+
         def merge(x: int, y: int):
             x, y = getf(x), getf(y)
             if x == y:
@@ -20,7 +20,7 @@ class Solution:
                 x, y = y, x
             f[y] = x
             num[x] += num[y]
-            
+
         have = {}
         for i in range(0, n):
             x = nums[i]
@@ -42,4 +42,3 @@ class Solution:
                 else:
                     have[x] = i
         return num[getf(0)] == n
-        
