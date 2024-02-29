@@ -7,6 +7,7 @@
 class Solution:
     def isEvenOddTree(self, root: Optional[TreeNode]) -> bool:
         prev = []
+
         def dfs(curr, level):
             if curr is None:
                 return True
@@ -14,8 +15,12 @@ class Solution:
                 return False
             while len(prev) <= level:
                 prev.append(0)
-            if prev[level]!=0 and ((level % 2 == 0 and curr.val <= prev[level]) or (level % 2 == 1 and curr .val >= prev[level])):
+            if prev[level] != 0 and (
+                (level % 2 == 0 and curr.val <= prev[level])
+                or (level % 2 == 1 and curr.val >= prev[level])
+            ):
                 return False
             prev[level] = curr.val
             return dfs(curr.left, level + 1) and dfs(curr.right, level + 1)
+
         return dfs(root, 0)
