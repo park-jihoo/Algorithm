@@ -4,6 +4,7 @@ class Solution:
             return 1
         else:
             return -1
+
     def findMaxLength(self, nums: List[int]) -> int:
         h = defaultdict(list)
         s = 0
