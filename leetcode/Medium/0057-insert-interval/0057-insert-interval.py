@@ -1,5 +1,7 @@
 class Solution:
-    def insert(self, intervals: List[List[int]], newInterval: List[int]) -> List[List[int]]:
+    def insert(
+        self, intervals: List[List[int]], newInterval: List[int]
+    ) -> List[List[int]]:
         s, e = newInterval
         left = [i for i in intervals if i[1] < s]
         right = [i for i in intervals if i[0] > e]
