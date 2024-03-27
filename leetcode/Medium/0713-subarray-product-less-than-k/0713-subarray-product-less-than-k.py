@@ -9,7 +9,7 @@ class Solution:
                 if prod >= k:
                     break
             if prod < k:
-                ans += (end - start + 1)
+                ans += end - start + 1
             else:
-                ans += (end - start)
+                ans += end - start
         return ans
