@@ -1,4 +1,3 @@
-
 class Solution:
     def maxSubarrayLength(self, nums: List[int], k: int) -> int:
         ans, left = 0, -1
@@ -8,5 +7,5 @@ class Solution:
             while cnt[num] > k:
                 left += 1
                 cnt[nums[left]] -= 1
-            ans = max(ans, right-left)
+            ans = max(ans, right - left)
         return ans
