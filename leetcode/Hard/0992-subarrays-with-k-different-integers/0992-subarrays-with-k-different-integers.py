@@ -5,7 +5,7 @@ class Solution:
             cnt[num] += 1
             if cnt[num] == 1:
                 k -= 1
-                if k<0:
+                if k < 0:
                     cnt[nums[right]] = 0
                     right += 1
                     left = right
