@@ -8,7 +8,7 @@ class Solution:
             elif char == ")" and stack:
                 stack.pop()
             elif char == ")":
-                s[i] = ''
+                s[i] = ""
         while stack:
-            s[stack.pop()] = ''
-        return ''.join(s)
+            s[stack.pop()] = ""
+        return "".join(s)
