@@ -5,7 +5,9 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def addOneRow(self, root: Optional[TreeNode], val: int, depth: int) -> Optional[TreeNode]:
+    def addOneRow(
+        self, root: Optional[TreeNode], val: int, depth: int
+    ) -> Optional[TreeNode]:
         if root is None:
             return None
         if depth == 1:
