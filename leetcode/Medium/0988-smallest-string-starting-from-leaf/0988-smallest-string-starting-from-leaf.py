@@ -12,8 +12,8 @@ class Solution:
         if root.right is not None:
             right.extend(self.recursion(root.right))
         if len(left) + len(right) == 0:
-            return [chr(ord('a')+root.val)]
-        return [x + chr(ord('a')+root.val) for x in left+right]
+            return [chr(ord("a") + root.val)]
+        return [x + chr(ord("a") + root.val) for x in left + right]
 
     def smallestFromLeaf(self, root: Optional[TreeNode]) -> str:
         return min(self.recursion(root))
