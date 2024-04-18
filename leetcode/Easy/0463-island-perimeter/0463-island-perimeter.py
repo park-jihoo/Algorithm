@@ -7,7 +7,7 @@ class Solution:
                 if grid[x][y] == 1:
                     ans += 4
                     for dx, dy in d:
-                        if 0<=x+dx<len(grid) and 0<=y+dy<len(grid[0]):
-                            if grid[x+dx][y+dy] == 1:
+                        if 0 <= x + dx < len(grid) and 0 <= y + dy < len(grid[0]):
+                            if grid[x + dx][y + dy] == 1:
                                 ans -= 1
         return ans
