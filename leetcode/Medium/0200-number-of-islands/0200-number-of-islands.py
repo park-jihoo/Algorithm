@@ -10,8 +10,8 @@ class Solution:
                     while queue:
                         x, y = queue.popleft()
                         for dx, dy in d:
-                            if 0<=x+dx<len(grid) and 0<=y+dy<len(grid[0]):
-                                if grid[x+dx][y+dy]== "1":
-                                    grid[x+dx][y+dy] = "0"
-                                    queue.append((x+dx, y+dy))
+                            if 0 <= x + dx < len(grid) and 0 <= y + dy < len(grid[0]):
+                                if grid[x + dx][y + dy] == "1":
+                                    grid[x + dx][y + dy] = "0"
+                                    queue.append((x + dx, y + dy))
         return ans
