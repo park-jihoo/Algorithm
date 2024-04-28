@@ -22,7 +22,9 @@ class Solution:
         def dfs2(node, parent):
             for neighbor in graph[node]:
                 if neighbor != parent:
-                    sums[neighbor] = sums[node] - counts[neighbor] + (n - counts[neighbor])
+                    sums[neighbor] = (
+                        sums[node] - counts[neighbor] + (n - counts[neighbor])
+                    )
                     dfs2(neighbor, node)
 
         dfs2(0, -1)
