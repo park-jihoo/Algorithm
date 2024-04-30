@@ -5,10 +5,10 @@ class Solution:
         prefix_xor = 0
         count[prefix_xor] = 1
         for char in word:
-            char_idx = ord(char) - ord('a')
+            char_idx = ord(char) - ord("a")
             prefix_xor ^= 1 << char_idx
             result += count[prefix_xor]
             for i in range(10):
-                result += count[prefix_xor ^ (1<<i)]
+                result += count[prefix_xor ^ (1 << i)]
             count[prefix_xor] += 1
         return result
