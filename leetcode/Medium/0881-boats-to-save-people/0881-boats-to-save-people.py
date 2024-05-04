@@ -13,10 +13,10 @@ class Solution:
                 count += 1
             elif interval_sum + people[end] > limit:
                 interval_sum += people[start]
-                interval_count +=1
+                interval_count += 1
                 start += 1
             else:
                 interval_sum += people[end]
-                interval_count +=1
+                interval_count += 1
                 end -= 1
         return count
