@@ -10,6 +10,6 @@ class Solution:
         while prev and curr:
             if curr.val >= 5:
                 prev.val += 1
-            curr.val = (curr.val*2)%10
+            curr.val = (curr.val * 2) % 10
             prev, curr = prev.next, curr.next
         return temp if temp.val == 1 else temp.next
