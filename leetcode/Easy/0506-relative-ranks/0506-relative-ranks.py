@@ -13,5 +13,5 @@ class Solution:
             elif i == 2:
                 ans[idx] = "Bronze Medal"
             else:
-                ans[idx] = str(i+1)
+                ans[idx] = str(i + 1)
         return ans
