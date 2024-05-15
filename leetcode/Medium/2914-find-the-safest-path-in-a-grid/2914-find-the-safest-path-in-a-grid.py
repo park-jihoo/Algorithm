@@ -9,26 +9,31 @@ class Solution:
 
         while q:
             x, y = q.popleft()
-            if x == n-1 and y == n-1:
+            if x == n - 1 and y == n - 1:
                 return True
             for dx, dy in d:
-                nx , ny = x+dx, y+dy
-                if 0<=nx<n and 0<=ny<n and (nx, ny) not in visited and grid[nx][ny] >= value:
+                nx, ny = x + dx, y + dy
+                if (
+                    0 <= nx < n
+                    and 0 <= ny < n
+                    and (nx, ny) not in visited
+                    and grid[nx][ny] >= value
+                ):
                     q.append((nx, ny))
                     visited.add((nx, ny))
         return False
 
     def maximumSafenessFactor(self, grid: List[List[int]]) -> int:
         n = len(grid)
-        
-        if grid[0][0] == 1 or grid[n-1][n-1] == 1:
+
+        if grid[0][0] == 1 or grid[n - 1][n - 1] == 1:
             return 0
 
         # Multi-source BFS to compute distance from any thief
         thieves = [(i, j) for i in range(n) for j in range(n) if grid[i][j] == 1]
-        distance = [[float('inf')] * n for _ in range(n)]
+        distance = [[float("inf")] * n for _ in range(n)]
         queue = deque(thieves)
-        
+
         for x, y in thieves:
             distance[x][y] = 0
 
@@ -37,7 +42,7 @@ class Solution:
             x, y = queue.popleft()
             for dx, dy in directions:
                 nx, ny = x + dx, y + dy
-                if 0 <= nx < n and 0 <= ny < n and distance[nx][ny] == float('inf'):
+                if 0 <= nx < n and 0 <= ny < n and distance[nx][ny] == float("inf"):
                     distance[nx][ny] = distance[x][y] + 1
                     queue.append((nx, ny))
 
