@@ -15,9 +15,15 @@ class Solution:
             else:
                 return root
         else:
-            return TreeNode(val=root.val, left=self.dfs(root.left, target), right=self.dfs(root.right, target))
+            return TreeNode(
+                val=root.val,
+                left=self.dfs(root.left, target),
+                right=self.dfs(root.right, target),
+            )
 
-    def removeLeafNodes(self, root: Optional[TreeNode], target: int) -> Optional[TreeNode]:
+    def removeLeafNodes(
+        self, root: Optional[TreeNode], target: int
+    ) -> Optional[TreeNode]:
         self.flag = False
         root = self.dfs(root, target)
         while self.flag:
