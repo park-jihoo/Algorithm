@@ -11,12 +11,12 @@ class Solution:
             if len(word) == len(s):
                 ans.append(word)
             else:
-                rst = self.wordList(s[len(word): ], wordDict, memo)
+                rst = self.wordList(s[len(word) :], wordDict, memo)
                 for item in rst:
-                    item = word + ' ' + item
+                    item = word + " " + item
                     ans.append(item)
         memo[s] = ans
-        return ans 
+        return ans
 
     def wordBreak(self, s: str, wordDict: List[str]) -> List[str]:
         slist = self.wordList(s, wordDict, {})
