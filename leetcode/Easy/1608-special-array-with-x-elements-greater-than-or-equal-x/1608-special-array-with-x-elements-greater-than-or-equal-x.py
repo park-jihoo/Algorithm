@@ -4,6 +4,6 @@ class Solution:
         if len(nums) <= nums[0]:
             return len(nums)
         for idx in range(1, len(nums)):
-            if len(nums) - idx <= nums[idx] and len(nums) - idx > nums[idx-1]:
+            if len(nums) - idx <= nums[idx] and len(nums) - idx > nums[idx - 1]:
                 return len(nums) - idx
         return -1
