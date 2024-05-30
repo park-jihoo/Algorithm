@@ -6,7 +6,6 @@ class Solution:
             xor = arr[i]
             for j in range(i+1, len(arr)):
                 xor ^= arr[j]
-                if not xor == 0:
-                    continue
-                ans += (j - i)
+                if xor == 0:
+                    ans += (j - i)
         return ans
