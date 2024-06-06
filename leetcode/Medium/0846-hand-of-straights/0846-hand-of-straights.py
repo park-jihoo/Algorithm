@@ -5,7 +5,7 @@ class Solution:
         c = Counter(hand)
         while c:
             num = min(c)
-            cons = Counter(range(num, num+groupSize))
+            cons = Counter(range(num, num + groupSize))
             print(cons, c)
             if len(cons - c) > 0:
                 return False
