@@ -8,7 +8,7 @@ class Solution:
     def bstToGst(self, root: TreeNode) -> TreeNode:
         self.helper(root, [0])
         return root
-    
+
     def helper(self, root, node_sum):
         if root is None:
             return
