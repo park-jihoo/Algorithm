@@ -18,10 +18,9 @@ class Solution:
         mid = len(arr) // 2
         root = TreeNode(val=arr[mid])
         root.left = self.arrBST(arr[:mid])
-        root.right = self.arrBST(arr[mid+1:])
+        root.right = self.arrBST(arr[mid + 1 :])
         return root
 
     def balanceBST(self, root: TreeNode) -> TreeNode:
         arr = self.inorder(root)
         return self.arrBST(arr)
-        
