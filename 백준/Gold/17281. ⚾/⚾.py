@@ -4,7 +4,7 @@ from itertools import permutations
 N = int(sys.stdin.readline())
 game = [list(map(int, sys.stdin.readline().split())) for _ in range(N)]
 
-ans = float('-inf')
+ans = float("-inf")
 order = [i for i in range(1, 9)]
 for x in permutations(order, 8):
     x = list(x)
