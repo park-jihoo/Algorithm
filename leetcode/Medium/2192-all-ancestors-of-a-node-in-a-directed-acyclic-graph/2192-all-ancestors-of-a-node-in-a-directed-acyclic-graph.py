@@ -8,9 +8,9 @@ class Solution:
             indeg[e] += 1
             graph[s].append(e)
             ans[e].add(s)
-        
+
         vlist = [i for i in range(n) if indeg[i] == 0]
-        
+
         while len(vlist) > 0:
             v = vlist.pop()
             for u in graph[v]:
