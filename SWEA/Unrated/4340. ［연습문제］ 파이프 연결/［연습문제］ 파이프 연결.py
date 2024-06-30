@@ -2,12 +2,7 @@
 
 from collections import deque
 
-directions = {
-    0: (-1, 0),
-    1: (0, -1),
-    2: (0, 1),
-    3: (1, 0)
-}
+directions = {0: (-1, 0), 1: (0, -1), 2: (0, 1), 3: (1, 0)}
 
 pipe_dict = (
     (),
@@ -16,17 +11,18 @@ pipe_dict = (
     ((3, 2), (1, 3), (1, 0), (0, 2)),
     ((3, 2), (1, 3), (1, 0), (0, 2)),
     ((3, 2), (1, 3), (1, 0), (0, 2)),
-    ((3, 2), (1, 3), (1, 0), (0, 2))
+    ((3, 2), (1, 3), (1, 0), (0, 2)),
 )
 
+
 def bfs(arr, start):
-    visited=set()
+    visited = set()
     if start == 0:
         q = deque([(0, 0, 1, 0, visited)])
-        end = N-1
+        end = N - 1
         end_dir = 2
     else:
-        q = deque([(N-1, N-1, 2, 0, visited)])
+        q = deque([(N - 1, N - 1, 2, 0, visited)])
         end = 0
         end_dir = 1
     ans = N * N + 1
@@ -39,7 +35,7 @@ def bfs(arr, start):
         if time >= dij[dir_from][y][x]:
             continue
         p = arr[y][x]
-        if y==end and x==end:
+        if y == end and x == end:
             for dir_to in pipe_dict[p]:
                 if dir_from in dir_to and end_dir in dir_to:
                     ans = time + 1
@@ -55,13 +51,14 @@ def bfs(arr, start):
                     dy, dx = directions[d]
                     ny, nx = y + dy, x + dx
                     if 0 <= ny < N and 0 <= nx < N and (ny, nx) not in visited:
-                        q.append((ny, nx, 3-d, time + 1, visited.copy()))
+                        q.append((ny, nx, 3 - d, time + 1, visited.copy()))
 
     return ans
 
+
 T = int(input())
-for test_case in range(1, T+1):
+for test_case in range(1, T + 1):
     N = int(input())
     arr = [list(map(int, input().split())) for _ in range(N)]
 
-    print(f'#{test_case} {min(bfs(arr, 0), bfs(arr, 1))}')
+    print(f"#{test_case} {min(bfs(arr, 0), bfs(arr, 1))}")
