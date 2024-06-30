@@ -7,4 +7,4 @@ if 0 not in N or sum(N) % 3 != 0:
 else:
     N = sorted(N, reverse=True)
     for i in N:
-        print(i, end='')
+        print(i, end="")
