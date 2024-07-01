@@ -26,4 +26,4 @@ for test_case in range(1, T + 1):
                 hist[i] = hist[j] + [lower[3]]
 
     max_height = max(dp)
-    print(f'#{test_case} {max_height}')
+    print(f"#{test_case} {max_height}")
