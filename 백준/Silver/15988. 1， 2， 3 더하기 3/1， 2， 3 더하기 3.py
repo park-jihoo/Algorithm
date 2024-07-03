@@ -1,5 +1,6 @@
 # acmicpc 15988
 import sys
+
 input = sys.stdin.readline
 T = int(input())
 
