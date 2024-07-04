@@ -1,5 +1,6 @@
 from collections import deque
 
+
 def cal(num1, num2, oper):
     ans = 0
     if oper == 1:
@@ -50,7 +51,7 @@ for test_case in range(1, t + 1):
     recur(0, 0)
 
     if visited[w] < m:
-        print(f'#{test_case} {visited[w]}')
+        print(f"#{test_case} {visited[w]}")
         continue
 
     while q:
@@ -69,6 +70,6 @@ for test_case in range(1, t + 1):
                 q.append(nxt)
 
     if visited[w] >= m:
-        print(f'#{test_case} -1')
+        print(f"#{test_case} -1")
     else:
-        print(f'#{test_case} {visited[w]+1}')
+        print(f"#{test_case} {visited[w]+1}")
