@@ -6,13 +6,15 @@ from bisect import bisect_left, bisect_right
 n, s = map(int, input().split())
 arr = list(map(int, input().split()))
 
-left, right = arr[:n//2], arr[n//2:]
+left, right = arr[: n // 2], arr[n // 2 :]
 left_sum, right_sum = [], []
+
 
 def get_sum(arr, sum_arr, x, start):
     for i in range(start + 1, len(arr)):
         sum_arr.append(x + arr[i])
         get_sum(arr, sum_arr, x + arr[i], i)
+
 
 get_sum(left, left_sum, 0, -1)
 get_sum(right, right_sum, 0, -1)
