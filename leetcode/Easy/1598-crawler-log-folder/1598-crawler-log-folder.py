@@ -1,6 +1,6 @@
 class Solution:
     def minOperations(self, logs: List[str]) -> int:
-        #Array String Stack
+        # Array String Stack
         folders = deque([])
         for log in logs:
             if len(folders) > 0 and log == "../":
