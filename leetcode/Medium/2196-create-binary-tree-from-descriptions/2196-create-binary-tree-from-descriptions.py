@@ -13,7 +13,7 @@ class Solution:
             if l:
                 np.left = nc
             else:
-                np.right=nc
+                np.right = nc
             visited.add(c)
         root = (set(m) - visited).pop()
         return m[root]
