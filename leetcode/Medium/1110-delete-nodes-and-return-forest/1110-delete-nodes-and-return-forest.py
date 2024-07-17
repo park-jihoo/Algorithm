@@ -5,7 +5,9 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def delNodes(self, root: Optional[TreeNode], to_delete: List[int]) -> List[TreeNode]:
+    def delNodes(
+        self, root: Optional[TreeNode], to_delete: List[int]
+    ) -> List[TreeNode]:
         ans = [root] if root.val not in to_delete else []
         # dfs
         stack = [root]
