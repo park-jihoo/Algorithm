@@ -8,10 +8,10 @@ class Solution:
                     llc += 1
                 if left > val:
                     lgc += 1
-            for right in rating[idx+1:]:
+            for right in rating[idx + 1 :]:
                 if right > val:
                     rgc += 1
                 if right < val:
                     rlc += 1
-            ans += (llc * rgc + lgc * rlc)
+            ans += llc * rgc + lgc * rlc
         return ans
