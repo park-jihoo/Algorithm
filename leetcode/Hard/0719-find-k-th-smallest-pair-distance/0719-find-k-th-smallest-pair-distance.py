@@ -3,7 +3,7 @@ class Solution:
         self.nums = sorted(nums)
         self.k = k
         self.n = len(nums)
-        
+
         left, right = 0, self.nums[-1] - self.nums[0]
         while left < right:
             mid = (left + right) // 2
