@@ -6,7 +6,7 @@ class Solution:
         for i in range(n):
             cur = min(ugly)
             ugly.remove(cur)
-            ugly.add(cur*2)
-            ugly.add(cur*3)
-            ugly.add(cur*5)
+            ugly.add(cur * 2)
+            ugly.add(cur * 3)
+            ugly.add(cur * 5)
         return cur
