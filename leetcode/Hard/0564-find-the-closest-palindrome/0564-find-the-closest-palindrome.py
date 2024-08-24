@@ -1,8 +1,8 @@
 class Solution(object):
     def nearestPalindromic(self, n):
         l = len(n)
-        candidates = set((str(10 ** l + 1), str(10 ** (l - 1) - 1)))
-        prefix = int(n[:(l + 1)//2])
+        candidates = set((str(10**l + 1), str(10 ** (l - 1) - 1)))
+        prefix = int(n[: (l + 1) // 2])
         for i in map(str, (prefix - 1, prefix, prefix + 1)):
             candidates.add(i + [i, i[:-1]][l & 1][::-1])
         candidates.discard(n)
