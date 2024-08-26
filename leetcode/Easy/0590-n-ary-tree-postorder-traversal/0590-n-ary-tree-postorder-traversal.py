@@ -6,10 +6,11 @@ class Node:
         self.children = children
 """
 
+
 class Solution:
-    def postorder(self, root: 'Node') -> List[int]:
+    def postorder(self, root: "Node") -> List[int]:
         answer = []
-        if root == None: 
+        if root == None:
             return answer
 
         stack = deque([root])
