@@ -5,7 +5,8 @@ class Solution:
         def dfs(x, y):
             isSubIsland = True
             if 0 <= x < R and 0 <= y < C and grid2[x][y] == 1:
-                if grid1[x][y] != 1: return False
+                if grid1[x][y] != 1:
+                    return False
                 grid2[x][y] = -1
                 for dx, dy in [(0, 1), (1, 0), (-1, 0), (0, -1)]:
                     isSubIsland &= dfs(x + dx, y + dy)
