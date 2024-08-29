@@ -9,8 +9,8 @@ class Solution:
             graph[idx].update(rowd[x])
             graph[idx].update(cold[y])
             graph[idx].remove(idx)
-        
-        visited = [False]*len(stones)
+
+        visited = [False] * len(stones)
 
         answer = len(stones)
         for idx in range(len(stones)):
