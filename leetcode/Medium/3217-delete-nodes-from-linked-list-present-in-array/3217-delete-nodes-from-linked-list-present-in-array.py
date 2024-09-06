@@ -4,7 +4,9 @@
 #         self.val = val
 #         self.next = next
 class Solution:
-    def modifiedList(self, nums: List[int], head: Optional[ListNode]) -> Optional[ListNode]:
+    def modifiedList(
+        self, nums: List[int], head: Optional[ListNode]
+    ) -> Optional[ListNode]:
         nums = set(nums)
         dummy = ListNode(-1, next=head)
         curr = dummy
