@@ -6,7 +6,7 @@
 class Solution:
     def spiralMatrix(self, m: int, n: int, head: Optional[ListNode]) -> List[List[int]]:
         d = [(0, 1), (1, 0), (0, -1), (-1, 0)]
-        ans = [[-1]*n for _ in range(m)]
+        ans = [[-1] * n for _ in range(m)]
         curr, i, j, didx = head, 0, 0, 0
         while curr:
             ans[i][j] = curr.val
