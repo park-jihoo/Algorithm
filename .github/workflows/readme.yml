@@ -1,0 +1,48 @@
+name: Generate README with Subfolder Links (Depth 3)
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Generate README.md with subfolders (up to depth 3)
+        run: |
+          # Start creating README.md
+          echo "# Project Name" > README.md
+          echo "" >> README.md
+          echo "This project contains the following subfolders (up to 3 levels deep):" >> README.md
+          echo "" >> README.md
+
+          # Recursively find directories up to depth 3 and generate links
+          find . -type d -not -path './.*' -mindepth 1 -maxdepth 3 | while read folder; do
+            # Strip the leading './' from the folder name
+            folder_path=$(echo "$folder" | sed 's|^\./||')
+            folder_name=$(basename "$folder")
+            
+            # Create indentation based on the folder depth
+            depth=$(echo "$folder_path" | grep -o "/" | wc -l)
+            indent=$(printf '  %.0s' $(seq 1 $depth))
+            
+            # Add the folder link to the README.md
+            echo "${indent}- [${folder_name}](./${folder_path}/)" >> README.md
+          done
+
+          echo "" >> README.md
+          echo "Click on each folder to view its contents." >> README.md
+
+      - name: Commit and Push README.md
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Auto-update README with subfolder links"
+          git push
