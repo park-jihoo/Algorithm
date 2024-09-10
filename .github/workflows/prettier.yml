@@ -43,8 +43,13 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v4.16.0
         with:
           commit_message: "Code formatting"
-
-      - name: Generate README.md (up to depth 3, plus 1)
+          
+  update_readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Generate README.md
         run: |
           # Start creating README.md
           echo "# Project Name" > README.md
@@ -91,4 +96,12 @@ jobs:
 
           echo "" >> README.md
           echo "Click on each folder to view its contents." >> README.md
+
+      - name: Commit and Push README.md
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Auto-update README with subfolder links (adjusted depth +1 and details for depth 1)"
+          git push
 
