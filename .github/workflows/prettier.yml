@@ -54,50 +54,30 @@ jobs:
       - name: Generate README.md
         run: |
           # Start creating README.md
-          echo "# Project Name" > README.md
+          echo "# Algorithms Archive" > README.md
           echo "" >> README.md
-          echo "This project contains the following subfolders:" >> README.md
+          echo "This project contains the following subfolders (up to 3 levels deep):" >> README.md
           echo "" >> README.md
+          
+          # Add the table headers
+          echo "| Platform   | Difficulty | Problem Name |" >> README.md
+          echo "|------------|------------|--------------|" >> README.md
 
-          # Initialize a variable to track whether we are inside a <details> tag
-          inside_details=false
 
           # Recursively find directories up to depth 3 and generate links
-          find . -type d -not -path './.*' -mindepth 1 -maxdepth 3 | while read folder; do
-            # Strip the leading './' from the folder name
+          find . -type d -not -path './.*' -mindepth 3 -maxdepth 3 | while read folder; do
+            # Extract platform, difficulty, and problem name from the folder path
             folder_path=$(echo "$folder" | sed 's|^\./||')
-            folder_name=$(basename "$folder")
-            
-            # Calculate the actual depth and then add 1 to it
-            actual_depth=$(echo "$folder_path" | grep -o "/" | wc -l)
-            adjusted_depth=$((actual_depth + 1))
-            
-            # Create indentation based on the adjusted depth
-            indent=$(printf '  %.0s' $(seq 1 $adjusted_depth))
+            platform=$(echo "$folder_path" | cut -d'/' -f1)
+            difficulty=$(echo "$folder_path" | cut -d'/' -f2)
+            problem_name=$(basename "$folder")
 
-            # If adjusted depth is 1, start a <details> block
-            if [ $adjusted_depth -eq 1 ]; then
-              if [ "$inside_details" = true ]; then
-                # Close previous <details> block if open
-                echo "</details>" >> README.md
-              fi
-              # Start new <details> block
-              echo "<details>" >> README.md
-              echo "<summary>${folder_name}</summary>" >> README.md
-              inside_details=true
-            fi
-
-            # Add folder link to the README.md
-            echo "${indent}* [${folder_name}](./${folder_path}/)" >> README.md
+            # Add a row to the table in README.md
+            echo "| ${platform} | ${difficulty} | [${problem_name}](./${folder_path}/)|" >> README.md
           done
 
-          # Close the final <details> block if it was opened
-          if [ "$inside_details" = true ]; then
-            echo "</details>" >> README.md
-          fi
-
           echo "" >> README.md
-          echo "Click on each folder to view its contents." >> README.md
+          echo "Click on the problem names to view their contents." >> README.md
 
       - name: Commit and Push README.md
         run: |
