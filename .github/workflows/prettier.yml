@@ -63,7 +63,7 @@ jobs:
           inside_details=false
 
           # Recursively find directories up to depth 3 and generate links
-          find . -type d -mindepth 1 -maxdepth 3 | while read folder; do
+          find . -type d -not -path './.*' -mindepth 1 -maxdepth 3 | while read folder; do
             # Strip the leading './' from the folder name
             folder_path=$(echo "$folder" | sed 's|^\./||')
             folder_name=$(basename "$folder")
@@ -88,7 +88,7 @@ jobs:
             fi
 
             # Add folder link to the README.md
-            echo "${indent}- [${folder_name}](./${folder_path}/)" >> README.md
+            echo "${indent}* [${folder_name}](./${folder_path}/)" >> README.md
           done
 
           # Close the final <details> block if it was opened
