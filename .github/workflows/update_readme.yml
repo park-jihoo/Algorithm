@@ -34,7 +34,7 @@ jobs:
             indent=$(printf '  %.0s' $(seq 1 $depth))
             
             # Add the folder link to the README.md
-            echo "${indent}- [${folder_name}](./${folder_path}/) ${depth}" >> README.md
+            echo "${indent}- [${folder_name}](./${folder_path}/)" >> README.md
           done
 
           echo "" >> README.md
