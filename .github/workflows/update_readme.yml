@@ -17,9 +17,9 @@ jobs:
       - name: Generate README.md with subfolders (up to depth 3)
         run: |
           # Start creating README.md
-          echo "# Project Name" > README.md
+          echo "# Algorithm Solving Archive" > README.md
           echo "" >> README.md
-          echo "This project contains the following subfolders (up to 3 levels deep):" >> README.md
+          echo "This project contains the following subfolders:" >> README.md
           echo "" >> README.md
 
           # Recursively find directories up to depth 3 and generate links
@@ -29,11 +29,12 @@ jobs:
             folder_name=$(basename "$folder")
             
             # Create indentation based on the folder depth
-            depth=$(echo "$folder_path" | grep -o "/" | wc -l)
+            real_depth=$(echo "$folder_path" | grep -o "/" | wc -l)
+            depth=$((real_depth + 1))
             indent=$(printf '  %.0s' $(seq 1 $depth))
             
             # Add the folder link to the README.md
-            echo "${indent}- [${folder_name}](./${folder_path}/)" >> README.md
+            echo "${indent}- [${folder_name}](./${folder_path}/) ${depth}" >> README.md
           done
 
           echo "" >> README.md
