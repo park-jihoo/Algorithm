@@ -1,7 +1,9 @@
-# Algorithm Solving Archive
+# Project Name
 
 This project contains the following subfolders:
 
+<details>
+<summary>SWEA</summary>
   - [SWEA](./SWEA/)
     - [D5](./SWEA/D5/)
       - [1245. ［S／W 문제해결 응용］ 2일차 － 균형점](./SWEA/D5/1245. ［S／W 문제해결 응용］ 2일차 － 균형점/)
@@ -17,6 +19,35 @@ This project contains the following subfolders:
       - [4311. ［연습문제］ 오래된 스마트폰](./SWEA/Unrated/4311. ［연습문제］ 오래된 스마트폰/)
       - [4335. ［연습문제］ 무인도 탈출](./SWEA/Unrated/4335. ［연습문제］ 무인도 탈출/)
       - [4322. ［연습문제］ 패킷 처리](./SWEA/Unrated/4322. ［연습문제］ 패킷 처리/)
+</details>
+<details>
+<summary>.idea</summary>
+  - [.idea](./.idea/)
+    - [inspectionProfiles](./.idea/inspectionProfiles/)
+</details>
+<details>
+<summary>.github</summary>
+  - [.github](./.github/)
+    - [workflows](./.github/workflows/)
+</details>
+<details>
+<summary>.git</summary>
+  - [.git](./.git/)
+    - [hooks](./.git/hooks/)
+    - [info](./.git/info/)
+    - [branches](./.git/branches/)
+    - [objects](./.git/objects/)
+      - [info](./.git/objects/info/)
+      - [pack](./.git/objects/pack/)
+    - [logs](./.git/logs/)
+      - [refs](./.git/logs/refs/)
+    - [refs](./.git/refs/)
+      - [tags](./.git/refs/tags/)
+      - [heads](./.git/refs/heads/)
+      - [remotes](./.git/refs/remotes/)
+</details>
+<details>
+<summary>leetcode</summary>
   - [leetcode](./leetcode/)
     - [Hard](./leetcode/Hard/)
       - [1255-maximum-score-words-formed-by-letters](./leetcode/Hard/1255-maximum-score-words-formed-by-letters/)
@@ -573,6 +604,9 @@ This project contains the following subfolders:
       - [2053-kth-distinct-string-in-an-array](./leetcode/Easy/2053-kth-distinct-string-in-an-array/)
       - [1863-sum-of-all-subset-xor-totals](./leetcode/Easy/1863-sum-of-all-subset-xor-totals/)
       - [0119-pascals-triangle-ii](./leetcode/Easy/0119-pascals-triangle-ii/)
+</details>
+<details>
+<summary>백준</summary>
   - [백준](./백준/)
     - [Silver](./백준/Silver/)
       - [10845. 큐](./백준/Silver/10845. 큐/)
@@ -653,6 +687,9 @@ This project contains the following subfolders:
       - [1520. 내리막 길](./백준/Gold/1520. 내리막 길/)
       - [1922. 네트워크 연결](./백준/Gold/1922. 네트워크 연결/)
       - [2252. 줄 세우기](./백준/Gold/2252. 줄 세우기/)
+</details>
+<details>
+<summary>프로그래머스</summary>
   - [프로그래머스](./프로그래머스/)
     - [lv1](./프로그래머스/lv1/)
       - [77484. 로또의 최고 순위와 최저 순위](./프로그래머스/lv1/77484. 로또의 최고 순위와 최저 순위/)
