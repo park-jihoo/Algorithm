@@ -462,6 +462,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [0859-buddy-strings](./leetcode/Easy/0859-buddy-strings/)|
 | leetcode | Easy | [0704-binary-search](./leetcode/Easy/0704-binary-search/)|
 | leetcode | Easy | [1431-kids-with-the-greatest-number-of-candies](./leetcode/Easy/1431-kids-with-the-greatest-number-of-candies/)|
+| leetcode | Easy | [2220-minimum-bit-flips-to-convert-number](./leetcode/Easy/2220-minimum-bit-flips-to-convert-number/)|
 | leetcode | Easy | [1491-average-salary-excluding-the-minimum-and-maximum-salary](./leetcode/Easy/1491-average-salary-excluding-the-minimum-and-maximum-salary/)|
 | leetcode | Easy | [0509-fibonacci-number](./leetcode/Easy/0509-fibonacci-number/)|
 | leetcode | Easy | [1356-sort-integers-by-the-number-of-1-bits](./leetcode/Easy/1356-sort-integers-by-the-number-of-1-bits/)|
