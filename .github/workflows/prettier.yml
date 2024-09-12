@@ -1,4 +1,4 @@
-name: Continuous Integration
+name: CI Pipeline
 
 on:
   pull_request:
@@ -7,7 +7,7 @@ on:
       - main
 
 jobs:
-  prettify_code:
+  format_and_update_readme:
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -15,75 +15,55 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
+        with:
+          fetch-depth: 0  # 전체 git 기록을 가져옴
 
-      - name: Prettify code javascript
+      # 코드 포맷팅 단계
+      - name: Prettify Code
         uses: creyD/prettier_action@v4.3
+
       - name: Google Java Format
         uses: axel-op/googlejavaformat-action@v3.6.0
-            
-      - name: Run black formatter
+
+      - name: Run Black Formatter
         uses: psf/black@stable
         with:
           jupyter: true
-          options: ""
-        # uses: rickstaa/action-black@v1.3.3
-        # with:
-        #   black_args: "."
-          
+
       - name: Reformat SQL Files
         uses: credfeto/action-sql-format@v1.4.1
-            
 
-      - name: Clang-format lint (C)
+      - name: Clang-format Lint (C)
         uses: DoozyX/clang-format-lint-action@v0.16.2
         with:
-          inplace: True
+          inplace: true
 
-      - name: Git Auto Commit
-        uses: stefanzweifel/git-auto-commit-action@v4.16.0
-        with:
-          commit_message: "Code formatting"
-          
-  update_readme:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v3
+      # README.md 생성 단계
       - name: Generate README.md
         run: |
-          # Start creating README.md
           echo "# Algorithms Archive" > README.md
           echo "" >> README.md
           echo "This project contains the following subfolders (up to 3 levels deep):" >> README.md
           echo "" >> README.md
-          
-          # Add the table headers
           echo "| Platform   | Difficulty | Problem Name |" >> README.md
           echo "|------------|------------|--------------|" >> README.md
 
-
-          # Recursively find directories up to depth 3 and generate links
-          find . -type d -not -path './.*' -mindepth 3 -maxdepth 3 | while read folder; do
-            # Extract platform, difficulty, and problem name from the folder path
-            folder_path=$(echo "$folder" | sed 's|^\./||')
+          find . -type d -not -path './.*' -mindepth 3 -maxdepth 3 | while read -r folder; do
+            folder_path=${folder#./}
             platform=$(echo "$folder_path" | cut -d'/' -f1)
             difficulty=$(echo "$folder_path" | cut -d'/' -f2)
             problem_name=$(basename "$folder")
-
-            # Add a row to the table in README.md
             echo "| ${platform} | ${difficulty} | [${problem_name}](./${folder_path}/)|" >> README.md
           done
 
           echo "" >> README.md
           echo "Click on the problem names to view their contents." >> README.md
 
-      - name: Commit and Push README.md
+      # 모든 변경 사항 커밋 및 푸시
+      - name: Commit and Push Changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add README.md
-          git commit -m "Auto-update README with subfolder links (adjusted depth +1 and details for depth 1)"
+          git add .
+          git commit -m "Code formatting and README update"
           git push
-
