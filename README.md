@@ -561,6 +561,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [0905-sort-array-by-parity](./leetcode/Easy/0905-sort-array-by-parity/)|
 | leetcode | Easy | [0111-minimum-depth-of-binary-tree](./leetcode/Easy/0111-minimum-depth-of-binary-tree/)|
 | leetcode | Easy | [1544-make-the-string-great](./leetcode/Easy/1544-make-the-string-great/)|
+| leetcode | Easy | [1684-count-the-number-of-consistent-strings](./leetcode/Easy/1684-count-the-number-of-consistent-strings/)|
 | leetcode | Easy | [1287-element-appearing-more-than-25-in-sorted-array](./leetcode/Easy/1287-element-appearing-more-than-25-in-sorted-array/)|
 | leetcode | Easy | [2582-pass-the-pillow](./leetcode/Easy/2582-pass-the-pillow/)|
 | leetcode | Easy | [1832-check-if-the-sentence-is-pangram](./leetcode/Easy/1832-check-if-the-sentence-is-pangram/)|
