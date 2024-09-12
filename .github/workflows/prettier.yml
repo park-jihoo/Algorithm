@@ -45,15 +45,16 @@ jobs:
           echo "" >> README.md
           echo "This project contains the following subfolders (up to 3 levels deep):" >> README.md
           echo "" >> README.md
-          echo "| Platform   | Difficulty | Problem Name |" >> README.md
-          echo "|------------|------------|--------------|" >> README.md
+          echo "| Platform   | Difficulty | Problem Name | Last Commit Date |" >> README.md
+          echo "|------------|------------|--------------|------------------|" >> README.md
 
           find . -type d -not -path './.*' -mindepth 3 -maxdepth 3 | while read -r folder; do
             folder_path=${folder#./}
             platform=$(echo "$folder_path" | cut -d'/' -f1)
             difficulty=$(echo "$folder_path" | cut -d'/' -f2)
             problem_name=$(basename "$folder")
-            echo "| ${platform} | ${difficulty} | [${problem_name}](./${folder_path}/)|" >> README.md
+            last_commit_date=$(git log -1 --format=%cs -- "$folder")
+            echo "| ${platform} | ${difficulty} | [${problem_name}](./${folder_path}/) | ${last_commit_date} |" >> README.md
           done
 
           echo "" >> README.md
