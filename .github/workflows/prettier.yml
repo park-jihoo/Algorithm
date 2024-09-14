@@ -28,6 +28,7 @@ jobs:
         run: |
           curl -LJO https://github.com/google/google-java-format/releases/download/v1.16.0/google-java-format-1.16.0-all-deps.jar
           find . -name "*.java" | xargs java -jar google-java-format-1.16.0-all-deps.jar --replace
+          rm google-java-format-1.16.0-all-deps.jar
 
       - name: Run Black Formatter
         run: |
