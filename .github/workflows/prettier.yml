@@ -13,30 +13,35 @@ jobs:
       contents: write
 
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v3
         with:
-          fetch-depth: 0  # 전체 git 기록을 가져옴
+          fetch-depth: 0
 
-      # 코드 포맷팅 단계
       - name: Prettify Code
-        uses: creyD/prettier_action@v4.3
+        run: |
+          npm install prettier -g
+          prettier --write .
 
       - name: Google Java Format
-        uses: axel-op/googlejavaformat-action@v3.6.0
+        run: |
+          curl -LJO https://github.com/google/google-java-format/releases/download/v1.16.0/google-java-format-1.16.0-all-deps.jar
+          find . -name "*.java" | xargs java -jar google-java-format-1.16.0-all-deps.jar --replace
 
       - name: Run Black Formatter
-        uses: psf/black@stable
-        with:
-          jupyter: true
+        run: |
+          pip install black
+          black --line-length 88 --include '\.ipynb$|\.py$' .
 
       - name: Reformat SQL Files
-        uses: credfeto/action-sql-format@v1.4.1
+        run: |
+          pip install sqlparse
+          find . -name '*.sql' -exec sh -c 'sqlformat -r --reindent --keywords upper {} > {}.tmp && mv {}.tmp {}' \;
 
-      - name: Clang-format Lint (C)
-        uses: DoozyX/clang-format-lint-action@v0.16.2
-        with:
-          inplace: true
+      - name: Clang-format Lint (C/C++)
+        run: |
+          sudo apt-get install -y clang-format
+          find . -name "*.[ch]" -o -name "*.cpp" -o -name "*.cc" -exec clang-format -i {} +
 
       - name: Generate README.md
         run: |
@@ -47,33 +52,27 @@ jobs:
           echo "| Platform   | Difficulty | Problem Name | Languages | Last Commit Date |" >> README.md
           echo "|------------|------------|--------------|-----------|------------------|" >> README.md
       
-            find . -type d -not -path './.*' -mindepth 3 -maxdepth 3 | while read -r folder; do
+          find . -type d -not -path './.*' -mindepth 3 -maxdepth 3 | while read -r folder; do
             folder_path=${folder#./}
             platform=$(echo "$folder_path" | cut -d'/' -f1)
             difficulty=$(echo "$folder_path" | cut -d'/' -f2)
             problem_name=$(basename "$folder")
             last_commit_date=$(git log -1 --format=%cs -- "$folder")
       
-            # Find all code files and get unique file extensions
-            languages=$(find "$folder" -type f \( -name '*.c' -or -name '*.h' -or -name '*.java' -or -name '*.py' -or -name '*.sql' -or -name '*.cpp' -or -name '*.js' -or -name '*.cc' \) \
-              | awk -F. '{print $NF}' | sort | uniq | while read -r ext; do
-                case "$ext" in
-                  c) echo "C" ;;
-                  h) echo "C Header" ;;
-                  java) echo "Java" ;;
-                  py) echo "Python" ;;
-                  sql) echo "SQL" ;;
-                  cpp) echo "C++" ;;
-                  cc) echo "C++" ;;
-                  js) echo "JavaScript" ;;
-                  *) echo "Unknown" ;;
-                esac
-              done | paste -sd "," -)
+            languages=$(find "$folder" -type f -name '*.*' | awk -F. '{print $NF}' | sort | uniq | while read -r ext; do
+              case "$ext" in
+                c) echo "C" ;;
+                h) echo "C Header" ;;
+                java) echo "Java" ;;
+                py) echo "Python" ;;
+                sql) echo "SQL" ;;
+                cpp | cc) echo "C++" ;;
+                js) echo "JavaScript" ;;
+                *) echo "Unknown" ;;
+              esac
+            done | paste -sd "," -)
       
-            # If no language is found, mark it as "Unknown"
-            if [ -z "$languages" ]; then
-              languages="Unknown"
-            fi
+            [ -z "$languages" ] && languages="Unknown"
       
             echo "| ${platform} | ${difficulty} | [${problem_name}](./${folder_path}/) | ${languages} | ${last_commit_date} |" >> README.md
           done
@@ -81,16 +80,8 @@ jobs:
           echo "" >> README.md
           echo "Click on the problem names to view their contents." >> README.md
 
-
-      # 모든 변경 사항 커밋 및 푸시
       - name: Commit and Push Changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          if git diff --quiet; then
-            echo "No changes detected, skipping commit."
-          else
-            git add .
-            git commit -m "Code formatting and README update"
-            git push
-          fi
+          git diff --quiet || (git add . && git commit -m "Code formatting and README update" && git push)
