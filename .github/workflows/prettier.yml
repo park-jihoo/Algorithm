@@ -22,7 +22,7 @@ jobs:
       - name: Prettify Code
         run: |
           npm install prettier -g
-          prettier --write .
+          prettier --write "**/*.{js,md}"
 
       - name: Google Java Format
         run: |
