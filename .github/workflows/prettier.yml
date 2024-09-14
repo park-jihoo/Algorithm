@@ -60,8 +60,9 @@ jobs:
             difficulty=$(echo "$folder_path" | cut -d'/' -f2)
             problem_name=$(basename "$folder")
             last_commit_date=$(git log -1 --format=%cs -- "$folder")
-      
-            languages=$(find "$folder" -type f -name '*.*' | awk -F. '{print $NF}' | sort | uniq | while read -r ext; do
+            
+            languages=$(find "$folder" -type f \( -name '*.c' -or -name '*.h' -or -name '*.java' -or -name '*.py' -or -name '*.sql' -or -name '*.cpp' -or -name '*.js' -or -name '*.cc' \) \
+            | awk -F. '{print $NF}' | sort | uniq | while read -r ext; do
               case "$ext" in
                 c) echo "C" ;;
                 h) echo "C Header" ;;
