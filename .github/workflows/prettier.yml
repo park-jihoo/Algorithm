@@ -80,9 +80,15 @@ jobs:
       
           echo "" >> README.md
           echo "Click on the problem names to view their contents." >> README.md
-
+      # 모든 변경 사항 커밋 및 푸시
       - name: Commit and Push Changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git diff --quiet || (git add . && git commit -m "Code formatting and README update" && git push)
+          if git diff --quiet; then
+            echo "No changes detected, skipping commit."
+          else
+            git add .
+            git commit -m "Code formatting and README update"
+            git push
+          fi
