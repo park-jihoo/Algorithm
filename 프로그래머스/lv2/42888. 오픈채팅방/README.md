@@ -1,6 +1,6 @@
-# [level 2] 오픈채팅방 - 42888 
+# [level 2] 오픈채팅방 - 42888
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/42888) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/42888)
 
 ### 성능 요약
 
@@ -100,6 +100,5 @@ Empty
 
 <p>입출력 예 #1<br>
 문제의 설명과 같다.</p>
-
 
 > 출처: 프로그래머스 코딩 테스트 연습, https://programmers.co.kr/learn/challenges

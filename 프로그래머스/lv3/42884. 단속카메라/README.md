@@ -1,6 +1,6 @@
-# [level 3] 단속카메라 - 42884 
+# [level 3] 단속카메라 - 42884
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/42884?language=cpp) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/42884?language=cpp)
 
 ### 성능 요약
 
@@ -47,6 +47,5 @@ Empty
 <p>-5 지점에 카메라를 설치하면 두 번째, 네 번째 차량이 카메라를 만납니다.</p>
 
 <p>-15 지점에 카메라를 설치하면 첫 번째, 세 번째 차량이 카메라를 만납니다.</p>
-
 
 > 출처: 프로그래머스 코딩 테스트 연습, https://programmers.co.kr/learn/challenges

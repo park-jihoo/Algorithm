@@ -1,6 +1,6 @@
-# [level 3] 입국심사 - 43238 
+# [level 3] 입국심사 - 43238
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/43238) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/43238)
 
 ### 성능 요약
 
@@ -64,6 +64,5 @@ Empty
 <p>힌트가 필요한가요? [코딩테스트 연습 힌트 모음집]으로 오세요! → <a href="https://school.programmers.co.kr/learn/courses/14743?itm_content=lesson43238" target="_blank" rel="noopener">클릭</a></p>
 
 <p>※ 공지 - 2019년 9월 4일 문제에 새로운 테스트 케이스를 추가하였습니다. 도움을 주신 weaver9651 님께 감사드립니다.</p>
-
 
 > 출처: 프로그래머스 코딩 테스트 연습, https://programmers.co.kr/learn/challenges

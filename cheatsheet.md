@@ -18,6 +18,7 @@ int fn(vector<int>& arr) {
     return ans;
 }
 ```
+
 ```python
 def fn(arr):
     left = ans = 0
@@ -29,11 +30,12 @@ def fn(arr):
             left += 1
         else:
             right -= 1
-    
+
     return ans
 ```
 
 ### Two pointers: two inputs, exhaust both
+
 ```c++
 int fn(vector<int>& arr1, vector<int>& arr2) {
     int i = 0, j = 0, ans = 0;
@@ -60,6 +62,7 @@ int fn(vector<int>& arr1, vector<int>& arr2) {
     return ans;
 }
 ```
+
 ```python
 def fn(arr1, arr2):
     i = j = ans = 0
@@ -70,20 +73,20 @@ def fn(arr1, arr2):
             i += 1
         else:
             j += 1
-    
+
     while i < len(arr1):
         # do logic
         i += 1
-    
+
     while j < len(arr2):
         # do logic
         j += 1
-    
+
     return ans
 ```
 
-
 ### Sliding Window
+
 ```c++
 int fn(vector<int>& arr) {
     int left = 0, ans = 0, curr = 0;
@@ -102,6 +105,7 @@ int fn(vector<int>& arr) {
     return ans;
 }
 ```
+
 ```python
 def fn(arr):
     left = ans = curr = 0
@@ -114,11 +118,12 @@ def fn(arr):
             left += 1
 
         # update ans
-    
+
     return ans
 ```
 
 ### Build a prefix sum
+
 ```c++
 vector<int> fn(vector<int>& arr) {
     vector<int> prefix(arr.size());
@@ -131,32 +136,36 @@ vector<int> fn(vector<int>& arr) {
     return prefix;
 }
 ```
+
 ```python
 def fn(arr):
     prefix = [arr[0]]
     for i in range(1, len(arr)):
         prefix.append(prefix[-1] + arr[i])
-    
+
     return prefix
 ```
 
 ### Efficient String building
+
 ```c++
 string fn(vector<char>& arr) {
     return string(arr.begin(), arr.end())
 }
 ```
+
 ```python
 # arr is a list of characters
 def fn(arr):
     ans = []
     for c in arr:
         ans.append(c)
-    
+
     return "".join(ans)
 ```
 
 ### Linked list: fast and slow pointers
+
 ```c++
 int fn(ListNode* head) {
     ListNode* slow = head;
@@ -172,6 +181,7 @@ int fn(ListNode* head) {
     return ans;
 }
 ```
+
 ```python
 def fn(head):
     slow = head
@@ -182,11 +192,12 @@ def fn(head):
         # do logic
         slow = slow.next
         fast = fast.next.next
-    
+
     return ans
 ```
 
 ### Reversing a linked list
+
 ```c++
 ListNode* fn(ListNode* head) {
     ListNode* curr = head;
@@ -201,6 +212,7 @@ ListNode* fn(ListNode* head) {
     return prev;
 }
 ```
+
 ```python
 def fn(head):
     curr = head
@@ -209,12 +221,13 @@ def fn(head):
         next_node = curr.next
         curr.next = prev
         prev = curr
-        curr = next_node 
-        
+        curr = next_node
+
     return prev
 ```
 
 ### Find number of subarrays that fit an exact criteria
+
 ```c++
 int fn(vector<int>& arr, int k) {
     unordered_map<int, int> counts;
@@ -230,6 +243,7 @@ int fn(vector<int>& arr, int k) {
     return ans;
 }
 ```
+
 ```python
 from collections import defaultdict
 
@@ -242,11 +256,12 @@ def fn(arr, k):
         # do logic to change curr
         ans += counts[curr - k]
         counts[curr] += 1
-    
+
     return ans
 ```
 
 ### Monotonic increasing stack
+
 ```c++
 int fn(vector<int>& arr) {
     stack<integer> stack;
@@ -263,6 +278,7 @@ int fn(vector<int>& arr) {
     }
 }
 ```
+
 ```python
 def fn(arr):
     stack = []
@@ -274,11 +290,12 @@ def fn(arr):
             # do logic
             stack.pop()
         stack.append(num)
-    
+
     return ans
 ```
 
 ### Binary tree: DFS(recursive)
+
 ```c++
 int dfs(TreeNode* root) {
     if (root == nullptr) {
@@ -292,11 +309,12 @@ int dfs(TreeNode* root) {
     return ans;
 }
 ```
+
 ```python
 def dfs(root):
     if not root:
         return
-    
+
     ans = 0
 
     # do logic
@@ -306,6 +324,7 @@ def dfs(root):
 ```
 
 ### Binary tree: DFS(iterative)
+
 ```c++
 int dfs(TreeNode* root) {
     stack<TreeNode*> stack;
@@ -327,6 +346,7 @@ int dfs(TreeNode* root) {
     return ans;
 }
 ```
+
 ```python
 def dfs(root):
     stack = [root]
@@ -344,6 +364,7 @@ def dfs(root):
 ```
 
 ### Binary tree: BFS
+
 ```c++
 int fn(TreeNode* root) {
     queue<TreeNode*> queue;
@@ -370,6 +391,7 @@ int fn(TreeNode* root) {
     return ans;
 }
 ```
+
 ```python
 from collections import deque
 
@@ -393,6 +415,7 @@ def fn(root):
 ```
 
 ### Graph: DFS(recursive)
+
 ```c++
 unordered_set<int> seen;
 
@@ -414,11 +437,12 @@ int fn dfs(int node, vector<vector<int>>& graph) {
     return ans;
 }
 ```
+
 ```python
 def dfs(root):
     if not root:
         return
-    
+
     ans = 0
 
     # do logic
@@ -428,6 +452,7 @@ def dfs(root):
 ```
 
 ### Graph: DFS(iterative)
+
 ```c++
 int fn(vector<vector<int>>& graph) {
     queue<int> queue;
@@ -449,6 +474,7 @@ int fn(vector<vector<int>>& graph) {
     }
 }
 ```
+
 ```python
 def fn(graph):
     stack = [START_NODE]
@@ -462,11 +488,12 @@ def fn(graph):
             if neighbor not in seen:
                 seen.add(neighbor)
                 stack.append(neighbor)
-    
+
     return ans
 ```
 
 ### Graph: BFS
+
 ```c++
 int fn(vector<vector<int>>& graph) {
     queue<int> queue;
@@ -488,6 +515,7 @@ int fn(vector<vector<int>>& graph) {
     }
 }
 ```
+
 ```python
 from collections import deque
 
@@ -503,11 +531,12 @@ def fn(graph):
             if neighbor not in seen:
                 seen.add(neighbor)
                 queue.append(neighbor)
-    
+
     return ans
 ```
 
 ### Find top k elements with heap
+
 ```c++
 vector<int> fn(vector<int>& arr, int k) {
     priority_queue<int, CRITERIA> heap;
@@ -527,6 +556,7 @@ vector<int> fn(vector<int>& arr, int k) {
     return ans;
 }
 ```
+
 ```python
 import heapq
 
@@ -537,11 +567,12 @@ def fn(arr, k):
         heapq.heappush(heap, (CRITERIA, num))
         if len(heap) > k:
             heapq.heappop(heap)
-    
+
     return [num for num in heap]
 ```
 
 ### Binary search
+
 ```c++
 int binarySearch(vector<int>& arr, int target) {
         int left = 0;
@@ -558,11 +589,12 @@ int binarySearch(vector<int>& arr, int target) {
                 left = mid + 1;
             }
         }
-        
+
         // left is the insertion point
         return left;
     }
 ```
+
 ```python
 def fn(arr, target):
     left = 0
@@ -576,12 +608,13 @@ def fn(arr, target):
             right = mid - 1
         else:
             left = mid + 1
-    
+
     # left is the insertion point
     return left
 ```
 
 ### Binary search: duplicate elements, left-most insertion point
+
 ```c++
 int binarySearch(vector<int>& arr, int target) {
         int left = 0;
@@ -598,11 +631,12 @@ int binarySearch(vector<int>& arr, int target) {
                 left = mid + 1;
             }
         }
-        
+
         // left is the insertion point
         return left;
     }
 ```
+
 ```python
 def fn(arr, target):
     left = 0
@@ -618,6 +652,7 @@ def fn(arr, target):
 ```
 
 ### Binary search: duplicate elements, right-most insertion point
+
 ```c++
 int binarySearch(vector<int>& arr, int target) {
     int left = 0;
@@ -630,10 +665,11 @@ int binarySearch(vector<int>& arr, int target) {
             left = mid + 1;
         }
     }
-    
+
     return left;
 }
 ```
+
 ```python
 def fn(arr, target):
     left = 0
@@ -649,85 +685,92 @@ def fn(arr, target):
 ```
 
 ### Binary search: for greedy problems
+
 1. If looking for minimum
-    ```c++
-    int fn(vector<int>& arr) {
-        int left = MINIMUM_POSSIBLE_ANSWER;
-        int right = MAXIMUM_POSSIBLE_ANSWER;
-        while (left <= right) {
-            int mid = left + (right - left) / 2;
-            if (check(mid)) {
-                right = mid - 1;
-            } else {
-                left = mid + 1;
-            }
-        }
-    
-        return left;
-    }
-    
-    bool check(int x) {
-        // this function is implemented depending on the problem
-        return BOOLEAN;
-    }
-    ```
-    ```python
-    def fn(arr):
-        def check(x):
-            # this function is implemented depending on the problem
-            return BOOLEAN
 
-        left = MINIMUM_POSSIBLE_ANSWER
-        right = MAXIMUM_POSSIBLE_ANSWER
-        while left <= right:
-            mid = (left + right) // 2
-            if check(mid):
-                right = mid - 1
-            else:
-                left = mid + 1
-        
-        return left
-    ```
+   ```c++
+   int fn(vector<int>& arr) {
+       int left = MINIMUM_POSSIBLE_ANSWER;
+       int right = MAXIMUM_POSSIBLE_ANSWER;
+       while (left <= right) {
+           int mid = left + (right - left) / 2;
+           if (check(mid)) {
+               right = mid - 1;
+           } else {
+               left = mid + 1;
+           }
+       }
+
+       return left;
+   }
+
+   bool check(int x) {
+       // this function is implemented depending on the problem
+       return BOOLEAN;
+   }
+   ```
+
+   ```python
+   def fn(arr):
+       def check(x):
+           # this function is implemented depending on the problem
+           return BOOLEAN
+
+       left = MINIMUM_POSSIBLE_ANSWER
+       right = MAXIMUM_POSSIBLE_ANSWER
+       while left <= right:
+           mid = (left + right) // 2
+           if check(mid):
+               right = mid - 1
+           else:
+               left = mid + 1
+
+       return left
+   ```
+
 2. If looking for maximum
-    ```c++
-    int fn(vector<int>& arr) {
-        int left = MINIMUM_POSSIBLE_ANSWER;
-        int right = MAXIMUM_POSSIBLE_ANSWER;
-        while (left <= right) {
-            int mid = left + (right - left) / 2;
-            if (check(mid)) {
-                left = mid + 1;
-            } else {
-                right = mid - 1;
-            }
-        }
-        return right;
-    }
 
-    bool check(int x) {
-        // this function is implemented depending on the problem
-        return BOOLEAN;
-    }
-    ```
-    ```python
-    def fn(arr):
-        def check(x):
-            # this function is implemented depending on the problem
-            return BOOLEAN
+   ```c++
+   int fn(vector<int>& arr) {
+       int left = MINIMUM_POSSIBLE_ANSWER;
+       int right = MAXIMUM_POSSIBLE_ANSWER;
+       while (left <= right) {
+           int mid = left + (right - left) / 2;
+           if (check(mid)) {
+               left = mid + 1;
+           } else {
+               right = mid - 1;
+           }
+       }
+       return right;
+   }
 
-        left = MINIMUM_POSSIBLE_ANSWER
-        right = MAXIMUM_POSSIBLE_ANSWER
-        while left <= right:
-            mid = (left + right) // 2
-            if check(mid):
-                left = mid + 1
-            else:
-                right = mid - 1
-    
-        return right
-    ```
+   bool check(int x) {
+       // this function is implemented depending on the problem
+       return BOOLEAN;
+   }
+   ```
+
+   ```python
+   def fn(arr):
+       def check(x):
+           # this function is implemented depending on the problem
+           return BOOLEAN
+
+       left = MINIMUM_POSSIBLE_ANSWER
+       right = MAXIMUM_POSSIBLE_ANSWER
+       while left <= right:
+           mid = (left + right) // 2
+           if check(mid):
+               left = mid + 1
+           else:
+               right = mid - 1
+
+       return right
+   ```
 
 ### Backtracking
+
 ```c++
 int backtrack(STATE curr, OTHER_ARGUMENTS...) {
     if (BASE_CASE) {
@@ -745,22 +788,24 @@ int backtrack(STATE curr, OTHER_ARGUMENTS...) {
     return ans;
 }
 ```
+
 ```python
 def backtrack(curr, OTHER_ARGUMENTS...):
     if (BASE_CASE):
         # modify the answer
         return
-    
+
     ans = 0
     for (ITERATE_OVER_INPUT):
         # modify the current state
         ans += backtrack(curr, OTHER_ARGUMENTS...)
         # undo the modification of the current state
-    
+
     return ans
 ```
 
 ### Dynamic Programming: top-down memoization
+
 ```c++
 unordered_map<STATE, int> memo;
 
@@ -782,15 +827,16 @@ int dp(STATE, vector<int>& arr) {
     return ans;
 }
 ```
+
 ```python
 def fn(arr):
     def dp(STATE):
         if BASE_CASE:
             return 0
-        
+
         if STATE in memo:
             return memo[STATE]
-        
+
         ans = RECURRENCE_RELATION(STATE)
         memo[STATE] = ans
         return ans
@@ -800,6 +846,7 @@ def fn(arr):
 ```
 
 ### Build a trie
+
 ```c++
 // note: using a class is only necessary if you want to store data at each node.
 // otherwise, you can implement a trie using only hash maps.
@@ -826,6 +873,7 @@ TrieNode* buildTrie(vector<string> words) {
     return root;
 }
 ```
+
 ```python
 # note: using a class is only necessary if you want to store data at each node.
 # otherwise, you can implement a trie using only hash maps.
@@ -845,11 +893,12 @@ def fn(words):
             curr = curr.children[c]
         # at this point, you have a full word at curr
         # you can perform more logic here to give curr an attribute if you want
-    
+
     return root
 ```
 
 ### Dijkstra's algorithm
+
 ```c++
 vector<int> distances(n, INT_MAX);
 distances[source] = 0;
@@ -861,16 +910,16 @@ while (!heap.empty()) {
     int currDist = heap.top().first;
     int node = heap.top().second;
     heap.pop();
-    
+
     if (currDist > distances[node]) {
         continue;
     }
-    
+
     for (pair<int, int> edge: graph[node]) {
         int nei = edge.first;
         int weight = edge.second;
         int dist = currDist + weight;
-        
+
         if (dist < distances[nei]) {
             distances[nei] = dist;
             heap.push({dist, nei});
@@ -878,6 +927,7 @@ while (!heap.empty()) {
     }
 }
 ```
+
 ```python
 from math import inf
 from heapq import *
@@ -890,7 +940,7 @@ while heap:
     curr_dist, node = heappop(heap)
     if curr_dist > distances[node]:
         continue
-    
+
     for nei, weight in graph[node]:
         dist = curr_dist + weight
         if dist < distances[nei]:

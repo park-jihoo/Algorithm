@@ -1,6 +1,6 @@
-# [level 2] [1차] 뉴스 클러스터링 - 17677 
+# [level 2] [1차] 뉴스 클러스터링 - 17677
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/17677) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/17677)
 
 ### 성능 요약
 
@@ -86,6 +86,5 @@ Empty
 </tbody>
       </table>
 <p><a href="http://tech.kakao.com/2017/09/27/kakao-blind-recruitment-round-1/" target="_blank" rel="noopener">해설 보러가기</a></p>
-
 
 > 출처: 프로그래머스 코딩 테스트 연습, https://programmers.co.kr/learn/challenges

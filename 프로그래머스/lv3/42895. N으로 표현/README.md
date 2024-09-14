@@ -1,6 +1,6 @@
-# [level 3] N으로 표현 - 42895 
+# [level 3] N으로 표현 - 42895
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/42895) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/42895)
 
 ### 성능 요약
 
@@ -63,6 +63,5 @@ Empty
 <code>11 = 22 / 2</code>와 같이 2를 3번만 사용하여 표현할 수 있습니다.</p>
 
 <p>※ 공지 - 2020년 9월 3일 테스트케이스가 추가되었습니다.</p>
-
 
 > 출처: 프로그래머스 코딩 테스트 연습, https://programmers.co.kr/learn/challenges

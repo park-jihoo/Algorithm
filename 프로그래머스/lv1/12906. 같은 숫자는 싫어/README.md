@@ -1,6 +1,6 @@
-# [level 1] 같은 숫자는 싫어 - 12906 
+# [level 1] 같은 숫자는 싫어 - 12906
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12906) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12906)
 
 ### 성능 요약
 
@@ -55,6 +55,5 @@ Empty
 
 <p>입출력 예 #1,2<br>
 문제의 예시와 같습니다.</p>
-
 
 > 출처: 프로그래머스 코딩 테스트 연습, https://programmers.co.kr/learn/challenges

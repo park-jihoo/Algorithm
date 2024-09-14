@@ -1,6 +1,6 @@
-# [level 3] 단어 변환 - 43163 
+# [level 3] 단어 변환 - 43163
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/43163?language=cpp) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/43163?language=cpp)
 
 ### 성능 요약
 
@@ -64,6 +64,5 @@ Empty
 
 <p>예제 #2<br>
 target인 "cog"는 words 안에 없기 때문에 변환할 수 없습니다.</p>
-
 
 > 출처: 프로그래머스 코딩 테스트 연습, https://programmers.co.kr/learn/challenges

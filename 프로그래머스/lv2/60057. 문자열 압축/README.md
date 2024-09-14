@@ -1,6 +1,6 @@
-# [level 2] 문자열 압축 - 60057 
+# [level 2] 문자열 압축 - 60057
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/60057) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/60057)
 
 ### 성능 요약
 
@@ -89,6 +89,5 @@ Empty
 이 경우 어떻게 문자열을 잘라도 압축되지 않으므로 가장 짧은 길이는 17이 됩니다. </p>
 
 <hr>
-
 
 > 출처: 프로그래머스 코딩 테스트 연습, https://programmers.co.kr/learn/challenges

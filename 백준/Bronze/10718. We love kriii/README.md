@@ -1,6 +1,6 @@
-# [Bronze V] We love kriii - 10718 
+# [Bronze V] We love kriii - 10718
 
-[문제 링크](https://www.acmicpc.net/problem/10718) 
+[문제 링크](https://www.acmicpc.net/problem/10718)
 
 ### 성능 요약
 
@@ -16,11 +16,10 @@
 
 <p>대회를 뜰 줄 모르는 지박령 kriii를 위해서 격려의 문구를 출력해주자.</p>
 
-### 입력 
+### 입력
 
  <p>본 문제는 입력이 없다.</p>
 
-### 출력 
+### 출력
 
  <p>두 줄에 걸쳐 "강한친구 대한육군"을 한 줄에 한 번씩 출력한다.</p>
-

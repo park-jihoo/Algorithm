@@ -1,6 +1,6 @@
-# [level 2] 기능개발 - 42586 
+# [level 2] 기능개발 - 42586
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/42586?language=cpp) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/42586?language=cpp)
 
 ### 성능 요약
 
@@ -66,6 +66,5 @@ Empty
 <p>따라서 5일째에 1개의 기능, 10일째에 3개의 기능, 20일째에 2개의 기능이 배포됩니다.</p>
 
 <p>※ 공지 - 2020년 7월 14일 테스트케이스가 추가되었습니다.</p>
-
 
 > 출처: 프로그래머스 코딩 테스트 연습, https://programmers.co.kr/learn/challenges

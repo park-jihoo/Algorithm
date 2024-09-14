@@ -1,6 +1,6 @@
-# [level 1] 나머지가 1이 되는 수 찾기 - 87389 
+# [level 1] 나머지가 1이 되는 수 찾기 - 87389
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/87389) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/87389)
 
 ### 성능 요약
 
@@ -60,6 +60,5 @@ Empty
 <ul>
 <li>12를 11로 나눈 나머지가 1이고, 11보다 작은 자연수 중에서 문제의 조건을 만족하는 수가 없으므로, 11을 return 해야 합니다.</li>
 </ul>
-
 
 > 출처: 프로그래머스 코딩 테스트 연습, https://programmers.co.kr/learn/challenges

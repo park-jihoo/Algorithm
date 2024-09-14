@@ -1,6 +1,6 @@
-# [level 2] 후보키 - 42890 
+# [level 2] 후보키 - 42890
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/42890) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/42890)
 
 ### 성능 요약
 
@@ -71,6 +71,5 @@ Empty
 
 <p>입출력 예 #1<br>
 문제에 주어진 릴레이션과 같으며, 후보 키는 2개이다.</p>
-
 
 > 출처: 프로그래머스 코딩 테스트 연습, https://programmers.co.kr/learn/challenges

@@ -9,4 +9,4 @@ WHERE 3 >
     (SELECT COUNT(DISTINCT (e2.Salary))
      FROM EMPLOYEE e2
      WHERE e2.Salary > e.Salary
-       AND e.DepartmentId = e2.DepartmentId )
+       AND e.DepartmentId = e2.DepartmentId)

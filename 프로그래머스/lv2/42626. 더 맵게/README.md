@@ -1,6 +1,6 @@
-# [level 2] 더 맵게 - 42626 
+# [level 2] 더 맵게 - 42626
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/42626?language=python3) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/42626?language=python3)
 
 ### 성능 요약
 
@@ -63,6 +63,5 @@ Leo가 가진 음식의 스코빌 지수를 담은 배열 scoville과 원하는 
 
 <p>※ 공지 - 2022년 12월 23일 테스트 케이스가 추가되었습니다. 기존에 제출한 코드가 통과하지 못할 수도 있습니다.<br>
 ※ 공지 - 2023년 03월 23일 테스트 케이스가 추가되었습니다. 기존에 제출한 코드가 통과하지 못할 수도 있습니다.</p>
-
 
 > 출처: 프로그래머스 코딩 테스트 연습, https://programmers.co.kr/learn/challenges

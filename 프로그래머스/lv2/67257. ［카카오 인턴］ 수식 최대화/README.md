@@ -1,6 +1,6 @@
-# [level 2] [카카오 인턴] 수식 최대화 - 67257 
+# [level 2] [카카오 인턴] 수식 최대화 - 67257
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/67257) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/67257)
 
 ### 성능 요약
 
@@ -94,6 +94,5 @@ Empty
 = <code>150*2</code><br>
 = <code>300</code><br>
 따라서, 우승 시 받을 수 있는 상금은 300 입니다.</p>
-
 
 > 출처: 프로그래머스 코딩 테스트 연습, https://programmers.co.kr/learn/challenges

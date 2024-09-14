@@ -1,6 +1,6 @@
-# [level 2] 가장 큰 수 - 42746 
+# [level 2] 가장 큰 수 - 42746
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/42746?language=python3) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/42746?language=python3)
 
 ### 성능 요약
 
@@ -50,6 +50,5 @@ Empty
 <hr>
 
 <p>※ 공지 - 2021년 10월 20일 테스트케이스가 추가되었습니다.</p>
-
 
 > 출처: 프로그래머스 코딩 테스트 연습, https://programmers.co.kr/learn/challenges

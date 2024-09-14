@@ -11,6 +11,7 @@
 <strong>Output: </strong>1
 <strong>Explanation</strong>: Remove the single 4, only 5 is left.
 </pre>
+
 <strong class="example">Example 2:</strong>
 
 <pre>

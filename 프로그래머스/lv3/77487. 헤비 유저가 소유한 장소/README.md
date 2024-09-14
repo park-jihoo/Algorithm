@@ -1,6 +1,6 @@
-# [level 3] 헤비 유저가 소유한 장소 - 77487 
+# [level 3] 헤비 유저가 소유한 장소 - 77487
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/77487) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/77487)
 
 ### 성능 요약
 

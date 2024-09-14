@@ -1,6 +1,6 @@
-# [Unrated] [연습문제] 칩 생산 - 4317 
+# [Unrated] [연습문제] 칩 생산 - 4317
 
-[문제 링크](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWL21nCaM8wDFAUE) 
+[문제 링크](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWL21nCaM8wDFAUE)
 
 ### 성능 요약
 
@@ -9,7 +9,5 @@
 ### 제출 일자
 
 2024-07-04 03:00
-
-
 
 > 출처: SW Expert Academy, https://swexpertacademy.com/main/code/problem/problemList.do

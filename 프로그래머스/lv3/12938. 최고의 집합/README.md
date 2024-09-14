@@ -1,6 +1,6 @@
-# [level 3] 최고의 집합 - 12938 
+# [level 3] 최고의 집합 - 12938
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12938) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12938)
 
 ### 성능 요약
 
@@ -79,6 +79,5 @@ Empty
 <p>{ 1, 7 }, { 2, 6 }, { 3, 5 }, { 4, 4 }</p>
 
 <p>그중 각 원소의 곱이 최대인 { 4, 4 }가 최고의 집합입니다.</p>
-
 
 > 출처: 프로그래머스 코딩 테스트 연습, https://programmers.co.kr/learn/challenges

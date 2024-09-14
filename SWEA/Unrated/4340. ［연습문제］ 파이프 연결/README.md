@@ -1,6 +1,6 @@
-# [Unrated] [연습문제] 파이프 연결 - 4340 
+# [Unrated] [연습문제] 파이프 연결 - 4340
 
-[문제 링크](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWL6LhM6A60DFAUY) 
+[문제 링크](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWL6LhM6A60DFAUY)
 
 ### 성능 요약
 
@@ -9,7 +9,5 @@
 ### 제출 일자
 
 2024-06-30 23:16
-
-
 
 > 출처: SW Expert Academy, https://swexpertacademy.com/main/code/problem/problemList.do

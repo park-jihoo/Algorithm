@@ -1,6 +1,6 @@
-# [level 3] 순위 - 49191 
+# [level 3] 순위 - 49191
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/49191?language=python3) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/49191?language=python3)
 
 ### 성능 요약
 
@@ -48,6 +48,5 @@ Empty
 
 <p>2번 선수는 [1, 3, 4] 선수에게 패배했고 5번 선수에게 승리했기 때문에 4위입니다.<br>
 5번 선수는 4위인 2번 선수에게 패배했기 때문에 5위입니다.</p>
-
 
 > 출처: 프로그래머스 코딩 테스트 연습, https://programmers.co.kr/learn/challenges

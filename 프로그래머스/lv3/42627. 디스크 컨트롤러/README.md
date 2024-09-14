@@ -1,6 +1,6 @@
-# [level 3] 디스크 컨트롤러 - 42627 
+# [level 3] 디스크 컨트롤러 - 42627
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/42627?language=python3) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/42627?language=python3)
 
 ### 성능 요약
 
@@ -80,6 +80,5 @@ Empty
 <h5>문제가 잘 안풀린다면😢</h5>
 
 <p>힌트가 필요한가요? [코딩테스트 연습 힌트 모음집]으로 오세요! → <a href="https://school.programmers.co.kr/learn/courses/14743?itm_content=lesson42627" target="_blank" rel="noopener">클릭</a></p>
-
 
 > 출처: 프로그래머스 코딩 테스트 연습, https://programmers.co.kr/learn/challenges

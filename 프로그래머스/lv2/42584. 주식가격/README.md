@@ -1,6 +1,6 @@
-# [level 2] 주식가격 - 42584 
+# [level 2] 주식가격 - 42584
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/42584?language=python3) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/42584?language=python3)
 
 ### 성능 요약
 
@@ -49,6 +49,5 @@ Empty
 </ul>
 
 <p>※ 공지 - 2019년 2월 28일 지문이 리뉴얼되었습니다.</p>
-
 
 > 출처: 프로그래머스 코딩 테스트 연습, https://programmers.co.kr/learn/challenges

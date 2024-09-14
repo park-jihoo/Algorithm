@@ -1,6 +1,6 @@
-# [Bronze V] Hello World - 2557 
+# [Bronze V] Hello World - 2557
 
-[문제 링크](https://www.acmicpc.net/problem/2557) 
+[문제 링크](https://www.acmicpc.net/problem/2557)
 
 ### 성능 요약
 
@@ -15,13 +15,12 @@
 <p>
 	Hello World!를 출력하시오.</p>
 
-### 입력 
+### 입력
 
  <p>
 	없음</p>
 
-### 출력 
+### 출력
 
  <p>
 	Hello World!를 출력하시오.</p>
-

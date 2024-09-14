@@ -6,35 +6,31 @@ A valid path in the graph is a sequence of nodes x1 -> x2 -> x3 -> ... -> xk suc
 
 Return the largest color value of any valid path in the given graph, or -1 if the graph contains a cycle.
 
- 
+
 
 Example 1:
 
 [https://assets.leetcode.com/uploads/2021/04/21/leet1.png]
 
-
 Input: colors = "abaca", edges = [[0,1],[0,2],[2,3],[3,4]]
 Output: 3
 Explanation: The path 0 -> 2 -> 3 -> 4 contains 3 nodes that are colored "a" (red in the above image).
 
-
 Example 2:
 
 [https://assets.leetcode.com/uploads/2021/04/21/leet2.png]
-
 
 Input: colors = "a", edges = [[0,0]]
 Output: -1
 Explanation: There is a cycle from 0 to 0.
 
 
- 
 
 Constraints:
 
- * n == colors.length
- * m == edges.length
- * 1 <= n <= 105
- * 0 <= m <= 105
- * colors consists of lowercase English letters.
- * 0 <= aj, bj < n
+- n == colors.length
+- m == edges.length
+- 1 <= n <= 105
+- 0 <= m <= 105
+- colors consists of lowercase English letters.
+- 0 <= aj, bj < n

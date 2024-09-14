@@ -1,6 +1,6 @@
-# [Silver IV] DNA - 1969 
+# [Silver IV] DNA - 1969
 
-[문제 링크](https://www.acmicpc.net/problem/1969) 
+[문제 링크](https://www.acmicpc.net/problem/1969)
 
 ### 성능 요약
 
@@ -16,11 +16,10 @@
 
 <p>우리가 할 일은 다음과 같다. N개의 길이 M인 DNA s<sub>1</sub>, s<sub>2</sub>, ..., s<sub>n</sub>가 주어져 있을 때 Hamming Distance의 합이 가장 작은 DNA s를 구하는 것이다. 즉, s와 s<sub>1</sub>의 Hamming Distance + s와 s<sub>2</sub>의 Hamming Distance + s와 s<sub>3</sub>의 Hamming Distance ... 의 합이 최소가 된다는 의미이다.</p>
 
-### 입력 
+### 입력
 
  <p>첫 줄에 DNA의 수 N과 문자열의 길이 M이 주어진다. 그리고 둘째 줄부터 N+1번째 줄까지 N개의 DNA가 주어진다. N은 1,000보다 작거나 같은 자연수이고, M은 50보다 작거나 같은 자연수이다.</p>
 
-### 출력 
+### 출력
 
  <p>첫째 줄에 Hamming Distance의 합이 가장 작은 DNA 를 출력하고, 둘째 줄에는 그 Hamming Distance의 합을 출력하시오. 그러한 DNA가 여러 개 있을 때에는 사전순으로 가장 앞서는 것을 출력한다.</p>
-

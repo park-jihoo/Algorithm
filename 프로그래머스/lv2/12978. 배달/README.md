@@ -1,6 +1,6 @@
-# [level 2] 배달 - 12978 
+# [level 2] 배달 - 12978
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12978) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12978)
 
 ### 성능 요약
 
@@ -75,6 +75,5 @@ Empty
 주어진 마을과 도로의 모양은 아래 그림과 같습니다.<br>
 <img src="https://grepp-programmers.s3.ap-northeast-2.amazonaws.com/files/production/993685f2-6b97-4fe3-85b5-47c085dc1bf3/%E1%84%87%E1%85%A2%E1%84%83%E1%85%A1%E1%86%AF_3_njc7kq.png" title="" alt="배달_3_njc7kq.png"><br>
 1번 마을에서 배달에 4시간 이하가 걸리는 마을은 [1, 2, 3, 5] 4개이므로 4를 return 합니다.</p>
-
 
 > 출처: 프로그래머스 코딩 테스트 연습, https://programmers.co.kr/learn/challenges
