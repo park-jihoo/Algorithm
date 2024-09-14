@@ -11,8 +11,6 @@ Notice that you can use multiple characters from the same string in words provid
 
 Return the number of ways to form target from words. Since the answer may be too large, return it modulo 109 + 7.
 
-
-
 Example 1:
 
 Input: words = ["acca","bbbb","caca"], target = "aba"
@@ -34,8 +32,6 @@ Explanation: There are 4 ways to form target.
 "bab" -> index 0 ("baab"), index 1 ("baab"), index 3 ("baab")
 "bab" -> index 0 ("baab"), index 2 ("baab"), index 3 ("baab")
 "bab" -> index 1 ("abba"), index 2 ("baab"), index 3 ("baab")
-
-
 
 Constraints:
 

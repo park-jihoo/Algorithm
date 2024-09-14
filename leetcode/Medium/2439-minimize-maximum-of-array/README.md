@@ -8,8 +8,6 @@ In one operation, you must:
 
 Return the minimum possible value of the maximum integer of nums after performing any number of operations.
 
-
-
 Example 1:
 
 Input: nums = [3,7,1,6]
@@ -29,8 +27,6 @@ Input: nums = [10,1]
 Output: 10
 Explanation:
 It is optimal to leave nums as is, and since 10 is the maximum value, we return 10.
-
-
 
 Constraints:
 

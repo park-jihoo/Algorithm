@@ -4,8 +4,6 @@ A move consists of walking from one land cell to another adjacent (4-directional
 
 Return the number of land cells in grid for which we cannot walk off the boundary of the grid in any number of moves.
 
-
-
 Example 1:
 
 [https://assets.leetcode.com/uploads/2021/02/18/enclaves1.jpg]
@@ -21,8 +19,6 @@ Example 2:
 Input: grid = [[0,1,1,0],[0,0,1,0],[0,0,1,0],[0,0,0,0]]
 Output: 0
 Explanation: All 1s are either on the boundary or can reach the boundary.
-
-
 
 Constraints:
 

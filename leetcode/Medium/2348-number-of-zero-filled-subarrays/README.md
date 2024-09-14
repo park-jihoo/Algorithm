@@ -2,8 +2,6 @@
 
 A subarray is a contiguous non-empty sequence of elements within an array.
 
-
-
 Example 1:
 
 Input: nums = [1,3,0,0,2,0,0,4]
@@ -28,8 +26,6 @@ Example 3:
 Input: nums = [2,10,2019]
 Output: 0
 Explanation: There is no subarray filled with 0. Therefore, we return 0.
-
-
 
 Constraints:
 

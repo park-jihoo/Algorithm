@@ -6,8 +6,6 @@ Together, these form two connected groups by similarity: {"tars", "rats", "arts"
 
 We are given a list strs of strings where every string in strs is an anagram of every other string in strs. How many groups are there?
 
-
-
 Example 1:
 
 Input: strs = ["tars","rats","arts","star"]
@@ -17,8 +15,6 @@ Example 2:
 
 Input: strs = ["omv","ovm"]
 Output: 1
-
-
 
 Constraints:
 

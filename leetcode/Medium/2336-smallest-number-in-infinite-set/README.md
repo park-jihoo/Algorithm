@@ -6,8 +6,6 @@ Implement the SmallestInfiniteSet class:
 - int popSmallest() Removes and returns the smallest integer contained in the infinite set.
 - void addBack(int num) Adds a positive integer num back into the infinite set, if it is not already in the infinite set.
 
-
-
 Example 1:
 
 Input
@@ -27,8 +25,6 @@ smallestInfiniteSet.popSmallest(); // return 1, since 1 was added back to the se
 // is the smallest number, and remove it from the set.
 smallestInfiniteSet.popSmallest(); // return 4, and remove it from the set.
 smallestInfiniteSet.popSmallest(); // return 5, and remove it from the set.
-
-
 
 Constraints:
 

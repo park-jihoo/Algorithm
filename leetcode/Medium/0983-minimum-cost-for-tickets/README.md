@@ -12,8 +12,6 @@ The passes allow that many days of consecutive travel.
 
 Return the minimum number of dollars you need to travel every day in the given list of days.
 
-
-
 Example 1:
 
 Input: days = [1,4,6,7,8,20], costs = [2,7,15]
@@ -32,8 +30,6 @@ Explanation: For example, here is one way to buy passes that lets you travel you
 On day 1, you bought a 30-day pass for costs[2] = $15 which covered days 1, 2, ..., 30.
 On day 31, you bought a 1-day pass for costs[0] = $2 which covered day 31.
 In total, you spent $17 and covered all the days of your travel.
-
-
 
 Constraints:
 

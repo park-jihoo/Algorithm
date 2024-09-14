@@ -4,8 +4,6 @@ Return a boolean array result of length n, where result[i] is true if, after giv
 
 Note that multiple kids can have the greatest number of candies.
 
-
-
 Example 1:
 
 Input: candies = [2,3,5,1,3], extraCandies = 3
@@ -29,8 +27,6 @@ Example 3:
 
 Input: candies = [12,1,12], extraCandies = 10
 Output: [true,false,true]
-
-
 
 Constraints:
 

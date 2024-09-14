@@ -2,8 +2,6 @@
 
 Return the average salary of employees excluding the minimum and maximum salary. Answers within 10-5 of the actual answer will be accepted.
 
-
-
 Example 1:
 
 Input: salary = [4000,3000,1000,2000]
@@ -17,8 +15,6 @@ Input: salary = [1000,2000,3000]
 Output: 2000.00000
 Explanation: Minimum salary and maximum salary are 1000 and 3000 respectively.
 Average salary excluding minimum and maximum salary is (2000) / 1 = 2000
-
-
 
 Constraints:
 

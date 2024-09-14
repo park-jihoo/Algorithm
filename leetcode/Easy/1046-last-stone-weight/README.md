@@ -9,8 +9,6 @@ At the end of the game, there is at most one stone left.
 
 Return the weight of the last remaining stone. If there are no stones left, return 0.
 
-
-
 Example 1:
 
 Input: stones = [2,7,4,1,8,1]
@@ -25,8 +23,6 @@ Example 2:
 
 Input: stones = [1]
 Output: 1
-
-
 
 Constraints:
 

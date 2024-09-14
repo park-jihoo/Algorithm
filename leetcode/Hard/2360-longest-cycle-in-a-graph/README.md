@@ -6,8 +6,6 @@ Return the length of the longest cycle in the graph. If no cycle exists, return 
 
 A cycle is a path that starts and ends at the same node.
 
-
-
 Example 1:
 
 [https://assets.leetcode.com/uploads/2022/06/08/graph4drawio-5.png]
@@ -24,8 +22,6 @@ Example 2:
 Input: edges = [2,-1,3,1]
 Output: -1
 Explanation: There are no cycles in this graph.
-
-
 
 Constraints:
 

@@ -4,8 +4,6 @@ Given an array queries, where queries[j] = [pj, qj, limitj], your task is to det
 
 Return a boolean array answer, where answer.length == queries.length and the jth value of answer is true if there is a path for queries[j] is true, and false otherwise.
 
-
-
 Example 1:
 
 [https://assets.leetcode.com/uploads/2020/12/08/h.png]
@@ -23,8 +21,6 @@ Example 2:
 Input: n = 5, edgeList = [[0,1,10],[1,2,5],[2,3,9],[3,4,13]], queries = [[0,4,14],[1,4,13]]
 Output: [true,false]
 Exaplanation: The above figure shows the given graph.
-
-
 
 Constraints:
 

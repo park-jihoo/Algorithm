@@ -2,8 +2,6 @@
 
 Note: You can only move either down or right at any point in time.
 
-
-
 Example 1:
 
 [https://assets.leetcode.com/uploads/2020/11/05/minpath.jpg]
@@ -16,8 +14,6 @@ Example 2:
 
 Input: grid = [[1,2,3],[4,5,6]]
 Output: 12
-
-
 
 Constraints:
 

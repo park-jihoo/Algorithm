@@ -4,8 +4,6 @@ Let's call a profitable scheme any subset of these crimes that generates at leas
 
 Return the number of schemes that can be chosen. Since the answer may be very large, return it modulo 109 + 7.
 
-
-
 Example 1:
 
 Input: n = 5, minProfit = 3, group = [2,2], profit = [2,3]
@@ -19,8 +17,6 @@ Input: n = 10, minProfit = 5, group = [2,3,5], profit = [6,7,8]
 Output: 7
 Explanation: To make a profit of at least 5, the group could commit any crimes, as long as they commit one.
 There are 7 possible schemes: (0), (1), (2), (0,1), (0,2), (1,2), and (0,1,2).
-
-
 
 Constraints:
 

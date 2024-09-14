@@ -8,8 +8,6 @@ You are given an integer array nums. Let product be the product of all values in
 
 Return signFunc(product).
 
-
-
 Example 1:
 
 Input: nums = [-1,-2,-3,-4,3,2,1]
@@ -27,8 +25,6 @@ Example 3:
 Input: nums = [-1,1,-1,1,-1]
 Output: -1
 Explanation: The product of all values in the array is -1, and signFunc(-1) = -1
-
-
 
 Constraints:
 

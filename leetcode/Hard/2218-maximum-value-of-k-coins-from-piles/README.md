@@ -4,8 +4,6 @@ In one move, you can choose any coin on top of any pile, remove it, and add it t
 
 Given a list piles, where piles[i] is a list of integers denoting the composition of the ith pile from top to bottom, and a positive integer k, return the maximum total value of coins you can have in your wallet if you choose exactly k coins optimally.
 
-
-
 Example 1:
 
 [https://assets.leetcode.com/uploads/2019/11/09/e1.png]
@@ -22,8 +20,6 @@ Input: piles = [[100],[100],[100],[100],[100],[100],[1,1,1,1,1,1,700]], k = 7
 Output: 706
 Explanation:
 The maximum total can be obtained if we choose all coins from the last pile.
-
-
 
 Constraints:
 

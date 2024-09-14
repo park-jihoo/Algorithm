@@ -4,8 +4,6 @@ You are also given an integer success. A spell and potion pair is considered suc
 
 Return an integer array pairs of length n where pairs[i] is the number of potions that will form a successful pair with the ith spell.
 
-
-
 Example 1:
 
 Input: spells = [5,1,3], potions = [1,2,3,4,5], success = 7
@@ -27,8 +25,6 @@ Explanation:
 - 1st spell: 1 \* [8,5,8] = [8,5,8]. 0 pairs are successful.
 - 2nd spell: 2 \* [8,5,8] = [16,10,16]. 2 pairs are successful.
   Thus, [2,0,2] is returned.
-
-
 
 Constraints:
 

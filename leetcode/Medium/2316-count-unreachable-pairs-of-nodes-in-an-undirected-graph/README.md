@@ -2,8 +2,6 @@
 
 Return the number of pairs of different nodes that are unreachable from each other.
 
-
-
 Example 1:
 
 [https://assets.leetcode.com/uploads/2022/05/05/tc-3.png]
@@ -21,8 +19,6 @@ Output: 14
 Explanation: There are 14 pairs of nodes that are unreachable from each other:
 [[0,1],[0,3],[0,6],[1,2],[1,3],[1,4],[1,5],[2,3],[2,6],[3,4],[3,5],[3,6],[4,6],[5,6]].
 Therefore, we return 14.
-
-
 
 Constraints:
 

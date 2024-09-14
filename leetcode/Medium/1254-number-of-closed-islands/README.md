@@ -2,8 +2,6 @@
 
 Return the number of closed islands.
 
-
-
 Example 1:
 
 [https://assets.leetcode.com/uploads/2019/10/31/sample_3_1610.png]
@@ -30,8 +28,6 @@ Input: grid = [[1,1,1,1,1,1,1],
                [1,0,0,0,0,0,1],
                [1,1,1,1,1,1,1]]
 Output: 2
-
-
 
 Constraints:
 

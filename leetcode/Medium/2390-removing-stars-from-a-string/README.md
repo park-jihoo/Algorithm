@@ -12,8 +12,6 @@ Note:
 - The input will be generated such that the operation is always possible.
 - It can be shown that the resulting string will always be unique.
 
-
-
 Example 1:
 
 Input: s = "leet\**cod*e"
@@ -30,8 +28,6 @@ Example 2:
 Input: s = "erase**\***"
 Output: ""
 Explanation: The entire string is removed, so we return an empty string.
-
-
 
 Constraints:
 

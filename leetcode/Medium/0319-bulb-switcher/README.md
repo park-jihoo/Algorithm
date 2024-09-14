@@ -4,8 +4,6 @@ On the third round, you toggle every third bulb (turning on if it's off or turni
 
 Return the number of bulbs that are on after n rounds.
 
-
-
 Example 1:
 
 [https://assets.leetcode.com/uploads/2020/11/05/bulb.jpg]
@@ -27,8 +25,6 @@ Example 3:
 
 Input: n = 1
 Output: 1
-
-
 
 Constraints:
 

@@ -8,8 +8,6 @@ Your task consists of reorienting some roads such that each city can visit the c
 
 It's guaranteed that each city can reach city 0 after reorder.
 
-
-
 Example 1:
 
 [https://assets.leetcode.com/uploads/2020/05/13/sample_1_1819.png]
@@ -30,8 +28,6 @@ Example 3:
 
 Input: n = 3, connections = [[1,0],[2,0]]
 Output: 0
-
-
 
 Constraints:
 

@@ -1,7 +1,5 @@
 <h2><a href="https://leetcode.com/problems/add-digits/">258. Add Digits</a></h2><h3>Easy</h3><hr>Can you solve this real interview question? Add Digits - Given an integer num, repeatedly add all its digits until the result has only one digit, and return it.
 
-
-
 Example 1:
 
 Input: num = 38
@@ -16,12 +14,8 @@ Example 2:
 Input: num = 0
 Output: 0
 
-
-
 Constraints:
 
 - 0 <= num <= 231 - 1
-
-
 
 Follow up: Could you do it without any loop/recursion in O(1) runtime?

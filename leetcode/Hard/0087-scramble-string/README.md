@@ -8,8 +8,6 @@
 
 Given two strings s1 and s2 of the same length, return true if s2 is a scrambled string of s1, otherwise, return false.
 
-
-
 Example 1:
 
 Input: s1 = "great", s2 = "rgeat"
@@ -33,8 +31,6 @@ Example 3:
 
 Input: s1 = "a", s2 = "a"
 Output: true
-
-
 
 Constraints:
 

@@ -10,8 +10,6 @@ Note:
 - It is allowed for a path to contain the same road multiple times, and you can visit cities 1 and n multiple times along the path.
 - The test cases are generated such that there is at least one path between 1 and n.
 
-
-
 Example 1:
 
 [https://assets.leetcode.com/uploads/2022/10/12/graph11.png]
@@ -28,8 +26,6 @@ Example 2:
 Input: n = 4, roads = [[1,2,2],[1,3,4],[3,4,7]]
 Output: 2
 Explanation: The path from city 1 to 4 with the minimum score is: 1 -> 2 -> 1 -> 3 -> 4. The score of this path is min(2,2,4,7) = 2.
-
-
 
 Constraints:
 
