@@ -309,6 +309,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [0767-reorganize-string](./leetcode/Medium/0767-reorganize-string/) | Python | 2023-08-23 |
 | leetcode | Medium | [0840-magic-squares-in-grid](./leetcode/Medium/0840-magic-squares-in-grid/) | Python | 2024-08-09 |
 | leetcode | Medium | [0343-integer-break](./leetcode/Medium/0343-integer-break/) | C,C++,Java,JavaScript,Python | 2023-10-06 |
+| leetcode | Medium | [1371-find-the-longest-substring-containing-vowels-in-even-counts](./leetcode/Medium/1371-find-the-longest-substring-containing-vowels-in-even-counts/) | Python | 2024-09-15 |
 | leetcode | Medium | [1894-find-the-student-that-will-replace-the-chalk](./leetcode/Medium/1894-find-the-student-that-will-replace-the-chalk/) | Python | 2024-09-02 |
 | leetcode | Medium | [0808-soup-servings](./leetcode/Medium/0808-soup-servings/) | Python | 2023-08-14 |
 | leetcode | Medium | [0402-remove-k-digits](./leetcode/Medium/0402-remove-k-digits/) | Python | 2024-04-11 |
