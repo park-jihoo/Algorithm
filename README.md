@@ -396,6 +396,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [0208-implement-trie-prefix-tree](./leetcode/Medium/0208-implement-trie-prefix-tree/) | Python | 2023-08-14 |
 | leetcode | Medium | [1992-find-all-groups-of-farmland](./leetcode/Medium/1992-find-all-groups-of-farmland/) | Python | 2024-04-20 |
 | leetcode | Medium | [0209-minimum-size-subarray-sum](./leetcode/Medium/0209-minimum-size-subarray-sum/) | Python | 2024-09-14 |
+| leetcode | Medium | [0539-minimum-time-difference](./leetcode/Medium/0539-minimum-time-difference/) | Python | 2024-09-16 |
 | leetcode | Medium | [0137-single-number-ii](./leetcode/Medium/0137-single-number-ii/) | C++,Python | 2023-08-14 |
 | leetcode | Medium | [1143-longest-common-subsequence](./leetcode/Medium/1143-longest-common-subsequence/) | Python | 2024-01-25 |
 | leetcode | Medium | [1208-get-equal-substrings-within-budget](./leetcode/Medium/1208-get-equal-substrings-within-budget/) | Python | 2024-05-28 |
