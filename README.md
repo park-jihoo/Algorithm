@@ -557,6 +557,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [0867-transpose-matrix](./leetcode/Easy/0867-transpose-matrix/) | Python | 2023-12-10 |
 | leetcode | Easy | [1945-sum-of-digits-of-string-after-convert](./leetcode/Easy/1945-sum-of-digits-of-string-after-convert/) | Python | 2024-09-03 |
 | leetcode | Easy | [1636-sort-array-by-increasing-frequency](./leetcode/Easy/1636-sort-array-by-increasing-frequency/) | Python | 2024-07-23 |
+| leetcode | Easy | [0884-uncommon-words-from-two-sentences](./leetcode/Easy/0884-uncommon-words-from-two-sentences/) | Python | 2024-09-17 |
 | leetcode | Easy | [0181-employees-earning-more-than-their-managers](./leetcode/Easy/0181-employees-earning-more-than-their-managers/) | SQL | 2023-09-15 |
 | leetcode | Easy | [0389-find-the-difference](./leetcode/Easy/0389-find-the-difference/) | Python | 2023-09-25 |
 | leetcode | Easy | [2073-time-needed-to-buy-tickets](./leetcode/Easy/2073-time-needed-to-buy-tickets/) | Python | 2024-04-09 |
