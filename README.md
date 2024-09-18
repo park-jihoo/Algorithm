@@ -137,6 +137,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [2225-find-players-with-zero-or-one-losses](./leetcode/Medium/2225-find-players-with-zero-or-one-losses/) | Python | 2024-01-15 |
 | leetcode | Medium | [0054-spiral-matrix](./leetcode/Medium/0054-spiral-matrix/) | C++,Python | 2023-08-14 |
 | leetcode | Medium | [2958-length-of-longest-subarray-with-at-most-k-frequency](./leetcode/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Python | 2024-03-28 |
+| leetcode | Medium | [0179-largest-number](./leetcode/Medium/0179-largest-number/) | Python | 2024-09-18 |
 | leetcode | Medium | [0650-2-keys-keyboard](./leetcode/Medium/0650-2-keys-keyboard/) | Python | 2024-08-19 |
 | leetcode | Medium | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](./leetcode/Medium/1239-maximum-length-of-a-concatenated-string-with-unique-characters/) | Python | 2024-01-23 |
 | leetcode | Medium | [1552-magnetic-force-between-two-balls](./leetcode/Medium/1552-magnetic-force-between-two-balls/) | Python | 2024-06-20 |
