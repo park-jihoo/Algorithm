@@ -6,13 +6,13 @@ class Solution:
         for idx, val in enumerate(expression):
             if val in "-+*":
                 left = self.diffWaysToCompute(expression[:idx])
-                right = self.diffWaysToCompute(expression[idx+1:])
+                right = self.diffWaysToCompute(expression[idx + 1 :])
                 for l in left:
                     for r in right:
-                        if val == '+':
-                            ans.append(l+r)
-                        if val == '-':
-                            ans.append(l-r)
-                        if val == '*':
-                            ans.append(l*r)
+                        if val == "+":
+                            ans.append(l + r)
+                        if val == "-":
+                            ans.append(l - r)
+                        if val == "*":
+                            ans.append(l * r)
         return ans
