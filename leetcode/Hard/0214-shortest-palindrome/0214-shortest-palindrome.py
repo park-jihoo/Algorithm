@@ -7,4 +7,8 @@ class Solution:
         for i in reversed(range(len(s))):
             if s[i] == s[j]:
                 j += 1
-        return s[::-1][:len(s)-j] + self.shortestPalindrome(s[:j-len(s)]) + s[j-len(s):]
+        return (
+            s[::-1][: len(s) - j]
+            + self.shortestPalindrome(s[: j - len(s)])
+            + s[j - len(s) :]
+        )

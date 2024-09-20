@@ -84,6 +84,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Hard | [1463-cherry-pickup-ii](./leetcode/Hard/1463-cherry-pickup-ii/) | Python | 2024-02-11 |
 | leetcode | Hard | [2448-minimum-cost-to-make-array-equal](./leetcode/Hard/2448-minimum-cost-to-make-array-equal/) | Python | 2023-08-14 |
 | leetcode | Hard | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](./leetcode/Hard/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons/) | Python | 2023-10-07 |
+| leetcode | Hard | [0214-shortest-palindrome](./leetcode/Hard/0214-shortest-palindrome/) | Python | 2024-09-20 |
 | leetcode | Hard | [1857-largest-color-value-in-a-directed-graph](./leetcode/Hard/1857-largest-color-value-in-a-directed-graph/) | Python | 2024-09-14 |
 | leetcode | Hard | [2444-count-subarrays-with-fixed-bounds](./leetcode/Hard/2444-count-subarrays-with-fixed-bounds/) | Python | 2024-09-14 |
 | leetcode | Hard | [2141-maximum-running-time-of-n-computers](./leetcode/Hard/2141-maximum-running-time-of-n-computers/) | Python | 2023-08-14 |
