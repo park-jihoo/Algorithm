@@ -8,7 +8,7 @@ class Trie:
             if ch not in cur:
                 cur[ch] = {}
             cur = cur[ch]
-            cur['*'] = True
+            cur["*"] = True
 
     def common_prefix(self, word):
         cur = self.head
@@ -16,9 +16,9 @@ class Trie:
             if ch not in cur:
                 return word[:idx]
             cur = cur[ch]
-        if '*' in cur:
+        if "*" in cur:
             return word
-        return ''
+        return ""
 
 
 class Solution:

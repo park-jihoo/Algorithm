@@ -475,6 +475,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [0179-largest-number](./leetcode/Medium/0179-largest-number/) | Python | 2024-09-18 |
 | leetcode | Medium | [0958-check-completeness-of-a-binary-tree](./leetcode/Medium/0958-check-completeness-of-a-binary-tree/) | Python | 2024-09-14 |
 | leetcode | Medium | [2130-maximum-twin-sum-of-a-linked-list](./leetcode/Medium/2130-maximum-twin-sum-of-a-linked-list/) | Python | 2023-08-14 |
+| leetcode | Medium | [3043-find-the-length-of-the-longest-common-prefix](./leetcode/Medium/3043-find-the-length-of-the-longest-common-prefix/) | Python | 2024-09-24 |
 | leetcode | Medium | [2914-find-the-safest-path-in-a-grid](./leetcode/Medium/2914-find-the-safest-path-in-a-grid/) | Python | 2024-05-15 |
 | leetcode | Medium | [0053-maximum-subarray](./leetcode/Medium/0053-maximum-subarray/) | Python | 2024-07-07 |
 | leetcode | Medium | [0515-find-largest-value-in-each-tree-row](./leetcode/Medium/0515-find-largest-value-in-each-tree-row/) | Python | 2023-10-24 |
