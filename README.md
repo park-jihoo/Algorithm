@@ -64,6 +64,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Hard | [0514-freedom-trail](./leetcode/Hard/0514-freedom-trail/) | Python | 2024-04-27 |
 | leetcode | Hard | [0262-trips-and-users](./leetcode/Hard/0262-trips-and-users/) | SQL | 2024-09-14 |
 | leetcode | Hard | [2709-greatest-common-divisor-traversal](./leetcode/Hard/2709-greatest-common-divisor-traversal/) | Python | 2024-02-25 |
+| leetcode | Hard | [2416-sum-of-prefix-scores-of-strings](./leetcode/Hard/2416-sum-of-prefix-scores-of-strings/) | Python | 2024-09-25 |
 | leetcode | Hard | [0004-median-of-two-sorted-arrays](./leetcode/Hard/0004-median-of-two-sorted-arrays/) | Python | 2023-09-21 |
 | leetcode | Hard | [1697-checking-existence-of-edge-length-limited-paths](./leetcode/Hard/1697-checking-existence-of-edge-length-limited-paths/) | Python | 2024-09-14 |
 | leetcode | Hard | [1964-find-the-longest-valid-obstacle-course-at-each-position](./leetcode/Hard/1964-find-the-longest-valid-obstacle-course-at-each-position/) | Python | 2023-08-14 |

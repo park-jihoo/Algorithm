@@ -14,9 +14,10 @@ class Trie:
         cur = self.head
         ans = 0
         for ch in word:
-            ans += cur[ch]['*']
+            ans += cur[ch]["*"]
             cur = cur[ch]
         return ans
+
 
 class Solution:
     def sumPrefixScores(self, words: List[str]) -> List[int]:
