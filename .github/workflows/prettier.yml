@@ -8,7 +8,7 @@ on:
 
 jobs:
   format_and_update_readme:
-    if: github.event.commits.*.message contains 'Time'
+    if: contains(github.event.head_commit.message, 'Time')
     runs-on: ubuntu-latest
     permissions:
       contents: write
