@@ -5,6 +5,7 @@
     "problem_name": "1265. ［S／W 문제해결 응용］ 9일차 － 달란트2",
     "languages": "C++",
     "last_commit_date": "2024-09-14"
+    "slug": "SWEA/D5/1265. ［S／W 문제해결 응용］ 9일차 － 달란트2"
   },
   {
     "platform": "SWEA",
@@ -12,6 +13,7 @@
     "problem_name": "1245. ［S／W 문제해결 응용］ 2일차 － 균형점",
     "languages": "C++",
     "last_commit_date": "2024-09-14"
+    "slug": "SWEA/D5/1245. ［S／W 문제해결 응용］ 2일차 － 균형점"
   },
   {
     "platform": "SWEA",
@@ -19,6 +21,7 @@
     "problem_name": "4340. ［연습문제］ 파이프 연결",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "SWEA/Unrated/4340. ［연습문제］ 파이프 연결"
   },
   {
     "platform": "SWEA",
@@ -26,6 +29,7 @@
     "problem_name": "4311. ［연습문제］ 오래된 스마트폰",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "SWEA/Unrated/4311. ［연습문제］ 오래된 스마트폰"
   },
   {
     "platform": "SWEA",
@@ -33,6 +37,7 @@
     "problem_name": "1952. ［모의 SW 역량테스트］ 수영장",
     "languages": "C++",
     "last_commit_date": "2024-09-14"
+    "slug": "SWEA/Unrated/1952. ［모의 SW 역량테스트］ 수영장"
   },
   {
     "platform": "SWEA",
@@ -40,6 +45,7 @@
     "problem_name": "4317. ［연습문제］ 칩 생산",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "SWEA/Unrated/4317. ［연습문제］ 칩 생산"
   },
   {
     "platform": "SWEA",
@@ -47,6 +53,7 @@
     "problem_name": "4335. ［연습문제］ 무인도 탈출",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "SWEA/Unrated/4335. ［연습문제］ 무인도 탈출"
   },
   {
     "platform": "SWEA",
@@ -54,6 +61,7 @@
     "problem_name": "2115. ［모의 SW 역량테스트］ 벌꿀채취",
     "languages": "C++",
     "last_commit_date": "2024-09-14"
+    "slug": "SWEA/Unrated/2115. ［모의 SW 역량테스트］ 벌꿀채취"
   },
   {
     "platform": "SWEA",
@@ -61,6 +69,7 @@
     "problem_name": "4322. ［연습문제］ 패킷 처리",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "SWEA/Unrated/4322. ［연습문제］ 패킷 처리"
   },
   {
     "platform": "SWEA",
@@ -68,6 +77,7 @@
     "problem_name": "1206. ［S／W 문제해결 기본］ 1일차 － View",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "SWEA/D3/1206. ［S／W 문제해결 기본］ 1일차 － View"
   },
   {
     "platform": "SWEA",
@@ -75,6 +85,7 @@
     "problem_name": "1244. ［S／W 문제해결 응용］ 2일차 － 최대 상금",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "SWEA/D3/1244. ［S／W 문제해결 응용］ 2일차 － 최대 상금"
   },
   {
     "platform": "leetcode",
@@ -82,6 +93,7 @@
     "problem_name": "1125-smallest-sufficient-team",
     "languages": "Python",
     "last_commit_date": "2023-08-14"
+    "slug": "leetcode/Hard/1125-smallest-sufficient-team"
   },
   {
     "platform": "leetcode",
@@ -89,6 +101,7 @@
     "problem_name": "1639-number-of-ways-to-form-a-target-string-given-a-dictionary",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Hard/1639-number-of-ways-to-form-a-target-string-given-a-dictionary"
   },
   {
     "platform": "leetcode",
@@ -96,6 +109,7 @@
     "problem_name": "1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree",
     "languages": "Python",
     "last_commit_date": "2023-08-19"
+    "slug": "leetcode/Hard/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree"
   },
   {
     "platform": "leetcode",
@@ -103,6 +117,7 @@
     "problem_name": "0403-frog-jump",
     "languages": "Python",
     "last_commit_date": "2023-08-27"
+    "slug": "leetcode/Hard/0403-frog-jump"
   },
   {
     "platform": "leetcode",
@@ -110,6 +125,7 @@
     "problem_name": "0857-minimum-cost-to-hire-k-workers",
     "languages": "Python",
     "last_commit_date": "2024-05-11"
+    "slug": "leetcode/Hard/0857-minimum-cost-to-hire-k-workers"
   },
   {
     "platform": "leetcode",
@@ -117,6 +133,7 @@
     "problem_name": "0068-text-justification",
     "languages": "Python",
     "last_commit_date": "2023-08-24"
+    "slug": "leetcode/Hard/0068-text-justification"
   },
   {
     "platform": "leetcode",
@@ -124,6 +141,7 @@
     "problem_name": "1203-sort-items-by-groups-respecting-dependencies",
     "languages": "Python",
     "last_commit_date": "2023-08-20"
+    "slug": "leetcode/Hard/1203-sort-items-by-groups-respecting-dependencies"
   },
   {
     "platform": "leetcode",
@@ -131,6 +149,7 @@
     "problem_name": "0041-first-missing-positive",
     "languages": "Python",
     "last_commit_date": "2024-03-26"
+    "slug": "leetcode/Hard/0041-first-missing-positive"
   },
   {
     "platform": "leetcode",
@@ -138,6 +157,7 @@
     "problem_name": "3068-find-the-maximum-sum-of-node-values",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Hard/3068-find-the-maximum-sum-of-node-values"
   },
   {
     "platform": "leetcode",
@@ -145,6 +165,7 @@
     "problem_name": "1425-constrained-subsequence-sum",
     "languages": "Python",
     "last_commit_date": "2023-10-21"
+    "slug": "leetcode/Hard/1425-constrained-subsequence-sum"
   },
   {
     "platform": "leetcode",
@@ -152,6 +173,7 @@
     "problem_name": "0847-shortest-path-visiting-all-nodes",
     "languages": "Python",
     "last_commit_date": "2023-09-17"
+    "slug": "leetcode/Hard/0847-shortest-path-visiting-all-nodes"
   },
   {
     "platform": "leetcode",
@@ -159,6 +181,7 @@
     "problem_name": "2251-number-of-flowers-in-full-bloom",
     "languages": "Python",
     "last_commit_date": "2023-12-21"
+    "slug": "leetcode/Hard/2251-number-of-flowers-in-full-bloom"
   },
   {
     "platform": "leetcode",
@@ -166,6 +189,7 @@
     "problem_name": "1037-minimum-number-of-k-consecutive-bit-flips",
     "languages": "Python",
     "last_commit_date": "2024-06-24"
+    "slug": "leetcode/Hard/1037-minimum-number-of-k-consecutive-bit-flips"
   },
   {
     "platform": "leetcode",
@@ -173,6 +197,7 @@
     "problem_name": "1235-maximum-profit-in-job-scheduling",
     "languages": "Python",
     "last_commit_date": "2024-01-06"
+    "slug": "leetcode/Hard/1235-maximum-profit-in-job-scheduling"
   },
   {
     "platform": "leetcode",
@@ -180,6 +205,7 @@
     "problem_name": "0629-k-inverse-pairs-array",
     "languages": "Python",
     "last_commit_date": "2024-01-27"
+    "slug": "leetcode/Hard/0629-k-inverse-pairs-array"
   },
   {
     "platform": "leetcode",
@@ -187,6 +213,7 @@
     "problem_name": "0085-maximal-rectangle",
     "languages": "Python",
     "last_commit_date": "2024-04-13"
+    "slug": "leetcode/Hard/0085-maximal-rectangle"
   },
   {
     "platform": "leetcode",
@@ -194,6 +221,7 @@
     "problem_name": "1579-remove-max-number-of-edges-to-keep-graph-fully-traversable",
     "languages": "Python",
     "last_commit_date": "2024-06-30"
+    "slug": "leetcode/Hard/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable"
   },
   {
     "platform": "leetcode",
@@ -201,6 +229,7 @@
     "problem_name": "1255-maximum-score-words-formed-by-letters",
     "languages": "Python",
     "last_commit_date": "2024-05-24"
+    "slug": "leetcode/Hard/1255-maximum-score-words-formed-by-letters"
   },
   {
     "platform": "leetcode",
@@ -208,6 +237,7 @@
     "problem_name": "1312-minimum-insertion-steps-to-make-a-string-palindrome",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Hard/1312-minimum-insertion-steps-to-make-a-string-palindrome"
   },
   {
     "platform": "leetcode",
@@ -215,6 +245,7 @@
     "problem_name": "0135-candy",
     "languages": "Python",
     "last_commit_date": "2023-09-13"
+    "slug": "leetcode/Hard/0135-candy"
   },
   {
     "platform": "leetcode",
@@ -222,6 +253,7 @@
     "problem_name": "1444-number-of-ways-of-cutting-a-pizza",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Hard/1444-number-of-ways-of-cutting-a-pizza"
   },
   {
     "platform": "leetcode",
@@ -229,6 +261,7 @@
     "problem_name": "2360-longest-cycle-in-a-graph",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Hard/2360-longest-cycle-in-a-graph"
   },
   {
     "platform": "leetcode",
@@ -236,6 +269,7 @@
     "problem_name": "1095-find-in-mountain-array",
     "languages": "Python",
     "last_commit_date": "2023-10-12"
+    "slug": "leetcode/Hard/1095-find-in-mountain-array"
   },
   {
     "platform": "leetcode",
@@ -243,6 +277,7 @@
     "problem_name": "0992-subarrays-with-k-different-integers",
     "languages": "Python",
     "last_commit_date": "2024-03-30"
+    "slug": "leetcode/Hard/0992-subarrays-with-k-different-integers"
   },
   {
     "platform": "leetcode",
@@ -250,6 +285,7 @@
     "problem_name": "2171-second-minimum-time-to-reach-destination",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Hard/2171-second-minimum-time-to-reach-destination"
   },
   {
     "platform": "leetcode",
@@ -257,6 +293,7 @@
     "problem_name": "2092-find-all-people-with-secret",
     "languages": "Python",
     "last_commit_date": "2024-02-24"
+    "slug": "leetcode/Hard/2092-find-all-people-with-secret"
   },
   {
     "platform": "leetcode",
@@ -264,6 +301,7 @@
     "problem_name": "1269-number-of-ways-to-stay-in-the-same-place-after-some-steps",
     "languages": "Python",
     "last_commit_date": "2023-10-15"
+    "slug": "leetcode/Hard/1269-number-of-ways-to-stay-in-the-same-place-after-some-steps"
   },
   {
     "platform": "leetcode",
@@ -271,6 +309,7 @@
     "problem_name": "0956-tallest-billboard",
     "languages": "Python",
     "last_commit_date": "2023-08-14"
+    "slug": "leetcode/Hard/0956-tallest-billboard"
   },
   {
     "platform": "leetcode",
@@ -278,6 +317,7 @@
     "problem_name": "0719-find-k-th-smallest-pair-distance",
     "languages": "Python",
     "last_commit_date": "2024-08-14"
+    "slug": "leetcode/Hard/0719-find-k-th-smallest-pair-distance"
   },
   {
     "platform": "leetcode",
@@ -285,6 +325,7 @@
     "problem_name": "2272-substring-with-largest-variance",
     "languages": "C,C++,Python",
     "last_commit_date": "2023-08-14"
+    "slug": "leetcode/Hard/2272-substring-with-largest-variance"
   },
   {
     "platform": "leetcode",
@@ -292,6 +333,7 @@
     "problem_name": "1187-make-array-strictly-increasing",
     "languages": "Java",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Hard/1187-make-array-strictly-increasing"
   },
   {
     "platform": "leetcode",
@@ -299,6 +341,7 @@
     "problem_name": "1569-number-of-ways-to-reorder-array-to-get-same-bst",
     "languages": "Java",
     "last_commit_date": "2023-08-14"
+    "slug": "leetcode/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst"
   },
   {
     "platform": "leetcode",
@@ -306,6 +349,7 @@
     "problem_name": "1402-reducing-dishes",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Hard/1402-reducing-dishes"
   },
   {
     "platform": "leetcode",
@@ -313,6 +357,7 @@
     "problem_name": "2147-number-of-ways-to-divide-a-long-corridor",
     "languages": "Python",
     "last_commit_date": "2023-11-29"
+    "slug": "leetcode/Hard/2147-number-of-ways-to-divide-a-long-corridor"
   },
   {
     "platform": "leetcode",
@@ -320,6 +365,7 @@
     "problem_name": "2751-robot-collisions",
     "languages": "Python",
     "last_commit_date": "2024-07-13"
+    "slug": "leetcode/Hard/2751-robot-collisions"
   },
   {
     "platform": "leetcode",
@@ -327,6 +373,7 @@
     "problem_name": "0864-shortest-path-to-get-all-keys",
     "languages": "Python",
     "last_commit_date": "2023-08-14"
+    "slug": "leetcode/Hard/0864-shortest-path-to-get-all-keys"
   },
   {
     "platform": "leetcode",
@@ -334,6 +381,7 @@
     "problem_name": "2050-parallel-courses-iii",
     "languages": "Python",
     "last_commit_date": "2023-12-21"
+    "slug": "leetcode/Hard/2050-parallel-courses-iii"
   },
   {
     "platform": "leetcode",
@@ -341,6 +389,7 @@
     "problem_name": "1074-number-of-submatrices-that-sum-to-target",
     "languages": "Python",
     "last_commit_date": "2024-01-28"
+    "slug": "leetcode/Hard/1074-number-of-submatrices-that-sum-to-target"
   },
   {
     "platform": "leetcode",
@@ -348,6 +397,7 @@
     "problem_name": "0330-patching-array",
     "languages": "Python",
     "last_commit_date": "2024-06-16"
+    "slug": "leetcode/Hard/0330-patching-array"
   },
   {
     "platform": "leetcode",
@@ -355,6 +405,7 @@
     "problem_name": "1406-stone-game-iii",
     "languages": "Python",
     "last_commit_date": "2023-08-14"
+    "slug": "leetcode/Hard/1406-stone-game-iii"
   },
   {
     "platform": "leetcode",
@@ -362,6 +413,7 @@
     "problem_name": "2642-design-graph-with-shortest-path-calculator",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Hard/2642-design-graph-with-shortest-path-calculator"
   },
   {
     "platform": "leetcode",
@@ -369,6 +421,7 @@
     "problem_name": "0042-trapping-rain-water",
     "languages": "Python",
     "last_commit_date": "2024-04-12"
+    "slug": "leetcode/Hard/0042-trapping-rain-water"
   },
   {
     "platform": "leetcode",
@@ -376,6 +429,7 @@
     "problem_name": "1531-string-compression-ii",
     "languages": "Python",
     "last_commit_date": "2023-12-28"
+    "slug": "leetcode/Hard/1531-string-compression-ii"
   },
   {
     "platform": "leetcode",
@@ -383,6 +437,7 @@
     "problem_name": "0239-sliding-window-maximum",
     "languages": "C,C++,Python",
     "last_commit_date": "2023-08-16"
+    "slug": "leetcode/Hard/0239-sliding-window-maximum"
   },
   {
     "platform": "leetcode",
@@ -390,6 +445,7 @@
     "problem_name": "0552-student-attendance-record-ii",
     "languages": "Python",
     "last_commit_date": "2024-05-26"
+    "slug": "leetcode/Hard/0552-student-attendance-record-ii"
   },
   {
     "platform": "leetcode",
@@ -397,6 +453,7 @@
     "problem_name": "0072-edit-distance",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Hard/0072-edit-distance"
   },
   {
     "platform": "leetcode",
@@ -404,6 +461,7 @@
     "problem_name": "0514-freedom-trail",
     "languages": "Python",
     "last_commit_date": "2024-04-27"
+    "slug": "leetcode/Hard/0514-freedom-trail"
   },
   {
     "platform": "leetcode",
@@ -411,6 +469,7 @@
     "problem_name": "0262-trips-and-users",
     "languages": "SQL",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Hard/0262-trips-and-users"
   },
   {
     "platform": "leetcode",
@@ -418,6 +477,7 @@
     "problem_name": "2709-greatest-common-divisor-traversal",
     "languages": "Python",
     "last_commit_date": "2024-02-25"
+    "slug": "leetcode/Hard/2709-greatest-common-divisor-traversal"
   },
   {
     "platform": "leetcode",
@@ -425,6 +485,7 @@
     "problem_name": "2416-sum-of-prefix-scores-of-strings",
     "languages": "Python",
     "last_commit_date": "2024-09-25"
+    "slug": "leetcode/Hard/2416-sum-of-prefix-scores-of-strings"
   },
   {
     "platform": "leetcode",
@@ -432,6 +493,7 @@
     "problem_name": "0004-median-of-two-sorted-arrays",
     "languages": "Python",
     "last_commit_date": "2023-09-21"
+    "slug": "leetcode/Hard/0004-median-of-two-sorted-arrays"
   },
   {
     "platform": "leetcode",
@@ -439,6 +501,7 @@
     "problem_name": "1697-checking-existence-of-edge-length-limited-paths",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Hard/1697-checking-existence-of-edge-length-limited-paths"
   },
   {
     "platform": "leetcode",
@@ -446,6 +509,7 @@
     "problem_name": "1964-find-the-longest-valid-obstacle-course-at-each-position",
     "languages": "Python",
     "last_commit_date": "2023-08-14"
+    "slug": "leetcode/Hard/1964-find-the-longest-valid-obstacle-course-at-each-position"
   },
   {
     "platform": "leetcode",
@@ -453,6 +517,7 @@
     "problem_name": "1547-minimum-cost-to-cut-a-stick",
     "languages": "Python",
     "last_commit_date": "2023-08-14"
+    "slug": "leetcode/Hard/1547-minimum-cost-to-cut-a-stick"
   },
   {
     "platform": "leetcode",
@@ -460,6 +525,7 @@
     "problem_name": "2328-number-of-increasing-paths-in-a-grid",
     "languages": "Python",
     "last_commit_date": "2023-08-14"
+    "slug": "leetcode/Hard/2328-number-of-increasing-paths-in-a-grid"
   },
   {
     "platform": "leetcode",
@@ -467,6 +533,7 @@
     "problem_name": "1799-maximize-score-after-n-operations",
     "languages": "Python",
     "last_commit_date": "2023-08-14"
+    "slug": "leetcode/Hard/1799-maximize-score-after-n-operations"
   },
   {
     "platform": "leetcode",
@@ -474,6 +541,7 @@
     "problem_name": "0879-profitable-schemes",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Hard/0879-profitable-schemes"
   },
   {
     "platform": "leetcode",
@@ -481,6 +549,7 @@
     "problem_name": "1970-last-day-where-you-can-still-cross",
     "languages": "Python",
     "last_commit_date": "2023-08-14"
+    "slug": "leetcode/Hard/1970-last-day-where-you-can-still-cross"
   },
   {
     "platform": "leetcode",
@@ -488,6 +557,7 @@
     "problem_name": "2392-build-a-matrix-with-conditions",
     "languages": "Python",
     "last_commit_date": "2024-07-21"
+    "slug": "leetcode/Hard/2392-build-a-matrix-with-conditions"
   },
   {
     "platform": "leetcode",
@@ -495,6 +565,7 @@
     "problem_name": "0446-arithmetic-slices-ii-subsequence",
     "languages": "Python",
     "last_commit_date": "2024-01-07"
+    "slug": "leetcode/Hard/0446-arithmetic-slices-ii-subsequence"
   },
   {
     "platform": "leetcode",
@@ -502,6 +573,7 @@
     "problem_name": "0664-strange-printer",
     "languages": "Python",
     "last_commit_date": "2023-08-14"
+    "slug": "leetcode/Hard/0664-strange-printer"
   },
   {
     "platform": "leetcode",
@@ -509,6 +581,7 @@
     "problem_name": "1458-max-dot-product-of-two-subsequences",
     "languages": "Python",
     "last_commit_date": "2023-10-08"
+    "slug": "leetcode/Hard/1458-max-dot-product-of-two-subsequences"
   },
   {
     "platform": "leetcode",
@@ -516,6 +589,7 @@
     "problem_name": "0185-department-top-three-salaries",
     "languages": "SQL",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Hard/0185-department-top-three-salaries"
   },
   {
     "platform": "leetcode",
@@ -523,6 +597,7 @@
     "problem_name": "0458-poor-pigs",
     "languages": "Python",
     "last_commit_date": "2023-10-29"
+    "slug": "leetcode/Hard/0458-poor-pigs"
   },
   {
     "platform": "leetcode",
@@ -530,6 +605,7 @@
     "problem_name": "0273-integer-to-english-words",
     "languages": "Python",
     "last_commit_date": "2024-08-07"
+    "slug": "leetcode/Hard/0273-integer-to-english-words"
   },
   {
     "platform": "leetcode",
@@ -537,6 +613,7 @@
     "problem_name": "1601-maximum-number-of-achievable-transfer-requests",
     "languages": "Python",
     "last_commit_date": "2023-08-14"
+    "slug": "leetcode/Hard/1601-maximum-number-of-achievable-transfer-requests"
   },
   {
     "platform": "leetcode",
@@ -544,6 +621,7 @@
     "problem_name": "0140-word-break-ii",
     "languages": "Python",
     "last_commit_date": "2024-05-25"
+    "slug": "leetcode/Hard/0140-word-break-ii"
   },
   {
     "platform": "leetcode",
@@ -551,6 +629,7 @@
     "problem_name": "1463-cherry-pickup-ii",
     "languages": "Python",
     "last_commit_date": "2024-02-11"
+    "slug": "leetcode/Hard/1463-cherry-pickup-ii"
   },
   {
     "platform": "leetcode",
@@ -558,6 +637,7 @@
     "problem_name": "2448-minimum-cost-to-make-array-equal",
     "languages": "Python",
     "last_commit_date": "2023-08-14"
+    "slug": "leetcode/Hard/2448-minimum-cost-to-make-array-equal"
   },
   {
     "platform": "leetcode",
@@ -565,6 +645,7 @@
     "problem_name": "1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons",
     "languages": "Python",
     "last_commit_date": "2023-10-07"
+    "slug": "leetcode/Hard/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons"
   },
   {
     "platform": "leetcode",
@@ -572,6 +653,7 @@
     "problem_name": "0214-shortest-palindrome",
     "languages": "Python",
     "last_commit_date": "2024-09-20"
+    "slug": "leetcode/Hard/0214-shortest-palindrome"
   },
   {
     "platform": "leetcode",
@@ -579,6 +661,7 @@
     "problem_name": "1857-largest-color-value-in-a-directed-graph",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Hard/1857-largest-color-value-in-a-directed-graph"
   },
   {
     "platform": "leetcode",
@@ -586,6 +669,7 @@
     "problem_name": "2444-count-subarrays-with-fixed-bounds",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Hard/2444-count-subarrays-with-fixed-bounds"
   },
   {
     "platform": "leetcode",
@@ -593,6 +677,7 @@
     "problem_name": "2141-maximum-running-time-of-n-computers",
     "languages": "Python",
     "last_commit_date": "2023-08-14"
+    "slug": "leetcode/Hard/2141-maximum-running-time-of-n-computers"
   },
   {
     "platform": "leetcode",
@@ -600,6 +685,7 @@
     "problem_name": "0564-find-the-closest-palindrome",
     "languages": "Python",
     "last_commit_date": "2024-08-24"
+    "slug": "leetcode/Hard/0564-find-the-closest-palindrome"
   },
   {
     "platform": "leetcode",
@@ -607,6 +693,7 @@
     "problem_name": "2366-minimum-replacements-to-sort-the-array",
     "languages": "C++",
     "last_commit_date": "2023-08-30"
+    "slug": "leetcode/Hard/2366-minimum-replacements-to-sort-the-array"
   },
   {
     "platform": "leetcode",
@@ -614,6 +701,7 @@
     "problem_name": "1220-count-vowels-permutation",
     "languages": "Python",
     "last_commit_date": "2023-10-28"
+    "slug": "leetcode/Hard/1220-count-vowels-permutation"
   },
   {
     "platform": "leetcode",
@@ -621,6 +709,7 @@
     "problem_name": "1345-jump-game-iv",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Hard/1345-jump-game-iv"
   },
   {
     "platform": "leetcode",
@@ -628,6 +717,7 @@
     "problem_name": "1359-count-all-valid-pickup-and-delivery-options",
     "languages": "Python",
     "last_commit_date": "2023-09-10"
+    "slug": "leetcode/Hard/1359-count-all-valid-pickup-and-delivery-options"
   },
   {
     "platform": "leetcode",
@@ -635,6 +725,7 @@
     "problem_name": "1289-minimum-falling-path-sum-ii",
     "languages": "Python",
     "last_commit_date": "2024-04-26"
+    "slug": "leetcode/Hard/1289-minimum-falling-path-sum-ii"
   },
   {
     "platform": "leetcode",
@@ -642,6 +733,7 @@
     "problem_name": "2218-maximum-value-of-k-coins-from-piles",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Hard/2218-maximum-value-of-k-coins-from-piles"
   },
   {
     "platform": "leetcode",
@@ -649,6 +741,7 @@
     "problem_name": "0332-reconstruct-itinerary",
     "languages": "Python",
     "last_commit_date": "2023-09-14"
+    "slug": "leetcode/Hard/0332-reconstruct-itinerary"
   },
   {
     "platform": "leetcode",
@@ -656,6 +749,7 @@
     "problem_name": "1575-count-all-possible-routes",
     "languages": "Python",
     "last_commit_date": "2023-08-14"
+    "slug": "leetcode/Hard/1575-count-all-possible-routes"
   },
   {
     "platform": "leetcode",
@@ -663,6 +757,7 @@
     "problem_name": "2551-put-marbles-in-bags",
     "languages": "Python",
     "last_commit_date": "2023-08-14"
+    "slug": "leetcode/Hard/2551-put-marbles-in-bags"
   },
   {
     "platform": "leetcode",
@@ -670,6 +765,7 @@
     "problem_name": "2742-painting-the-walls",
     "languages": "Python",
     "last_commit_date": "2023-10-14"
+    "slug": "leetcode/Hard/2742-painting-the-walls"
   },
   {
     "platform": "leetcode",
@@ -677,6 +773,7 @@
     "problem_name": "0834-sum-of-distances-in-tree",
     "languages": "Python",
     "last_commit_date": "2024-04-28"
+    "slug": "leetcode/Hard/0834-sum-of-distances-in-tree"
   },
   {
     "platform": "leetcode",
@@ -684,6 +781,7 @@
     "problem_name": "2009-minimum-number-of-operations-to-make-array-continuous",
     "languages": "Python",
     "last_commit_date": "2023-10-10"
+    "slug": "leetcode/Hard/2009-minimum-number-of-operations-to-make-array-continuous"
   },
   {
     "platform": "leetcode",
@@ -691,6 +789,7 @@
     "problem_name": "1335-minimum-difficulty-of-a-job-schedule",
     "languages": "Python",
     "last_commit_date": "2023-12-29"
+    "slug": "leetcode/Hard/1335-minimum-difficulty-of-a-job-schedule"
   },
   {
     "platform": "leetcode",
@@ -698,6 +797,7 @@
     "problem_name": "0920-number-of-music-playlists",
     "languages": "Python",
     "last_commit_date": "2023-08-14"
+    "slug": "leetcode/Hard/0920-number-of-music-playlists"
   },
   {
     "platform": "leetcode",
@@ -705,6 +805,7 @@
     "problem_name": "0076-minimum-window-substring",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Hard/0076-minimum-window-substring"
   },
   {
     "platform": "leetcode",
@@ -712,6 +813,7 @@
     "problem_name": "0087-scramble-string",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Hard/0087-scramble-string"
   },
   {
     "platform": "leetcode",
@@ -719,6 +821,7 @@
     "problem_name": "1326-minimum-number-of-taps-to-open-to-water-a-garden",
     "languages": "Python",
     "last_commit_date": "2023-08-31"
+    "slug": "leetcode/Hard/1326-minimum-number-of-taps-to-open-to-water-a-garden"
   },
   {
     "platform": "leetcode",
@@ -726,6 +829,7 @@
     "problem_name": "1751-maximum-number-of-events-that-can-be-attended-ii",
     "languages": "Python",
     "last_commit_date": "2023-08-14"
+    "slug": "leetcode/Hard/1751-maximum-number-of-events-that-can-be-attended-ii"
   },
   {
     "platform": "leetcode",
@@ -733,6 +837,7 @@
     "problem_name": "0839-similar-string-groups",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Hard/0839-similar-string-groups"
   },
   {
     "platform": "leetcode",
@@ -740,6 +845,7 @@
     "problem_name": "0726-number-of-atoms",
     "languages": "Python",
     "last_commit_date": "2024-07-14"
+    "slug": "leetcode/Hard/0726-number-of-atoms"
   },
   {
     "platform": "leetcode",
@@ -747,6 +853,7 @@
     "problem_name": "0502-ipo",
     "languages": "Python",
     "last_commit_date": "2024-06-15"
+    "slug": "leetcode/Hard/0502-ipo"
   },
   {
     "platform": "leetcode",
@@ -754,6 +861,7 @@
     "problem_name": "1416-restore-the-array",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Hard/1416-restore-the-array"
   },
   {
     "platform": "leetcode",
@@ -761,6 +869,7 @@
     "problem_name": "1598-crawler-log-folder",
     "languages": "Python",
     "last_commit_date": "2024-07-10"
+    "slug": "leetcode/Easy/1598-crawler-log-folder"
   },
   {
     "platform": "leetcode",
@@ -768,6 +877,7 @@
     "problem_name": "2485-find-the-pivot-integer",
     "languages": "Python",
     "last_commit_date": "2024-03-13"
+    "slug": "leetcode/Easy/2485-find-the-pivot-integer"
   },
   {
     "platform": "leetcode",
@@ -775,6 +885,7 @@
     "problem_name": "0350-intersection-of-two-arrays-ii",
     "languages": "Python",
     "last_commit_date": "2024-07-02"
+    "slug": "leetcode/Easy/0350-intersection-of-two-arrays-ii"
   },
   {
     "platform": "leetcode",
@@ -782,6 +893,7 @@
     "problem_name": "0705-design-hashset",
     "languages": "Python",
     "last_commit_date": "2023-08-14"
+    "slug": "leetcode/Easy/0705-design-hashset"
   },
   {
     "platform": "leetcode",
@@ -789,6 +901,7 @@
     "problem_name": "1502-can-make-arithmetic-progression-from-sequence",
     "languages": "Python",
     "last_commit_date": "2023-08-14"
+    "slug": "leetcode/Easy/1502-can-make-arithmetic-progression-from-sequence"
   },
   {
     "platform": "leetcode",
@@ -796,6 +909,7 @@
     "problem_name": "0268-missing-number",
     "languages": "Python",
     "last_commit_date": "2024-02-20"
+    "slug": "leetcode/Easy/0268-missing-number"
   },
   {
     "platform": "leetcode",
@@ -803,6 +917,7 @@
     "problem_name": "0387-first-unique-character-in-a-string",
     "languages": "Python",
     "last_commit_date": "2024-02-05"
+    "slug": "leetcode/Easy/0387-first-unique-character-in-a-string"
   },
   {
     "platform": "leetcode",
@@ -810,6 +925,7 @@
     "problem_name": "0572-subtree-of-another-tree",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Easy/0572-subtree-of-another-tree"
   },
   {
     "platform": "leetcode",
@@ -817,6 +933,7 @@
     "problem_name": "0905-sort-array-by-parity",
     "languages": "Python",
     "last_commit_date": "2023-09-28"
+    "slug": "leetcode/Easy/0905-sort-array-by-parity"
   },
   {
     "platform": "leetcode",
@@ -824,6 +941,7 @@
     "problem_name": "1512-number-of-good-pairs",
     "languages": "Python",
     "last_commit_date": "2023-10-03"
+    "slug": "leetcode/Easy/1512-number-of-good-pairs"
   },
   {
     "platform": "leetcode",
@@ -831,6 +949,7 @@
     "problem_name": "0219-contains-duplicate-ii",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Easy/0219-contains-duplicate-ii"
   },
   {
     "platform": "leetcode",
@@ -838,6 +957,7 @@
     "problem_name": "0183-customers-who-never-order",
     "languages": "SQL",
     "last_commit_date": "2023-12-15"
+    "slug": "leetcode/Easy/0183-customers-who-never-order"
   },
   {
     "platform": "leetcode",
@@ -845,6 +965,7 @@
     "problem_name": "1051-height-checker",
     "languages": "Python",
     "last_commit_date": "2024-06-10"
+    "slug": "leetcode/Easy/1051-height-checker"
   },
   {
     "platform": "leetcode",
@@ -852,6 +973,7 @@
     "problem_name": "0606-construct-string-from-binary-tree",
     "languages": "Python",
     "last_commit_date": "2023-12-09"
+    "slug": "leetcode/Easy/0606-construct-string-from-binary-tree"
   },
   {
     "platform": "leetcode",
@@ -859,6 +981,7 @@
     "problem_name": "0501-find-mode-in-binary-search-tree",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Easy/0501-find-mode-in-binary-search-tree"
   },
   {
     "platform": "leetcode",
@@ -866,6 +989,7 @@
     "problem_name": "0859-buddy-strings",
     "languages": "C++,Python",
     "last_commit_date": "2023-08-14"
+    "slug": "leetcode/Easy/0859-buddy-strings"
   },
   {
     "platform": "leetcode",
@@ -873,6 +997,7 @@
     "problem_name": "0338-counting-bits",
     "languages": "Python",
     "last_commit_date": "2023-09-01"
+    "slug": "leetcode/Easy/0338-counting-bits"
   },
   {
     "platform": "leetcode",
@@ -880,6 +1005,7 @@
     "problem_name": "1356-sort-integers-by-the-number-of-1-bits",
     "languages": "Python",
     "last_commit_date": "2023-10-30"
+    "slug": "leetcode/Easy/1356-sort-integers-by-the-number-of-1-bits"
   },
   {
     "platform": "leetcode",
@@ -887,6 +1013,7 @@
     "problem_name": "0661-image-smoother",
     "languages": "Python",
     "last_commit_date": "2023-12-19"
+    "slug": "leetcode/Easy/0661-image-smoother"
   },
   {
     "platform": "leetcode",
@@ -894,6 +1021,7 @@
     "problem_name": "0844-backspace-string-compare",
     "languages": "Python",
     "last_commit_date": "2023-10-19"
+    "slug": "leetcode/Easy/0844-backspace-string-compare"
   },
   {
     "platform": "leetcode",
@@ -901,6 +1029,7 @@
     "problem_name": "2582-pass-the-pillow",
     "languages": "Python",
     "last_commit_date": "2024-07-06"
+    "slug": "leetcode/Easy/2582-pass-the-pillow"
   },
   {
     "platform": "leetcode",
@@ -908,6 +1037,7 @@
     "problem_name": "1046-last-stone-weight",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Easy/1046-last-stone-weight"
   },
   {
     "platform": "leetcode",
@@ -915,6 +1045,7 @@
     "problem_name": "0977-squares-of-a-sorted-array",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Easy/0977-squares-of-a-sorted-array"
   },
   {
     "platform": "leetcode",
@@ -922,6 +1053,7 @@
     "problem_name": "1002-find-common-characters",
     "languages": "Python",
     "last_commit_date": "2024-06-05"
+    "slug": "leetcode/Easy/1002-find-common-characters"
   },
   {
     "platform": "leetcode",
@@ -929,6 +1061,7 @@
     "problem_name": "0349-intersection-of-two-arrays",
     "languages": "Python",
     "last_commit_date": "2024-03-10"
+    "slug": "leetcode/Easy/0349-intersection-of-two-arrays"
   },
   {
     "platform": "leetcode",
@@ -936,6 +1069,7 @@
     "problem_name": "0389-find-the-difference",
     "languages": "Python",
     "last_commit_date": "2023-09-25"
+    "slug": "leetcode/Easy/0389-find-the-difference"
   },
   {
     "platform": "leetcode",
@@ -943,6 +1077,7 @@
     "problem_name": "1913-maximum-product-difference-between-two-pairs",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Easy/1913-maximum-product-difference-between-two-pairs"
   },
   {
     "platform": "leetcode",
@@ -950,6 +1085,7 @@
     "problem_name": "2540-minimum-common-value",
     "languages": "Python",
     "last_commit_date": "2024-03-09"
+    "slug": "leetcode/Easy/2540-minimum-common-value"
   },
   {
     "platform": "leetcode",
@@ -957,6 +1093,7 @@
     "problem_name": "0876-middle-of-the-linked-list",
     "languages": "Python",
     "last_commit_date": "2024-03-07"
+    "slug": "leetcode/Easy/0876-middle-of-the-linked-list"
   },
   {
     "platform": "leetcode",
@@ -964,6 +1101,7 @@
     "problem_name": "0867-transpose-matrix",
     "languages": "Python",
     "last_commit_date": "2023-12-10"
+    "slug": "leetcode/Easy/0867-transpose-matrix"
   },
   {
     "platform": "leetcode",
@@ -971,6 +1109,7 @@
     "problem_name": "0009-palindrome-number",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Easy/0009-palindrome-number"
   },
   {
     "platform": "leetcode",
@@ -978,6 +1117,7 @@
     "problem_name": "1903-largest-odd-number-in-string",
     "languages": "Python",
     "last_commit_date": "2023-12-21"
+    "slug": "leetcode/Easy/1903-largest-odd-number-in-string"
   },
   {
     "platform": "leetcode",
@@ -985,6 +1125,7 @@
     "problem_name": "0706-design-hashmap",
     "languages": "Python",
     "last_commit_date": "2023-10-04"
+    "slug": "leetcode/Easy/0706-design-hashmap"
   },
   {
     "platform": "leetcode",
@@ -992,6 +1133,7 @@
     "problem_name": "3005-count-elements-with-maximum-frequency",
     "languages": "Python",
     "last_commit_date": "2024-03-08"
+    "slug": "leetcode/Easy/3005-count-elements-with-maximum-frequency"
   },
   {
     "platform": "leetcode",
@@ -999,6 +1141,7 @@
     "problem_name": "1916-find-center-of-star-graph",
     "languages": "Python",
     "last_commit_date": "2024-06-27"
+    "slug": "leetcode/Easy/1916-find-center-of-star-graph"
   },
   {
     "platform": "leetcode",
@@ -1006,6 +1149,7 @@
     "problem_name": "0860-lemonade-change",
     "languages": "Python",
     "last_commit_date": "2024-08-15"
+    "slug": "leetcode/Easy/0860-lemonade-change"
   },
   {
     "platform": "leetcode",
@@ -1013,6 +1157,7 @@
     "problem_name": "0509-fibonacci-number",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Easy/0509-fibonacci-number"
   },
   {
     "platform": "leetcode",
@@ -1020,6 +1165,7 @@
     "problem_name": "2418-sort-the-people",
     "languages": "Python",
     "last_commit_date": "2024-07-22"
+    "slug": "leetcode/Easy/2418-sort-the-people"
   },
   {
     "platform": "leetcode",
@@ -1027,6 +1173,7 @@
     "problem_name": "1614-maximum-nesting-depth-of-the-parentheses",
     "languages": "Python",
     "last_commit_date": "2024-04-04"
+    "slug": "leetcode/Easy/1614-maximum-nesting-depth-of-the-parentheses"
   },
   {
     "platform": "leetcode",
@@ -1034,6 +1181,7 @@
     "problem_name": "0997-find-the-town-judge",
     "languages": "Python",
     "last_commit_date": "2024-02-22"
+    "slug": "leetcode/Easy/0997-find-the-town-judge"
   },
   {
     "platform": "leetcode",
@@ -1041,6 +1189,7 @@
     "problem_name": "0342-power-of-four",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Easy/0342-power-of-four"
   },
   {
     "platform": "leetcode",
@@ -1048,6 +1197,7 @@
     "problem_name": "0703-kth-largest-element-in-a-stream",
     "languages": "Python",
     "last_commit_date": "2023-08-14"
+    "slug": "leetcode/Easy/0703-kth-largest-element-in-a-stream"
   },
   {
     "platform": "leetcode",
@@ -1055,6 +1205,7 @@
     "problem_name": "3110-score-of-a-string",
     "languages": "Python",
     "last_commit_date": "2024-06-01"
+    "slug": "leetcode/Easy/3110-score-of-a-string"
   },
   {
     "platform": "leetcode",
@@ -1062,6 +1213,7 @@
     "problem_name": "0989-add-to-array-form-of-integer",
     "languages": "Python",
     "last_commit_date": "2023-08-14"
+    "slug": "leetcode/Easy/0989-add-to-array-form-of-integer"
   },
   {
     "platform": "leetcode",
@@ -1069,6 +1221,7 @@
     "problem_name": "2441-largest-positive-integer-that-exists-with-its-negative",
     "languages": "Python",
     "last_commit_date": "2024-05-02"
+    "slug": "leetcode/Easy/2441-largest-positive-integer-that-exists-with-its-negative"
   },
   {
     "platform": "leetcode",
@@ -1076,6 +1229,7 @@
     "problem_name": "1704-determine-if-string-halves-are-alike",
     "languages": "Python",
     "last_commit_date": "2024-01-12"
+    "slug": "leetcode/Easy/1704-determine-if-string-halves-are-alike"
   },
   {
     "platform": "leetcode",
@@ -1083,6 +1237,7 @@
     "problem_name": "0058-length-of-last-word",
     "languages": "Python",
     "last_commit_date": "2024-04-01"
+    "slug": "leetcode/Easy/0058-length-of-last-word"
   },
   {
     "platform": "leetcode",
@@ -1090,6 +1245,7 @@
     "problem_name": "1582-special-positions-in-a-binary-matrix",
     "languages": "Python",
     "last_commit_date": "2023-12-17"
+    "slug": "leetcode/Easy/1582-special-positions-in-a-binary-matrix"
   },
   {
     "platform": "leetcode",
@@ -1097,6 +1253,7 @@
     "problem_name": "1491-average-salary-excluding-the-minimum-and-maximum-salary",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Easy/1491-average-salary-excluding-the-minimum-and-maximum-salary"
   },
   {
     "platform": "leetcode",
@@ -1104,6 +1261,7 @@
     "problem_name": "0746-min-cost-climbing-stairs",
     "languages": "Python",
     "last_commit_date": "2023-10-13"
+    "slug": "leetcode/Easy/0746-min-cost-climbing-stairs"
   },
   {
     "platform": "leetcode",
@@ -1111,6 +1269,7 @@
     "problem_name": "0191-number-of-1-bits",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Easy/0191-number-of-1-bits"
   },
   {
     "platform": "leetcode",
@@ -1118,6 +1277,7 @@
     "problem_name": "0557-reverse-words-in-a-string-iii",
     "languages": "Python",
     "last_commit_date": "2023-10-01"
+    "slug": "leetcode/Easy/0557-reverse-words-in-a-string-iii"
   },
   {
     "platform": "leetcode",
@@ -1125,6 +1285,7 @@
     "problem_name": "1108-defanging-an-ip-address",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Easy/1108-defanging-an-ip-address"
   },
   {
     "platform": "leetcode",
@@ -1132,6 +1293,7 @@
     "problem_name": "1539-kth-missing-positive-number",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Easy/1539-kth-missing-positive-number"
   },
   {
     "platform": "leetcode",
@@ -1139,6 +1301,7 @@
     "problem_name": "0976-largest-perimeter-triangle",
     "languages": "Python",
     "last_commit_date": "2023-08-14"
+    "slug": "leetcode/Easy/0976-largest-perimeter-triangle"
   },
   {
     "platform": "leetcode",
@@ -1146,6 +1309,7 @@
     "problem_name": "0169-majority-element",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Easy/0169-majority-element"
   },
   {
     "platform": "leetcode",
@@ -1153,6 +1317,7 @@
     "problem_name": "0175-combine-two-tables",
     "languages": "SQL",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Easy/0175-combine-two-tables"
   },
   {
     "platform": "leetcode",
@@ -1160,6 +1325,7 @@
     "problem_name": "1544-make-the-string-great",
     "languages": "Python",
     "last_commit_date": "2024-04-05"
+    "slug": "leetcode/Easy/1544-make-the-string-great"
   },
   {
     "platform": "leetcode",
@@ -1167,6 +1333,7 @@
     "problem_name": "1380-lucky-numbers-in-a-matrix",
     "languages": "Python",
     "last_commit_date": "2024-07-19"
+    "slug": "leetcode/Easy/1380-lucky-numbers-in-a-matrix"
   },
   {
     "platform": "leetcode",
@@ -1174,6 +1341,7 @@
     "problem_name": "2215-find-the-difference-of-two-arrays",
     "languages": "C++,Java,JavaScript,Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Easy/2215-find-the-difference-of-two-arrays"
   },
   {
     "platform": "leetcode",
@@ -1181,6 +1349,7 @@
     "problem_name": "0884-uncommon-words-from-two-sentences",
     "languages": "Python",
     "last_commit_date": "2024-09-17"
+    "slug": "leetcode/Easy/0884-uncommon-words-from-two-sentences"
   },
   {
     "platform": "leetcode",
@@ -1188,6 +1357,7 @@
     "problem_name": "0181-employees-earning-more-than-their-managers",
     "languages": "SQL",
     "last_commit_date": "2023-09-15"
+    "slug": "leetcode/Easy/0181-employees-earning-more-than-their-managers"
   },
   {
     "platform": "leetcode",
@@ -1195,6 +1365,7 @@
     "problem_name": "1496-path-crossing",
     "languages": "Python",
     "last_commit_date": "2023-12-23"
+    "slug": "leetcode/Easy/1496-path-crossing"
   },
   {
     "platform": "leetcode",
@@ -1202,6 +1373,7 @@
     "problem_name": "1422-maximum-score-after-splitting-a-string",
     "languages": "Python",
     "last_commit_date": "2023-12-22"
+    "slug": "leetcode/Easy/1422-maximum-score-after-splitting-a-string"
   },
   {
     "platform": "leetcode",
@@ -1209,6 +1381,7 @@
     "problem_name": "0145-binary-tree-postorder-traversal",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Easy/0145-binary-tree-postorder-traversal"
   },
   {
     "platform": "leetcode",
@@ -1216,6 +1389,7 @@
     "problem_name": "0392-is-subsequence",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Easy/0392-is-subsequence"
   },
   {
     "platform": "leetcode",
@@ -1223,6 +1397,7 @@
     "problem_name": "1464-maximum-product-of-two-elements-in-an-array",
     "languages": "Python",
     "last_commit_date": "2023-12-12"
+    "slug": "leetcode/Easy/1464-maximum-product-of-two-elements-in-an-array"
   },
   {
     "platform": "leetcode",
@@ -1230,6 +1405,7 @@
     "problem_name": "1688-count-of-matches-in-tournament",
     "languages": "Python",
     "last_commit_date": "2023-12-12"
+    "slug": "leetcode/Easy/1688-count-of-matches-in-tournament"
   },
   {
     "platform": "leetcode",
@@ -1237,6 +1413,7 @@
     "problem_name": "1351-count-negative-numbers-in-a-sorted-matrix",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Easy/1351-count-negative-numbers-in-a-sorted-matrix"
   },
   {
     "platform": "leetcode",
@@ -1244,6 +1421,7 @@
     "problem_name": "0101-symmetric-tree",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Easy/0101-symmetric-tree"
   },
   {
     "platform": "leetcode",
@@ -1251,6 +1429,7 @@
     "problem_name": "1603-design-parking-system",
     "languages": "C++,Python",
     "last_commit_date": "2023-08-14"
+    "slug": "leetcode/Easy/1603-design-parking-system"
   },
   {
     "platform": "leetcode",
@@ -1258,6 +1437,7 @@
     "problem_name": "0590-n-ary-tree-postorder-traversal",
     "languages": "Python",
     "last_commit_date": "2024-08-26"
+    "slug": "leetcode/Easy/0590-n-ary-tree-postorder-traversal"
   },
   {
     "platform": "leetcode",
@@ -1265,6 +1445,7 @@
     "problem_name": "0111-minimum-depth-of-binary-tree",
     "languages": "C,C++,Java,Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Easy/0111-minimum-depth-of-binary-tree"
   },
   {
     "platform": "leetcode",
@@ -1272,6 +1453,7 @@
     "problem_name": "0242-valid-anagram",
     "languages": "C++,Python",
     "last_commit_date": "2023-12-17"
+    "slug": "leetcode/Easy/0242-valid-anagram"
   },
   {
     "platform": "leetcode",
@@ -1279,6 +1461,7 @@
     "problem_name": "0344-reverse-string",
     "languages": "Python",
     "last_commit_date": "2024-06-02"
+    "slug": "leetcode/Easy/0344-reverse-string"
   },
   {
     "platform": "leetcode",
@@ -1286,6 +1469,7 @@
     "problem_name": "2037-minimum-number-of-moves-to-seat-everyone",
     "languages": "Python",
     "last_commit_date": "2024-06-13"
+    "slug": "leetcode/Easy/2037-minimum-number-of-moves-to-seat-everyone"
   },
   {
     "platform": "leetcode",
@@ -1293,6 +1477,7 @@
     "problem_name": "0605-can-place-flowers",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Easy/0605-can-place-flowers"
   },
   {
     "platform": "leetcode",
@@ -1300,6 +1485,7 @@
     "problem_name": "1822-sign-of-the-product-of-an-array",
     "languages": "C++,Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Easy/1822-sign-of-the-product-of-an-array"
   },
   {
     "platform": "leetcode",
@@ -1307,6 +1493,7 @@
     "problem_name": "1232-check-if-it-is-a-straight-line",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Easy/1232-check-if-it-is-a-straight-line"
   },
   {
     "platform": "leetcode",
@@ -1314,6 +1501,7 @@
     "problem_name": "0463-island-perimeter",
     "languages": "Python",
     "last_commit_date": "2024-04-18"
+    "slug": "leetcode/Easy/0463-island-perimeter"
   },
   {
     "platform": "leetcode",
@@ -1321,6 +1509,7 @@
     "problem_name": "1758-minimum-changes-to-make-alternating-binary-string",
     "languages": "Python",
     "last_commit_date": "2023-12-24"
+    "slug": "leetcode/Easy/1758-minimum-changes-to-make-alternating-binary-string"
   },
   {
     "platform": "leetcode",
@@ -1328,6 +1517,7 @@
     "problem_name": "1768-merge-strings-alternately",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Easy/1768-merge-strings-alternately"
   },
   {
     "platform": "leetcode",
@@ -1335,6 +1525,7 @@
     "problem_name": "1863-sum-of-all-subset-xor-totals",
     "languages": "Python",
     "last_commit_date": "2024-05-20"
+    "slug": "leetcode/Easy/1863-sum-of-all-subset-xor-totals"
   },
   {
     "platform": "leetcode",
@@ -1342,6 +1533,7 @@
     "problem_name": "2154-keep-multiplying-found-values-by-two",
     "languages": "Python",
     "last_commit_date": "2023-12-21"
+    "slug": "leetcode/Easy/2154-keep-multiplying-found-values-by-two"
   },
   {
     "platform": "leetcode",
@@ -1349,6 +1541,7 @@
     "problem_name": "1732-find-the-highest-altitude",
     "languages": "Python",
     "last_commit_date": "2023-08-14"
+    "slug": "leetcode/Easy/1732-find-the-highest-altitude"
   },
   {
     "platform": "leetcode",
@@ -1356,6 +1549,7 @@
     "problem_name": "2373-largest-local-values-in-a-matrix",
     "languages": "Python",
     "last_commit_date": "2024-05-12"
+    "slug": "leetcode/Easy/2373-largest-local-values-in-a-matrix"
   },
   {
     "platform": "leetcode",
@@ -1363,6 +1557,7 @@
     "problem_name": "0228-summary-ranges",
     "languages": "Python",
     "last_commit_date": "2023-08-14"
+    "slug": "leetcode/Easy/0228-summary-ranges"
   },
   {
     "platform": "leetcode",
@@ -1370,6 +1565,7 @@
     "problem_name": "0141-linked-list-cycle",
     "languages": "C++,Python",
     "last_commit_date": "2023-09-04"
+    "slug": "leetcode/Easy/0141-linked-list-cycle"
   },
   {
     "platform": "leetcode",
@@ -1377,6 +1573,7 @@
     "problem_name": "1700-number-of-students-unable-to-eat-lunch",
     "languages": "Python",
     "last_commit_date": "2024-04-08"
+    "slug": "leetcode/Easy/1700-number-of-students-unable-to-eat-lunch"
   },
   {
     "platform": "leetcode",
@@ -1384,6 +1581,7 @@
     "problem_name": "1608-special-array-with-x-elements-greater-than-or-equal-x",
     "languages": "Python",
     "last_commit_date": "2024-05-27"
+    "slug": "leetcode/Easy/1608-special-array-with-x-elements-greater-than-or-equal-x"
   },
   {
     "platform": "leetcode",
@@ -1391,6 +1589,7 @@
     "problem_name": "1945-sum-of-digits-of-string-after-convert",
     "languages": "Python",
     "last_commit_date": "2024-09-03"
+    "slug": "leetcode/Easy/1945-sum-of-digits-of-string-after-convert"
   },
   {
     "platform": "leetcode",
@@ -1398,6 +1597,7 @@
     "problem_name": "0744-find-smallest-letter-greater-than-target",
     "languages": "Python",
     "last_commit_date": "2023-08-14"
+    "slug": "leetcode/Easy/0744-find-smallest-letter-greater-than-target"
   },
   {
     "platform": "leetcode",
@@ -1405,6 +1605,7 @@
     "problem_name": "2073-time-needed-to-buy-tickets",
     "languages": "Python",
     "last_commit_date": "2024-04-09"
+    "slug": "leetcode/Easy/2073-time-needed-to-buy-tickets"
   },
   {
     "platform": "leetcode",
@@ -1412,6 +1613,7 @@
     "problem_name": "1122-relative-sort-array",
     "languages": "Python",
     "last_commit_date": "2024-06-11"
+    "slug": "leetcode/Easy/1122-relative-sort-array"
   },
   {
     "platform": "leetcode",
@@ -1419,6 +1621,7 @@
     "problem_name": "1137-n-th-tribonacci-number",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Easy/1137-n-th-tribonacci-number"
   },
   {
     "platform": "leetcode",
@@ -1426,6 +1629,7 @@
     "problem_name": "0021-merge-two-sorted-lists",
     "languages": "C,C++",
     "last_commit_date": "2023-08-27"
+    "slug": "leetcode/Easy/0021-merge-two-sorted-lists"
   },
   {
     "platform": "leetcode",
@@ -1433,6 +1637,7 @@
     "problem_name": "2053-kth-distinct-string-in-an-array",
     "languages": "Python",
     "last_commit_date": "2024-08-05"
+    "slug": "leetcode/Easy/2053-kth-distinct-string-in-an-array"
   },
   {
     "platform": "leetcode",
@@ -1440,6 +1645,7 @@
     "problem_name": "0118-pascals-triangle",
     "languages": "C++,Python",
     "last_commit_date": "2023-09-08"
+    "slug": "leetcode/Easy/0118-pascals-triangle"
   },
   {
     "platform": "leetcode",
@@ -1447,6 +1653,7 @@
     "problem_name": "0258-add-digits",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Easy/0258-add-digits"
   },
   {
     "platform": "leetcode",
@@ -1454,6 +1661,7 @@
     "problem_name": "1431-kids-with-the-greatest-number-of-candies",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Easy/1431-kids-with-the-greatest-number-of-candies"
   },
   {
     "platform": "leetcode",
@@ -1461,6 +1669,7 @@
     "problem_name": "0682-baseball-game",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Easy/0682-baseball-game"
   },
   {
     "platform": "leetcode",
@@ -1468,6 +1677,7 @@
     "problem_name": "3274-check-if-two-chessboard-squares-have-the-same-color",
     "languages": "Python",
     "last_commit_date": "2024-09-03"
+    "slug": "leetcode/Easy/3274-check-if-two-chessboard-squares-have-the-same-color"
   },
   {
     "platform": "leetcode",
@@ -1475,6 +1685,7 @@
     "problem_name": "0119-pascals-triangle-ii",
     "languages": "Python",
     "last_commit_date": "2023-10-16"
+    "slug": "leetcode/Easy/0119-pascals-triangle-ii"
   },
   {
     "platform": "leetcode",
@@ -1482,6 +1693,7 @@
     "problem_name": "0506-relative-ranks",
     "languages": "Python",
     "last_commit_date": "2024-05-08"
+    "slug": "leetcode/Easy/0506-relative-ranks"
   },
   {
     "platform": "leetcode",
@@ -1489,6 +1701,7 @@
     "problem_name": "0094-binary-tree-inorder-traversal",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Easy/0094-binary-tree-inorder-traversal"
   },
   {
     "platform": "leetcode",
@@ -1496,6 +1709,7 @@
     "problem_name": "1287-element-appearing-more-than-25-in-sorted-array",
     "languages": "Python",
     "last_commit_date": "2023-12-11"
+    "slug": "leetcode/Easy/1287-element-appearing-more-than-25-in-sorted-array"
   },
   {
     "platform": "leetcode",
@@ -1503,6 +1717,7 @@
     "problem_name": "0100-same-tree",
     "languages": "Python",
     "last_commit_date": "2024-02-26"
+    "slug": "leetcode/Easy/0100-same-tree"
   },
   {
     "platform": "leetcode",
@@ -1510,6 +1725,7 @@
     "problem_name": "0896-monotonic-array",
     "languages": "Python",
     "last_commit_date": "2023-09-29"
+    "slug": "leetcode/Easy/0896-monotonic-array"
   },
   {
     "platform": "leetcode",
@@ -1517,6 +1733,7 @@
     "problem_name": "0872-leaf-similar-trees",
     "languages": "Python",
     "last_commit_date": "2024-01-09"
+    "slug": "leetcode/Easy/0872-leaf-similar-trees"
   },
   {
     "platform": "leetcode",
@@ -1524,6 +1741,7 @@
     "problem_name": "0938-range-sum-of-bst",
     "languages": "Python",
     "last_commit_date": "2024-01-08"
+    "slug": "leetcode/Easy/0938-range-sum-of-bst"
   },
   {
     "platform": "leetcode",
@@ -1531,6 +1749,7 @@
     "problem_name": "0455-assign-cookies",
     "languages": "Python",
     "last_commit_date": "2024-01-01"
+    "slug": "leetcode/Easy/0455-assign-cookies"
   },
   {
     "platform": "leetcode",
@@ -1538,6 +1757,7 @@
     "problem_name": "0121-best-time-to-buy-and-sell-stock",
     "languages": "Python",
     "last_commit_date": "2023-08-14"
+    "slug": "leetcode/Easy/0121-best-time-to-buy-and-sell-stock"
   },
   {
     "platform": "leetcode",
@@ -1545,6 +1765,7 @@
     "problem_name": "2331-evaluate-boolean-binary-tree",
     "languages": "Python",
     "last_commit_date": "2024-05-16"
+    "slug": "leetcode/Easy/2331-evaluate-boolean-binary-tree"
   },
   {
     "platform": "leetcode",
@@ -1552,6 +1773,7 @@
     "problem_name": "0026-remove-duplicates-from-sorted-array",
     "languages": "Python",
     "last_commit_date": "2023-09-23"
+    "slug": "leetcode/Easy/0026-remove-duplicates-from-sorted-array"
   },
   {
     "platform": "leetcode",
@@ -1559,6 +1781,7 @@
     "problem_name": "1662-check-if-two-string-arrays-are-equivalent",
     "languages": "Python",
     "last_commit_date": "2023-12-12"
+    "slug": "leetcode/Easy/1662-check-if-two-string-arrays-are-equivalent"
   },
   {
     "platform": "leetcode",
@@ -1566,6 +1789,7 @@
     "problem_name": "1295-find-numbers-with-even-number-of-digits",
     "languages": "C++",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Easy/1295-find-numbers-with-even-number-of-digits"
   },
   {
     "platform": "leetcode",
@@ -1573,6 +1797,7 @@
     "problem_name": "1832-check-if-the-sentence-is-pangram",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Easy/1832-check-if-the-sentence-is-pangram"
   },
   {
     "platform": "leetcode",
@@ -1580,6 +1805,7 @@
     "problem_name": "2264-largest-3-same-digit-number-in-string",
     "languages": "Python",
     "last_commit_date": "2023-12-21"
+    "slug": "leetcode/Easy/2264-largest-3-same-digit-number-in-string"
   },
   {
     "platform": "leetcode",
@@ -1587,6 +1813,7 @@
     "problem_name": "1207-unique-number-of-occurrences",
     "languages": "Python",
     "last_commit_date": "2024-01-17"
+    "slug": "leetcode/Easy/1207-unique-number-of-occurrences"
   },
   {
     "platform": "leetcode",
@@ -1594,6 +1821,7 @@
     "problem_name": "0404-sum-of-left-leaves",
     "languages": "Python",
     "last_commit_date": "2024-04-14"
+    "slug": "leetcode/Easy/0404-sum-of-left-leaves"
   },
   {
     "platform": "leetcode",
@@ -1601,6 +1829,7 @@
     "problem_name": "0530-minimum-absolute-difference-in-bst",
     "languages": "Python",
     "last_commit_date": "2023-08-14"
+    "slug": "leetcode/Easy/0530-minimum-absolute-difference-in-bst"
   },
   {
     "platform": "leetcode",
@@ -1608,6 +1837,7 @@
     "problem_name": "0069-sqrtx",
     "languages": "Python",
     "last_commit_date": "2023-12-21"
+    "slug": "leetcode/Easy/0069-sqrtx"
   },
   {
     "platform": "leetcode",
@@ -1615,6 +1845,7 @@
     "problem_name": "1337-the-k-weakest-rows-in-a-matrix",
     "languages": "Python",
     "last_commit_date": "2023-09-18"
+    "slug": "leetcode/Easy/1337-the-k-weakest-rows-in-a-matrix"
   },
   {
     "platform": "leetcode",
@@ -1622,6 +1853,7 @@
     "problem_name": "2864-maximum-odd-binary-number",
     "languages": "Python",
     "last_commit_date": "2024-03-01"
+    "slug": "leetcode/Easy/2864-maximum-odd-binary-number"
   },
   {
     "platform": "leetcode",
@@ -1629,6 +1861,7 @@
     "problem_name": "1716-calculate-money-in-leetcode-bank",
     "languages": "Python",
     "last_commit_date": "2023-12-12"
+    "slug": "leetcode/Easy/1716-calculate-money-in-leetcode-bank"
   },
   {
     "platform": "leetcode",
@@ -1636,6 +1869,7 @@
     "problem_name": "2706-buy-two-chocolates",
     "languages": "Python",
     "last_commit_date": "2023-12-20"
+    "slug": "leetcode/Easy/2706-buy-two-chocolates"
   },
   {
     "platform": "leetcode",
@@ -1643,6 +1877,7 @@
     "problem_name": "0459-repeated-substring-pattern",
     "languages": "C++,Python",
     "last_commit_date": "2023-08-21"
+    "slug": "leetcode/Easy/0459-repeated-substring-pattern"
   },
   {
     "platform": "leetcode",
@@ -1650,6 +1885,7 @@
     "problem_name": "1436-destination-city",
     "languages": "JavaScript,Python",
     "last_commit_date": "2023-12-15"
+    "slug": "leetcode/Easy/1436-destination-city"
   },
   {
     "platform": "leetcode",
@@ -1657,6 +1893,7 @@
     "problem_name": "0645-set-mismatch",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Easy/0645-set-mismatch"
   },
   {
     "platform": "leetcode",
@@ -1664,6 +1901,7 @@
     "problem_name": "1971-find-if-path-exists-in-graph",
     "languages": "Python",
     "last_commit_date": "2024-04-21"
+    "slug": "leetcode/Easy/1971-find-if-path-exists-in-graph"
   },
   {
     "platform": "leetcode",
@@ -1671,6 +1909,7 @@
     "problem_name": "1897-redistribute-characters-to-make-all-strings-equal",
     "languages": "Python",
     "last_commit_date": "2023-12-30"
+    "slug": "leetcode/Easy/1897-redistribute-characters-to-make-all-strings-equal"
   },
   {
     "platform": "leetcode",
@@ -1678,6 +1917,7 @@
     "problem_name": "1572-matrix-diagonal-sum",
     "languages": "JavaScript,Python",
     "last_commit_date": "2023-08-14"
+    "slug": "leetcode/Easy/1572-matrix-diagonal-sum"
   },
   {
     "platform": "leetcode",
@@ -1685,6 +1925,7 @@
     "problem_name": "1636-sort-array-by-increasing-frequency",
     "languages": "Python",
     "last_commit_date": "2024-07-23"
+    "slug": "leetcode/Easy/1636-sort-array-by-increasing-frequency"
   },
   {
     "platform": "leetcode",
@@ -1692,6 +1933,7 @@
     "problem_name": "0020-valid-parentheses",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Easy/0020-valid-parentheses"
   },
   {
     "platform": "leetcode",
@@ -1699,6 +1941,7 @@
     "problem_name": "2678-number-of-senior-citizens",
     "languages": "Python",
     "last_commit_date": "2024-08-01"
+    "slug": "leetcode/Easy/2678-number-of-senior-citizens"
   },
   {
     "platform": "leetcode",
@@ -1706,6 +1949,7 @@
     "problem_name": "2022-convert-1d-array-into-2d-array",
     "languages": "Python",
     "last_commit_date": "2024-09-01"
+    "slug": "leetcode/Easy/2022-convert-1d-array-into-2d-array"
   },
   {
     "platform": "leetcode",
@@ -1713,6 +1957,7 @@
     "problem_name": "0704-binary-search",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Easy/0704-binary-search"
   },
   {
     "platform": "leetcode",
@@ -1720,6 +1965,7 @@
     "problem_name": "0070-climbing-stairs",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Easy/0070-climbing-stairs"
   },
   {
     "platform": "leetcode",
@@ -1727,6 +1973,7 @@
     "problem_name": "2220-minimum-bit-flips-to-convert-number",
     "languages": "Python",
     "last_commit_date": "2024-09-12"
+    "slug": "leetcode/Easy/2220-minimum-bit-flips-to-convert-number"
   },
   {
     "platform": "leetcode",
@@ -1734,6 +1981,7 @@
     "problem_name": "0232-implement-queue-using-stacks",
     "languages": "C++,Python",
     "last_commit_date": "2024-01-29"
+    "slug": "leetcode/Easy/0232-implement-queue-using-stacks"
   },
   {
     "platform": "leetcode",
@@ -1741,6 +1989,7 @@
     "problem_name": "0035-search-insert-position",
     "languages": "C,C++,Java,Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Easy/0035-search-insert-position"
   },
   {
     "platform": "leetcode",
@@ -1748,6 +1997,7 @@
     "problem_name": "1684-count-the-number-of-consistent-strings",
     "languages": "Python",
     "last_commit_date": "2024-09-12"
+    "slug": "leetcode/Easy/1684-count-the-number-of-consistent-strings"
   },
   {
     "platform": "leetcode",
@@ -1755,6 +2005,7 @@
     "problem_name": "2000-reverse-prefix-of-word",
     "languages": "Python",
     "last_commit_date": "2024-05-01"
+    "slug": "leetcode/Easy/2000-reverse-prefix-of-word"
   },
   {
     "platform": "leetcode",
@@ -1762,6 +2013,7 @@
     "problem_name": "0001-two-sum",
     "languages": "C,C++,Java,JavaScript,Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Easy/0001-two-sum"
   },
   {
     "platform": "leetcode",
@@ -1769,6 +2021,7 @@
     "problem_name": "0168-excel-sheet-column-title",
     "languages": "Python",
     "last_commit_date": "2023-08-22"
+    "slug": "leetcode/Easy/0168-excel-sheet-column-title"
   },
   {
     "platform": "leetcode",
@@ -1776,6 +2029,7 @@
     "problem_name": "0234-palindrome-linked-list",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Easy/0234-palindrome-linked-list"
   },
   {
     "platform": "leetcode",
@@ -1783,6 +2037,7 @@
     "problem_name": "1550-three-consecutive-odds",
     "languages": "Python",
     "last_commit_date": "2024-07-01"
+    "slug": "leetcode/Easy/1550-three-consecutive-odds"
   },
   {
     "platform": "leetcode",
@@ -1790,6 +2045,7 @@
     "problem_name": "1518-water-bottles",
     "languages": "Python",
     "last_commit_date": "2024-07-07"
+    "slug": "leetcode/Easy/1518-water-bottles"
   },
   {
     "platform": "leetcode",
@@ -1797,6 +2053,7 @@
     "problem_name": "2108-find-first-palindromic-string-in-the-array",
     "languages": "Python",
     "last_commit_date": "2024-02-13"
+    "slug": "leetcode/Easy/2108-find-first-palindromic-string-in-the-array"
   },
   {
     "platform": "leetcode",
@@ -1804,6 +2061,7 @@
     "problem_name": "0225-implement-stack-using-queues",
     "languages": "C,C++,Python",
     "last_commit_date": "2023-08-28"
+    "slug": "leetcode/Easy/0225-implement-stack-using-queues"
   },
   {
     "platform": "leetcode",
@@ -1811,6 +2069,7 @@
     "problem_name": "1460-make-two-arrays-equal-by-reversing-subarrays",
     "languages": "Python",
     "last_commit_date": "2024-08-03"
+    "slug": "leetcode/Easy/1460-make-two-arrays-equal-by-reversing-subarrays"
   },
   {
     "platform": "leetcode",
@@ -1818,6 +2077,7 @@
     "problem_name": "1052-grumpy-bookstore-owner",
     "languages": "Python",
     "last_commit_date": "2024-06-21"
+    "slug": "leetcode/Medium/1052-grumpy-bookstore-owner"
   },
   {
     "platform": "leetcode",
@@ -1825,6 +2085,7 @@
     "problem_name": "1331-path-with-maximum-gold",
     "languages": "Python",
     "last_commit_date": "2024-05-14"
+    "slug": "leetcode/Medium/1331-path-with-maximum-gold"
   },
   {
     "platform": "leetcode",
@@ -1832,6 +2093,7 @@
     "problem_name": "1248-count-number-of-nice-subarrays",
     "languages": "Python",
     "last_commit_date": "2024-06-22"
+    "slug": "leetcode/Medium/1248-count-number-of-nice-subarrays"
   },
   {
     "platform": "leetcode",
@@ -1839,6 +2101,7 @@
     "problem_name": "1884-egg-drop-with-2-eggs-and-n-floors",
     "languages": "Python",
     "last_commit_date": "2023-09-18"
+    "slug": "leetcode/Medium/1884-egg-drop-with-2-eggs-and-n-floors"
   },
   {
     "platform": "leetcode",
@@ -1846,6 +2109,7 @@
     "problem_name": "0012-integer-to-roman",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Medium/0012-integer-to-roman"
   },
   {
     "platform": "leetcode",
@@ -1853,6 +2117,7 @@
     "problem_name": "0576-out-of-boundary-paths",
     "languages": "Python",
     "last_commit_date": "2024-01-26"
+    "slug": "leetcode/Medium/0576-out-of-boundary-paths"
   },
   {
     "platform": "leetcode",
@@ -1860,6 +2125,7 @@
     "problem_name": "0649-dota2-senate",
     "languages": "Python",
     "last_commit_date": "2023-08-14"
+    "slug": "leetcode/Medium/0649-dota2-senate"
   },
   {
     "platform": "leetcode",
@@ -1867,6 +2133,7 @@
     "problem_name": "3075-maximize-happiness-of-selected-children",
     "languages": "Python",
     "last_commit_date": "2024-05-09"
+    "slug": "leetcode/Medium/3075-maximize-happiness-of-selected-children"
   },
   {
     "platform": "leetcode",
@@ -1874,6 +2141,7 @@
     "problem_name": "0786-k-th-smallest-prime-fraction",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Medium/0786-k-th-smallest-prime-fraction"
   },
   {
     "platform": "leetcode",
@@ -1881,6 +2149,7 @@
     "problem_name": "0200-number-of-islands",
     "languages": "Python",
     "last_commit_date": "2024-04-19"
+    "slug": "leetcode/Medium/0200-number-of-islands"
   },
   {
     "platform": "leetcode",
@@ -1888,6 +2157,7 @@
     "problem_name": "0930-binary-subarrays-with-sum",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Medium/0930-binary-subarrays-with-sum"
   },
   {
     "platform": "leetcode",
@@ -1895,6 +2165,7 @@
     "problem_name": "0137-single-number-ii",
     "languages": "C++,Python",
     "last_commit_date": "2023-08-14"
+    "slug": "leetcode/Medium/0137-single-number-ii"
   },
   {
     "platform": "leetcode",
@@ -1902,6 +2173,7 @@
     "problem_name": "0063-unique-paths-ii",
     "languages": "Python",
     "last_commit_date": "2023-08-14"
+    "slug": "leetcode/Medium/0063-unique-paths-ii"
   },
   {
     "platform": "leetcode",
@@ -1909,6 +2181,7 @@
     "problem_name": "1498-number-of-subsequences-that-satisfy-the-given-sum-condition",
     "languages": "Python",
     "last_commit_date": "2023-08-14"
+    "slug": "leetcode/Medium/1498-number-of-subsequences-that-satisfy-the-given-sum-condition"
   },
   {
     "platform": "leetcode",
@@ -1916,6 +2189,7 @@
     "problem_name": "0846-hand-of-straights",
     "languages": "Python",
     "last_commit_date": "2024-06-06"
+    "slug": "leetcode/Medium/0846-hand-of-straights"
   },
   {
     "platform": "leetcode",
@@ -1923,6 +2197,7 @@
     "problem_name": "2870-minimum-number-of-operations-to-make-array-empty",
     "languages": "Python",
     "last_commit_date": "2024-01-04"
+    "slug": "leetcode/Medium/2870-minimum-number-of-operations-to-make-array-empty"
   },
   {
     "platform": "leetcode",
@@ -1930,6 +2205,7 @@
     "problem_name": "2616-minimize-the-maximum-difference-of-pairs",
     "languages": "Python",
     "last_commit_date": "2023-08-14"
+    "slug": "leetcode/Medium/2616-minimize-the-maximum-difference-of-pairs"
   },
   {
     "platform": "leetcode",
@@ -1937,6 +2213,7 @@
     "problem_name": "1026-maximum-difference-between-node-and-ancestor",
     "languages": "Python",
     "last_commit_date": "2024-01-11"
+    "slug": "leetcode/Medium/1026-maximum-difference-between-node-and-ancestor"
   },
   {
     "platform": "leetcode",
@@ -1944,6 +2221,7 @@
     "problem_name": "0106-construct-binary-tree-from-inorder-and-postorder-traversal",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Medium/0106-construct-binary-tree-from-inorder-and-postorder-traversal"
   },
   {
     "platform": "leetcode",
@@ -1951,6 +2229,7 @@
     "problem_name": "0343-integer-break",
     "languages": "C,C++,Java,JavaScript,Python",
     "last_commit_date": "2023-10-06"
+    "slug": "leetcode/Medium/0343-integer-break"
   },
   {
     "platform": "leetcode",
@@ -1958,6 +2237,7 @@
     "problem_name": "2390-removing-stars-from-a-string",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Medium/2390-removing-stars-from-a-string"
   },
   {
     "platform": "leetcode",
@@ -1965,6 +2245,7 @@
     "problem_name": "0024-swap-nodes-in-pairs",
     "languages": "Python",
     "last_commit_date": "2023-08-14"
+    "slug": "leetcode/Medium/0024-swap-nodes-in-pairs"
   },
   {
     "platform": "leetcode",
@@ -1972,6 +2253,7 @@
     "problem_name": "2348-number-of-zero-filled-subarrays",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Medium/2348-number-of-zero-filled-subarrays"
   },
   {
     "platform": "leetcode",
@@ -1979,6 +2261,7 @@
     "problem_name": "0678-valid-parenthesis-string",
     "languages": "Python",
     "last_commit_date": "2024-04-07"
+    "slug": "leetcode/Medium/0678-valid-parenthesis-string"
   },
   {
     "platform": "leetcode",
@@ -1986,6 +2269,7 @@
     "problem_name": "0662-maximum-width-of-binary-tree",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Medium/0662-maximum-width-of-binary-tree"
   },
   {
     "platform": "leetcode",
@@ -1993,6 +2277,7 @@
     "problem_name": "1038-binary-search-tree-to-greater-sum-tree",
     "languages": "Python",
     "last_commit_date": "2024-06-25"
+    "slug": "leetcode/Medium/1038-binary-search-tree-to-greater-sum-tree"
   },
   {
     "platform": "leetcode",
@@ -2000,6 +2285,7 @@
     "problem_name": "0229-majority-element-ii",
     "languages": "Python",
     "last_commit_date": "2023-10-05"
+    "slug": "leetcode/Medium/0229-majority-element-ii"
   },
   {
     "platform": "leetcode",
@@ -2007,6 +2293,7 @@
     "problem_name": "2785-sort-vowels-in-a-string",
     "languages": "Python",
     "last_commit_date": "2023-11-13"
+    "slug": "leetcode/Medium/2785-sort-vowels-in-a-string"
   },
   {
     "platform": "leetcode",
@@ -2014,6 +2301,7 @@
     "problem_name": "0840-magic-squares-in-grid",
     "languages": "Python",
     "last_commit_date": "2024-08-09"
+    "slug": "leetcode/Medium/0840-magic-squares-in-grid"
   },
   {
     "platform": "leetcode",
@@ -2021,6 +2309,7 @@
     "problem_name": "2370-longest-ideal-subsequence",
     "languages": "Python",
     "last_commit_date": "2024-04-25"
+    "slug": "leetcode/Medium/2370-longest-ideal-subsequence"
   },
   {
     "platform": "leetcode",
@@ -2028,6 +2317,7 @@
     "problem_name": "1584-min-cost-to-connect-all-points",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Medium/1584-min-cost-to-connect-all-points"
   },
   {
     "platform": "leetcode",
@@ -2035,6 +2325,7 @@
     "problem_name": "1291-sequential-digits",
     "languages": "Python",
     "last_commit_date": "2024-02-02"
+    "slug": "leetcode/Medium/1291-sequential-digits"
   },
   {
     "platform": "leetcode",
@@ -2042,6 +2333,7 @@
     "problem_name": "1161-maximum-level-sum-of-a-binary-tree",
     "languages": "Python",
     "last_commit_date": "2023-08-14"
+    "slug": "leetcode/Medium/1161-maximum-level-sum-of-a-binary-tree"
   },
   {
     "platform": "leetcode",
@@ -2049,6 +2341,7 @@
     "problem_name": "0539-minimum-time-difference",
     "languages": "Python",
     "last_commit_date": "2024-09-16"
+    "slug": "leetcode/Medium/0539-minimum-time-difference"
   },
   {
     "platform": "leetcode",
@@ -2056,6 +2349,7 @@
     "problem_name": "0647-palindromic-substrings",
     "languages": "Python",
     "last_commit_date": "2024-02-10"
+    "slug": "leetcode/Medium/0647-palindromic-substrings"
   },
   {
     "platform": "leetcode",
@@ -2063,6 +2357,7 @@
     "problem_name": "0525-contiguous-array",
     "languages": "Python",
     "last_commit_date": "2024-03-16"
+    "slug": "leetcode/Medium/0525-contiguous-array"
   },
   {
     "platform": "leetcode",
@@ -2070,6 +2365,7 @@
     "problem_name": "0059-spiral-matrix-ii",
     "languages": "Python",
     "last_commit_date": "2023-08-14"
+    "slug": "leetcode/Medium/0059-spiral-matrix-ii"
   },
   {
     "platform": "leetcode",
@@ -2077,6 +2373,7 @@
     "problem_name": "0523-continuous-subarray-sum",
     "languages": "Python",
     "last_commit_date": "2024-06-08"
+    "slug": "leetcode/Medium/0523-continuous-subarray-sum"
   },
   {
     "platform": "leetcode",
@@ -2084,6 +2381,7 @@
     "problem_name": "0402-remove-k-digits",
     "languages": "Python",
     "last_commit_date": "2024-04-11"
+    "slug": "leetcode/Medium/0402-remove-k-digits"
   },
   {
     "platform": "leetcode",
@@ -2091,6 +2389,7 @@
     "problem_name": "0146-lru-cache",
     "languages": "Java,Python",
     "last_commit_date": "2023-08-14"
+    "slug": "leetcode/Medium/0146-lru-cache"
   },
   {
     "platform": "leetcode",
@@ -2098,6 +2397,7 @@
     "problem_name": "1727-largest-submatrix-with-rearrangements",
     "languages": "Python",
     "last_commit_date": "2023-11-27"
+    "slug": "leetcode/Medium/1727-largest-submatrix-with-rearrangements"
   },
   {
     "platform": "leetcode",
@@ -2105,6 +2405,7 @@
     "problem_name": "2095-delete-the-middle-node-of-a-linked-list",
     "languages": "C++",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Medium/2095-delete-the-middle-node-of-a-linked-list"
   },
   {
     "platform": "leetcode",
@@ -2112,6 +2413,7 @@
     "problem_name": "0881-boats-to-save-people",
     "languages": "Python",
     "last_commit_date": "2024-05-04"
+    "slug": "leetcode/Medium/0881-boats-to-save-people"
   },
   {
     "platform": "leetcode",
@@ -2119,6 +2421,7 @@
     "problem_name": "3276-minimum-number-of-pushes-to-type-word-ii",
     "languages": "Python",
     "last_commit_date": "2024-08-06"
+    "slug": "leetcode/Medium/3276-minimum-number-of-pushes-to-type-word-ii"
   },
   {
     "platform": "leetcode",
@@ -2126,6 +2429,7 @@
     "problem_name": "0198-house-robber",
     "languages": "Python",
     "last_commit_date": "2024-01-21"
+    "slug": "leetcode/Medium/0198-house-robber"
   },
   {
     "platform": "leetcode",
@@ -2133,6 +2437,7 @@
     "problem_name": "2134-minimum-swaps-to-group-all-1s-together-ii",
     "languages": "Python",
     "last_commit_date": "2024-08-02"
+    "slug": "leetcode/Medium/2134-minimum-swaps-to-group-all-1s-together-ii"
   },
   {
     "platform": "leetcode",
@@ -2140,6 +2445,7 @@
     "problem_name": "0912-sort-an-array",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Medium/0912-sort-an-array"
   },
   {
     "platform": "leetcode",
@@ -2147,6 +2453,7 @@
     "problem_name": "1803-average-waiting-time",
     "languages": "Python",
     "last_commit_date": "2024-07-09"
+    "slug": "leetcode/Medium/1803-average-waiting-time"
   },
   {
     "platform": "leetcode",
@@ -2154,6 +2461,7 @@
     "problem_name": "0038-count-and-say",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Medium/0038-count-and-say"
   },
   {
     "platform": "leetcode",
@@ -2161,6 +2469,7 @@
     "problem_name": "1208-get-equal-substrings-within-budget",
     "languages": "Python",
     "last_commit_date": "2024-05-28"
+    "slug": "leetcode/Medium/1208-get-equal-substrings-within-budget"
   },
   {
     "platform": "leetcode",
@@ -2168,6 +2477,7 @@
     "problem_name": "0019-remove-nth-node-from-end-of-list",
     "languages": "Python",
     "last_commit_date": "2024-03-03"
+    "slug": "leetcode/Medium/0019-remove-nth-node-from-end-of-list"
   },
   {
     "platform": "leetcode",
@@ -2175,6 +2485,7 @@
     "problem_name": "0880-decoded-string-at-index",
     "languages": "Python",
     "last_commit_date": "2023-09-27"
+    "slug": "leetcode/Medium/0880-decoded-string-at-index"
   },
   {
     "platform": "leetcode",
@@ -2182,6 +2493,7 @@
     "problem_name": "2391-minimum-amount-of-time-to-collect-garbage",
     "languages": "Python",
     "last_commit_date": "2023-12-21"
+    "slug": "leetcode/Medium/2391-minimum-amount-of-time-to-collect-garbage"
   },
   {
     "platform": "leetcode",
@@ -2189,6 +2501,7 @@
     "problem_name": "0633-sum-of-square-numbers",
     "languages": "Python",
     "last_commit_date": "2024-06-17"
+    "slug": "leetcode/Medium/0633-sum-of-square-numbers"
   },
   {
     "platform": "leetcode",
@@ -2196,6 +2509,7 @@
     "problem_name": "1319-number-of-operations-to-make-network-connected",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Medium/1319-number-of-operations-to-make-network-connected"
   },
   {
     "platform": "leetcode",
@@ -2203,6 +2517,7 @@
     "problem_name": "1921-eliminate-maximum-number-of-monsters",
     "languages": "Python",
     "last_commit_date": "2023-11-07"
+    "slug": "leetcode/Medium/1921-eliminate-maximum-number-of-monsters"
   },
   {
     "platform": "leetcode",
@@ -2210,6 +2525,7 @@
     "problem_name": "0445-add-two-numbers-ii",
     "languages": "Python",
     "last_commit_date": "2023-08-14"
+    "slug": "leetcode/Medium/0445-add-two-numbers-ii"
   },
   {
     "platform": "leetcode",
@@ -2217,6 +2533,7 @@
     "problem_name": "0767-reorganize-string",
     "languages": "Python",
     "last_commit_date": "2023-08-23"
+    "slug": "leetcode/Medium/0767-reorganize-string"
   },
   {
     "platform": "leetcode",
@@ -2224,6 +2541,7 @@
     "problem_name": "2542-maximum-subsequence-score",
     "languages": "Python",
     "last_commit_date": "2023-08-14"
+    "slug": "leetcode/Medium/2542-maximum-subsequence-score"
   },
   {
     "platform": "leetcode",
@@ -2231,6 +2549,7 @@
     "problem_name": "0057-insert-interval",
     "languages": "Python",
     "last_commit_date": "2024-03-17"
+    "slug": "leetcode/Medium/0057-insert-interval"
   },
   {
     "platform": "leetcode",
@@ -2238,6 +2557,7 @@
     "problem_name": "2958-length-of-longest-subarray-with-at-most-k-frequency",
     "languages": "Python",
     "last_commit_date": "2024-03-28"
+    "slug": "leetcode/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency"
   },
   {
     "platform": "leetcode",
@@ -2245,6 +2565,7 @@
     "problem_name": "0518-coin-change-ii",
     "languages": "C,C++,Python",
     "last_commit_date": "2023-08-14"
+    "slug": "leetcode/Medium/0518-coin-change-ii"
   },
   {
     "platform": "leetcode",
@@ -2252,6 +2573,7 @@
     "problem_name": "1457-pseudo-palindromic-paths-in-a-binary-tree",
     "languages": "Python",
     "last_commit_date": "2024-01-24"
+    "slug": "leetcode/Medium/1457-pseudo-palindromic-paths-in-a-binary-tree"
   },
   {
     "platform": "leetcode",
@@ -2259,6 +2581,7 @@
     "problem_name": "1254-number-of-closed-islands",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Medium/1254-number-of-closed-islands"
   },
   {
     "platform": "leetcode",
@@ -2266,6 +2589,7 @@
     "problem_name": "1552-magnetic-force-between-two-balls",
     "languages": "Python",
     "last_commit_date": "2024-06-20"
+    "slug": "leetcode/Medium/1552-magnetic-force-between-two-balls"
   },
   {
     "platform": "leetcode",
@@ -2273,6 +2597,7 @@
     "problem_name": "1146-snapshot-array",
     "languages": "Python",
     "last_commit_date": "2023-08-14"
+    "slug": "leetcode/Medium/1146-snapshot-array"
   },
   {
     "platform": "leetcode",
@@ -2280,6 +2605,7 @@
     "problem_name": "2521-distinct-prime-factors-of-product-of-array",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Medium/2521-distinct-prime-factors-of-product-of-array"
   },
   {
     "platform": "leetcode",
@@ -2287,6 +2613,7 @@
     "problem_name": "0129-sum-root-to-leaf-numbers",
     "languages": "Python",
     "last_commit_date": "2024-04-15"
+    "slug": "leetcode/Medium/0129-sum-root-to-leaf-numbers"
   },
   {
     "platform": "leetcode",
@@ -2294,6 +2621,7 @@
     "problem_name": "0028-find-the-index-of-the-first-occurrence-in-a-string",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Medium/0028-find-the-index-of-the-first-occurrence-in-a-string"
   },
   {
     "platform": "leetcode",
@@ -2301,6 +2629,7 @@
     "problem_name": "2024-maximize-the-confusion-of-an-exam",
     "languages": "C,Python",
     "last_commit_date": "2023-08-14"
+    "slug": "leetcode/Medium/2024-maximize-the-confusion-of-an-exam"
   },
   {
     "platform": "leetcode",
@@ -2308,6 +2637,7 @@
     "problem_name": "0215-kth-largest-element-in-an-array",
     "languages": "Python",
     "last_commit_date": "2023-08-14"
+    "slug": "leetcode/Medium/0215-kth-largest-element-in-an-array"
   },
   {
     "platform": "leetcode",
@@ -2315,6 +2645,7 @@
     "problem_name": "0017-letter-combinations-of-a-phone-number",
     "languages": "Python",
     "last_commit_date": "2023-08-14"
+    "slug": "leetcode/Medium/0017-letter-combinations-of-a-phone-number"
   },
   {
     "platform": "leetcode",
@@ -2322,6 +2653,7 @@
     "problem_name": "1376-time-needed-to-inform-all-employees",
     "languages": "Python",
     "last_commit_date": "2023-08-14"
+    "slug": "leetcode/Medium/1376-time-needed-to-inform-all-employees"
   },
   {
     "platform": "leetcode",
@@ -2329,6 +2661,7 @@
     "problem_name": "1637-widest-vertical-area-between-two-points-containing-no-points",
     "languages": "Python",
     "last_commit_date": "2023-12-21"
+    "slug": "leetcode/Medium/1637-widest-vertical-area-between-two-points-containing-no-points"
   },
   {
     "platform": "leetcode",
@@ -2336,6 +2669,7 @@
     "problem_name": "0142-linked-list-cycle-ii",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Medium/0142-linked-list-cycle-ii"
   },
   {
     "platform": "leetcode",
@@ -2343,6 +2677,7 @@
     "problem_name": "1669-merge-in-between-linked-lists",
     "languages": "Python",
     "last_commit_date": "2024-03-20"
+    "slug": "leetcode/Medium/1669-merge-in-between-linked-lists"
   },
   {
     "platform": "leetcode",
@@ -2350,6 +2685,7 @@
     "problem_name": "0316-remove-duplicate-letters",
     "languages": "Python",
     "last_commit_date": "2023-09-26"
+    "slug": "leetcode/Medium/0316-remove-duplicate-letters"
   },
   {
     "platform": "leetcode",
@@ -2357,6 +2693,7 @@
     "problem_name": "0837-new-21-game",
     "languages": "Python",
     "last_commit_date": "2023-08-14"
+    "slug": "leetcode/Medium/0837-new-21-game"
   },
   {
     "platform": "leetcode",
@@ -2364,6 +2701,7 @@
     "problem_name": "0138-copy-list-with-random-pointer",
     "languages": "Python",
     "last_commit_date": "2023-09-05"
+    "slug": "leetcode/Medium/0138-copy-list-with-random-pointer"
   },
   {
     "platform": "leetcode",
@@ -2371,6 +2709,7 @@
     "problem_name": "0547-number-of-provinces",
     "languages": "Python",
     "last_commit_date": "2023-08-14"
+    "slug": "leetcode/Medium/0547-number-of-provinces"
   },
   {
     "platform": "leetcode",
@@ -2378,6 +2717,7 @@
     "problem_name": "0988-smallest-string-starting-from-leaf",
     "languages": "Python",
     "last_commit_date": "2024-04-17"
+    "slug": "leetcode/Medium/0988-smallest-string-starting-from-leaf"
   },
   {
     "platform": "leetcode",
@@ -2385,6 +2725,7 @@
     "problem_name": "0713-subarray-product-less-than-k",
     "languages": "Python",
     "last_commit_date": "2024-03-28"
+    "slug": "leetcode/Medium/0713-subarray-product-less-than-k"
   },
   {
     "platform": "leetcode",
@@ -2392,6 +2733,7 @@
     "problem_name": "1658-minimum-operations-to-reduce-x-to-zero",
     "languages": "Python",
     "last_commit_date": "2023-09-20"
+    "slug": "leetcode/Medium/1658-minimum-operations-to-reduce-x-to-zero"
   },
   {
     "platform": "leetcode",
@@ -2399,6 +2741,7 @@
     "problem_name": "0540-single-element-in-a-sorted-array",
     "languages": "Java,Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Medium/0540-single-element-in-a-sorted-array"
   },
   {
     "platform": "leetcode",
@@ -2406,6 +2749,7 @@
     "problem_name": "2871-double-a-number-represented-as-a-linked-list",
     "languages": "Python",
     "last_commit_date": "2024-05-07"
+    "slug": "leetcode/Medium/2871-double-a-number-represented-as-a-linked-list"
   },
   {
     "platform": "leetcode",
@@ -2413,6 +2757,7 @@
     "problem_name": "1915-number-of-wonderful-substrings",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Medium/1915-number-of-wonderful-substrings"
   },
   {
     "platform": "leetcode",
@@ -2420,6 +2765,7 @@
     "problem_name": "0948-bag-of-tokens",
     "languages": "Python",
     "last_commit_date": "2024-03-04"
+    "slug": "leetcode/Medium/0948-bag-of-tokens"
   },
   {
     "platform": "leetcode",
@@ -2427,6 +2773,7 @@
     "problem_name": "1578-minimum-time-to-make-rope-colorful",
     "languages": "Python",
     "last_commit_date": "2023-12-27"
+    "slug": "leetcode/Medium/1578-minimum-time-to-make-rope-colorful"
   },
   {
     "platform": "leetcode",
@@ -2434,6 +2781,7 @@
     "problem_name": "0399-evaluate-division",
     "languages": "Python",
     "last_commit_date": "2023-08-14"
+    "slug": "leetcode/Medium/0399-evaluate-division"
   },
   {
     "platform": "leetcode",
@@ -2441,6 +2789,7 @@
     "problem_name": "1615-range-sum-of-sorted-subarray-sums",
     "languages": "Python",
     "last_commit_date": "2024-08-04"
+    "slug": "leetcode/Medium/1615-range-sum-of-sorted-subarray-sums"
   },
   {
     "platform": "leetcode",
@@ -2448,6 +2797,7 @@
     "problem_name": "1802-maximum-value-at-a-given-index-in-a-bounded-array",
     "languages": "Python",
     "last_commit_date": "2023-08-14"
+    "slug": "leetcode/Medium/1802-maximum-value-at-a-given-index-in-a-bounded-array"
   },
   {
     "platform": "leetcode",
@@ -2455,6 +2805,7 @@
     "problem_name": "1140-stone-game-ii",
     "languages": "Python",
     "last_commit_date": "2023-08-14"
+    "slug": "leetcode/Medium/1140-stone-game-ii"
   },
   {
     "platform": "leetcode",
@@ -2462,6 +2813,7 @@
     "problem_name": "2028-find-missing-observations",
     "languages": "Python",
     "last_commit_date": "2024-09-05"
+    "slug": "leetcode/Medium/2028-find-missing-observations"
   },
   {
     "platform": "leetcode",
@@ -2469,6 +2821,7 @@
     "problem_name": "1530-number-of-good-leaf-nodes-pairs",
     "languages": "Python",
     "last_commit_date": "2024-07-18"
+    "slug": "leetcode/Medium/1530-number-of-good-leaf-nodes-pairs"
   },
   {
     "platform": "leetcode",
@@ -2476,6 +2829,7 @@
     "problem_name": "1249-minimum-remove-to-make-valid-parentheses",
     "languages": "Python",
     "last_commit_date": "2024-04-06"
+    "slug": "leetcode/Medium/1249-minimum-remove-to-make-valid-parentheses"
   },
   {
     "platform": "leetcode",
@@ -2483,6 +2837,7 @@
     "problem_name": "1905-count-sub-islands",
     "languages": "Python",
     "last_commit_date": "2024-08-28"
+    "slug": "leetcode/Medium/1905-count-sub-islands"
   },
   {
     "platform": "leetcode",
@@ -2490,6 +2845,7 @@
     "problem_name": "2196-create-binary-tree-from-descriptions",
     "languages": "Python",
     "last_commit_date": "2024-07-15"
+    "slug": "leetcode/Medium/2196-create-binary-tree-from-descriptions"
   },
   {
     "platform": "leetcode",
@@ -2497,6 +2853,7 @@
     "problem_name": "0139-word-break",
     "languages": "C,C++,Python",
     "last_commit_date": "2023-08-14"
+    "slug": "leetcode/Medium/0139-word-break"
   },
   {
     "platform": "leetcode",
@@ -2504,6 +2861,7 @@
     "problem_name": "0451-sort-characters-by-frequency",
     "languages": "Python",
     "last_commit_date": "2024-02-07"
+    "slug": "leetcode/Medium/0451-sort-characters-by-frequency"
   },
   {
     "platform": "leetcode",
@@ -2511,6 +2869,7 @@
     "problem_name": "2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points",
     "languages": "Python",
     "last_commit_date": "2024-07-05"
+    "slug": "leetcode/Medium/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points"
   },
   {
     "platform": "leetcode",
@@ -2518,6 +2877,7 @@
     "problem_name": "0874-walking-robot-simulation",
     "languages": "Python",
     "last_commit_date": "2024-09-04"
+    "slug": "leetcode/Medium/0874-walking-robot-simulation"
   },
   {
     "platform": "leetcode",
@@ -2525,6 +2885,7 @@
     "problem_name": "1442-count-triplets-that-can-form-two-arrays-of-equal-xor",
     "languages": "Python",
     "last_commit_date": "2024-05-30"
+    "slug": "leetcode/Medium/1442-count-triplets-that-can-form-two-arrays-of-equal-xor"
   },
   {
     "platform": "leetcode",
@@ -2532,6 +2893,7 @@
     "problem_name": "0983-minimum-cost-for-tickets",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Medium/0983-minimum-cost-for-tickets"
   },
   {
     "platform": "leetcode",
@@ -2539,6 +2901,7 @@
     "problem_name": "0799-champagne-tower",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Medium/0799-champagne-tower"
   },
   {
     "platform": "leetcode",
@@ -2546,6 +2909,7 @@
     "problem_name": "0131-palindrome-partitioning",
     "languages": "Python",
     "last_commit_date": "2024-05-22"
+    "slug": "leetcode/Medium/0131-palindrome-partitioning"
   },
   {
     "platform": "leetcode",
@@ -2553,6 +2917,7 @@
     "problem_name": "0176-second-highest-salary",
     "languages": "SQL",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Medium/0176-second-highest-salary"
   },
   {
     "platform": "leetcode",
@@ -2560,6 +2925,7 @@
     "problem_name": "1514-path-with-maximum-probability",
     "languages": "Python",
     "last_commit_date": "2023-08-14"
+    "slug": "leetcode/Medium/1514-path-with-maximum-probability"
   },
   {
     "platform": "leetcode",
@@ -2567,6 +2933,7 @@
     "problem_name": "0086-partition-list",
     "languages": "Python",
     "last_commit_date": "2023-08-15"
+    "slug": "leetcode/Medium/0086-partition-list"
   },
   {
     "platform": "leetcode",
@@ -2574,6 +2941,7 @@
     "problem_name": "0368-largest-divisible-subset",
     "languages": "Python",
     "last_commit_date": "2024-02-09"
+    "slug": "leetcode/Medium/0368-largest-divisible-subset"
   },
   {
     "platform": "leetcode",
@@ -2581,6 +2949,7 @@
     "problem_name": "1798-maximum-number-of-consecutive-values-you-can-make",
     "languages": "Python",
     "last_commit_date": "2023-09-19"
+    "slug": "leetcode/Medium/1798-maximum-number-of-consecutive-values-you-can-make"
   },
   {
     "platform": "leetcode",
@@ -2588,6 +2957,7 @@
     "problem_name": "1347-minimum-number-of-steps-to-make-two-strings-anagram",
     "languages": "Python",
     "last_commit_date": "2024-01-13"
+    "slug": "leetcode/Medium/1347-minimum-number-of-steps-to-make-two-strings-anagram"
   },
   {
     "platform": "leetcode",
@@ -2595,6 +2965,7 @@
     "problem_name": "0341-flatten-nested-list-iterator",
     "languages": "Python",
     "last_commit_date": "2023-10-20"
+    "slug": "leetcode/Medium/0341-flatten-nested-list-iterator"
   },
   {
     "platform": "leetcode",
@@ -2602,6 +2973,7 @@
     "problem_name": "0739-daily-temperatures",
     "languages": "Python",
     "last_commit_date": "2024-01-31"
+    "slug": "leetcode/Medium/0739-daily-temperatures"
   },
   {
     "platform": "leetcode",
@@ -2609,6 +2981,7 @@
     "problem_name": "0947-most-stones-removed-with-same-row-or-column",
     "languages": "Python",
     "last_commit_date": "2024-08-29"
+    "slug": "leetcode/Medium/0947-most-stones-removed-with-same-row-or-column"
   },
   {
     "platform": "leetcode",
@@ -2616,6 +2989,7 @@
     "problem_name": "2483-minimum-penalty-for-a-shop",
     "languages": "Python",
     "last_commit_date": "2023-08-29"
+    "slug": "leetcode/Medium/2483-minimum-penalty-for-a-shop"
   },
   {
     "platform": "leetcode",
@@ -2623,6 +2997,7 @@
     "problem_name": "2492-minimum-score-of-a-path-between-two-cities",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Medium/2492-minimum-score-of-a-path-between-two-cities"
   },
   {
     "platform": "leetcode",
@@ -2630,6 +3005,7 @@
     "problem_name": "0646-maximum-length-of-pair-chain",
     "languages": "Python",
     "last_commit_date": "2023-08-26"
+    "slug": "leetcode/Medium/0646-maximum-length-of-pair-chain"
   },
   {
     "platform": "leetcode",
@@ -2637,6 +3013,7 @@
     "problem_name": "1372-longest-zigzag-path-in-a-binary-tree",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Medium/1372-longest-zigzag-path-in-a-binary-tree"
   },
   {
     "platform": "leetcode",
@@ -2644,6 +3021,7 @@
     "problem_name": "2300-successful-pairs-of-spells-and-potions",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Medium/2300-successful-pairs-of-spells-and-potions"
   },
   {
     "platform": "leetcode",
@@ -2651,6 +3029,7 @@
     "problem_name": "1027-longest-arithmetic-subsequence",
     "languages": "Python",
     "last_commit_date": "2023-08-14"
+    "slug": "leetcode/Medium/1027-longest-arithmetic-subsequence"
   },
   {
     "platform": "leetcode",
@@ -2658,6 +3037,7 @@
     "problem_name": "1282-group-the-people-given-the-group-size-they-belong-to",
     "languages": "Python",
     "last_commit_date": "2023-09-11"
+    "slug": "leetcode/Medium/1282-group-the-people-given-the-group-size-they-belong-to"
   },
   {
     "platform": "leetcode",
@@ -2665,6 +3045,7 @@
     "problem_name": "1218-longest-arithmetic-subsequence-of-given-difference",
     "languages": "Python",
     "last_commit_date": "2023-08-14"
+    "slug": "leetcode/Medium/1218-longest-arithmetic-subsequence-of-given-difference"
   },
   {
     "platform": "leetcode",
@@ -2672,6 +3053,7 @@
     "problem_name": "0147-insertion-sort-list",
     "languages": "Java",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Medium/0147-insertion-sort-list"
   },
   {
     "platform": "leetcode",
@@ -2679,6 +3061,7 @@
     "problem_name": "0260-single-number-iii",
     "languages": "Python",
     "last_commit_date": "2024-05-31"
+    "slug": "leetcode/Medium/0260-single-number-iii"
   },
   {
     "platform": "leetcode",
@@ -2686,6 +3069,7 @@
     "problem_name": "0999-regions-cut-by-slashes",
     "languages": "Python",
     "last_commit_date": "2024-08-10"
+    "slug": "leetcode/Medium/0999-regions-cut-by-slashes"
   },
   {
     "platform": "leetcode",
@@ -2693,6 +3077,7 @@
     "problem_name": "2433-find-the-original-array-of-prefix-xor",
     "languages": "Python",
     "last_commit_date": "2023-10-31"
+    "slug": "leetcode/Medium/2433-find-the-original-array-of-prefix-xor"
   },
   {
     "platform": "leetcode",
@@ -2700,6 +3085,7 @@
     "problem_name": "1647-minimum-deletions-to-make-character-frequencies-unique",
     "languages": "Python",
     "last_commit_date": "2023-09-12"
+    "slug": "leetcode/Medium/1647-minimum-deletions-to-make-character-frequencies-unique"
   },
   {
     "platform": "leetcode",
@@ -2707,6 +3093,7 @@
     "problem_name": "0062-unique-paths",
     "languages": "Python",
     "last_commit_date": "2023-09-03"
+    "slug": "leetcode/Medium/0062-unique-paths"
   },
   {
     "platform": "leetcode",
@@ -2714,6 +3101,7 @@
     "problem_name": "2140-solving-questions-with-brainpower",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Medium/2140-solving-questions-with-brainpower"
   },
   {
     "platform": "leetcode",
@@ -2721,6 +3109,7 @@
     "problem_name": "0802-find-eventual-safe-states",
     "languages": "Python",
     "last_commit_date": "2023-08-14"
+    "slug": "leetcode/Medium/0802-find-eventual-safe-states"
   },
   {
     "platform": "leetcode",
@@ -2728,6 +3117,7 @@
     "problem_name": "0287-find-the-duplicate-number",
     "languages": "Python",
     "last_commit_date": "2023-09-19"
+    "slug": "leetcode/Medium/0287-find-the-duplicate-number"
   },
   {
     "platform": "leetcode",
@@ -2735,6 +3125,7 @@
     "problem_name": "0592-fraction-addition-and-subtraction",
     "languages": "Python",
     "last_commit_date": "2024-08-23"
+    "slug": "leetcode/Medium/0592-fraction-addition-and-subtraction"
   },
   {
     "platform": "leetcode",
@@ -2742,6 +3133,7 @@
     "problem_name": "0513-find-bottom-left-tree-value",
     "languages": "Python",
     "last_commit_date": "2024-02-28"
+    "slug": "leetcode/Medium/0513-find-bottom-left-tree-value"
   },
   {
     "platform": "leetcode",
@@ -2749,6 +3141,7 @@
     "problem_name": "1615-maximal-network-rank",
     "languages": "Python",
     "last_commit_date": "2023-08-18"
+    "slug": "leetcode/Medium/1615-maximal-network-rank"
   },
   {
     "platform": "leetcode",
@@ -2756,6 +3149,7 @@
     "problem_name": "0209-minimum-size-subarray-sum",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Medium/0209-minimum-size-subarray-sum"
   },
   {
     "platform": "leetcode",
@@ -2763,6 +3157,7 @@
     "problem_name": "1846-maximum-element-after-decreasing-and-rearranging",
     "languages": "Python",
     "last_commit_date": "2023-12-21"
+    "slug": "leetcode/Medium/1846-maximum-element-after-decreasing-and-rearranging"
   },
   {
     "platform": "leetcode",
@@ -2770,6 +3165,7 @@
     "problem_name": "0264-ugly-number-ii",
     "languages": "Python",
     "last_commit_date": "2024-08-18"
+    "slug": "leetcode/Medium/0264-ugly-number-ii"
   },
   {
     "platform": "leetcode",
@@ -2777,6 +3173,7 @@
     "problem_name": "0650-2-keys-keyboard",
     "languages": "Python",
     "last_commit_date": "2024-08-19"
+    "slug": "leetcode/Medium/0650-2-keys-keyboard"
   },
   {
     "platform": "leetcode",
@@ -2784,6 +3181,7 @@
     "problem_name": "1441-build-an-array-with-stack-operations",
     "languages": "Python",
     "last_commit_date": "2023-11-03"
+    "slug": "leetcode/Medium/1441-build-an-array-with-stack-operations"
   },
   {
     "platform": "leetcode",
@@ -2791,6 +3189,7 @@
     "problem_name": "1396-design-underground-system",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Medium/1396-design-underground-system"
   },
   {
     "platform": "leetcode",
@@ -2798,6 +3197,7 @@
     "problem_name": "1609-even-odd-tree",
     "languages": "Python",
     "last_commit_date": "2024-02-29"
+    "slug": "leetcode/Medium/1609-even-odd-tree"
   },
   {
     "platform": "leetcode",
@@ -2805,6 +3205,7 @@
     "problem_name": "0729-my-calendar-i",
     "languages": "Python",
     "last_commit_date": "2024-09-26"
+    "slug": "leetcode/Medium/0729-my-calendar-i"
   },
   {
     "platform": "leetcode",
@@ -2812,6 +3213,7 @@
     "problem_name": "1371-find-the-longest-substring-containing-vowels-in-even-counts",
     "languages": "Python",
     "last_commit_date": "2024-09-15"
+    "slug": "leetcode/Medium/1371-find-the-longest-substring-containing-vowels-in-even-counts"
   },
   {
     "platform": "leetcode",
@@ -2819,6 +3221,7 @@
     "problem_name": "0064-minimum-path-sum",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Medium/0064-minimum-path-sum"
   },
   {
     "platform": "leetcode",
@@ -2826,6 +3229,7 @@
     "problem_name": "1048-longest-string-chain",
     "languages": "Python",
     "last_commit_date": "2023-09-23"
+    "slug": "leetcode/Medium/1048-longest-string-chain"
   },
   {
     "platform": "leetcode",
@@ -2833,6 +3237,7 @@
     "problem_name": "1980-find-unique-binary-string",
     "languages": "Python",
     "last_commit_date": "2023-12-21"
+    "slug": "leetcode/Medium/1980-find-unique-binary-string"
   },
   {
     "platform": "leetcode",
@@ -2840,6 +3245,7 @@
     "problem_name": "2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph",
     "languages": "Python",
     "last_commit_date": "2024-06-29"
+    "slug": "leetcode/Medium/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph"
   },
   {
     "platform": "leetcode",
@@ -2847,6 +3253,7 @@
     "problem_name": "0823-binary-trees-with-factors",
     "languages": "Python",
     "last_commit_date": "2023-10-26"
+    "slug": "leetcode/Medium/0823-binary-trees-with-factors"
   },
   {
     "platform": "leetcode",
@@ -2854,6 +3261,7 @@
     "problem_name": "1020-number-of-enclaves",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Medium/1020-number-of-enclaves"
   },
   {
     "platform": "leetcode",
@@ -2861,6 +3269,7 @@
     "problem_name": "1653-minimum-deletions-to-make-string-balanced",
     "languages": "Python",
     "last_commit_date": "2024-07-30"
+    "slug": "leetcode/Medium/1653-minimum-deletions-to-make-string-balanced"
   },
   {
     "platform": "leetcode",
@@ -2868,6 +3277,7 @@
     "problem_name": "2326-spiral-matrix-iv",
     "languages": "Python",
     "last_commit_date": "2024-09-09"
+    "slug": "leetcode/Medium/2326-spiral-matrix-iv"
   },
   {
     "platform": "leetcode",
@@ -2875,6 +3285,7 @@
     "problem_name": "0808-soup-servings",
     "languages": "Python",
     "last_commit_date": "2023-08-14"
+    "slug": "leetcode/Medium/0808-soup-servings"
   },
   {
     "platform": "leetcode",
@@ -2882,6 +3293,7 @@
     "problem_name": "2466-count-ways-to-build-good-strings",
     "languages": "Python",
     "last_commit_date": "2023-08-14"
+    "slug": "leetcode/Medium/2466-count-ways-to-build-good-strings"
   },
   {
     "platform": "leetcode",
@@ -2889,6 +3301,7 @@
     "problem_name": "1717-maximum-score-from-removing-substrings",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Medium/1717-maximum-score-from-removing-substrings"
   },
   {
     "platform": "leetcode",
@@ -2896,6 +3309,7 @@
     "problem_name": "0907-sum-of-subarray-minimums",
     "languages": "Python",
     "last_commit_date": "2024-01-20"
+    "slug": "leetcode/Medium/0907-sum-of-subarray-minimums"
   },
   {
     "platform": "leetcode",
@@ -2903,6 +3317,7 @@
     "problem_name": "0946-validate-stack-sequences",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Medium/0946-validate-stack-sequences"
   },
   {
     "platform": "leetcode",
@@ -2910,6 +3325,7 @@
     "problem_name": "1535-find-the-winner-of-an-array-game",
     "languages": "Python",
     "last_commit_date": "2023-11-05"
+    "slug": "leetcode/Medium/1535-find-the-winner-of-an-array-game"
   },
   {
     "platform": "leetcode",
@@ -2917,6 +3333,7 @@
     "problem_name": "2482-difference-between-ones-and-zeros-in-row-and-column",
     "languages": "Python",
     "last_commit_date": "2023-12-17"
+    "slug": "leetcode/Medium/2482-difference-between-ones-and-zeros-in-row-and-column"
   },
   {
     "platform": "leetcode",
@@ -2924,6 +3341,7 @@
     "problem_name": "1657-determine-if-two-strings-are-close",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Medium/1657-determine-if-two-strings-are-close"
   },
   {
     "platform": "leetcode",
@@ -2931,6 +3349,7 @@
     "problem_name": "0673-number-of-longest-increasing-subsequence",
     "languages": "Python",
     "last_commit_date": "2023-08-14"
+    "slug": "leetcode/Medium/0673-number-of-longest-increasing-subsequence"
   },
   {
     "platform": "leetcode",
@@ -2938,6 +3357,7 @@
     "problem_name": "0658-find-k-closest-elements",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Medium/0658-find-k-closest-elements"
   },
   {
     "platform": "leetcode",
@@ -2945,6 +3365,7 @@
     "problem_name": "0005-longest-palindromic-substring",
     "languages": "Python",
     "last_commit_date": "2023-10-27"
+    "slug": "leetcode/Medium/0005-longest-palindromic-substring"
   },
   {
     "platform": "leetcode",
@@ -2952,6 +3373,7 @@
     "problem_name": "1155-number-of-dice-rolls-with-target-sum",
     "languages": "Python",
     "last_commit_date": "2023-12-26"
+    "slug": "leetcode/Medium/1155-number-of-dice-rolls-with-target-sum"
   },
   {
     "platform": "leetcode",
@@ -2959,6 +3381,7 @@
     "problem_name": "1823-find-the-winner-of-the-circular-game",
     "languages": "Python",
     "last_commit_date": "2024-07-08"
+    "slug": "leetcode/Medium/1823-find-the-winner-of-the-circular-game"
   },
   {
     "platform": "leetcode",
@@ -2966,6 +3389,7 @@
     "problem_name": "1011-capacity-to-ship-packages-within-d-days",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Medium/1011-capacity-to-ship-packages-within-d-days"
   },
   {
     "platform": "leetcode",
@@ -2973,6 +3397,7 @@
     "problem_name": "0861-score-after-flipping-matrix",
     "languages": "Python",
     "last_commit_date": "2024-05-13"
+    "slug": "leetcode/Medium/0861-score-after-flipping-matrix"
   },
   {
     "platform": "leetcode",
@@ -2980,6 +3405,7 @@
     "problem_name": "0091-decode-ways",
     "languages": "Python",
     "last_commit_date": "2023-12-25"
+    "slug": "leetcode/Medium/0091-decode-ways"
   },
   {
     "platform": "leetcode",
@@ -2987,6 +3413,7 @@
     "problem_name": "0622-design-circular-queue",
     "languages": "C++",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Medium/0622-design-circular-queue"
   },
   {
     "platform": "leetcode",
@@ -2994,6 +3421,7 @@
     "problem_name": "1721-swapping-nodes-in-a-linked-list",
     "languages": "Python",
     "last_commit_date": "2023-08-14"
+    "slug": "leetcode/Medium/1721-swapping-nodes-in-a-linked-list"
   },
   {
     "platform": "leetcode",
@@ -3001,6 +3429,7 @@
     "problem_name": "2997-minimum-number-of-operations-to-make-array-xor-equal-to-k",
     "languages": "Python",
     "last_commit_date": "2024-04-29"
+    "slug": "leetcode/Medium/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k"
   },
   {
     "platform": "leetcode",
@@ -3008,6 +3437,7 @@
     "problem_name": "0007-reverse-integer",
     "languages": "Python",
     "last_commit_date": "2023-09-18"
+    "slug": "leetcode/Medium/0007-reverse-integer"
   },
   {
     "platform": "leetcode",
@@ -3015,6 +3445,7 @@
     "problem_name": "1870-minimum-speed-to-arrive-on-time",
     "languages": "Python",
     "last_commit_date": "2023-08-14"
+    "slug": "leetcode/Medium/1870-minimum-speed-to-arrive-on-time"
   },
   {
     "platform": "leetcode",
@@ -3022,6 +3453,7 @@
     "problem_name": "0071-simplify-path",
     "languages": "JavaScript,Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Medium/0071-simplify-path"
   },
   {
     "platform": "leetcode",
@@ -3029,6 +3461,7 @@
     "problem_name": "0033-search-in-rotated-sorted-array",
     "languages": "C,C++,Python",
     "last_commit_date": "2023-08-14"
+    "slug": "leetcode/Medium/0033-search-in-rotated-sorted-array"
   },
   {
     "platform": "leetcode",
@@ -3036,6 +3469,7 @@
     "problem_name": "1482-minimum-number-of-days-to-make-m-bouquets",
     "languages": "Python",
     "last_commit_date": "2024-06-19"
+    "slug": "leetcode/Medium/1482-minimum-number-of-days-to-make-m-bouquets"
   },
   {
     "platform": "leetcode",
@@ -3043,6 +3477,7 @@
     "problem_name": "1021-distribute-coins-in-binary-tree",
     "languages": "Python",
     "last_commit_date": "2024-05-18"
+    "slug": "leetcode/Medium/1021-distribute-coins-in-binary-tree"
   },
   {
     "platform": "leetcode",
@@ -3050,6 +3485,7 @@
     "problem_name": "1887-reduction-operations-to-make-the-array-elements-equal",
     "languages": "Python",
     "last_commit_date": "2023-12-21"
+    "slug": "leetcode/Medium/1887-reduction-operations-to-make-the-array-elements-equal"
   },
   {
     "platform": "leetcode",
@@ -3057,6 +3493,7 @@
     "problem_name": "0208-implement-trie-prefix-tree",
     "languages": "Python",
     "last_commit_date": "2023-08-14"
+    "slug": "leetcode/Medium/0208-implement-trie-prefix-tree"
   },
   {
     "platform": "leetcode",
@@ -3064,6 +3501,7 @@
     "problem_name": "1642-furthest-building-you-can-reach",
     "languages": "Python",
     "last_commit_date": "2024-02-17"
+    "slug": "leetcode/Medium/1642-furthest-building-you-can-reach"
   },
   {
     "platform": "leetcode",
@@ -3071,6 +3509,7 @@
     "problem_name": "0486-predict-the-winner",
     "languages": "Python",
     "last_commit_date": "2023-08-14"
+    "slug": "leetcode/Medium/0486-predict-the-winner"
   },
   {
     "platform": "leetcode",
@@ -3078,6 +3517,7 @@
     "problem_name": "1557-minimum-number-of-vertices-to-reach-all-nodes",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Medium/1557-minimum-number-of-vertices-to-reach-all-nodes"
   },
   {
     "platform": "leetcode",
@@ -3085,6 +3525,7 @@
     "problem_name": "0785-is-graph-bipartite",
     "languages": "Python",
     "last_commit_date": "2023-08-14"
+    "slug": "leetcode/Medium/0785-is-graph-bipartite"
   },
   {
     "platform": "leetcode",
@@ -3092,6 +3533,7 @@
     "problem_name": "2966-divide-array-into-arrays-with-max-difference",
     "languages": "Python",
     "last_commit_date": "2024-02-01"
+    "slug": "leetcode/Medium/2966-divide-array-into-arrays-with-max-difference"
   },
   {
     "platform": "leetcode",
@@ -3099,6 +3541,7 @@
     "problem_name": "2486-append-characters-to-string-to-make-subsequence",
     "languages": "Python",
     "last_commit_date": "2024-06-03"
+    "slug": "leetcode/Medium/2486-append-characters-to-string-to-make-subsequence"
   },
   {
     "platform": "leetcode",
@@ -3106,6 +3549,7 @@
     "problem_name": "2336-smallest-number-in-infinite-set",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Medium/2336-smallest-number-in-infinite-set"
   },
   {
     "platform": "leetcode",
@@ -3113,6 +3557,7 @@
     "problem_name": "0380-insert-delete-getrandom-o1",
     "languages": "Python",
     "last_commit_date": "2024-01-16"
+    "slug": "leetcode/Medium/0380-insert-delete-getrandom-o1"
   },
   {
     "platform": "leetcode",
@@ -3120,6 +3565,7 @@
     "problem_name": "2090-k-radius-subarray-averages",
     "languages": "Python",
     "last_commit_date": "2023-08-14"
+    "slug": "leetcode/Medium/2090-k-radius-subarray-averages"
   },
   {
     "platform": "leetcode",
@@ -3127,6 +3573,7 @@
     "problem_name": "1894-find-the-student-that-will-replace-the-chalk",
     "languages": "Python",
     "last_commit_date": "2024-09-02"
+    "slug": "leetcode/Medium/1894-find-the-student-that-will-replace-the-chalk"
   },
   {
     "platform": "leetcode",
@@ -3134,6 +3581,7 @@
     "problem_name": "0054-spiral-matrix",
     "languages": "C++,Python",
     "last_commit_date": "2023-08-14"
+    "slug": "leetcode/Medium/0054-spiral-matrix"
   },
   {
     "platform": "leetcode",
@@ -3141,6 +3589,7 @@
     "problem_name": "1325-delete-leaves-with-a-given-value",
     "languages": "Python",
     "last_commit_date": "2024-05-17"
+    "slug": "leetcode/Medium/1325-delete-leaves-with-a-given-value"
   },
   {
     "platform": "leetcode",
@@ -3148,6 +3597,7 @@
     "problem_name": "0714-best-time-to-buy-and-sell-stock-with-transaction-fee",
     "languages": "Python",
     "last_commit_date": "2023-08-14"
+    "slug": "leetcode/Medium/0714-best-time-to-buy-and-sell-stock-with-transaction-fee"
   },
   {
     "platform": "leetcode",
@@ -3155,6 +3605,7 @@
     "problem_name": "0621-task-scheduler",
     "languages": "Python",
     "last_commit_date": "2024-03-19"
+    "slug": "leetcode/Medium/0621-task-scheduler"
   },
   {
     "platform": "leetcode",
@@ -3162,6 +3613,7 @@
     "problem_name": "2405-optimal-partition-of-string",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Medium/2405-optimal-partition-of-string"
   },
   {
     "platform": "leetcode",
@@ -3169,6 +3621,7 @@
     "problem_name": "0241-different-ways-to-add-parentheses",
     "languages": "Python",
     "last_commit_date": "2024-09-19"
+    "slug": "leetcode/Medium/0241-different-ways-to-add-parentheses"
   },
   {
     "platform": "leetcode",
@@ -3176,6 +3629,7 @@
     "problem_name": "0133-clone-graph",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Medium/0133-clone-graph"
   },
   {
     "platform": "leetcode",
@@ -3183,6 +3637,7 @@
     "problem_name": "0081-search-in-rotated-sorted-array-ii",
     "languages": "C,C++,Python",
     "last_commit_date": "2023-08-14"
+    "slug": "leetcode/Medium/0081-search-in-rotated-sorted-array-ii"
   },
   {
     "platform": "leetcode",
@@ -3190,6 +3645,7 @@
     "problem_name": "2353-design-a-food-rating-system",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Medium/2353-design-a-food-rating-system"
   },
   {
     "platform": "leetcode",
@@ -3197,6 +3653,7 @@
     "problem_name": "0931-minimum-falling-path-sum",
     "languages": "Python",
     "last_commit_date": "2024-01-19"
+    "slug": "leetcode/Medium/0931-minimum-falling-path-sum"
   },
   {
     "platform": "leetcode",
@@ -3204,6 +3661,7 @@
     "problem_name": "2439-minimize-maximum-of-array",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Medium/2439-minimize-maximum-of-array"
   },
   {
     "platform": "leetcode",
@@ -3211,6 +3669,7 @@
     "problem_name": "1190-reverse-substrings-between-each-pair-of-parentheses",
     "languages": "Python",
     "last_commit_date": "2024-07-11"
+    "slug": "leetcode/Medium/1190-reverse-substrings-between-each-pair-of-parentheses"
   },
   {
     "platform": "leetcode",
@@ -3218,6 +3677,7 @@
     "problem_name": "2385-amount-of-time-for-binary-tree-to-be-infected",
     "languages": "Python",
     "last_commit_date": "2024-01-10"
+    "slug": "leetcode/Medium/2385-amount-of-time-for-binary-tree-to-be-infected"
   },
   {
     "platform": "leetcode",
@@ -3225,6 +3685,7 @@
     "problem_name": "0752-open-the-lock",
     "languages": "Python",
     "last_commit_date": "2024-04-22"
+    "slug": "leetcode/Medium/0752-open-the-lock"
   },
   {
     "platform": "leetcode",
@@ -3232,6 +3693,7 @@
     "problem_name": "0382-linked-list-random-node",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Medium/0382-linked-list-random-node"
   },
   {
     "platform": "leetcode",
@@ -3239,6 +3701,7 @@
     "problem_name": "2096-step-by-step-directions-from-a-binary-tree-node-to-another",
     "languages": "Python",
     "last_commit_date": "2024-07-16"
+    "slug": "leetcode/Medium/2096-step-by-step-directions-from-a-binary-tree-node-to-another"
   },
   {
     "platform": "leetcode",
@@ -3246,6 +3709,7 @@
     "problem_name": "1043-partition-array-for-maximum-sum",
     "languages": "Python",
     "last_commit_date": "2024-02-03"
+    "slug": "leetcode/Medium/1043-partition-array-for-maximum-sum"
   },
   {
     "platform": "leetcode",
@@ -3253,6 +3717,7 @@
     "problem_name": "0150-evaluate-reverse-polish-notation",
     "languages": "Python",
     "last_commit_date": "2024-01-30"
+    "slug": "leetcode/Medium/0150-evaluate-reverse-polish-notation"
   },
   {
     "platform": "leetcode",
@@ -3260,6 +3725,7 @@
     "problem_name": "0542-01-matrix",
     "languages": "Python",
     "last_commit_date": "2023-08-17"
+    "slug": "leetcode/Medium/0542-01-matrix"
   },
   {
     "platform": "leetcode",
@@ -3267,6 +3733,7 @@
     "problem_name": "0692-top-k-frequent-words",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Medium/0692-top-k-frequent-words"
   },
   {
     "platform": "leetcode",
@@ -3274,6 +3741,7 @@
     "problem_name": "0712-minimum-ascii-delete-sum-for-two-strings",
     "languages": "Python",
     "last_commit_date": "2023-08-14"
+    "slug": "leetcode/Medium/0712-minimum-ascii-delete-sum-for-two-strings"
   },
   {
     "platform": "leetcode",
@@ -3281,6 +3749,7 @@
     "problem_name": "1759-count-number-of-homogenous-substrings",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Medium/1759-count-number-of-homogenous-substrings"
   },
   {
     "platform": "leetcode",
@@ -3288,6 +3757,7 @@
     "problem_name": "0050-powx-n",
     "languages": "C++,JavaScript,Python",
     "last_commit_date": "2023-08-14"
+    "slug": "leetcode/Medium/0050-powx-n"
   },
   {
     "platform": "leetcode",
@@ -3295,6 +3765,7 @@
     "problem_name": "0179-largest-number",
     "languages": "Python",
     "last_commit_date": "2024-09-18"
+    "slug": "leetcode/Medium/0179-largest-number"
   },
   {
     "platform": "leetcode",
@@ -3302,6 +3773,7 @@
     "problem_name": "0958-check-completeness-of-a-binary-tree",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Medium/0958-check-completeness-of-a-binary-tree"
   },
   {
     "platform": "leetcode",
@@ -3309,6 +3781,7 @@
     "problem_name": "2130-maximum-twin-sum-of-a-linked-list",
     "languages": "Python",
     "last_commit_date": "2023-08-14"
+    "slug": "leetcode/Medium/2130-maximum-twin-sum-of-a-linked-list"
   },
   {
     "platform": "leetcode",
@@ -3316,6 +3789,7 @@
     "problem_name": "3043-find-the-length-of-the-longest-common-prefix",
     "languages": "Python",
     "last_commit_date": "2024-09-24"
+    "slug": "leetcode/Medium/3043-find-the-length-of-the-longest-common-prefix"
   },
   {
     "platform": "leetcode",
@@ -3323,6 +3797,7 @@
     "problem_name": "2914-find-the-safest-path-in-a-grid",
     "languages": "Python",
     "last_commit_date": "2024-05-15"
+    "slug": "leetcode/Medium/2914-find-the-safest-path-in-a-grid"
   },
   {
     "platform": "leetcode",
@@ -3330,6 +3805,7 @@
     "problem_name": "0053-maximum-subarray",
     "languages": "Python",
     "last_commit_date": "2024-07-07"
+    "slug": "leetcode/Medium/0053-maximum-subarray"
   },
   {
     "platform": "leetcode",
@@ -3337,6 +3813,7 @@
     "problem_name": "0515-find-largest-value-in-each-tree-row",
     "languages": "Python",
     "last_commit_date": "2023-10-24"
+    "slug": "leetcode/Medium/0515-find-largest-value-in-each-tree-row"
   },
   {
     "platform": "leetcode",
@@ -3344,6 +3821,7 @@
     "problem_name": "1845-seat-reservation-manager",
     "languages": "Python",
     "last_commit_date": "2023-11-06"
+    "slug": "leetcode/Medium/1845-seat-reservation-manager"
   },
   {
     "platform": "leetcode",
@@ -3351,6 +3829,7 @@
     "problem_name": "0373-find-k-pairs-with-smallest-sums",
     "languages": "Python",
     "last_commit_date": "2023-08-14"
+    "slug": "leetcode/Medium/0373-find-k-pairs-with-smallest-sums"
   },
   {
     "platform": "leetcode",
@@ -3358,6 +3837,7 @@
     "problem_name": "1081-smallest-subsequence-of-distinct-characters",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Medium/1081-smallest-subsequence-of-distinct-characters"
   },
   {
     "platform": "leetcode",
@@ -3365,6 +3845,7 @@
     "problem_name": "0279-perfect-squares",
     "languages": "Python",
     "last_commit_date": "2024-02-08"
+    "slug": "leetcode/Medium/0279-perfect-squares"
   },
   {
     "platform": "leetcode",
@@ -3372,6 +3853,7 @@
     "problem_name": "1493-longest-subarray-of-1s-after-deleting-one-element",
     "languages": "Python",
     "last_commit_date": "2023-08-14"
+    "slug": "leetcode/Medium/1493-longest-subarray-of-1s-after-deleting-one-element"
   },
   {
     "platform": "leetcode",
@@ -3379,6 +3861,7 @@
     "problem_name": "0049-group-anagrams",
     "languages": "C++,Python",
     "last_commit_date": "2024-02-06"
+    "slug": "leetcode/Medium/0049-group-anagrams"
   },
   {
     "platform": "leetcode",
@@ -3386,6 +3869,7 @@
     "problem_name": "2462-total-cost-to-hire-k-workers",
     "languages": "Python",
     "last_commit_date": "2023-08-14"
+    "slug": "leetcode/Medium/2462-total-cost-to-hire-k-workers"
   },
   {
     "platform": "leetcode",
@@ -3393,6 +3877,7 @@
     "problem_name": "2149-rearrange-array-elements-by-sign",
     "languages": "Python",
     "last_commit_date": "2024-02-14"
+    "slug": "leetcode/Medium/2149-rearrange-array-elements-by-sign"
   },
   {
     "platform": "leetcode",
@@ -3400,6 +3885,7 @@
     "problem_name": "1503-last-moment-before-all-ants-fall-out-of-a-plank",
     "languages": "Python",
     "last_commit_date": "2023-11-04"
+    "slug": "leetcode/Medium/1503-last-moment-before-all-ants-fall-out-of-a-plank"
   },
   {
     "platform": "leetcode",
@@ -3407,6 +3893,7 @@
     "problem_name": "0688-knight-probability-in-chessboard",
     "languages": "Python",
     "last_commit_date": "2023-08-14"
+    "slug": "leetcode/Medium/0688-knight-probability-in-chessboard"
   },
   {
     "platform": "leetcode",
@@ -3414,6 +3901,7 @@
     "problem_name": "2265-count-nodes-equal-to-average-of-subtree",
     "languages": "Python",
     "last_commit_date": "2023-11-02"
+    "slug": "leetcode/Medium/2265-count-nodes-equal-to-average-of-subtree"
   },
   {
     "platform": "leetcode",
@@ -3421,6 +3909,7 @@
     "problem_name": "1105-filling-bookcase-shelves",
     "languages": "Python",
     "last_commit_date": "2024-07-31"
+    "slug": "leetcode/Medium/1105-filling-bookcase-shelves"
   },
   {
     "platform": "leetcode",
@@ -3428,6 +3917,7 @@
     "problem_name": "0377-combination-sum-iv",
     "languages": "Python",
     "last_commit_date": "2023-09-09"
+    "slug": "leetcode/Medium/0377-combination-sum-iv"
   },
   {
     "platform": "leetcode",
@@ -3435,6 +3925,7 @@
     "problem_name": "1838-frequency-of-the-most-frequent-element",
     "languages": "Python",
     "last_commit_date": "2023-12-21"
+    "slug": "leetcode/Medium/1838-frequency-of-the-most-frequent-element"
   },
   {
     "platform": "leetcode",
@@ -3442,6 +3933,7 @@
     "problem_name": "0652-find-duplicate-subtrees",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Medium/0652-find-duplicate-subtrees"
   },
   {
     "platform": "leetcode",
@@ -3449,6 +3941,7 @@
     "problem_name": "2305-fair-distribution-of-cookies",
     "languages": "Python",
     "last_commit_date": "2023-08-14"
+    "slug": "leetcode/Medium/2305-fair-distribution-of-cookies"
   },
   {
     "platform": "leetcode",
@@ -3456,6 +3949,7 @@
     "problem_name": "0735-asteroid-collision",
     "languages": "Python",
     "last_commit_date": "2023-08-14"
+    "slug": "leetcode/Medium/0735-asteroid-collision"
   },
   {
     "platform": "leetcode",
@@ -3463,6 +3957,7 @@
     "problem_name": "1472-design-browser-history",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Medium/1472-design-browser-history"
   },
   {
     "platform": "leetcode",
@@ -3470,6 +3965,7 @@
     "problem_name": "2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Medium/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph"
   },
   {
     "platform": "leetcode",
@@ -3477,6 +3973,7 @@
     "problem_name": "2573-remove-nodes-from-linked-list",
     "languages": "Python",
     "last_commit_date": "2024-05-06"
+    "slug": "leetcode/Medium/2573-remove-nodes-from-linked-list"
   },
   {
     "platform": "leetcode",
@@ -3484,6 +3981,7 @@
     "problem_name": "1110-delete-nodes-and-return-forest",
     "languages": "Python",
     "last_commit_date": "2024-07-17"
+    "slug": "leetcode/Medium/1110-delete-nodes-and-return-forest"
   },
   {
     "platform": "leetcode",
@@ -3491,6 +3989,7 @@
     "problem_name": "0207-course-schedule",
     "languages": "Python",
     "last_commit_date": "2023-08-14"
+    "slug": "leetcode/Medium/0207-course-schedule"
   },
   {
     "platform": "leetcode",
@@ -3498,6 +3997,7 @@
     "problem_name": "0095-unique-binary-search-trees-ii",
     "languages": "Java,Python",
     "last_commit_date": "2023-08-14"
+    "slug": "leetcode/Medium/0095-unique-binary-search-trees-ii"
   },
   {
     "platform": "leetcode",
@@ -3505,6 +4005,7 @@
     "problem_name": "0787-cheapest-flights-within-k-stops",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Medium/0787-cheapest-flights-within-k-stops"
   },
   {
     "platform": "leetcode",
@@ -3512,6 +4013,7 @@
     "problem_name": "0456-132-pattern",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Medium/0456-132-pattern"
   },
   {
     "platform": "leetcode",
@@ -3519,6 +4021,7 @@
     "problem_name": "1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Medium/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero"
   },
   {
     "platform": "leetcode",
@@ -3526,6 +4029,7 @@
     "problem_name": "2187-minimum-time-to-complete-trips",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Medium/2187-minimum-time-to-complete-trips"
   },
   {
     "platform": "leetcode",
@@ -3533,6 +4037,7 @@
     "problem_name": "0443-string-compression",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Medium/0443-string-compression"
   },
   {
     "platform": "leetcode",
@@ -3540,6 +4045,7 @@
     "problem_name": "2038-remove-colored-pieces-if-both-neighbors-are-the-same-color",
     "languages": "Python",
     "last_commit_date": "2023-10-02"
+    "slug": "leetcode/Medium/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color"
   },
   {
     "platform": "leetcode",
@@ -3547,6 +4053,7 @@
     "problem_name": "1605-find-valid-matrix-given-row-and-column-sums",
     "languages": "Python",
     "last_commit_date": "2024-07-20"
+    "slug": "leetcode/Medium/1605-find-valid-matrix-given-row-and-column-sums"
   },
   {
     "platform": "leetcode",
@@ -3554,6 +4061,7 @@
     "problem_name": "1992-find-all-groups-of-farmland",
     "languages": "Python",
     "last_commit_date": "2024-04-20"
+    "slug": "leetcode/Medium/1992-find-all-groups-of-farmland"
   },
   {
     "platform": "leetcode",
@@ -3561,6 +4069,7 @@
     "problem_name": "2419-longest-subarray-with-maximum-bitwise-and",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Medium/2419-longest-subarray-with-maximum-bitwise-and"
   },
   {
     "platform": "leetcode",
@@ -3568,6 +4077,7 @@
     "problem_name": "1743-restore-the-array-from-adjacent-pairs",
     "languages": "Python",
     "last_commit_date": "2023-11-10"
+    "slug": "leetcode/Medium/1743-restore-the-array-from-adjacent-pairs"
   },
   {
     "platform": "leetcode",
@@ -3575,6 +4085,7 @@
     "problem_name": "0452-minimum-number-of-arrows-to-burst-balloons",
     "languages": "Python",
     "last_commit_date": "2024-03-18"
+    "slug": "leetcode/Medium/0452-minimum-number-of-arrows-to-burst-balloons"
   },
   {
     "platform": "leetcode",
@@ -3582,6 +4093,7 @@
     "problem_name": "2352-equal-row-and-column-pairs",
     "languages": "Python",
     "last_commit_date": "2023-08-14"
+    "slug": "leetcode/Medium/2352-equal-row-and-column-pairs"
   },
   {
     "platform": "leetcode",
@@ -3589,6 +4101,7 @@
     "problem_name": "2849-determine-if-a-cell-is-reachable-at-a-given-time",
     "languages": "Python",
     "last_commit_date": "2023-11-10"
+    "slug": "leetcode/Medium/2849-determine-if-a-cell-is-reachable-at-a-given-time"
   },
   {
     "platform": "leetcode",
@@ -3596,6 +4109,7 @@
     "problem_name": "0078-subsets",
     "languages": "Python",
     "last_commit_date": "2024-05-21"
+    "slug": "leetcode/Medium/0078-subsets"
   },
   {
     "platform": "leetcode",
@@ -3603,6 +4117,7 @@
     "problem_name": "1930-unique-length-3-palindromic-subsequences",
     "languages": "Python",
     "last_commit_date": "2023-12-21"
+    "slug": "leetcode/Medium/1930-unique-length-3-palindromic-subsequences"
   },
   {
     "platform": "leetcode",
@@ -3610,6 +4125,7 @@
     "problem_name": "0875-koko-eating-bananas",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Medium/0875-koko-eating-bananas"
   },
   {
     "platform": "leetcode",
@@ -3617,6 +4133,7 @@
     "problem_name": "0427-construct-quad-tree",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Medium/0427-construct-quad-tree"
   },
   {
     "platform": "leetcode",
@@ -3624,6 +4141,7 @@
     "problem_name": "0211-design-add-and-search-words-data-structure",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Medium/0211-design-add-and-search-words-data-structure"
   },
   {
     "platform": "leetcode",
@@ -3631,6 +4149,7 @@
     "problem_name": "0791-custom-sort-string",
     "languages": "Python",
     "last_commit_date": "2024-03-11"
+    "slug": "leetcode/Medium/0791-custom-sort-string"
   },
   {
     "platform": "leetcode",
@@ -3638,6 +4157,7 @@
     "problem_name": "2191-sort-the-jumbled-numbers",
     "languages": "Python",
     "last_commit_date": "2024-07-24"
+    "slug": "leetcode/Medium/2191-sort-the-jumbled-numbers"
   },
   {
     "platform": "leetcode",
@@ -3645,6 +4165,7 @@
     "problem_name": "1456-maximum-number-of-vowels-in-a-substring-of-given-length",
     "languages": "Python",
     "last_commit_date": "2023-08-14"
+    "slug": "leetcode/Medium/1456-maximum-number-of-vowels-in-a-substring-of-given-length"
   },
   {
     "platform": "leetcode",
@@ -3652,6 +4173,7 @@
     "problem_name": "0046-permutations",
     "languages": "C,C++,Python",
     "last_commit_date": "2023-08-27"
+    "slug": "leetcode/Medium/0046-permutations"
   },
   {
     "platform": "leetcode",
@@ -3659,6 +4181,7 @@
     "problem_name": "0934-shortest-bridge",
     "languages": "Python",
     "last_commit_date": "2023-08-14"
+    "slug": "leetcode/Medium/0934-shortest-bridge"
   },
   {
     "platform": "leetcode",
@@ -3666,6 +4189,7 @@
     "problem_name": "0300-longest-increasing-subsequence",
     "languages": "Python",
     "last_commit_date": "2024-01-05"
+    "slug": "leetcode/Medium/0300-longest-increasing-subsequence"
   },
   {
     "platform": "leetcode",
@@ -3673,6 +4197,7 @@
     "problem_name": "1395-count-number-of-teams",
     "languages": "Python",
     "last_commit_date": "2024-07-29"
+    "slug": "leetcode/Medium/1395-count-number-of-teams"
   },
   {
     "platform": "leetcode",
@@ -3680,6 +4205,7 @@
     "problem_name": "0725-split-linked-list-in-parts",
     "languages": "Python",
     "last_commit_date": "2023-09-06"
+    "slug": "leetcode/Medium/0725-split-linked-list-in-parts"
   },
   {
     "platform": "leetcode",
@@ -3687,6 +4213,7 @@
     "problem_name": "2707-extra-characters-in-a-string",
     "languages": "Python",
     "last_commit_date": "2023-09-02"
+    "slug": "leetcode/Medium/2707-extra-characters-in-a-string"
   },
   {
     "platform": "leetcode",
@@ -3694,6 +4221,7 @@
     "problem_name": "1143-longest-common-subsequence",
     "languages": "Python",
     "last_commit_date": "2024-01-25"
+    "slug": "leetcode/Medium/1143-longest-common-subsequence"
   },
   {
     "platform": "leetcode",
@@ -3701,6 +4229,7 @@
     "problem_name": "1382-balance-a-binary-search-tree",
     "languages": "Python",
     "last_commit_date": "2024-06-26"
+    "slug": "leetcode/Medium/1382-balance-a-binary-search-tree"
   },
   {
     "platform": "leetcode",
@@ -3708,6 +4237,7 @@
     "problem_name": "0935-knight-dialer",
     "languages": "Python",
     "last_commit_date": "2023-11-27"
+    "slug": "leetcode/Medium/0935-knight-dialer"
   },
   {
     "platform": "leetcode",
@@ -3715,6 +4245,7 @@
     "problem_name": "0885-spiral-matrix-iii",
     "languages": "Python",
     "last_commit_date": "2024-08-08"
+    "slug": "leetcode/Medium/0885-spiral-matrix-iii"
   },
   {
     "platform": "leetcode",
@@ -3722,6 +4253,7 @@
     "problem_name": "0974-subarray-sums-divisible-by-k",
     "languages": "Python",
     "last_commit_date": "2024-06-09"
+    "slug": "leetcode/Medium/0974-subarray-sums-divisible-by-k"
   },
   {
     "platform": "leetcode",
@@ -3729,6 +4261,7 @@
     "problem_name": "1509-minimum-difference-between-largest-and-smallest-value-in-three-moves",
     "languages": "Python",
     "last_commit_date": "2024-07-03"
+    "slug": "leetcode/Medium/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves"
   },
   {
     "platform": "leetcode",
@@ -3736,6 +4269,7 @@
     "problem_name": "0034-find-first-and-last-position-of-element-in-sorted-array",
     "languages": "Python",
     "last_commit_date": "2023-10-09"
+    "slug": "leetcode/Medium/0034-find-first-and-last-position-of-element-in-sorted-array"
   },
   {
     "platform": "leetcode",
@@ -3743,6 +4277,7 @@
     "problem_name": "2971-find-polygon-with-the-largest-perimeter",
     "languages": "Python",
     "last_commit_date": "2024-02-15"
+    "slug": "leetcode/Medium/2971-find-polygon-with-the-largest-perimeter"
   },
   {
     "platform": "leetcode",
@@ -3750,6 +4285,7 @@
     "problem_name": "0097-interleaving-string",
     "languages": "Python",
     "last_commit_date": "2023-08-25"
+    "slug": "leetcode/Medium/0097-interleaving-string"
   },
   {
     "platform": "leetcode",
@@ -3757,6 +4293,7 @@
     "problem_name": "1361-validate-binary-tree-nodes",
     "languages": "Python",
     "last_commit_date": "2023-10-17"
+    "slug": "leetcode/Medium/1361-validate-binary-tree-nodes"
   },
   {
     "platform": "leetcode",
@@ -3764,6 +4301,7 @@
     "problem_name": "0238-product-of-array-except-self",
     "languages": "Python",
     "last_commit_date": "2024-03-15"
+    "slug": "leetcode/Medium/0238-product-of-array-except-self"
   },
   {
     "platform": "leetcode",
@@ -3771,6 +4309,7 @@
     "problem_name": "0950-reveal-cards-in-increasing-order",
     "languages": "Python",
     "last_commit_date": "2024-04-10"
+    "slug": "leetcode/Medium/0950-reveal-cards-in-increasing-order"
   },
   {
     "platform": "leetcode",
@@ -3778,6 +4317,7 @@
     "problem_name": "2067-maximum-number-of-points-with-cost",
     "languages": "Python",
     "last_commit_date": "2024-08-17"
+    "slug": "leetcode/Medium/2067-maximum-number-of-points-with-cost"
   },
   {
     "platform": "leetcode",
@@ -3785,6 +4325,7 @@
     "problem_name": "2807-insert-greatest-common-divisors-in-linked-list",
     "languages": "Python",
     "last_commit_date": "2024-09-10"
+    "slug": "leetcode/Medium/2807-insert-greatest-common-divisors-in-linked-list"
   },
   {
     "platform": "leetcode",
@@ -3792,6 +4333,7 @@
     "problem_name": "0623-add-one-row-to-tree",
     "languages": "Python",
     "last_commit_date": "2024-04-16"
+    "slug": "leetcode/Medium/0623-add-one-row-to-tree"
   },
   {
     "platform": "leetcode",
@@ -3799,6 +4341,7 @@
     "problem_name": "2285-maximum-total-importance-of-roads",
     "languages": "Python",
     "last_commit_date": "2024-06-28"
+    "slug": "leetcode/Medium/2285-maximum-total-importance-of-roads"
   },
   {
     "platform": "leetcode",
@@ -3806,6 +4349,7 @@
     "problem_name": "0779-k-th-symbol-in-grammar",
     "languages": "Python",
     "last_commit_date": "2023-10-25"
+    "slug": "leetcode/Medium/0779-k-th-symbol-in-grammar"
   },
   {
     "platform": "leetcode",
@@ -3813,6 +4357,7 @@
     "problem_name": "0347-top-k-frequent-elements",
     "languages": "Python",
     "last_commit_date": "2023-08-14"
+    "slug": "leetcode/Medium/0347-top-k-frequent-elements"
   },
   {
     "platform": "leetcode",
@@ -3820,6 +4365,7 @@
     "problem_name": "0237-delete-node-in-a-linked-list",
     "languages": "C++,Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Medium/0237-delete-node-in-a-linked-list"
   },
   {
     "platform": "leetcode",
@@ -3827,6 +4373,7 @@
     "problem_name": "1481-least-number-of-unique-integers-after-k-removals",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Medium/1481-least-number-of-unique-integers-after-k-removals"
   },
   {
     "platform": "leetcode",
@@ -3834,6 +4381,7 @@
     "problem_name": "1631-path-with-minimum-effort",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Medium/1631-path-with-minimum-effort"
   },
   {
     "platform": "leetcode",
@@ -3841,6 +4389,7 @@
     "problem_name": "2597-the-number-of-beautiful-subsets",
     "languages": "Python",
     "last_commit_date": "2024-05-23"
+    "slug": "leetcode/Medium/2597-the-number-of-beautiful-subsets"
   },
   {
     "platform": "leetcode",
@@ -3848,6 +4397,7 @@
     "problem_name": "2125-number-of-laser-beams-in-a-bank",
     "languages": "Python",
     "last_commit_date": "2024-01-03"
+    "slug": "leetcode/Medium/2125-number-of-laser-beams-in-a-bank"
   },
   {
     "platform": "leetcode",
@@ -3855,6 +4405,7 @@
     "problem_name": "2225-find-players-with-zero-or-one-losses",
     "languages": "Python",
     "last_commit_date": "2024-01-15"
+    "slug": "leetcode/Medium/2225-find-players-with-zero-or-one-losses"
   },
   {
     "platform": "leetcode",
@@ -3862,6 +4413,7 @@
     "problem_name": "0319-bulb-switcher",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Medium/0319-bulb-switcher"
   },
   {
     "platform": "leetcode",
@@ -3869,6 +4421,7 @@
     "problem_name": "0079-word-search",
     "languages": "Python",
     "last_commit_date": "2024-04-03"
+    "slug": "leetcode/Medium/0079-word-search"
   },
   {
     "platform": "leetcode",
@@ -3876,6 +4429,7 @@
     "problem_name": "0201-bitwise-and-of-numbers-range",
     "languages": "Unknown",
     "last_commit_date": "2024-02-22"
+    "slug": "leetcode/Medium/0201-bitwise-and-of-numbers-range"
   },
   {
     "platform": "leetcode",
@@ -3883,6 +4437,7 @@
     "problem_name": "3217-delete-nodes-from-linked-list-present-in-array",
     "languages": "Python",
     "last_commit_date": "2024-09-06"
+    "slug": "leetcode/Medium/3217-delete-nodes-from-linked-list-present-in-array"
   },
   {
     "platform": "leetcode",
@@ -3890,6 +4445,7 @@
     "problem_name": "1035-uncrossed-lines",
     "languages": "Python",
     "last_commit_date": "2023-08-14"
+    "slug": "leetcode/Medium/1035-uncrossed-lines"
   },
   {
     "platform": "leetcode",
@@ -3897,6 +4453,7 @@
     "problem_name": "0109-convert-sorted-list-to-binary-search-tree",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Medium/0109-convert-sorted-list-to-binary-search-tree"
   },
   {
     "platform": "leetcode",
@@ -3904,6 +4461,7 @@
     "problem_name": "0074-search-a-2d-matrix",
     "languages": "C++,Python",
     "last_commit_date": "2023-08-14"
+    "slug": "leetcode/Medium/0074-search-a-2d-matrix"
   },
   {
     "platform": "leetcode",
@@ -3911,6 +4469,7 @@
     "problem_name": "0894-all-possible-full-binary-trees",
     "languages": "Python",
     "last_commit_date": "2023-08-14"
+    "slug": "leetcode/Medium/0894-all-possible-full-binary-trees"
   },
   {
     "platform": "leetcode",
@@ -3918,6 +4477,7 @@
     "problem_name": "0435-non-overlapping-intervals",
     "languages": "C++,Python",
     "last_commit_date": "2023-08-14"
+    "slug": "leetcode/Medium/0435-non-overlapping-intervals"
   },
   {
     "platform": "leetcode",
@@ -3925,6 +4485,7 @@
     "problem_name": "0092-reverse-linked-list-ii",
     "languages": "C,C++,Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Medium/0092-reverse-linked-list-ii"
   },
   {
     "platform": "leetcode",
@@ -3932,6 +4493,7 @@
     "problem_name": "2181-merge-nodes-in-between-zeros",
     "languages": "Python",
     "last_commit_date": "2024-07-04"
+    "slug": "leetcode/Medium/2181-merge-nodes-in-between-zeros"
   },
   {
     "platform": "leetcode",
@@ -3939,6 +4501,7 @@
     "problem_name": "0852-peak-index-in-a-mountain-array",
     "languages": "C++,Java,Python",
     "last_commit_date": "2023-08-14"
+    "slug": "leetcode/Medium/0852-peak-index-in-a-mountain-array"
   },
   {
     "platform": "leetcode",
@@ -3946,6 +4509,7 @@
     "problem_name": "0077-combinations",
     "languages": "Python",
     "last_commit_date": "2023-08-14"
+    "slug": "leetcode/Medium/0077-combinations"
   },
   {
     "platform": "leetcode",
@@ -3953,6 +4517,7 @@
     "problem_name": "0040-combination-sum-ii",
     "languages": "Python",
     "last_commit_date": "2024-08-13"
+    "slug": "leetcode/Medium/0040-combination-sum-ii"
   },
   {
     "platform": "leetcode",
@@ -3960,6 +4525,7 @@
     "problem_name": "1877-minimize-maximum-pair-sum-in-array",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Medium/1877-minimize-maximum-pair-sum-in-array"
   },
   {
     "platform": "leetcode",
@@ -3967,6 +4533,7 @@
     "problem_name": "1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit",
     "languages": "Python",
     "last_commit_date": "2024-06-23"
+    "slug": "leetcode/Medium/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit"
   },
   {
     "platform": "leetcode",
@@ -3974,6 +4541,7 @@
     "problem_name": "0624-maximum-distance-in-arrays",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Medium/0624-maximum-distance-in-arrays"
   },
   {
     "platform": "leetcode",
@@ -3981,6 +4549,7 @@
     "problem_name": "2369-check-if-there-is-a-valid-partition-for-the-array",
     "languages": "Python",
     "last_commit_date": "2023-08-14"
+    "slug": "leetcode/Medium/2369-check-if-there-is-a-valid-partition-for-the-array"
   },
   {
     "platform": "leetcode",
@@ -3988,6 +4557,7 @@
     "problem_name": "1318-minimum-flips-to-make-a-or-b-equal-to-c",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Medium/1318-minimum-flips-to-make-a-or-b-equal-to-c"
   },
   {
     "platform": "leetcode",
@@ -3995,6 +4565,7 @@
     "problem_name": "1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance",
     "languages": "Python",
     "last_commit_date": "2024-07-26"
+    "slug": "leetcode/Medium/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance"
   },
   {
     "platform": "leetcode",
@@ -4002,6 +4573,7 @@
     "problem_name": "2101-detonate-the-maximum-bombs",
     "languages": "Python",
     "last_commit_date": "2023-08-14"
+    "slug": "leetcode/Medium/2101-detonate-the-maximum-bombs"
   },
   {
     "platform": "leetcode",
@@ -4009,6 +4581,7 @@
     "problem_name": "1239-maximum-length-of-a-concatenated-string-with-unique-characters",
     "languages": "Python",
     "last_commit_date": "2024-01-23"
+    "slug": "leetcode/Medium/1239-maximum-length-of-a-concatenated-string-with-unique-characters"
   },
   {
     "platform": "leetcode",
@@ -4016,6 +4589,7 @@
     "problem_name": "0516-longest-palindromic-subsequence",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "leetcode/Medium/0516-longest-palindromic-subsequence"
   },
   {
     "platform": "leetcode",
@@ -4023,6 +4597,7 @@
     "problem_name": "1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one",
     "languages": "Python",
     "last_commit_date": "2024-05-29"
+    "slug": "leetcode/Medium/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one"
   },
   {
     "platform": "프로그래머스",
@@ -4030,6 +4605,7 @@
     "problem_name": "12906. 같은 숫자는 싫어",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "프로그래머스/lv1/12906. 같은 숫자는 싫어"
   },
   {
     "platform": "프로그래머스",
@@ -4037,6 +4613,7 @@
     "problem_name": "42862. 체육복",
     "languages": "C++",
     "last_commit_date": "2024-09-14"
+    "slug": "프로그래머스/lv1/42862. 체육복"
   },
   {
     "platform": "프로그래머스",
@@ -4044,6 +4621,7 @@
     "problem_name": "42576. 완주하지 못한 선수",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "프로그래머스/lv1/42576. 완주하지 못한 선수"
   },
   {
     "platform": "프로그래머스",
@@ -4051,6 +4629,7 @@
     "problem_name": "87389. 나머지가 1이 되는 수 찾기",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "프로그래머스/lv1/87389. 나머지가 1이 되는 수 찾기"
   },
   {
     "platform": "프로그래머스",
@@ -4058,6 +4637,7 @@
     "problem_name": "42748. K번째수",
     "languages": "C++,Python",
     "last_commit_date": "2024-09-14"
+    "slug": "프로그래머스/lv1/42748. K번째수"
   },
   {
     "platform": "프로그래머스",
@@ -4065,6 +4645,7 @@
     "problem_name": "42889. 실패율",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "프로그래머스/lv1/42889. 실패율"
   },
   {
     "platform": "프로그래머스",
@@ -4072,6 +4653,7 @@
     "problem_name": "77484. 로또의 최고 순위와 최저 순위",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "프로그래머스/lv1/77484. 로또의 최고 순위와 최저 순위"
   },
   {
     "platform": "프로그래머스",
@@ -4079,6 +4661,7 @@
     "problem_name": "42586. 기능개발",
     "languages": "C++",
     "last_commit_date": "2024-09-14"
+    "slug": "프로그래머스/lv2/42586. 기능개발"
   },
   {
     "platform": "프로그래머스",
@@ -4086,6 +4669,7 @@
     "problem_name": "42747. H－Index",
     "languages": "C++",
     "last_commit_date": "2024-09-14"
+    "slug": "프로그래머스/lv2/42747. H－Index"
   },
   {
     "platform": "프로그래머스",
@@ -4093,6 +4677,7 @@
     "problem_name": "42888. 오픈채팅방",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "프로그래머스/lv2/42888. 오픈채팅방"
   },
   {
     "platform": "프로그래머스",
@@ -4100,6 +4685,7 @@
     "problem_name": "43165. 타겟 넘버",
     "languages": "C++,Python",
     "last_commit_date": "2024-09-14"
+    "slug": "프로그래머스/lv2/43165. 타겟 넘버"
   },
   {
     "platform": "프로그래머스",
@@ -4107,6 +4693,7 @@
     "problem_name": "12978. 배달",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "프로그래머스/lv2/12978. 배달"
   },
   {
     "platform": "프로그래머스",
@@ -4114,6 +4701,7 @@
     "problem_name": "42839. 소수 찾기",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "프로그래머스/lv2/42839. 소수 찾기"
   },
   {
     "platform": "프로그래머스",
@@ -4121,6 +4709,7 @@
     "problem_name": "42883. 큰 수 만들기",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "프로그래머스/lv2/42883. 큰 수 만들기"
   },
   {
     "platform": "프로그래머스",
@@ -4128,6 +4717,7 @@
     "problem_name": "67257. ［카카오 인턴］ 수식 최대화",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "프로그래머스/lv2/67257. ［카카오 인턴］ 수식 최대화"
   },
   {
     "platform": "프로그래머스",
@@ -4135,6 +4725,7 @@
     "problem_name": "42578. 의상",
     "languages": "C++",
     "last_commit_date": "2024-09-14"
+    "slug": "프로그래머스/lv2/42578. 의상"
   },
   {
     "platform": "프로그래머스",
@@ -4142,6 +4733,7 @@
     "problem_name": "42583. 다리를 지나는 트럭",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "프로그래머스/lv2/42583. 다리를 지나는 트럭"
   },
   {
     "platform": "프로그래머스",
@@ -4149,6 +4741,7 @@
     "problem_name": "17677. ［1차］ 뉴스 클러스터링",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "프로그래머스/lv2/17677. ［1차］ 뉴스 클러스터링"
   },
   {
     "platform": "프로그래머스",
@@ -4156,6 +4749,7 @@
     "problem_name": "42885. 구명보트",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "프로그래머스/lv2/42885. 구명보트"
   },
   {
     "platform": "프로그래머스",
@@ -4163,6 +4757,7 @@
     "problem_name": "42890. 후보키",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "프로그래머스/lv2/42890. 후보키"
   },
   {
     "platform": "프로그래머스",
@@ -4170,6 +4765,7 @@
     "problem_name": "92335. k진수에서 소수 개수 구하기",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "프로그래머스/lv2/92335. k진수에서 소수 개수 구하기"
   },
   {
     "platform": "프로그래머스",
@@ -4177,6 +4773,7 @@
     "problem_name": "42584. 주식가격",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "프로그래머스/lv2/42584. 주식가격"
   },
   {
     "platform": "프로그래머스",
@@ -4184,6 +4781,7 @@
     "problem_name": "60057. 문자열 압축",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "프로그래머스/lv2/60057. 문자열 압축"
   },
   {
     "platform": "프로그래머스",
@@ -4191,6 +4789,7 @@
     "problem_name": "72411. 메뉴 리뉴얼",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "프로그래머스/lv2/72411. 메뉴 리뉴얼"
   },
   {
     "platform": "프로그래머스",
@@ -4198,6 +4797,7 @@
     "problem_name": "42746. 가장 큰 수",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "프로그래머스/lv2/42746. 가장 큰 수"
   },
   {
     "platform": "프로그래머스",
@@ -4205,6 +4805,7 @@
     "problem_name": "42626. 더 맵게",
     "languages": "C++,Python",
     "last_commit_date": "2024-09-14"
+    "slug": "프로그래머스/lv2/42626. 더 맵게"
   },
   {
     "platform": "프로그래머스",
@@ -4212,6 +4813,7 @@
     "problem_name": "12938. 최고의 집합",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "프로그래머스/lv3/12938. 최고의 집합"
   },
   {
     "platform": "프로그래머스",
@@ -4219,6 +4821,7 @@
     "problem_name": "42628. 이중우선순위큐",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "프로그래머스/lv3/42628. 이중우선순위큐"
   },
   {
     "platform": "프로그래머스",
@@ -4226,6 +4829,7 @@
     "problem_name": "42627. 디스크 컨트롤러",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "프로그래머스/lv3/42627. 디스크 컨트롤러"
   },
   {
     "platform": "프로그래머스",
@@ -4233,6 +4837,7 @@
     "problem_name": "49191. 순위",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "프로그래머스/lv3/49191. 순위"
   },
   {
     "platform": "프로그래머스",
@@ -4240,6 +4845,7 @@
     "problem_name": "42895. N으로 표현",
     "languages": "C++",
     "last_commit_date": "2024-09-14"
+    "slug": "프로그래머스/lv3/42895. N으로 표현"
   },
   {
     "platform": "프로그래머스",
@@ -4247,6 +4853,7 @@
     "problem_name": "77487. 헤비 유저가 소유한 장소",
     "languages": "SQL",
     "last_commit_date": "2024-09-14"
+    "slug": "프로그래머스/lv3/77487. 헤비 유저가 소유한 장소"
   },
   {
     "platform": "프로그래머스",
@@ -4254,6 +4861,7 @@
     "problem_name": "43238. 입국심사",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "프로그래머스/lv3/43238. 입국심사"
   },
   {
     "platform": "프로그래머스",
@@ -4261,6 +4869,7 @@
     "problem_name": "43105. 정수 삼각형",
     "languages": "C++",
     "last_commit_date": "2024-09-14"
+    "slug": "프로그래머스/lv3/43105. 정수 삼각형"
   },
   {
     "platform": "프로그래머스",
@@ -4268,6 +4877,7 @@
     "problem_name": "49189. 가장 먼 노드",
     "languages": "C++",
     "last_commit_date": "2024-09-14"
+    "slug": "프로그래머스/lv3/49189. 가장 먼 노드"
   },
   {
     "platform": "프로그래머스",
@@ -4275,6 +4885,7 @@
     "problem_name": "43163. 단어 변환",
     "languages": "C++",
     "last_commit_date": "2024-09-14"
+    "slug": "프로그래머스/lv3/43163. 단어 변환"
   },
   {
     "platform": "프로그래머스",
@@ -4282,6 +4893,7 @@
     "problem_name": "42884. 단속카메라",
     "languages": "C++,Python",
     "last_commit_date": "2024-09-14"
+    "slug": "프로그래머스/lv3/42884. 단속카메라"
   },
   {
     "platform": "프로그래머스",
@@ -4289,6 +4901,7 @@
     "problem_name": "43162. 네트워크",
     "languages": "C++",
     "last_commit_date": "2024-09-14"
+    "slug": "프로그래머스/lv3/43162. 네트워크"
   },
   {
     "platform": "백준",
@@ -4296,6 +4909,7 @@
     "problem_name": "16236. 아기 상어",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "백준/Gold/16236. 아기 상어"
   },
   {
     "platform": "백준",
@@ -4303,6 +4917,7 @@
     "problem_name": "20055. 컨베이어 벨트 위의 로봇",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "백준/Gold/20055. 컨베이어 벨트 위의 로봇"
   },
   {
     "platform": "백준",
@@ -4310,6 +4925,7 @@
     "problem_name": "2733. Brainf＊ck",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "백준/Gold/2733. Brainf＊ck"
   },
   {
     "platform": "백준",
@@ -4317,6 +4933,7 @@
     "problem_name": "22860. 폴더 정리 （small）",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "백준/Gold/22860. 폴더 정리 （small）"
   },
   {
     "platform": "백준",
@@ -4324,6 +4941,7 @@
     "problem_name": "1922. 네트워크 연결",
     "languages": "C++",
     "last_commit_date": "2024-09-14"
+    "slug": "백준/Gold/1922. 네트워크 연결"
   },
   {
     "platform": "백준",
@@ -4331,6 +4949,7 @@
     "problem_name": "12100. 2048 （Easy）",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "백준/Gold/12100. 2048 （Easy）"
   },
   {
     "platform": "백준",
@@ -4338,6 +4957,7 @@
     "problem_name": "2252. 줄 세우기",
     "languages": "C++",
     "last_commit_date": "2024-09-14"
+    "slug": "백준/Gold/2252. 줄 세우기"
   },
   {
     "platform": "백준",
@@ -4345,6 +4965,7 @@
     "problem_name": "9663. N－Queen",
     "languages": "C++",
     "last_commit_date": "2024-09-14"
+    "slug": "백준/Gold/9663. N－Queen"
   },
   {
     "platform": "백준",
@@ -4352,6 +4973,7 @@
     "problem_name": "17070. 파이프 옮기기 1",
     "languages": "C++",
     "last_commit_date": "2024-09-14"
+    "slug": "백준/Gold/17070. 파이프 옮기기 1"
   },
   {
     "platform": "백준",
@@ -4359,6 +4981,7 @@
     "problem_name": "17471. 게리맨더링",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "백준/Gold/17471. 게리맨더링"
   },
   {
     "platform": "백준",
@@ -4366,6 +4989,7 @@
     "problem_name": "10830. 행렬 제곱",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "백준/Gold/10830. 행렬 제곱"
   },
   {
     "platform": "백준",
@@ -4373,6 +4997,7 @@
     "problem_name": "14499. 주사위 굴리기",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "백준/Gold/14499. 주사위 굴리기"
   },
   {
     "platform": "백준",
@@ -4380,6 +5005,7 @@
     "problem_name": "15684. 사다리 조작",
     "languages": "C++",
     "last_commit_date": "2024-09-14"
+    "slug": "백준/Gold/15684. 사다리 조작"
   },
   {
     "platform": "백준",
@@ -4387,6 +5013,7 @@
     "problem_name": "16947. 서울 지하철 2호선",
     "languages": "C,C++",
     "last_commit_date": "2024-09-14"
+    "slug": "백준/Gold/16947. 서울 지하철 2호선"
   },
   {
     "platform": "백준",
@@ -4394,6 +5021,7 @@
     "problem_name": "1520. 내리막 길",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "백준/Gold/1520. 내리막 길"
   },
   {
     "platform": "백준",
@@ -4401,6 +5029,7 @@
     "problem_name": "9251. LCS",
     "languages": "C++",
     "last_commit_date": "2024-09-14"
+    "slug": "백준/Gold/9251. LCS"
   },
   {
     "platform": "백준",
@@ -4408,6 +5037,7 @@
     "problem_name": "1208. 부분수열의 합 2",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "백준/Gold/1208. 부분수열의 합 2"
   },
   {
     "platform": "백준",
@@ -4415,6 +5045,7 @@
     "problem_name": "10026. 적록색약",
     "languages": "C,C++",
     "last_commit_date": "2024-09-14"
+    "slug": "백준/Gold/10026. 적록색약"
   },
   {
     "platform": "백준",
@@ -4422,6 +5053,7 @@
     "problem_name": "1916. 최소비용 구하기",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "백준/Gold/1916. 최소비용 구하기"
   },
   {
     "platform": "백준",
@@ -4429,6 +5061,7 @@
     "problem_name": "17845. 수강 과목",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "백준/Gold/17845. 수강 과목"
   },
   {
     "platform": "백준",
@@ -4436,6 +5069,7 @@
     "problem_name": "11404. 플로이드",
     "languages": "C++",
     "last_commit_date": "2024-09-14"
+    "slug": "백준/Gold/11404. 플로이드"
   },
   {
     "platform": "백준",
@@ -4443,6 +5077,7 @@
     "problem_name": "14890. 경사로",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "백준/Gold/14890. 경사로"
   },
   {
     "platform": "백준",
@@ -4450,6 +5085,7 @@
     "problem_name": "23288. 주사위 굴리기 2",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "백준/Gold/23288. 주사위 굴리기 2"
   },
   {
     "platform": "백준",
@@ -4457,6 +5093,7 @@
     "problem_name": "17609. 회문",
     "languages": "C++",
     "last_commit_date": "2024-09-14"
+    "slug": "백준/Gold/17609. 회문"
   },
   {
     "platform": "백준",
@@ -4464,6 +5101,7 @@
     "problem_name": "1197. 최소 스패닝 트리",
     "languages": "C++,Python",
     "last_commit_date": "2024-09-14"
+    "slug": "백준/Gold/1197. 최소 스패닝 트리"
   },
   {
     "platform": "백준",
@@ -4471,6 +5109,7 @@
     "problem_name": "21608. 상어 초등학교",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "백준/Gold/21608. 상어 초등학교"
   },
   {
     "platform": "백준",
@@ -4478,6 +5117,7 @@
     "problem_name": "1753. 최단경로",
     "languages": "C++",
     "last_commit_date": "2024-09-14"
+    "slug": "백준/Gold/1753. 최단경로"
   },
   {
     "platform": "백준",
@@ -4485,6 +5125,7 @@
     "problem_name": "11657. 타임머신",
     "languages": "C++",
     "last_commit_date": "2024-09-14"
+    "slug": "백준/Gold/11657. 타임머신"
   },
   {
     "platform": "백준",
@@ -4492,6 +5133,7 @@
     "problem_name": "17281. ⚾",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "백준/Gold/17281. ⚾"
   },
   {
     "platform": "백준",
@@ -4499,6 +5141,7 @@
     "problem_name": "1135. 뉴스 전하기",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "백준/Gold/1135. 뉴스 전하기"
   },
   {
     "platform": "백준",
@@ -4506,6 +5149,7 @@
     "problem_name": "14503. 로봇 청소기",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "백준/Gold/14503. 로봇 청소기"
   },
   {
     "platform": "백준",
@@ -4513,6 +5157,7 @@
     "problem_name": "2751. 수 정렬하기 2",
     "languages": "C++",
     "last_commit_date": "2024-09-14"
+    "slug": "백준/Silver/2751. 수 정렬하기 2"
   },
   {
     "platform": "백준",
@@ -4520,6 +5165,7 @@
     "problem_name": "10845. 큐",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "백준/Silver/10845. 큐"
   },
   {
     "platform": "백준",
@@ -4527,6 +5173,7 @@
     "problem_name": "1389. 케빈 베이컨의 6단계 법칙",
     "languages": "C++",
     "last_commit_date": "2024-09-14"
+    "slug": "백준/Silver/1389. 케빈 베이컨의 6단계 법칙"
   },
   {
     "platform": "백준",
@@ -4534,6 +5181,7 @@
     "problem_name": "1158. 요세푸스 문제",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "백준/Silver/1158. 요세푸스 문제"
   },
   {
     "platform": "백준",
@@ -4541,6 +5189,7 @@
     "problem_name": "1991. 트리 순회",
     "languages": "C++",
     "last_commit_date": "2024-09-14"
+    "slug": "백준/Silver/1991. 트리 순회"
   },
   {
     "platform": "백준",
@@ -4548,6 +5197,7 @@
     "problem_name": "1969. DNA",
     "languages": "C++",
     "last_commit_date": "2024-09-14"
+    "slug": "백준/Silver/1969. DNA"
   },
   {
     "platform": "백준",
@@ -4555,6 +5205,7 @@
     "problem_name": "1260. DFS와 BFS",
     "languages": "C++,Python",
     "last_commit_date": "2024-09-14"
+    "slug": "백준/Silver/1260. DFS와 BFS"
   },
   {
     "platform": "백준",
@@ -4562,6 +5213,7 @@
     "problem_name": "14889. 스타트와 링크",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "백준/Silver/14889. 스타트와 링크"
   },
   {
     "platform": "백준",
@@ -4569,6 +5221,7 @@
     "problem_name": "11724. 연결 요소의 개수",
     "languages": "C++",
     "last_commit_date": "2024-09-14"
+    "slug": "백준/Silver/11724. 연결 요소의 개수"
   },
   {
     "platform": "백준",
@@ -4576,6 +5229,7 @@
     "problem_name": "1120. 문자열",
     "languages": "C++",
     "last_commit_date": "2024-09-14"
+    "slug": "백준/Silver/1120. 문자열"
   },
   {
     "platform": "백준",
@@ -4583,6 +5237,7 @@
     "problem_name": "1181. 단어 정렬",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "백준/Silver/1181. 단어 정렬"
   },
   {
     "platform": "백준",
@@ -4590,6 +5245,7 @@
     "problem_name": "10828. 스택",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "백준/Silver/10828. 스택"
   },
   {
     "platform": "백준",
@@ -4597,6 +5253,7 @@
     "problem_name": "2012. 등수 매기기",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "백준/Silver/2012. 등수 매기기"
   },
   {
     "platform": "백준",
@@ -4604,6 +5261,7 @@
     "problem_name": "1193. 분수찾기",
     "languages": "C++",
     "last_commit_date": "2024-09-14"
+    "slug": "백준/Silver/1193. 분수찾기"
   },
   {
     "platform": "백준",
@@ -4611,6 +5269,7 @@
     "problem_name": "2606. 바이러스",
     "languages": "C++",
     "last_commit_date": "2024-09-14"
+    "slug": "백준/Silver/2606. 바이러스"
   },
   {
     "platform": "백준",
@@ -4618,6 +5277,7 @@
     "problem_name": "24444. 알고리즘 수업 － 너비 우선 탐색 1",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "백준/Silver/24444. 알고리즘 수업 － 너비 우선 탐색 1"
   },
   {
     "platform": "백준",
@@ -4625,6 +5285,7 @@
     "problem_name": "9095. 1， 2， 3 더하기",
     "languages": "C++",
     "last_commit_date": "2024-09-14"
+    "slug": "백준/Silver/9095. 1， 2， 3 더하기"
   },
   {
     "platform": "백준",
@@ -4632,6 +5293,7 @@
     "problem_name": "11068. 회문인 수",
     "languages": "C++",
     "last_commit_date": "2024-09-14"
+    "slug": "백준/Silver/11068. 회문인 수"
   },
   {
     "platform": "백준",
@@ -4639,6 +5301,7 @@
     "problem_name": "11279. 최대 힙",
     "languages": "C++,Python",
     "last_commit_date": "2024-09-14"
+    "slug": "백준/Silver/11279. 최대 힙"
   },
   {
     "platform": "백준",
@@ -4646,6 +5309,7 @@
     "problem_name": "10773. 제로",
     "languages": "C++",
     "last_commit_date": "2024-09-14"
+    "slug": "백준/Silver/10773. 제로"
   },
   {
     "platform": "백준",
@@ -4653,6 +5317,7 @@
     "problem_name": "17478. 재귀함수가 뭔가요？",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "백준/Silver/17478. 재귀함수가 뭔가요？"
   },
   {
     "platform": "백준",
@@ -4660,6 +5325,7 @@
     "problem_name": "10610. 30",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "백준/Silver/10610. 30"
   },
   {
     "platform": "백준",
@@ -4667,6 +5333,7 @@
     "problem_name": "15988. 1， 2， 3 더하기 3",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "백준/Silver/15988. 1， 2， 3 더하기 3"
   },
   {
     "platform": "백준",
@@ -4674,6 +5341,7 @@
     "problem_name": "2798. 블랙잭",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "백준/Bronze/2798. 블랙잭"
   },
   {
     "platform": "백준",
@@ -4681,6 +5349,7 @@
     "problem_name": "15439. 베라의 패션",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "백준/Bronze/15439. 베라의 패션"
   },
   {
     "platform": "백준",
@@ -4688,6 +5357,7 @@
     "problem_name": "10870. 피보나치 수 5",
     "languages": "C++",
     "last_commit_date": "2024-09-14"
+    "slug": "백준/Bronze/10870. 피보나치 수 5"
   },
   {
     "platform": "백준",
@@ -4695,6 +5365,7 @@
     "problem_name": "2775. 부녀회장이 될테야",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "백준/Bronze/2775. 부녀회장이 될테야"
   },
   {
     "platform": "백준",
@@ -4702,6 +5373,7 @@
     "problem_name": "25625. 샤틀버스",
     "languages": "C++",
     "last_commit_date": "2024-09-14"
+    "slug": "백준/Bronze/25625. 샤틀버스"
   },
   {
     "platform": "백준",
@@ -4709,6 +5381,7 @@
     "problem_name": "10818. 최소， 최대",
     "languages": "C++",
     "last_commit_date": "2024-09-14"
+    "slug": "백준/Bronze/10818. 최소， 최대"
   },
   {
     "platform": "백준",
@@ -4716,6 +5389,7 @@
     "problem_name": "10872. 팩토리얼",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "백준/Bronze/10872. 팩토리얼"
   },
   {
     "platform": "백준",
@@ -4723,6 +5397,7 @@
     "problem_name": "1032. 명령 프롬프트",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "백준/Bronze/1032. 명령 프롬프트"
   },
   {
     "platform": "백준",
@@ -4730,6 +5405,7 @@
     "problem_name": "10989. 수 정렬하기 3",
     "languages": "C++",
     "last_commit_date": "2024-09-14"
+    "slug": "백준/Bronze/10989. 수 정렬하기 3"
   },
   {
     "platform": "백준",
@@ -4737,6 +5413,7 @@
     "problem_name": "1001. A－B",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "백준/Bronze/1001. A－B"
   },
   {
     "platform": "백준",
@@ -4744,6 +5421,7 @@
     "problem_name": "10718. We love kriii",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "백준/Bronze/10718. We love kriii"
   },
   {
     "platform": "백준",
@@ -4751,6 +5429,7 @@
     "problem_name": "2440. 별 찍기 － 3",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "백준/Bronze/2440. 별 찍기 － 3"
   },
   {
     "platform": "백준",
@@ -4758,6 +5437,7 @@
     "problem_name": "10998. A×B",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "백준/Bronze/10998. A×B"
   },
   {
     "platform": "백준",
@@ -4765,6 +5445,7 @@
     "problem_name": "10988. 팰린드롬인지 확인하기",
     "languages": "C++",
     "last_commit_date": "2024-09-14"
+    "slug": "백준/Bronze/10988. 팰린드롬인지 확인하기"
   },
   {
     "platform": "백준",
@@ -4772,6 +5453,7 @@
     "problem_name": "2750. 수 정렬하기",
     "languages": "C++,Python",
     "last_commit_date": "2024-09-14"
+    "slug": "백준/Bronze/2750. 수 정렬하기"
   },
   {
     "platform": "백준",
@@ -4779,6 +5461,7 @@
     "problem_name": "1000. A＋B",
     "languages": "C++",
     "last_commit_date": "2024-09-14"
+    "slug": "백준/Bronze/1000. A＋B"
   },
   {
     "platform": "백준",
@@ -4786,6 +5469,7 @@
     "problem_name": "1330. 두 수 비교하기",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "백준/Bronze/1330. 두 수 비교하기"
   },
   {
     "platform": "백준",
@@ -4793,6 +5477,7 @@
     "problem_name": "2557. Hello World",
     "languages": "C++,Python",
     "last_commit_date": "2024-09-14"
+    "slug": "백준/Bronze/2557. Hello World"
   },
   {
     "platform": "백준",
@@ -4800,6 +5485,7 @@
     "problem_name": "13458. 시험 감독",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "백준/Bronze/13458. 시험 감독"
   },
   {
     "platform": "백준",
@@ -4807,6 +5493,7 @@
     "problem_name": "3047. ABC",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
+    "slug": "백준/Bronze/3047. ABC"
   },
   {
     "platform": "백준",
@@ -4814,5 +5501,6 @@
     "problem_name": "2150. Strongly Connected Component",
     "languages": "C++,Python",
     "last_commit_date": "2024-09-14"
+    "slug": "백준/Platinum/2150. Strongly Connected Component"
   }
 ]
