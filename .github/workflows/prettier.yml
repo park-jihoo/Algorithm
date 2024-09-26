@@ -3,12 +3,11 @@ name: CI Pipeline
 on:
   pull_request:
   push:
-    branches:
-      - main
+    paths-ignore:
+      - '**.md'
 
 jobs:
   format_and_update_readme:
-    if: contains(github.event.head_commit.message, 'Time')
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -128,13 +127,11 @@ jobs:
       - name: Commit and Push Changes
         run: |
           git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"# Explicitly add files
-          git add README.md algorithms.json
-      
-          # Check for any differences
-          if git diff --cached --quiet; then
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet; then
             echo "No changes detected, skipping commit."
           else
-            git commit -m "Code formatting, README, and algorithms.json update"
+            git add .
+            git commit -m "Code formatting and README update"
             git push
           fi
