@@ -404,6 +404,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [1441-build-an-array-with-stack-operations](./leetcode/Medium/1441-build-an-array-with-stack-operations/) | Python | 2023-11-03 |
 | leetcode | Medium | [1396-design-underground-system](./leetcode/Medium/1396-design-underground-system/) | Python | 2024-09-14 |
 | leetcode | Medium | [1609-even-odd-tree](./leetcode/Medium/1609-even-odd-tree/) | Python | 2024-02-29 |
+| leetcode | Medium | [0729-my-calendar-i](./leetcode/Medium/0729-my-calendar-i/) | Python | 2024-09-26 |
 | leetcode | Medium | [1371-find-the-longest-substring-containing-vowels-in-even-counts](./leetcode/Medium/1371-find-the-longest-substring-containing-vowels-in-even-counts/) | Python | 2024-09-15 |
 | leetcode | Medium | [0064-minimum-path-sum](./leetcode/Medium/0064-minimum-path-sum/) | Python | 2024-09-14 |
 | leetcode | Medium | [1048-longest-string-chain](./leetcode/Medium/1048-longest-string-chain/) | Python | 2023-09-23 |
