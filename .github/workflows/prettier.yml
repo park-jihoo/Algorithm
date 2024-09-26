@@ -83,6 +83,47 @@ jobs:
       
           echo "" >> README.md
           echo "Click on the problem names to view their contents." >> README.md
+
+            - name: Generate algorithms.json
+        run: |
+          echo "[" > algorithms.json
+          find . -type d -not -path './.*' -mindepth 3 -maxdepth 3 | while read -r folder; do
+            folder_path=${folder#./}
+            platform=$(echo "$folder_path" | cut -d'/' -f1)
+            difficulty=$(echo "$folder_path" | cut -d'/' -f2)
+            problem_name=$(basename "$folder")
+            last_commit_date=$(git log -1 --format=%cs -- "$folder")
+
+            languages=$(find "$folder" -type f \( -name '*.c' -or -name '*.h' -or -name '*.java' -or -name '*.py' -or -name '*.sql' -or -name '*.cpp' -or -name '*.js' -or -name '*.cc' \) \
+            | awk -F. '{print $NF}' | sort | uniq | while read -r ext; do
+              case "$ext" in
+                c) echo "C" ;;
+                h) echo "C Header" ;;
+                java) echo "Java" ;;
+                py) echo "Python" ;;
+                sql) echo "SQL" ;;
+                cpp | cc) echo "C++" ;;
+                js) echo "JavaScript" ;;
+                *) echo "Unknown" ;;
+              esac
+            done | paste -sd "," -)
+
+            [ -z "$languages" ] && languages="Unknown"
+
+            echo "  {" >> algorithms.json
+            echo "    \"platform\": \"${platform}\"," >> algorithms.json
+            echo "    \"difficulty\": \"${difficulty}\"," >> algorithms.json
+            echo "    \"problem_name\": \"${problem_name}\"," >> algorithms.json
+            echo "    \"languages\": \"${languages}\"," >> algorithms.json
+            echo "    \"last_commit_date\": \"${last_commit_date}\"" >> algorithms.json
+            echo "  }," >> algorithms.json
+          done
+
+          # Remove trailing comma and close the JSON array
+          sed -i '$ s/,$//' algorithms.json
+          echo "]" >> algorithms.json
+
+          
       # 모든 변경 사항 커밋 및 푸시
       - name: Commit and Push Changes
         run: |
