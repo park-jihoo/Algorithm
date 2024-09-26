@@ -128,11 +128,13 @@ jobs:
       - name: Commit and Push Changes
         run: |
           git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          if git diff --quiet; then
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"# Explicitly add files
+          git add README.md algorithms.json
+      
+          # Check for any differences
+          if git diff --cached --quiet; then
             echo "No changes detected, skipping commit."
           else
-            git add .
-            git commit -m "Code formatting and README update"
+            git commit -m "Code formatting, README, and algorithms.json update"
             git push
           fi
