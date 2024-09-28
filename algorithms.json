@@ -3202,6 +3202,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "0641-design-circular-deque",
+    "languages": "Java",
+    "last_commit_date": "2024-09-28"
+    "slug": "leetcode/Medium/0641-design-circular-deque"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "0729-my-calendar-i",
     "languages": "Python",
     "last_commit_date": "2024-09-26"
