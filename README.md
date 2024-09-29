@@ -43,6 +43,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Hard | [2092-find-all-people-with-secret](./leetcode/Hard/2092-find-all-people-with-secret/) | Python | 2024-02-24 |
 | leetcode | Hard | [1269-number-of-ways-to-stay-in-the-same-place-after-some-steps](./leetcode/Hard/1269-number-of-ways-to-stay-in-the-same-place-after-some-steps/) | Python | 2023-10-15 |
 | leetcode | Hard | [0956-tallest-billboard](./leetcode/Hard/0956-tallest-billboard/) | Python | 2023-08-14 |
+| leetcode | Hard | [0432-all-oone-data-structure](./leetcode/Hard/0432-all-oone-data-structure/) | Python | 2024-09-29 |
 | leetcode | Hard | [0719-find-k-th-smallest-pair-distance](./leetcode/Hard/0719-find-k-th-smallest-pair-distance/) | Python | 2024-08-14 |
 | leetcode | Hard | [2272-substring-with-largest-variance](./leetcode/Hard/2272-substring-with-largest-variance/) | C,C++,Python | 2023-08-14 |
 | leetcode | Hard | [1187-make-array-strictly-increasing](./leetcode/Hard/1187-make-array-strictly-increasing/) | Java | 2024-09-14 |
@@ -404,7 +405,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [1441-build-an-array-with-stack-operations](./leetcode/Medium/1441-build-an-array-with-stack-operations/) | Python | 2023-11-03 |
 | leetcode | Medium | [1396-design-underground-system](./leetcode/Medium/1396-design-underground-system/) | Python | 2024-09-14 |
 | leetcode | Medium | [1609-even-odd-tree](./leetcode/Medium/1609-even-odd-tree/) | Python | 2024-02-29 |
-| leetcode | Medium | [0641-design-circular-deque](./leetcode/Medium/0641-design-circular-deque/) | Java | 2024-09-28 |
+| leetcode | Medium | [0641-design-circular-deque](./leetcode/Medium/0641-design-circular-deque/) | C++,Java | 2024-09-29 |
 | leetcode | Medium | [0729-my-calendar-i](./leetcode/Medium/0729-my-calendar-i/) | Python | 2024-09-26 |
 | leetcode | Medium | [1371-find-the-longest-substring-containing-vowels-in-even-counts](./leetcode/Medium/1371-find-the-longest-substring-containing-vowels-in-even-counts/) | Python | 2024-09-15 |
 | leetcode | Medium | [0064-minimum-path-sum](./leetcode/Medium/0064-minimum-path-sum/) | Python | 2024-09-14 |

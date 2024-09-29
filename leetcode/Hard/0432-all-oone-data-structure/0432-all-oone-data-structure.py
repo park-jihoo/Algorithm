@@ -3,26 +3,26 @@ class AllOne:
     def __init__(self):
         self.dict = {}
         self.max = ""
-        
+
     def inc(self, key: str) -> None:
         if key in self.dict:
-            self.dict[key]+=1
-            if self.dict[key]>self.dict[self.max]:
-                self.max=key
+            self.dict[key] += 1
+            if self.dict[key] > self.dict[self.max]:
+                self.max = key
         else:
-            self.dict[key]=1
-            if self.max=="":
-                self.max=key
+            self.dict[key] = 1
+            if self.max == "":
+                self.max = key
 
     def dec(self, key: str) -> None:
-        self.dict[key]-=1
-        if self.dict[key]==0:
+        self.dict[key] -= 1
+        if self.dict[key] == 0:
             del self.dict[key]
-            if key==self.max:
-                self.max=""
+            if key == self.max:
+                self.max = ""
         else:
-            if key==self.max:
-                self.max=max(zip(self.dict.values(), self.dict.keys()))[1]
+            if key == self.max:
+                self.max = max(zip(self.dict.values(), self.dict.keys()))[1]
 
     def getMaxKey(self) -> str:
         return self.max

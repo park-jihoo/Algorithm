@@ -314,6 +314,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Hard",
+    "problem_name": "0432-all-oone-data-structure",
+    "languages": "Python",
+    "last_commit_date": "2024-09-29"
+    "slug": "leetcode/Hard/0432-all-oone-data-structure"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Hard",
     "problem_name": "0719-find-k-th-smallest-pair-distance",
     "languages": "Python",
     "last_commit_date": "2024-08-14"
@@ -3203,8 +3211,8 @@
     "platform": "leetcode",
     "difficulty": "Medium",
     "problem_name": "0641-design-circular-deque",
-    "languages": "Java",
-    "last_commit_date": "2024-09-28"
+    "languages": "C++,Java",
+    "last_commit_date": "2024-09-29"
     "slug": "leetcode/Medium/0641-design-circular-deque"
   },
   {
