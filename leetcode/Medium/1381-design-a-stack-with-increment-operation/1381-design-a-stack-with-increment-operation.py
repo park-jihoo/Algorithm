@@ -18,7 +18,7 @@ class CustomStack:
         else:
             self.size -= 1
             return self.stack.pop()
-        
+
     def increment(self, k: int, val: int) -> None:
         temp = deque([])
         while self.stack:

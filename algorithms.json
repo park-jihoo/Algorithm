@@ -2202,6 +2202,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "1381-design-a-stack-with-increment-operation",
+    "languages": "Python",
+    "last_commit_date": "2024-09-30"
+    "slug": "leetcode/Medium/1381-design-a-stack-with-increment-operation"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "2870-minimum-number-of-operations-to-make-array-empty",
     "languages": "Python",
     "last_commit_date": "2024-01-04"

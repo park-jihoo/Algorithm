@@ -279,6 +279,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [0063-unique-paths-ii](./leetcode/Medium/0063-unique-paths-ii/) | Python | 2023-08-14 |
 | leetcode | Medium | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](./leetcode/Medium/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Python | 2023-08-14 |
 | leetcode | Medium | [0846-hand-of-straights](./leetcode/Medium/0846-hand-of-straights/) | Python | 2024-06-06 |
+| leetcode | Medium | [1381-design-a-stack-with-increment-operation](./leetcode/Medium/1381-design-a-stack-with-increment-operation/) | Python | 2024-09-30 |
 | leetcode | Medium | [2870-minimum-number-of-operations-to-make-array-empty](./leetcode/Medium/2870-minimum-number-of-operations-to-make-array-empty/) | Python | 2024-01-04 |
 | leetcode | Medium | [2616-minimize-the-maximum-difference-of-pairs](./leetcode/Medium/2616-minimize-the-maximum-difference-of-pairs/) | Python | 2023-08-14 |
 | leetcode | Medium | [1026-maximum-difference-between-node-and-ancestor](./leetcode/Medium/1026-maximum-difference-between-node-and-ancestor/) | Python | 2024-01-11 |
