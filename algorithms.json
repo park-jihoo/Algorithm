@@ -1826,6 +1826,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Easy",
+    "problem_name": "1331-rank-transform-of-an-array",
+    "languages": "Python",
+    "last_commit_date": "2024-10-02"
+    "slug": "leetcode/Easy/1331-rank-transform-of-an-array"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Easy",
     "problem_name": "0404-sum-of-left-leaves",
     "languages": "Python",
     "last_commit_date": "2024-04-14"

@@ -232,6 +232,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [1832-check-if-the-sentence-is-pangram](./leetcode/Easy/1832-check-if-the-sentence-is-pangram/) | Python | 2024-09-14 |
 | leetcode | Easy | [2264-largest-3-same-digit-number-in-string](./leetcode/Easy/2264-largest-3-same-digit-number-in-string/) | Python | 2023-12-21 |
 | leetcode | Easy | [1207-unique-number-of-occurrences](./leetcode/Easy/1207-unique-number-of-occurrences/) | Python | 2024-01-17 |
+| leetcode | Easy | [1331-rank-transform-of-an-array](./leetcode/Easy/1331-rank-transform-of-an-array/) | Python | 2024-10-02 |
 | leetcode | Easy | [0404-sum-of-left-leaves](./leetcode/Easy/0404-sum-of-left-leaves/) | Python | 2024-04-14 |
 | leetcode | Easy | [0530-minimum-absolute-difference-in-bst](./leetcode/Easy/0530-minimum-absolute-difference-in-bst/) | Python | 2023-08-14 |
 | leetcode | Easy | [0069-sqrtx](./leetcode/Easy/0069-sqrtx/) | Python | 2023-12-21 |
