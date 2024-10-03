@@ -2938,6 +2938,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "1590-make-sum-divisible-by-p",
+    "languages": "Python",
+    "last_commit_date": "2024-10-03"
+    "slug": "leetcode/Medium/1590-make-sum-divisible-by-p"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "0131-palindrome-partitioning",
     "languages": "Python",
     "last_commit_date": "2024-05-22"
