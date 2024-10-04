@@ -501,6 +501,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [1105-filling-bookcase-shelves](./leetcode/Medium/1105-filling-bookcase-shelves/) | Python | 2024-07-31 |
 | leetcode | Medium | [0377-combination-sum-iv](./leetcode/Medium/0377-combination-sum-iv/) | Python | 2023-09-09 |
 | leetcode | Medium | [1838-frequency-of-the-most-frequent-element](./leetcode/Medium/1838-frequency-of-the-most-frequent-element/) | Python | 2023-12-21 |
+| leetcode | Medium | [2491-divide-players-into-teams-of-equal-skill](./leetcode/Medium/2491-divide-players-into-teams-of-equal-skill/) | Python | 2024-10-04 |
 | leetcode | Medium | [0652-find-duplicate-subtrees](./leetcode/Medium/0652-find-duplicate-subtrees/) | Python | 2024-09-14 |
 | leetcode | Medium | [2305-fair-distribution-of-cookies](./leetcode/Medium/2305-fair-distribution-of-cookies/) | Python | 2023-08-14 |
 | leetcode | Medium | [0735-asteroid-collision](./leetcode/Medium/0735-asteroid-collision/) | Python | 2023-08-14 |

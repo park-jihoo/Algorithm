@@ -3978,6 +3978,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "2491-divide-players-into-teams-of-equal-skill",
+    "languages": "Python",
+    "last_commit_date": "2024-10-04"
+    "slug": "leetcode/Medium/2491-divide-players-into-teams-of-equal-skill"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "0652-find-duplicate-subtrees",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
