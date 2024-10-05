@@ -2938,6 +2938,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "0567-permutation-in-string",
+    "languages": "Python",
+    "last_commit_date": "2024-10-05"
+    "slug": "leetcode/Medium/0567-permutation-in-string"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "1590-make-sum-divisible-by-p",
     "languages": "Python",
     "last_commit_date": "2024-10-03"

@@ -371,6 +371,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](./leetcode/Medium/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Python | 2024-05-30 |
 | leetcode | Medium | [0983-minimum-cost-for-tickets](./leetcode/Medium/0983-minimum-cost-for-tickets/) | Python | 2024-09-14 |
 | leetcode | Medium | [0799-champagne-tower](./leetcode/Medium/0799-champagne-tower/) | Python | 2024-09-14 |
+| leetcode | Medium | [0567-permutation-in-string](./leetcode/Medium/0567-permutation-in-string/) | Python | 2024-10-05 |
 | leetcode | Medium | [1590-make-sum-divisible-by-p](./leetcode/Medium/1590-make-sum-divisible-by-p/) | Python | 2024-10-03 |
 | leetcode | Medium | [0131-palindrome-partitioning](./leetcode/Medium/0131-palindrome-partitioning/) | Python | 2024-05-22 |
 | leetcode | Medium | [0176-second-highest-salary](./leetcode/Medium/0176-second-highest-salary/) | SQL | 2024-09-14 |
