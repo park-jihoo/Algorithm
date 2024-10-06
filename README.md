@@ -394,6 +394,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [0147-insertion-sort-list](./leetcode/Medium/0147-insertion-sort-list/) | Java | 2024-09-14 |
 | leetcode | Medium | [0260-single-number-iii](./leetcode/Medium/0260-single-number-iii/) | Python | 2024-05-31 |
 | leetcode | Medium | [0999-regions-cut-by-slashes](./leetcode/Medium/0999-regions-cut-by-slashes/) | Python | 2024-08-10 |
+| leetcode | Medium | [1813-sentence-similarity-iii](./leetcode/Medium/1813-sentence-similarity-iii/) | Python | 2024-10-06 |
 | leetcode | Medium | [2433-find-the-original-array-of-prefix-xor](./leetcode/Medium/2433-find-the-original-array-of-prefix-xor/) | Python | 2023-10-31 |
 | leetcode | Medium | [1647-minimum-deletions-to-make-character-frequencies-unique](./leetcode/Medium/1647-minimum-deletions-to-make-character-frequencies-unique/) | Python | 2023-09-12 |
 | leetcode | Medium | [0062-unique-paths](./leetcode/Medium/0062-unique-paths/) | Python | 2023-09-03 |

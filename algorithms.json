@@ -3122,6 +3122,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "1813-sentence-similarity-iii",
+    "languages": "Python",
+    "last_commit_date": "2024-10-06"
+    "slug": "leetcode/Medium/1813-sentence-similarity-iii"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "2433-find-the-original-array-of-prefix-xor",
     "languages": "Python",
     "last_commit_date": "2023-10-31"

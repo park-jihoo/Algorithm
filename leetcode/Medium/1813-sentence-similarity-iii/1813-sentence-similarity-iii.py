@@ -10,6 +10,6 @@ class Solution:
             start += 1
 
         while e2 >= 0 and list1[e1] == list2[e2]:
-            e1-=1
-            e2-=1
+            e1 -= 1
+            e2 -= 1
         return e2 < start
