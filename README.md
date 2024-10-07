@@ -157,6 +157,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [0703-kth-largest-element-in-a-stream](./leetcode/Easy/0703-kth-largest-element-in-a-stream/) | Python | 2023-08-14 |
 | leetcode | Easy | [3110-score-of-a-string](./leetcode/Easy/3110-score-of-a-string/) | Python | 2024-06-01 |
 | leetcode | Easy | [0989-add-to-array-form-of-integer](./leetcode/Easy/0989-add-to-array-form-of-integer/) | Python | 2023-08-14 |
+| leetcode | Easy | [2696-minimum-string-length-after-removing-substrings](./leetcode/Easy/2696-minimum-string-length-after-removing-substrings/) | Python | 2024-10-07 |
 | leetcode | Easy | [2441-largest-positive-integer-that-exists-with-its-negative](./leetcode/Easy/2441-largest-positive-integer-that-exists-with-its-negative/) | Python | 2024-05-02 |
 | leetcode | Easy | [1704-determine-if-string-halves-are-alike](./leetcode/Easy/1704-determine-if-string-halves-are-alike/) | Python | 2024-01-12 |
 | leetcode | Easy | [0058-length-of-last-word](./leetcode/Easy/0058-length-of-last-word/) | Python | 2024-04-01 |

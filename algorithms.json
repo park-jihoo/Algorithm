@@ -1226,6 +1226,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Easy",
+    "problem_name": "2696-minimum-string-length-after-removing-substrings",
+    "languages": "Python",
+    "last_commit_date": "2024-10-07"
+    "slug": "leetcode/Easy/2696-minimum-string-length-after-removing-substrings"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Easy",
     "problem_name": "2441-largest-positive-integer-that-exists-with-its-negative",
     "languages": "Python",
     "last_commit_date": "2024-05-02"
