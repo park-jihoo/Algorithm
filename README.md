@@ -325,6 +325,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [1921-eliminate-maximum-number-of-monsters](./leetcode/Medium/1921-eliminate-maximum-number-of-monsters/) | Python | 2023-11-07 |
 | leetcode | Medium | [0445-add-two-numbers-ii](./leetcode/Medium/0445-add-two-numbers-ii/) | Python | 2023-08-14 |
 | leetcode | Medium | [1497-check-if-array-pairs-are-divisible-by-k](./leetcode/Medium/1497-check-if-array-pairs-are-divisible-by-k/) | Python | 2024-10-01 |
+| leetcode | Medium | [1963-minimum-number-of-swaps-to-make-the-string-balanced](./leetcode/Medium/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Python | 2024-10-08 |
 | leetcode | Medium | [0767-reorganize-string](./leetcode/Medium/0767-reorganize-string/) | Python | 2023-08-23 |
 | leetcode | Medium | [2542-maximum-subsequence-score](./leetcode/Medium/2542-maximum-subsequence-score/) | Python | 2023-08-14 |
 | leetcode | Medium | [0057-insert-interval](./leetcode/Medium/0057-insert-interval/) | Python | 2024-03-17 |
