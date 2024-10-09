@@ -475,6 +475,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [1190-reverse-substrings-between-each-pair-of-parentheses](./leetcode/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Python | 2024-07-11 |
 | leetcode | Medium | [2385-amount-of-time-for-binary-tree-to-be-infected](./leetcode/Medium/2385-amount-of-time-for-binary-tree-to-be-infected/) | Python | 2024-01-10 |
 | leetcode | Medium | [0752-open-the-lock](./leetcode/Medium/0752-open-the-lock/) | Python | 2024-04-22 |
+| leetcode | Medium | [0921-minimum-add-to-make-parentheses-valid](./leetcode/Medium/0921-minimum-add-to-make-parentheses-valid/) | Python | 2024-10-09 |
 | leetcode | Medium | [0382-linked-list-random-node](./leetcode/Medium/0382-linked-list-random-node/) | Python | 2024-09-14 |
 | leetcode | Medium | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](./leetcode/Medium/2096-step-by-step-directions-from-a-binary-tree-node-to-another/) | Python | 2024-07-16 |
 | leetcode | Medium | [1043-partition-array-for-maximum-sum](./leetcode/Medium/1043-partition-array-for-maximum-sum/) | Python | 2024-02-03 |

@@ -3770,6 +3770,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "0921-minimum-add-to-make-parentheses-valid",
+    "languages": "Python",
+    "last_commit_date": "2024-10-09"
+    "slug": "leetcode/Medium/0921-minimum-add-to-make-parentheses-valid"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "0382-linked-list-random-node",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
