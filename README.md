@@ -526,6 +526,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [1930-unique-length-3-palindromic-subsequences](./leetcode/Medium/1930-unique-length-3-palindromic-subsequences/) | Python | 2023-12-21 |
 | leetcode | Medium | [1915-number-of-wonderful-substrings](./leetcode/Medium/1915-number-of-wonderful-substrings/) | Python | 2024-09-14 |
 | leetcode | Medium | [0078-subsets](./leetcode/Medium/0078-subsets/) | Python | 2024-05-21 |
+| leetcode | Medium | [2406-divide-intervals-into-minimum-number-of-groups](./leetcode/Medium/2406-divide-intervals-into-minimum-number-of-groups/) | Python | 2024-10-12 |
 | leetcode | Medium | [0382-linked-list-random-node](./leetcode/Medium/0382-linked-list-random-node/) | Python | 2024-09-14 |
 | leetcode | Medium | [0673-number-of-longest-increasing-subsequence](./leetcode/Medium/0673-number-of-longest-increasing-subsequence/) | Python | 2023-08-14 |
 | leetcode | Medium | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](./leetcode/Medium/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Python | 2024-09-14 |

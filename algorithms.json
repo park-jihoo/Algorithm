@@ -4178,6 +4178,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "2406-divide-intervals-into-minimum-number-of-groups",
+    "languages": "Python",
+    "last_commit_date": "2024-10-12"
+    "slug": "leetcode/Medium/2406-divide-intervals-into-minimum-number-of-groups"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "0382-linked-list-random-node",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
