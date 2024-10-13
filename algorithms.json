@@ -1114,6 +1114,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Hard",
+    "problem_name": "0632-smallest-range-covering-elements-from-k-lists",
+    "languages": "Python",
+    "last_commit_date": "2024-10-13"
+    "slug": "leetcode/Hard/0632-smallest-range-covering-elements-from-k-lists"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Hard",
     "problem_name": "1569-number-of-ways-to-reorder-array-to-get-same-bst",
     "languages": "Java",
     "last_commit_date": "2023-08-14"

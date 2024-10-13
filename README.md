@@ -143,6 +143,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Hard | [1269-number-of-ways-to-stay-in-the-same-place-after-some-steps](./leetcode/Hard/1269-number-of-ways-to-stay-in-the-same-place-after-some-steps/) | Python | 2023-10-15 |
 | leetcode | Hard | [0834-sum-of-distances-in-tree](./leetcode/Hard/0834-sum-of-distances-in-tree/) | Python | 2024-04-28 |
 | leetcode | Hard | [1095-find-in-mountain-array](./leetcode/Hard/1095-find-in-mountain-array/) | Python | 2023-10-12 |
+| leetcode | Hard | [0632-smallest-range-covering-elements-from-k-lists](./leetcode/Hard/0632-smallest-range-covering-elements-from-k-lists/) | Python | 2024-10-13 |
 | leetcode | Hard | [1569-number-of-ways-to-reorder-array-to-get-same-bst](./leetcode/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Java | 2023-08-14 |
 | leetcode | Hard | [1575-count-all-possible-routes](./leetcode/Hard/1575-count-all-possible-routes/) | Python | 2023-08-14 |
 | leetcode | Hard | [1037-minimum-number-of-k-consecutive-bit-flips](./leetcode/Hard/1037-minimum-number-of-k-consecutive-bit-flips/) | Python | 2024-06-24 |

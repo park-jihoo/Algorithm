@@ -8,11 +8,11 @@ class Solution:
             n, list_idx, i = heapq.heappop(heap)
             full.append(n)
             ids.append(list_idx)
-            if i < len(nums[list_idx])-1:
-                heapq.heappush(heap, (nums[list_idx][i+1], list_idx, i+1))
-        
-        ans = [float('-inf'), float('inf')]
-        k, s, uniq = len(nums), [0]*len(nums), 0
+            if i < len(nums[list_idx]) - 1:
+                heapq.heappush(heap, (nums[list_idx][i + 1], list_idx, i + 1))
+
+        ans = [float("-inf"), float("inf")]
+        k, s, uniq = len(nums), [0] * len(nums), 0
         l = 0
         for r in range(len(full)):
             s[ids[r]] += 1
