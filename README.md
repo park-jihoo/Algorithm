@@ -301,6 +301,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [0092-reverse-linked-list-ii](./leetcode/Medium/0092-reverse-linked-list-ii/) | C,C++,Python | 2024-09-14 |
 | leetcode | Medium | [0049-group-anagrams](./leetcode/Medium/0049-group-anagrams/) | C++,Python | 2024-02-06 |
 | leetcode | Medium | [0038-count-and-say](./leetcode/Medium/0038-count-and-say/) | Python | 2024-09-14 |
+| leetcode | Medium | [2530-maximal-score-after-applying-k-operations](./leetcode/Medium/2530-maximal-score-after-applying-k-operations/) | Python | 2024-10-14 |
 | leetcode | Medium | [2265-count-nodes-equal-to-average-of-subtree](./leetcode/Medium/2265-count-nodes-equal-to-average-of-subtree/) | Python | 2023-11-02 |
 | leetcode | Medium | [0540-single-element-in-a-sorted-array](./leetcode/Medium/0540-single-element-in-a-sorted-array/) | Java,Python | 2024-09-14 |
 | leetcode | Medium | [1514-path-with-maximum-probability](./leetcode/Medium/1514-path-with-maximum-probability/) | Python | 2023-08-14 |

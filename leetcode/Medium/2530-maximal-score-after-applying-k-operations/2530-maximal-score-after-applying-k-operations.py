@@ -6,5 +6,5 @@ class Solution:
         for i in range(k):
             n = heapq.heappop(num_minus)
             ans += n
-            heapq.heappush(num_minus, math.floor(n/3))
+            heapq.heappush(num_minus, math.floor(n / 3))
         return -ans
