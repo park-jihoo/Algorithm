@@ -413,6 +413,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [0931-minimum-falling-path-sum](./leetcode/Medium/0931-minimum-falling-path-sum/) | Python | 2024-01-19 |
 | leetcode | Medium | [2181-merge-nodes-in-between-zeros](./leetcode/Medium/2181-merge-nodes-in-between-zeros/) | Python | 2024-07-04 |
 | leetcode | Medium | [0785-is-graph-bipartite](./leetcode/Medium/0785-is-graph-bipartite/) | Python | 2023-08-14 |
+| leetcode | Medium | [2938-separate-black-and-white-balls](./leetcode/Medium/2938-separate-black-and-white-balls/) | Python | 2024-10-15 |
 | leetcode | Medium | [3075-maximize-happiness-of-selected-children](./leetcode/Medium/3075-maximize-happiness-of-selected-children/) | Python | 2024-05-09 |
 | leetcode | Medium | [0053-maximum-subarray](./leetcode/Medium/0053-maximum-subarray/) | Python | 2024-07-07 |
 | leetcode | Medium | [2707-extra-characters-in-a-string](./leetcode/Medium/2707-extra-characters-in-a-string/) | Python | 2023-09-02 |

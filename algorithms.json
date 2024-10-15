@@ -3274,6 +3274,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "2938-separate-black-and-white-balls",
+    "languages": "Python",
+    "last_commit_date": "2024-10-15"
+    "slug": "leetcode/Medium/2938-separate-black-and-white-balls"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "3075-maximize-happiness-of-selected-children",
     "languages": "Python",
     "last_commit_date": "2024-05-09"
