@@ -3218,6 +3218,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "1405-longest-happy-string",
+    "languages": "Python",
+    "last_commit_date": "2024-10-16"
+    "slug": "leetcode/Medium/1405-longest-happy-string"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "0260-single-number-iii",
     "languages": "Python",
     "last_commit_date": "2024-05-31"

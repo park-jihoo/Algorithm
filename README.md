@@ -406,6 +406,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [0767-reorganize-string](./leetcode/Medium/0767-reorganize-string/) | Python | 2023-08-23 |
 | leetcode | Medium | [1035-uncrossed-lines](./leetcode/Medium/1035-uncrossed-lines/) | Python | 2023-08-14 |
 | leetcode | Medium | [0874-walking-robot-simulation](./leetcode/Medium/0874-walking-robot-simulation/) | Python | 2024-09-04 |
+| leetcode | Medium | [1405-longest-happy-string](./leetcode/Medium/1405-longest-happy-string/) | Python | 2024-10-16 |
 | leetcode | Medium | [0260-single-number-iii](./leetcode/Medium/0260-single-number-iii/) | Python | 2024-05-31 |
 | leetcode | Medium | [1110-delete-nodes-and-return-forest](./leetcode/Medium/1110-delete-nodes-and-return-forest/) | Python | 2024-07-17 |
 | leetcode | Medium | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](./leetcode/Medium/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k/) | Python | 2024-04-29 |

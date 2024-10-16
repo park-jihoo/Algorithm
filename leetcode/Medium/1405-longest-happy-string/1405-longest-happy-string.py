@@ -1,7 +1,7 @@
 class Solution:
     def longestDiverseString(self, a: int, b: int, c: int) -> str:
         # s doesn't contain any of "aaa", "bbb", "ccc" as a substring
-        heap = [(-a, 'a'), (-b, 'b'), (-c, 'c')]
+        heap = [(-a, "a"), (-b, "b"), (-c, "c")]
         heapq.heapify(heap)
         ans = ""
         while heap:
