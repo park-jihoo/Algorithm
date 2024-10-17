@@ -2682,6 +2682,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "0670-maximum-swap",
+    "languages": "Python",
+    "last_commit_date": "2024-10-17"
+    "slug": "leetcode/Medium/0670-maximum-swap"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "1381-design-a-stack-with-increment-operation",
     "languages": "Python",
     "last_commit_date": "2024-09-30"

@@ -339,6 +339,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [1870-minimum-speed-to-arrive-on-time](./leetcode/Medium/1870-minimum-speed-to-arrive-on-time/) | Python | 2023-08-14 |
 | leetcode | Medium | [0040-combination-sum-ii](./leetcode/Medium/0040-combination-sum-ii/) | Python | 2024-08-13 |
 | leetcode | Medium | [2785-sort-vowels-in-a-string](./leetcode/Medium/2785-sort-vowels-in-a-string/) | Python | 2023-11-13 |
+| leetcode | Medium | [0670-maximum-swap](./leetcode/Medium/0670-maximum-swap/) | Python | 2024-10-17 |
 | leetcode | Medium | [1381-design-a-stack-with-increment-operation](./leetcode/Medium/1381-design-a-stack-with-increment-operation/) | Python | 2024-09-30 |
 | leetcode | Medium | [0179-largest-number](./leetcode/Medium/0179-largest-number/) | Python | 2024-09-18 |
 | leetcode | Medium | [0146-lru-cache](./leetcode/Medium/0146-lru-cache/) | Java,Python | 2023-08-14 |
