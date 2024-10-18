@@ -438,6 +438,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [1441-build-an-array-with-stack-operations](./leetcode/Medium/1441-build-an-array-with-stack-operations/) | Python | 2023-11-03 |
 | leetcode | Medium | [0063-unique-paths-ii](./leetcode/Medium/0063-unique-paths-ii/) | Python | 2023-08-14 |
 | leetcode | Medium | [1155-number-of-dice-rolls-with-target-sum](./leetcode/Medium/1155-number-of-dice-rolls-with-target-sum/) | Python | 2023-12-26 |
+| leetcode | Medium | [2044-count-number-of-maximum-bitwise-or-subsets](./leetcode/Medium/2044-count-number-of-maximum-bitwise-or-subsets/) | Python | 2024-10-18 |
 | leetcode | Medium | [1798-maximum-number-of-consecutive-values-you-can-make](./leetcode/Medium/1798-maximum-number-of-consecutive-values-you-can-make/) | Python | 2023-09-19 |
 | leetcode | Medium | [2134-minimum-swaps-to-group-all-1s-together-ii](./leetcode/Medium/2134-minimum-swaps-to-group-all-1s-together-ii/) | Python | 2024-08-02 |
 | leetcode | Medium | [0678-valid-parenthesis-string](./leetcode/Medium/0678-valid-parenthesis-string/) | Python | 2024-04-07 |

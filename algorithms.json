@@ -3474,6 +3474,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "2044-count-number-of-maximum-bitwise-or-subsets",
+    "languages": "Python",
+    "last_commit_date": "2024-10-18"
+    "slug": "leetcode/Medium/2044-count-number-of-maximum-bitwise-or-subsets"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "1798-maximum-number-of-consecutive-values-you-can-make",
     "languages": "Python",
     "last_commit_date": "2023-09-19"
