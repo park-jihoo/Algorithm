@@ -5,9 +5,8 @@ class Solution:
             return "0"
         elif k == 2 ** (n - 1):
             return "1"
-        elif k < 2 ** (n-1):
-            return self.findKthBit(n-1, k)
+        elif k < 2 ** (n - 1):
+            return self.findKthBit(n - 1, k)
         else:
-            return str(1 - int(self.findKthBit(n-1, 2**n - k)))
+            return str(1 - int(self.findKthBit(n - 1, 2**n - k)))
         return ""
-        

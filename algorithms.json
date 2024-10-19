@@ -3690,6 +3690,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "1545-find-kth-bit-in-nth-binary-string",
+    "languages": "Python",
+    "last_commit_date": "2024-10-19"
+    "slug": "leetcode/Medium/1545-find-kth-bit-in-nth-binary-string"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "0198-house-robber",
     "languages": "Python",
     "last_commit_date": "2024-01-21"

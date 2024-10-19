@@ -465,6 +465,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [0823-binary-trees-with-factors](./leetcode/Medium/0823-binary-trees-with-factors/) | Python | 2023-10-26 |
 | leetcode | Medium | [2390-removing-stars-from-a-string](./leetcode/Medium/2390-removing-stars-from-a-string/) | Python | 2024-09-14 |
 | leetcode | Medium | [2300-successful-pairs-of-spells-and-potions](./leetcode/Medium/2300-successful-pairs-of-spells-and-potions/) | Python | 2024-09-14 |
+| leetcode | Medium | [1545-find-kth-bit-in-nth-binary-string](./leetcode/Medium/1545-find-kth-bit-in-nth-binary-string/) | Python | 2024-10-19 |
 | leetcode | Medium | [0198-house-robber](./leetcode/Medium/0198-house-robber/) | Python | 2024-01-21 |
 | leetcode | Medium | [2391-minimum-amount-of-time-to-collect-garbage](./leetcode/Medium/2391-minimum-amount-of-time-to-collect-garbage/) | Python | 2023-12-21 |
 | leetcode | Medium | [0518-coin-change-ii](./leetcode/Medium/0518-coin-change-ii/) | C,C++,Python | 2023-08-14 |
