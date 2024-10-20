@@ -151,6 +151,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Hard | [2328-number-of-increasing-paths-in-a-grid](./leetcode/Hard/2328-number-of-increasing-paths-in-a-grid/) | Python | 2023-08-14 |
 | leetcode | Hard | [1074-number-of-submatrices-that-sum-to-target](./leetcode/Hard/1074-number-of-submatrices-that-sum-to-target/) | Python | 2024-01-28 |
 | leetcode | Hard | [1235-maximum-profit-in-job-scheduling](./leetcode/Hard/1235-maximum-profit-in-job-scheduling/) | Python | 2024-01-06 |
+| leetcode | Hard | [1106-parsing-a-boolean-expression](./leetcode/Hard/1106-parsing-a-boolean-expression/) | Python | 2024-10-20 |
 | leetcode | Hard | [2444-count-subarrays-with-fixed-bounds](./leetcode/Hard/2444-count-subarrays-with-fixed-bounds/) | Python | 2024-09-14 |
 | leetcode | Hard | [3068-find-the-maximum-sum-of-node-values](./leetcode/Hard/3068-find-the-maximum-sum-of-node-values/) | Python | 2024-09-14 |
 | leetcode | Hard | [0041-first-missing-positive](./leetcode/Hard/0041-first-missing-positive/) | Python | 2024-03-26 |

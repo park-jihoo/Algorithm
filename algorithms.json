@@ -1178,6 +1178,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Hard",
+    "problem_name": "1106-parsing-a-boolean-expression",
+    "languages": "Python",
+    "last_commit_date": "2024-10-20"
+    "slug": "leetcode/Hard/1106-parsing-a-boolean-expression"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Hard",
     "problem_name": "2444-count-subarrays-with-fixed-bounds",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
