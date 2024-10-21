@@ -251,6 +251,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [1325-delete-leaves-with-a-given-value](./leetcode/Medium/1325-delete-leaves-with-a-given-value/) | Python | 2024-05-17 |
 | leetcode | Medium | [2095-delete-the-middle-node-of-a-linked-list](./leetcode/Medium/2095-delete-the-middle-node-of-a-linked-list/) | C++ | 2024-09-14 |
 | leetcode | Medium | [1481-least-number-of-unique-integers-after-k-removals](./leetcode/Medium/1481-least-number-of-unique-integers-after-k-removals/) | Python | 2024-09-14 |
+| leetcode | Medium | [1593-split-a-string-into-the-max-number-of-unique-substrings](./leetcode/Medium/1593-split-a-string-into-the-max-number-of-unique-substrings/) | Python | 2024-10-21 |
 | leetcode | Medium | [1482-minimum-number-of-days-to-make-m-bouquets](./leetcode/Medium/1482-minimum-number-of-days-to-make-m-bouquets/) | Python | 2024-06-19 |
 | leetcode | Medium | [2871-double-a-number-represented-as-a-linked-list](./leetcode/Medium/2871-double-a-number-represented-as-a-linked-list/) | Python | 2024-05-07 |
 | leetcode | Medium | [0729-my-calendar-i](./leetcode/Medium/0729-my-calendar-i/) | Python | 2024-09-26 |

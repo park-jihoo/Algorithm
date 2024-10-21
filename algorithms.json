@@ -1978,6 +1978,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "1593-split-a-string-into-the-max-number-of-unique-substrings",
+    "languages": "Python",
+    "last_commit_date": "2024-10-21"
+    "slug": "leetcode/Medium/1593-split-a-string-into-the-max-number-of-unique-substrings"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "1482-minimum-number-of-days-to-make-m-bouquets",
     "languages": "Python",
     "last_commit_date": "2024-06-19"
