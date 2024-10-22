@@ -2634,6 +2634,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "2583-kth-largest-sum-in-a-binary-tree",
+    "languages": "Python",
+    "last_commit_date": "2024-10-22"
+    "slug": "leetcode/Medium/2583-kth-largest-sum-in-a-binary-tree"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "1456-maximum-number-of-vowels-in-a-substring-of-given-length",
     "languages": "Python",
     "last_commit_date": "2023-08-14"

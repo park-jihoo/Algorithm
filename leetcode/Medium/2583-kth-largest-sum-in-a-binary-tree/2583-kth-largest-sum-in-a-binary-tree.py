@@ -15,7 +15,7 @@ class Solution:
                 queue.append((node.left, level + 1))
             if node.right:
                 queue.append((node.right, level + 1))
-            if len(sums) < level+1:
+            if len(sums) < level + 1:
                 sums.append(0)
             sums[level] -= node.val
         heapq.heapify(sums)
