@@ -3698,6 +3698,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "2641-cousins-in-binary-tree-ii",
+    "languages": "Python",
+    "last_commit_date": "2024-10-23"
+    "slug": "leetcode/Medium/2641-cousins-in-binary-tree-ii"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "2390-removing-stars-from-a-string",
     "languages": "Python",
     "last_commit_date": "2024-09-14"

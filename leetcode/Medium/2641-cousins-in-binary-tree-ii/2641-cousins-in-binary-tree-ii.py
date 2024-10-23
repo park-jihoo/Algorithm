@@ -19,7 +19,7 @@ class Solution:
             if len(sums) < level + 1:
                 sums.append(0)
             sums[level] += node.val
-        
+
         queue.append((root, 0, 0))
         while queue:
             node, sib, level = queue.popleft()
