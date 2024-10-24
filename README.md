@@ -498,6 +498,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [1319-number-of-operations-to-make-network-connected](./leetcode/Medium/1319-number-of-operations-to-make-network-connected/) | Python | 2024-09-14 |
 | leetcode | Medium | [1081-smallest-subsequence-of-distinct-characters](./leetcode/Medium/1081-smallest-subsequence-of-distinct-characters/) | Python | 2024-09-14 |
 | leetcode | Medium | [0207-course-schedule](./leetcode/Medium/0207-course-schedule/) | Python | 2023-08-14 |
+| leetcode | Medium | [0951-flip-equivalent-binary-trees](./leetcode/Medium/0951-flip-equivalent-binary-trees/) | Python | 2024-10-24 |
 | leetcode | Medium | [2466-count-ways-to-build-good-strings](./leetcode/Medium/2466-count-ways-to-build-good-strings/) | Python | 2023-08-14 |
 | leetcode | Medium | [0005-longest-palindromic-substring](./leetcode/Medium/0005-longest-palindromic-substring/) | Python | 2023-10-27 |
 | leetcode | Medium | [2369-check-if-there-is-a-valid-partition-for-the-array](./leetcode/Medium/2369-check-if-there-is-a-valid-partition-for-the-array/) | Python | 2023-08-14 |
