@@ -2794,6 +2794,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "1233-remove-sub-folders-from-the-filesystem",
+    "languages": "Python",
+    "last_commit_date": "2024-10-25"
+    "slug": "leetcode/Medium/1233-remove-sub-folders-from-the-filesystem"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "1759-count-number-of-homogenous-substrings",
     "languages": "Python",
     "last_commit_date": "2024-09-14"

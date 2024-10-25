@@ -353,6 +353,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [0988-smallest-string-starting-from-leaf](./leetcode/Medium/0988-smallest-string-starting-from-leaf/) | Python | 2024-04-17 |
 | leetcode | Medium | [0786-k-th-smallest-prime-fraction](./leetcode/Medium/0786-k-th-smallest-prime-fraction/) | Python | 2024-09-14 |
 | leetcode | Medium | [1657-determine-if-two-strings-are-close](./leetcode/Medium/1657-determine-if-two-strings-are-close/) | Python | 2024-09-14 |
+| leetcode | Medium | [1233-remove-sub-folders-from-the-filesystem](./leetcode/Medium/1233-remove-sub-folders-from-the-filesystem/) | Python | 2024-10-25 |
 | leetcode | Medium | [1759-count-number-of-homogenous-substrings](./leetcode/Medium/1759-count-number-of-homogenous-substrings/) | Python | 2024-09-14 |
 | leetcode | Medium | [1717-maximum-score-from-removing-substrings](./leetcode/Medium/1717-maximum-score-from-removing-substrings/) | Python | 2024-09-14 |
 | leetcode | Medium | [0542-01-matrix](./leetcode/Medium/0542-01-matrix/) | Python | 2023-08-17 |

@@ -8,7 +8,7 @@ class Solution:
                 ans.append(path)
                 continue
             tmp = path.removeprefix(par)
-            if tmp != path and tmp[0] == '/':
+            if tmp != path and tmp[0] == "/":
                 continue
             else:
                 par = path
