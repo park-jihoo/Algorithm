@@ -160,6 +160,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Hard | [0552-student-attendance-record-ii](./leetcode/Hard/0552-student-attendance-record-ii/) | Python | 2024-05-26 |
 | leetcode | Hard | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](./leetcode/Hard/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable/) | Python | 2024-06-30 |
 | leetcode | Hard | [1187-make-array-strictly-increasing](./leetcode/Hard/1187-make-array-strictly-increasing/) | Java | 2024-09-14 |
+| leetcode | Hard | [2458-height-of-binary-tree-after-subtree-removal-queries](./leetcode/Hard/2458-height-of-binary-tree-after-subtree-removal-queries/) | Python | 2024-10-26 |
 | leetcode | Hard | [0214-shortest-palindrome](./leetcode/Hard/0214-shortest-palindrome/) | Python | 2024-09-20 |
 | leetcode | Hard | [2147-number-of-ways-to-divide-a-long-corridor](./leetcode/Hard/2147-number-of-ways-to-divide-a-long-corridor/) | Python | 2023-11-29 |
 | leetcode | Hard | [2416-sum-of-prefix-scores-of-strings](./leetcode/Hard/2416-sum-of-prefix-scores-of-strings/) | Python | 2024-09-25 |

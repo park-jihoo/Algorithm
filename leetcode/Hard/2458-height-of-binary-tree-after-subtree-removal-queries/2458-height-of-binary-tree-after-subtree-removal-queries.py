@@ -11,7 +11,7 @@ class Solution:
             if not node:
                 return -1
             return 1 + max(height(node.left), height(node.right))
-        
+
         d = defaultdict(int)
 
         stack = [(root, 0, 0)]
@@ -20,7 +20,11 @@ class Solution:
             node, depth, maxval = stack.pop()
             if node:
                 d[node.val] = maxval
-                stack.append((node.right, depth + 1, max(maxval, depth+1+height(node.left))))
-                stack.append((node.left, depth+1, max(maxval, depth+1+height(node.right))))
+                stack.append(
+                    (node.right, depth + 1, max(maxval, depth + 1 + height(node.left)))
+                )
+                stack.append(
+                    (node.left, depth + 1, max(maxval, depth + 1 + height(node.right)))
+                )
 
         return [d[i] for i in queries]

@@ -1250,6 +1250,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Hard",
+    "problem_name": "2458-height-of-binary-tree-after-subtree-removal-queries",
+    "languages": "Python",
+    "last_commit_date": "2024-10-26"
+    "slug": "leetcode/Hard/2458-height-of-binary-tree-after-subtree-removal-queries"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Hard",
     "problem_name": "0214-shortest-palindrome",
     "languages": "Python",
     "last_commit_date": "2024-09-20"
