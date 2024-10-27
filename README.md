@@ -336,6 +336,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [1497-check-if-array-pairs-are-divisible-by-k](./leetcode/Medium/1497-check-if-array-pairs-are-divisible-by-k/) | Python | 2024-10-01 |
 | leetcode | Medium | [2583-kth-largest-sum-in-a-binary-tree](./leetcode/Medium/2583-kth-largest-sum-in-a-binary-tree/) | Python | 2024-10-22 |
 | leetcode | Medium | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](./leetcode/Medium/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Python | 2023-08-14 |
+| leetcode | Medium | [1277-count-square-submatrices-with-all-ones](./leetcode/Medium/1277-count-square-submatrices-with-all-ones/) | Python | 2024-10-27 |
 | leetcode | Medium | [0034-find-first-and-last-position-of-element-in-sorted-array](./leetcode/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Python | 2023-10-09 |
 | leetcode | Medium | [2353-design-a-food-rating-system](./leetcode/Medium/2353-design-a-food-rating-system/) | Python | 2024-09-14 |
 | leetcode | Medium | [1803-average-waiting-time](./leetcode/Medium/1803-average-waiting-time/) | Python | 2024-07-09 |

@@ -2658,6 +2658,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "1277-count-square-submatrices-with-all-ones",
+    "languages": "Python",
+    "last_commit_date": "2024-10-27"
+    "slug": "leetcode/Medium/1277-count-square-submatrices-with-all-ones"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "0034-find-first-and-last-position-of-element-in-sorted-array",
     "languages": "Python",
     "last_commit_date": "2023-10-09"
