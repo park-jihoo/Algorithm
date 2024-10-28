@@ -399,6 +399,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [2385-amount-of-time-for-binary-tree-to-be-infected](./leetcode/Medium/2385-amount-of-time-for-binary-tree-to-be-infected/) | Python | 2024-01-10 |
 | leetcode | Medium | [1921-eliminate-maximum-number-of-monsters](./leetcode/Medium/1921-eliminate-maximum-number-of-monsters/) | Python | 2023-11-07 |
 | leetcode | Medium | [0059-spiral-matrix-ii](./leetcode/Medium/0059-spiral-matrix-ii/) | Python | 2023-08-14 |
+| leetcode | Medium | [2501-longest-square-streak-in-an-array](./leetcode/Medium/2501-longest-square-streak-in-an-array/) | Python | 2024-10-28 |
 | leetcode | Medium | [0787-cheapest-flights-within-k-stops](./leetcode/Medium/0787-cheapest-flights-within-k-stops/) | Python | 2024-09-14 |
 | leetcode | Medium | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](./leetcode/Medium/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Python | 2024-09-14 |
 | leetcode | Medium | [2914-find-the-safest-path-in-a-grid](./leetcode/Medium/2914-find-the-safest-path-in-a-grid/) | Python | 2024-05-15 |

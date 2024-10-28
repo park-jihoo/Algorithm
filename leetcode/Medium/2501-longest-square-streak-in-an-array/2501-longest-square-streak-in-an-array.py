@@ -6,7 +6,7 @@ class Solution:
             curr_streak, curr = 0, start
             while curr in set_nums:
                 curr_streak += 1
-                if curr ** 2 > 10**5:
+                if curr**2 > 10**5:
                     break
                 curr *= curr
             streak = max(streak, curr_streak)
