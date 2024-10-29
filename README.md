@@ -380,6 +380,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [1105-filling-bookcase-shelves](./leetcode/Medium/1105-filling-bookcase-shelves/) | Python | 2024-07-31 |
 | leetcode | Medium | [1846-maximum-element-after-decreasing-and-rearranging](./leetcode/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Python | 2023-12-21 |
 | leetcode | Medium | [0033-search-in-rotated-sorted-array](./leetcode/Medium/0033-search-in-rotated-sorted-array/) | C,C++,Python | 2023-08-14 |
+| leetcode | Medium | [2684-maximum-number-of-moves-in-a-grid](./leetcode/Medium/2684-maximum-number-of-moves-in-a-grid/) | Python | 2024-10-29 |
 | leetcode | Medium | [0054-spiral-matrix](./leetcode/Medium/0054-spiral-matrix/) | C++,Python | 2023-08-14 |
 | leetcode | Medium | [0808-soup-servings](./leetcode/Medium/0808-soup-servings/) | Python | 2023-08-14 |
 | leetcode | Medium | [0176-second-highest-salary](./leetcode/Medium/0176-second-highest-salary/) | SQL | 2024-09-14 |
