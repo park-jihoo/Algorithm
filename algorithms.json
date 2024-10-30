@@ -1026,6 +1026,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Hard",
+    "problem_name": "1671-minimum-number-of-removals-to-make-mountain-array",
+    "languages": "Python",
+    "last_commit_date": "2024-10-30"
+    "slug": "leetcode/Hard/1671-minimum-number-of-removals-to-make-mountain-array"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Hard",
     "problem_name": "0432-all-oone-data-structure",
     "languages": "Python",
     "last_commit_date": "2024-09-29"
