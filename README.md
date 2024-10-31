@@ -220,6 +220,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Hard | [0273-integer-to-english-words](./leetcode/Hard/0273-integer-to-english-words/) | Python | 2024-08-07 |
 | leetcode | Hard | [2742-painting-the-walls](./leetcode/Hard/2742-painting-the-walls/) | Python | 2023-10-14 |
 | leetcode | Hard | [0262-trips-and-users](./leetcode/Hard/0262-trips-and-users/) | SQL | 2024-09-14 |
+| leetcode | Hard | [2463-minimum-total-distance-traveled](./leetcode/Hard/2463-minimum-total-distance-traveled/) | Python | 2024-10-31 |
 | leetcode | Hard | [1335-minimum-difficulty-of-a-job-schedule](./leetcode/Hard/1335-minimum-difficulty-of-a-job-schedule/) | Python | 2023-12-29 |
 | leetcode | Hard | [2392-build-a-matrix-with-conditions](./leetcode/Hard/2392-build-a-matrix-with-conditions/) | Python | 2024-07-21 |
 | leetcode | Hard | [0629-k-inverse-pairs-array](./leetcode/Hard/0629-k-inverse-pairs-array/) | Python | 2024-01-27 |

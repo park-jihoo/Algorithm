@@ -1730,6 +1730,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Hard",
+    "problem_name": "2463-minimum-total-distance-traveled",
+    "languages": "Python",
+    "last_commit_date": "2024-10-31"
+    "slug": "leetcode/Hard/2463-minimum-total-distance-traveled"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Hard",
     "problem_name": "1335-minimum-difficulty-of-a-job-schedule",
     "languages": "Python",
     "last_commit_date": "2023-12-29"
