@@ -6,7 +6,7 @@ class Solution:
                 pass
             elif i == len(s) - 1:
                 pass
-            elif s[i-1]==s[i] and s[i]==s[i+1]:
+            elif s[i - 1] == s[i] and s[i] == s[i + 1]:
                 continue
             ans.append(s[i])
         return "".join(ans)

@@ -586,6 +586,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [0118-pascals-triangle](./leetcode/Easy/0118-pascals-triangle/) | C++,Python | 2023-09-08 |
 | leetcode | Easy | [1544-make-the-string-great](./leetcode/Easy/1544-make-the-string-great/) | Python | 2024-04-05 |
 | leetcode | Easy | [1436-destination-city](./leetcode/Easy/1436-destination-city/) | JavaScript,Python | 2023-12-15 |
+| leetcode | Easy | [1957-delete-characters-to-make-fancy-string](./leetcode/Easy/1957-delete-characters-to-make-fancy-string/) | Python | 2024-11-01 |
 | leetcode | Easy | [0338-counting-bits](./leetcode/Easy/0338-counting-bits/) | Python | 2023-09-01 |
 | leetcode | Easy | [2582-pass-the-pillow](./leetcode/Easy/2582-pass-the-pillow/) | Python | 2024-07-06 |
 | leetcode | Easy | [0225-implement-stack-using-queues](./leetcode/Easy/0225-implement-stack-using-queues/) | C,C++,Python | 2023-08-28 |
