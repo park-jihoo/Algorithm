@@ -719,6 +719,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [1351-count-negative-numbers-in-a-sorted-matrix](./leetcode/Easy/1351-count-negative-numbers-in-a-sorted-matrix/) | Python | 2024-09-14 |
 | leetcode | Easy | [0905-sort-array-by-parity](./leetcode/Easy/0905-sort-array-by-parity/) | Python | 2023-09-28 |
 | leetcode | Easy | [0232-implement-queue-using-stacks](./leetcode/Easy/0232-implement-queue-using-stacks/) | C++,Python | 2024-01-29 |
+| leetcode | Easy | [2490-circular-sentence](./leetcode/Easy/2490-circular-sentence/) | Python | 2024-11-02 |
 | leetcode | Easy | [0119-pascals-triangle-ii](./leetcode/Easy/0119-pascals-triangle-ii/) | Python | 2023-10-16 |
 | leetcode | Easy | [0744-find-smallest-letter-greater-than-target](./leetcode/Easy/0744-find-smallest-letter-greater-than-target/) | Python | 2023-08-14 |
 | leetcode | Easy | [1550-three-consecutive-odds](./leetcode/Easy/1550-three-consecutive-odds/) | Python | 2024-07-01 |
