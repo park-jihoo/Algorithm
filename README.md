@@ -691,6 +691,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [0191-number-of-1-bits](./leetcode/Easy/0191-number-of-1-bits/) | Python | 2024-09-14 |
 | leetcode | Easy | [1684-count-the-number-of-consistent-strings](./leetcode/Easy/1684-count-the-number-of-consistent-strings/) | Python | 2024-09-12 |
 | leetcode | Easy | [0876-middle-of-the-linked-list](./leetcode/Easy/0876-middle-of-the-linked-list/) | Python | 2024-03-07 |
+| leetcode | Easy | [0796-rotate-string](./leetcode/Easy/0796-rotate-string/) | Python | 2024-11-03 |
 | leetcode | Easy | [1512-number-of-good-pairs](./leetcode/Easy/1512-number-of-good-pairs/) | Python | 2023-10-03 |
 | leetcode | Easy | [1137-n-th-tribonacci-number](./leetcode/Easy/1137-n-th-tribonacci-number/) | Python | 2024-09-14 |
 | leetcode | Easy | [0026-remove-duplicates-from-sorted-array](./leetcode/Easy/0026-remove-duplicates-from-sorted-array/) | Python | 2023-09-23 |

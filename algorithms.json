@@ -5498,6 +5498,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Easy",
+    "problem_name": "0796-rotate-string",
+    "languages": "Python",
+    "last_commit_date": "2024-11-03"
+    "slug": "leetcode/Easy/0796-rotate-string"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Easy",
     "problem_name": "1512-number-of-good-pairs",
     "languages": "Python",
     "last_commit_date": "2023-10-03"
