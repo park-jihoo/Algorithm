@@ -448,7 +448,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [1441-build-an-array-with-stack-operations](./leetcode/Medium/1441-build-an-array-with-stack-operations/) | Python | 2023-11-03 |
 | leetcode | Medium | [0063-unique-paths-ii](./leetcode/Medium/0063-unique-paths-ii/) | Python | 2023-08-14 |
 | leetcode | Medium | [1155-number-of-dice-rolls-with-target-sum](./leetcode/Medium/1155-number-of-dice-rolls-with-target-sum/) | Python | 2023-12-26 |
-| leetcode | Medium | [3163-string-compression-iii](./leetcode/Medium/3163-string-compression-iii/) | Python | 2024-11-04 |
+| leetcode | Medium | [3163-string-compression-iii](./leetcode/Medium/3163-string-compression-iii/) | Python | 2024-11-05 |
 | leetcode | Medium | [2044-count-number-of-maximum-bitwise-or-subsets](./leetcode/Medium/2044-count-number-of-maximum-bitwise-or-subsets/) | Python | 2024-10-18 |
 | leetcode | Medium | [1798-maximum-number-of-consecutive-values-you-can-make](./leetcode/Medium/1798-maximum-number-of-consecutive-values-you-can-make/) | Python | 2023-09-19 |
 | leetcode | Medium | [2134-minimum-swaps-to-group-all-1s-together-ii](./leetcode/Medium/2134-minimum-swaps-to-group-all-1s-together-ii/) | Python | 2024-08-02 |
@@ -497,6 +497,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [2492-minimum-score-of-a-path-between-two-cities](./leetcode/Medium/2492-minimum-score-of-a-path-between-two-cities/) | Python | 2024-09-14 |
 | leetcode | Medium | [2067-maximum-number-of-points-with-cost](./leetcode/Medium/2067-maximum-number-of-points-with-cost/) | Python | 2024-08-17 |
 | leetcode | Medium | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](./leetcode/Medium/1239-maximum-length-of-a-concatenated-string-with-unique-characters/) | Python | 2024-01-23 |
+| leetcode | Medium | [3011-find-if-array-can-be-sorted](./leetcode/Medium/3011-find-if-array-can-be-sorted/) | Python | 2024-11-06 |
 | leetcode | Medium | [0402-remove-k-digits](./leetcode/Medium/0402-remove-k-digits/) | Python | 2024-04-11 |
 | leetcode | Medium | [2966-divide-array-into-arrays-with-max-difference](./leetcode/Medium/2966-divide-array-into-arrays-with-max-difference/) | Python | 2024-02-01 |
 | leetcode | Medium | [0057-insert-interval](./leetcode/Medium/0057-insert-interval/) | Python | 2024-03-17 |

@@ -3556,7 +3556,7 @@
     "difficulty": "Medium",
     "problem_name": "3163-string-compression-iii",
     "languages": "Python",
-    "last_commit_date": "2024-11-04"
+    "last_commit_date": "2024-11-05"
     "slug": "leetcode/Medium/3163-string-compression-iii"
   },
   {
@@ -3942,6 +3942,14 @@
     "languages": "Python",
     "last_commit_date": "2024-01-23"
     "slug": "leetcode/Medium/1239-maximum-length-of-a-concatenated-string-with-unique-characters"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
+    "problem_name": "3011-find-if-array-can-be-sorted",
+    "languages": "Python",
+    "last_commit_date": "2024-11-06"
+    "slug": "leetcode/Medium/3011-find-if-array-can-be-sorted"
   },
   {
     "platform": "leetcode",
