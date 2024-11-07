@@ -3330,6 +3330,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "2275-largest-combination-with-bitwise-and-greater-than-zero",
+    "languages": "Python",
+    "last_commit_date": "2024-11-07"
+    "slug": "leetcode/Medium/2275-largest-combination-with-bitwise-and-greater-than-zero"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "2997-minimum-number-of-operations-to-make-array-xor-equal-to-k",
     "languages": "Python",
     "last_commit_date": "2024-04-29"

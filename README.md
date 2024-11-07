@@ -420,6 +420,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [1405-longest-happy-string](./leetcode/Medium/1405-longest-happy-string/) | Python | 2024-10-16 |
 | leetcode | Medium | [0260-single-number-iii](./leetcode/Medium/0260-single-number-iii/) | Python | 2024-05-31 |
 | leetcode | Medium | [1110-delete-nodes-and-return-forest](./leetcode/Medium/1110-delete-nodes-and-return-forest/) | Python | 2024-07-17 |
+| leetcode | Medium | [2275-largest-combination-with-bitwise-and-greater-than-zero](./leetcode/Medium/2275-largest-combination-with-bitwise-and-greater-than-zero/) | Python | 2024-11-07 |
 | leetcode | Medium | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](./leetcode/Medium/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k/) | Python | 2024-04-29 |
 | leetcode | Medium | [1282-group-the-people-given-the-group-size-they-belong-to](./leetcode/Medium/1282-group-the-people-given-the-group-size-they-belong-to/) | Python | 2023-09-11 |
 | leetcode | Medium | [0931-minimum-falling-path-sum](./leetcode/Medium/0931-minimum-falling-path-sum/) | Python | 2024-01-19 |
