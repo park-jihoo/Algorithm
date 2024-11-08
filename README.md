@@ -491,6 +491,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [2486-append-characters-to-string-to-make-subsequence](./leetcode/Medium/2486-append-characters-to-string-to-make-subsequence/) | Python | 2024-06-03 |
 | leetcode | Medium | [0658-find-k-closest-elements](./leetcode/Medium/0658-find-k-closest-elements/) | Python | 2024-09-14 |
 | leetcode | Medium | [0641-design-circular-deque](./leetcode/Medium/0641-design-circular-deque/) | C++,Java | 2024-09-29 |
+| leetcode | Medium | [1829-maximum-xor-for-each-query](./leetcode/Medium/1829-maximum-xor-for-each-query/) | Python | 2024-11-08 |
 | leetcode | Medium | [1905-count-sub-islands](./leetcode/Medium/1905-count-sub-islands/) | Python | 2024-08-28 |
 | leetcode | Medium | [0692-top-k-frequent-words](./leetcode/Medium/0692-top-k-frequent-words/) | Python | 2024-09-14 |
 | leetcode | Medium | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](./leetcode/Medium/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Python | 2024-11-05 |

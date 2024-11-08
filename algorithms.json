@@ -3898,6 +3898,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "1829-maximum-xor-for-each-query",
+    "languages": "Python",
+    "last_commit_date": "2024-11-08"
+    "slug": "leetcode/Medium/1829-maximum-xor-for-each-query"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "1905-count-sub-islands",
     "languages": "Python",
     "last_commit_date": "2024-08-28"
