@@ -1,9 +1,9 @@
 class Solution:
-    def update(self, bits,x, change):
+    def update(self, bits, x, change):
         for i in range(32):
-            if (x>>i)&1:
+            if (x >> i) & 1:
                 bits[i] += change
-    
+
     def convert(self, bits):
         result = 0
         for i in range(32):
@@ -12,7 +12,7 @@ class Solution:
         return result
 
     def minimumSubarrayLength(self, nums: List[int], k: int) -> int:
-        bits = [0]*32
+        bits = [0] * 32
         ans = len(nums) + 1
         start = 0
 

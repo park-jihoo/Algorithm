@@ -503,6 +503,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [3011-find-if-array-can-be-sorted](./leetcode/Medium/3011-find-if-array-can-be-sorted/) | Python | 2024-11-06 |
 | leetcode | Medium | [0402-remove-k-digits](./leetcode/Medium/0402-remove-k-digits/) | Python | 2024-04-11 |
 | leetcode | Medium | [2966-divide-array-into-arrays-with-max-difference](./leetcode/Medium/2966-divide-array-into-arrays-with-max-difference/) | Python | 2024-02-01 |
+| leetcode | Medium | [3097-shortest-subarray-with-or-at-least-k-ii](./leetcode/Medium/3097-shortest-subarray-with-or-at-least-k-ii/) | Python | 2024-11-10 |
 | leetcode | Medium | [0057-insert-interval](./leetcode/Medium/0057-insert-interval/) | Python | 2024-03-17 |
 | leetcode | Medium | [0885-spiral-matrix-iii](./leetcode/Medium/0885-spiral-matrix-iii/) | Python | 2024-08-08 |
 | leetcode | Medium | [0983-minimum-cost-for-tickets](./leetcode/Medium/0983-minimum-cost-for-tickets/) | Python | 2024-09-14 |

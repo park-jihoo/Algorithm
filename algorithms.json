@@ -3994,6 +3994,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "3097-shortest-subarray-with-or-at-least-k-ii",
+    "languages": "Python",
+    "last_commit_date": "2024-11-10"
+    "slug": "leetcode/Medium/3097-shortest-subarray-with-or-at-least-k-ii"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "0057-insert-interval",
     "languages": "Python",
     "last_commit_date": "2024-03-17"
