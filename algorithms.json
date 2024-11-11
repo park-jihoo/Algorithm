@@ -2226,6 +2226,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "2601-prime-subtraction-operation",
+    "languages": "Python",
+    "last_commit_date": "2024-11-11"
+    "slug": "leetcode/Medium/2601-prime-subtraction-operation"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "2573-remove-nodes-from-linked-list",
     "languages": "Python",
     "last_commit_date": "2024-05-06"

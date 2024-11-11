@@ -282,6 +282,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [0894-all-possible-full-binary-trees](./leetcode/Medium/0894-all-possible-full-binary-trees/) | Python | 2023-08-14 |
 | leetcode | Medium | [0215-kth-largest-element-in-an-array](./leetcode/Medium/0215-kth-largest-element-in-an-array/) | Python | 2023-08-14 |
 | leetcode | Medium | [2285-maximum-total-importance-of-roads](./leetcode/Medium/2285-maximum-total-importance-of-roads/) | Python | 2024-06-28 |
+| leetcode | Medium | [2601-prime-subtraction-operation](./leetcode/Medium/2601-prime-subtraction-operation/) | Python | 2024-11-11 |
 | leetcode | Medium | [2573-remove-nodes-from-linked-list](./leetcode/Medium/2573-remove-nodes-from-linked-list/) | Python | 2024-05-06 |
 | leetcode | Medium | [1291-sequential-digits](./leetcode/Medium/1291-sequential-digits/) | Python | 2024-02-02 |
 | leetcode | Medium | [1248-count-number-of-nice-subarrays](./leetcode/Medium/1248-count-number-of-nice-subarrays/) | Python | 2024-06-22 |
