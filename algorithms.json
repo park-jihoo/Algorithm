@@ -2642,6 +2642,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "2070-most-beautiful-item-for-each-query",
+    "languages": "Python",
+    "last_commit_date": "2024-11-12"
+    "slug": "leetcode/Medium/2070-most-beautiful-item-for-each-query"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "0341-flatten-nested-list-iterator",
     "languages": "Python",
     "last_commit_date": "2023-10-20"

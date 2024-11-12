@@ -334,6 +334,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [0649-dota2-senate](./leetcode/Medium/0649-dota2-senate/) | Python | 2023-08-14 |
 | leetcode | Medium | [0139-word-break](./leetcode/Medium/0139-word-break/) | C,C++,Python | 2023-08-14 |
 | leetcode | Medium | [2140-solving-questions-with-brainpower](./leetcode/Medium/2140-solving-questions-with-brainpower/) | Python | 2024-09-14 |
+| leetcode | Medium | [2070-most-beautiful-item-for-each-query](./leetcode/Medium/2070-most-beautiful-item-for-each-query/) | Python | 2024-11-12 |
 | leetcode | Medium | [0341-flatten-nested-list-iterator](./leetcode/Medium/0341-flatten-nested-list-iterator/) | Python | 2023-10-20 |
 | leetcode | Medium | [1530-number-of-good-leaf-nodes-pairs](./leetcode/Medium/1530-number-of-good-leaf-nodes-pairs/) | Python | 2024-07-18 |
 | leetcode | Medium | [1020-number-of-enclaves](./leetcode/Medium/1020-number-of-enclaves/) | Python | 2024-09-14 |
