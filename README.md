@@ -445,6 +445,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [2348-number-of-zero-filled-subarrays](./leetcode/Medium/2348-number-of-zero-filled-subarrays/) | Python | 2024-09-14 |
 | leetcode | Medium | [1376-time-needed-to-inform-all-employees](./leetcode/Medium/1376-time-needed-to-inform-all-employees/) | Python | 2023-08-14 |
 | leetcode | Medium | [0017-letter-combinations-of-a-phone-number](./leetcode/Medium/0017-letter-combinations-of-a-phone-number/) | Python | 2023-08-14 |
+| leetcode | Medium | [2563-count-the-number-of-fair-pairs](./leetcode/Medium/2563-count-the-number-of-fair-pairs/) | Python | 2024-11-13 |
 | leetcode | Medium | [2191-sort-the-jumbled-numbers](./leetcode/Medium/2191-sort-the-jumbled-numbers/) | Python | 2024-07-24 |
 | leetcode | Medium | [0229-majority-element-ii](./leetcode/Medium/0229-majority-element-ii/) | Python | 2023-10-05 |
 | leetcode | Medium | [0523-continuous-subarray-sum](./leetcode/Medium/0523-continuous-subarray-sum/) | Python | 2024-06-08 |
