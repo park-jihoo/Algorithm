@@ -3,7 +3,7 @@ class Solution:
         start, end = 1, max(quantities)
         while start < end:
             mid = (start + end) // 2
-            if sum(ceil(q/mid) for q in quantities) <= n:
+            if sum(ceil(q / mid) for q in quantities) <= n:
                 end = mid
             else:
                 start = mid + 1

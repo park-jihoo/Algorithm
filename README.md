@@ -478,6 +478,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [0028-find-the-index-of-the-first-occurrence-in-a-string](./leetcode/Medium/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Python | 2024-09-14 |
 | leetcode | Medium | [0576-out-of-boundary-paths](./leetcode/Medium/0576-out-of-boundary-paths/) | Python | 2024-01-26 |
 | leetcode | Medium | [0739-daily-temperatures](./leetcode/Medium/0739-daily-temperatures/) | Python | 2024-01-31 |
+| leetcode | Medium | [2064-minimized-maximum-of-products-distributed-to-any-store](./leetcode/Medium/2064-minimized-maximum-of-products-distributed-to-any-store/) | Python | 2024-11-14 |
 | leetcode | Medium | [0823-binary-trees-with-factors](./leetcode/Medium/0823-binary-trees-with-factors/) | Python | 2023-10-26 |
 | leetcode | Medium | [2641-cousins-in-binary-tree-ii](./leetcode/Medium/2641-cousins-in-binary-tree-ii/) | Python | 2024-10-23 |
 | leetcode | Medium | [2390-removing-stars-from-a-string](./leetcode/Medium/2390-removing-stars-from-a-string/) | Python | 2024-09-14 |
