@@ -292,6 +292,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [0138-copy-list-with-random-pointer](./leetcode/Medium/0138-copy-list-with-random-pointer/) | Python | 2023-09-05 |
 | leetcode | Medium | [0319-bulb-switcher](./leetcode/Medium/0319-bulb-switcher/) | Python | 2024-09-14 |
 | leetcode | Medium | [0443-string-compression](./leetcode/Medium/0443-string-compression/) | Python | 2024-09-14 |
+| leetcode | Medium | [3254-find-the-power-of-k-size-subarrays-i](./leetcode/Medium/3254-find-the-power-of-k-size-subarrays-i/) | Python | 2024-11-16 |
 | leetcode | Medium | [1372-longest-zigzag-path-in-a-binary-tree](./leetcode/Medium/1372-longest-zigzag-path-in-a-binary-tree/) | Python | 2024-09-14 |
 | leetcode | Medium | [0907-sum-of-subarray-minimums](./leetcode/Medium/0907-sum-of-subarray-minimums/) | Python | 2024-01-20 |
 | leetcode | Medium | [0435-non-overlapping-intervals](./leetcode/Medium/0435-non-overlapping-intervals/) | C++,Python | 2023-08-14 |

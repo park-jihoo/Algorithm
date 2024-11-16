@@ -2306,6 +2306,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "3254-find-the-power-of-k-size-subarrays-i",
+    "languages": "Python",
+    "last_commit_date": "2024-11-16"
+    "slug": "leetcode/Medium/3254-find-the-power-of-k-size-subarrays-i"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "1372-longest-zigzag-path-in-a-binary-tree",
     "languages": "Python",
     "last_commit_date": "2024-09-14"
