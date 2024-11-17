@@ -15,4 +15,3 @@ class Solution:
             q.append(idx)
 
         return ans if ans != n + 1 else -1
-            
