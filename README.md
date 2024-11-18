@@ -627,6 +627,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [0344-reverse-string](./leetcode/Easy/0344-reverse-string/) | Python | 2024-06-02 |
 | leetcode | Easy | [2220-minimum-bit-flips-to-convert-number](./leetcode/Easy/2220-minimum-bit-flips-to-convert-number/) | Python | 2024-09-12 |
 | leetcode | Easy | [1603-design-parking-system](./leetcode/Easy/1603-design-parking-system/) | C++,Python | 2023-08-14 |
+| leetcode | Easy | [1652-defuse-the-bomb](./leetcode/Easy/1652-defuse-the-bomb/) | Python | 2024-11-18 |
 | leetcode | Easy | [0976-largest-perimeter-triangle](./leetcode/Easy/0976-largest-perimeter-triangle/) | Python | 2023-08-14 |
 | leetcode | Easy | [0009-palindrome-number](./leetcode/Easy/0009-palindrome-number/) | Python | 2024-09-14 |
 | leetcode | Easy | [1496-path-crossing](./leetcode/Easy/1496-path-crossing/) | Python | 2023-12-23 |

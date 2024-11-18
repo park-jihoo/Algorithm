@@ -4986,6 +4986,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Easy",
+    "problem_name": "1652-defuse-the-bomb",
+    "languages": "Python",
+    "last_commit_date": "2024-11-18"
+    "slug": "leetcode/Easy/1652-defuse-the-bomb"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Easy",
     "problem_name": "0976-largest-perimeter-triangle",
     "languages": "Python",
     "last_commit_date": "2023-08-14"
