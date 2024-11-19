@@ -3450,6 +3450,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "2461-maximum-sum-of-distinct-subarrays-with-length-k",
+    "languages": "Python",
+    "last_commit_date": "2024-11-19"
+    "slug": "leetcode/Medium/2461-maximum-sum-of-distinct-subarrays-with-length-k"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "0880-decoded-string-at-index",
     "languages": "Python",
     "last_commit_date": "2023-09-27"

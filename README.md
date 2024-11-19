@@ -435,6 +435,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [3075-maximize-happiness-of-selected-children](./leetcode/Medium/3075-maximize-happiness-of-selected-children/) | Python | 2024-05-09 |
 | leetcode | Medium | [0053-maximum-subarray](./leetcode/Medium/0053-maximum-subarray/) | Python | 2024-07-07 |
 | leetcode | Medium | [2707-extra-characters-in-a-string](./leetcode/Medium/2707-extra-characters-in-a-string/) | Python | 2023-09-02 |
+| leetcode | Medium | [2461-maximum-sum-of-distinct-subarrays-with-length-k](./leetcode/Medium/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Python | 2024-11-19 |
 | leetcode | Medium | [0880-decoded-string-at-index](./leetcode/Medium/0880-decoded-string-at-index/) | Python | 2023-09-27 |
 | leetcode | Medium | [2482-difference-between-ones-and-zeros-in-row-and-column](./leetcode/Medium/2482-difference-between-ones-and-zeros-in-row-and-column/) | Python | 2023-12-17 |
 | leetcode | Medium | [1637-widest-vertical-area-between-two-points-containing-no-points](./leetcode/Medium/1637-widest-vertical-area-between-two-points-containing-no-points/) | Python | 2023-12-21 |
