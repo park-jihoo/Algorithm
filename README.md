@@ -304,6 +304,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [1208-get-equal-substrings-within-budget](./leetcode/Medium/1208-get-equal-substrings-within-budget/) | Python | 2024-05-28 |
 | leetcode | Medium | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](./leetcode/Medium/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color/) | Python | 2023-10-02 |
 | leetcode | Medium | [2807-insert-greatest-common-divisors-in-linked-list](./leetcode/Medium/2807-insert-greatest-common-divisors-in-linked-list/) | Python | 2024-09-10 |
+| leetcode | Medium | [2257-count-unguarded-cells-in-the-grid](./leetcode/Medium/2257-count-unguarded-cells-in-the-grid/) | Python | 2024-11-21 |
 | leetcode | Medium | [1140-stone-game-ii](./leetcode/Medium/1140-stone-game-ii/) | Python | 2023-08-14 |
 | leetcode | Medium | [0875-koko-eating-bananas](./leetcode/Medium/0875-koko-eating-bananas/) | Python | 2024-09-14 |
 | leetcode | Medium | [0092-reverse-linked-list-ii](./leetcode/Medium/0092-reverse-linked-list-ii/) | C,C++,Python | 2024-09-14 |
