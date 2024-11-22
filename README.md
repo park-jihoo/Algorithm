@@ -466,6 +466,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [2597-the-number-of-beautiful-subsets](./leetcode/Medium/2597-the-number-of-beautiful-subsets/) | Python | 2024-05-23 |
 | leetcode | Medium | [0071-simplify-path](./leetcode/Medium/0071-simplify-path/) | JavaScript,Python | 2024-09-14 |
 | leetcode | Medium | [0930-binary-subarrays-with-sum](./leetcode/Medium/0930-binary-subarrays-with-sum/) | Python | 2024-09-14 |
+| leetcode | Medium | [1072-flip-columns-for-maximum-number-of-equal-rows](./leetcode/Medium/1072-flip-columns-for-maximum-number-of-equal-rows/) | Python | 2024-11-22 |
 | leetcode | Medium | [0950-reveal-cards-in-increasing-order](./leetcode/Medium/0950-reveal-cards-in-increasing-order/) | Python | 2024-04-10 |
 | leetcode | Medium | [0647-palindromic-substrings](./leetcode/Medium/0647-palindromic-substrings/) | Python | 2024-02-10 |
 | leetcode | Medium | [0343-integer-break](./leetcode/Medium/0343-integer-break/) | C,C++,Java,JavaScript,Python | 2023-10-06 |

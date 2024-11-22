@@ -3698,6 +3698,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "1072-flip-columns-for-maximum-number-of-equal-rows",
+    "languages": "Python",
+    "last_commit_date": "2024-11-22"
+    "slug": "leetcode/Medium/1072-flip-columns-for-maximum-number-of-equal-rows"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "0950-reveal-cards-in-increasing-order",
     "languages": "Python",
     "last_commit_date": "2024-04-10"

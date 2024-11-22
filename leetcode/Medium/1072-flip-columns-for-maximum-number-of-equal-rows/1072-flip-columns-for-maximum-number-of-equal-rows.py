@@ -9,6 +9,6 @@ class Solution:
                     cur, c = row[idx], 0
                 else:
                     c += 1
-            cnt[s] +=1
+            cnt[s] += 1
 
         return cnt.most_common()[0][1]
