@@ -517,6 +517,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [0057-insert-interval](./leetcode/Medium/0057-insert-interval/) | Python | 2024-03-17 |
 | leetcode | Medium | [0885-spiral-matrix-iii](./leetcode/Medium/0885-spiral-matrix-iii/) | Python | 2024-08-08 |
 | leetcode | Medium | [0983-minimum-cost-for-tickets](./leetcode/Medium/0983-minimum-cost-for-tickets/) | Python | 2024-09-14 |
+| leetcode | Medium | [1861-rotating-the-box](./leetcode/Medium/1861-rotating-the-box/) | Python | 2024-11-23 |
 | leetcode | Medium | [0837-new-21-game](./leetcode/Medium/0837-new-21-game/) | Python | 2023-08-14 |
 | leetcode | Medium | [2958-length-of-longest-subarray-with-at-most-k-frequency](./leetcode/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Python | 2024-03-28 |
 | leetcode | Medium | [1319-number-of-operations-to-make-network-connected](./leetcode/Medium/1319-number-of-operations-to-make-network-connected/) | Python | 2024-09-14 |

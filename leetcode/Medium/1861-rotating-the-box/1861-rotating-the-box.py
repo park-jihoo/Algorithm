@@ -15,4 +15,4 @@ class Solution:
             rotatedBox.append(ans)
 
         m, n = len(box), len(box[0])
-        return [[rotatedBox[m-j-1][i] for j in range(m)] for i in range(n)]
+        return [[rotatedBox[m - j - 1][i] for j in range(m)] for i in range(n)]
