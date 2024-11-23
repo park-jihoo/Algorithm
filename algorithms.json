@@ -3019,8 +3019,8 @@
     "platform": "leetcode",
     "difficulty": "Medium",
     "problem_name": "0201-bitwise-and-of-numbers-range",
-    "languages": "Unknown",
-    "last_commit_date": "2024-02-22",
+    "languages": "Python",
+    "last_commit_date": "2024-11-24",
     "slug": "leetcode/Medium/0201-bitwise-and-of-numbers-range"
   },
   {

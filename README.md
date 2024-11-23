@@ -381,7 +381,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [0377-combination-sum-iv](./leetcode/Medium/0377-combination-sum-iv/) | Python | 2023-09-09 |
 | leetcode | Medium | [1254-number-of-closed-islands](./leetcode/Medium/1254-number-of-closed-islands/) | Python | 2024-09-14 |
 | leetcode | Medium | [0399-evaluate-division](./leetcode/Medium/0399-evaluate-division/) | Python | 2023-08-14 |
-| leetcode | Medium | [0201-bitwise-and-of-numbers-range](./leetcode/Medium/0201-bitwise-and-of-numbers-range/) | Unknown | 2024-02-22 |
+| leetcode | Medium | [0201-bitwise-and-of-numbers-range](./leetcode/Medium/0201-bitwise-and-of-numbers-range/) | Python | 2024-11-24 |
 | leetcode | Medium | [1318-minimum-flips-to-make-a-or-b-equal-to-c](./leetcode/Medium/1318-minimum-flips-to-make-a-or-b-equal-to-c/) | Python | 2024-09-14 |
 | leetcode | Medium | [0241-different-ways-to-add-parentheses](./leetcode/Medium/0241-different-ways-to-add-parentheses/) | Python | 2024-09-19 |
 | leetcode | Medium | [0456-132-pattern](./leetcode/Medium/0456-132-pattern/) | Python | 2024-09-14 |
