@@ -114,7 +114,7 @@ jobs:
                   echo "    \"difficulty\": \"${difficulty}\"," >> algorithms.json
                   echo "    \"problem_name\": \"${problem_name}\"," >> algorithms.json
                   echo "    \"languages\": \"${languages}\"," >> algorithms.json
-                  echo "    \"last_commit_date\": \"${last_commit_date}\"" >> algorithms.json
+                  echo "    \"last_commit_date\": \"${last_commit_date}\"," >> algorithms.json
                   echo "    \"slug\": \"${folder_path}\"" >> algorithms.json
                   echo "  }," >> algorithms.json
                 done
