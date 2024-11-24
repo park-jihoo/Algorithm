@@ -242,6 +242,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [1472-design-browser-history](./leetcode/Medium/1472-design-browser-history/) | Python | 2024-09-14 |
 | leetcode | Medium | [0962-maximum-width-ramp](./leetcode/Medium/0962-maximum-width-ramp/) | Python | 2024-10-10 |
 | leetcode | Medium | [0791-custom-sort-string](./leetcode/Medium/0791-custom-sort-string/) | Python | 2024-03-11 |
+| leetcode | Medium | [1975-maximum-matrix-sum](./leetcode/Medium/1975-maximum-matrix-sum/) | Python | 2024-11-24 |
 | leetcode | Medium | [2521-distinct-prime-factors-of-product-of-array](./leetcode/Medium/2521-distinct-prime-factors-of-product-of-array/) | Python | 2024-09-14 |
 | leetcode | Medium | [0652-find-duplicate-subtrees](./leetcode/Medium/0652-find-duplicate-subtrees/) | Python | 2024-09-14 |
 | leetcode | Medium | [1146-snapshot-array](./leetcode/Medium/1146-snapshot-array/) | Python | 2023-08-14 |
@@ -381,7 +382,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [0377-combination-sum-iv](./leetcode/Medium/0377-combination-sum-iv/) | Python | 2023-09-09 |
 | leetcode | Medium | [1254-number-of-closed-islands](./leetcode/Medium/1254-number-of-closed-islands/) | Python | 2024-09-14 |
 | leetcode | Medium | [0399-evaluate-division](./leetcode/Medium/0399-evaluate-division/) | Python | 2023-08-14 |
-| leetcode | Medium | [0201-bitwise-and-of-numbers-range](./leetcode/Medium/0201-bitwise-and-of-numbers-range/) | Python | 2024-11-24 |
+| leetcode | Medium | [0201-bitwise-and-of-numbers-range](./leetcode/Medium/0201-bitwise-and-of-numbers-range/) | Python | 2024-11-23 |
 | leetcode | Medium | [1318-minimum-flips-to-make-a-or-b-equal-to-c](./leetcode/Medium/1318-minimum-flips-to-make-a-or-b-equal-to-c/) | Python | 2024-09-14 |
 | leetcode | Medium | [0241-different-ways-to-add-parentheses](./leetcode/Medium/0241-different-ways-to-add-parentheses/) | Python | 2024-09-19 |
 | leetcode | Medium | [0456-132-pattern](./leetcode/Medium/0456-132-pattern/) | Python | 2024-09-14 |

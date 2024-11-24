@@ -1906,6 +1906,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "1975-maximum-matrix-sum",
+    "languages": "Python",
+    "last_commit_date": "2024-11-24",
+    "slug": "leetcode/Medium/1975-maximum-matrix-sum"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "2521-distinct-prime-factors-of-product-of-array",
     "languages": "Python",
     "last_commit_date": "2024-09-14",
@@ -3020,7 +3028,7 @@
     "difficulty": "Medium",
     "problem_name": "0201-bitwise-and-of-numbers-range",
     "languages": "Python",
-    "last_commit_date": "2024-11-24",
+    "last_commit_date": "2024-11-23",
     "slug": "leetcode/Medium/0201-bitwise-and-of-numbers-range"
   },
   {
