@@ -131,6 +131,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Hard | [0839-similar-string-groups](./leetcode/Hard/0839-similar-string-groups/) | Python | 2024-09-14 |
 | leetcode | Hard | [1416-restore-the-array](./leetcode/Hard/1416-restore-the-array/) | Python | 2024-09-14 |
 | leetcode | Hard | [0857-minimum-cost-to-hire-k-workers](./leetcode/Hard/0857-minimum-cost-to-hire-k-workers/) | Python | 2024-05-11 |
+| leetcode | Hard | [0773-sliding-puzzle](./leetcode/Hard/0773-sliding-puzzle/) | Python | 2024-11-25 |
 | leetcode | Hard | [2448-minimum-cost-to-make-array-equal](./leetcode/Hard/2448-minimum-cost-to-make-array-equal/) | Python | 2023-08-14 |
 | leetcode | Hard | [1671-minimum-number-of-removals-to-make-mountain-array](./leetcode/Hard/1671-minimum-number-of-removals-to-make-mountain-array/) | Python | 2024-10-30 |
 | leetcode | Hard | [0432-all-oone-data-structure](./leetcode/Hard/0432-all-oone-data-structure/) | Python | 2024-09-29 |
