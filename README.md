@@ -322,6 +322,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [0623-add-one-row-to-tree](./leetcode/Medium/0623-add-one-row-to-tree/) | Python | 2024-04-16 |
 | leetcode | Medium | [0486-predict-the-winner](./leetcode/Medium/0486-predict-the-winner/) | Python | 2023-08-14 |
 | leetcode | Medium | [2090-k-radius-subarray-averages](./leetcode/Medium/2090-k-radius-subarray-averages/) | Python | 2023-08-14 |
+| leetcode | Medium | [2924-find-champion-ii](./leetcode/Medium/2924-find-champion-ii/) | Python | 2024-11-26 |
 | leetcode | Medium | [3133-minimum-array-end](./leetcode/Medium/3133-minimum-array-end/) | Python | 2024-11-09 |
 | leetcode | Medium | [2196-create-binary-tree-from-descriptions](./leetcode/Medium/2196-create-binary-tree-from-descriptions/) | Python | 2024-07-15 |
 | leetcode | Medium | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](./leetcode/Medium/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) | Python | 2024-05-29 |

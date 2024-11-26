@@ -2546,6 +2546,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "2924-find-champion-ii",
+    "languages": "Python",
+    "last_commit_date": "2024-11-26",
+    "slug": "leetcode/Medium/2924-find-champion-ii"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "3133-minimum-array-end",
     "languages": "Python",
     "last_commit_date": "2024-11-09",
