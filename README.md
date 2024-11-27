@@ -442,6 +442,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [2461-maximum-sum-of-distinct-subarrays-with-length-k](./leetcode/Medium/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Python | 2024-11-19 |
 | leetcode | Medium | [0880-decoded-string-at-index](./leetcode/Medium/0880-decoded-string-at-index/) | Python | 2023-09-27 |
 | leetcode | Medium | [2482-difference-between-ones-and-zeros-in-row-and-column](./leetcode/Medium/2482-difference-between-ones-and-zeros-in-row-and-column/) | Python | 2023-12-17 |
+| leetcode | Medium | [3243-shortest-distance-after-road-addition-queries-i](./leetcode/Medium/3243-shortest-distance-after-road-addition-queries-i/) | Python | 2024-11-27 |
 | leetcode | Medium | [1637-widest-vertical-area-between-two-points-containing-no-points](./leetcode/Medium/1637-widest-vertical-area-between-two-points-containing-no-points/) | Python | 2023-12-21 |
 | leetcode | Medium | [1371-find-the-longest-substring-containing-vowels-in-even-counts](./leetcode/Medium/1371-find-the-longest-substring-containing-vowels-in-even-counts/) | Python | 2024-09-15 |
 | leetcode | Medium | [0802-find-eventual-safe-states](./leetcode/Medium/0802-find-eventual-safe-states/) | Python | 2023-08-14 |

@@ -3506,6 +3506,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "3243-shortest-distance-after-road-addition-queries-i",
+    "languages": "Python",
+    "last_commit_date": "2024-11-27",
+    "slug": "leetcode/Medium/3243-shortest-distance-after-road-addition-queries-i"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "1637-widest-vertical-area-between-two-points-containing-no-points",
     "languages": "Python",
     "last_commit_date": "2023-12-21",
