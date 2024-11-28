@@ -226,6 +226,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Hard | [1335-minimum-difficulty-of-a-job-schedule](./leetcode/Hard/1335-minimum-difficulty-of-a-job-schedule/) | Python | 2023-12-29 |
 | leetcode | Hard | [2392-build-a-matrix-with-conditions](./leetcode/Hard/2392-build-a-matrix-with-conditions/) | Python | 2024-07-21 |
 | leetcode | Hard | [0629-k-inverse-pairs-array](./leetcode/Hard/0629-k-inverse-pairs-array/) | Python | 2024-01-27 |
+| leetcode | Hard | [2290-minimum-obstacle-removal-to-reach-corner](./leetcode/Hard/2290-minimum-obstacle-removal-to-reach-corner/) | Python | 2024-11-28 |
 | leetcode | Hard | [2171-second-minimum-time-to-reach-destination](./leetcode/Hard/2171-second-minimum-time-to-reach-destination/) | Python | 2024-09-14 |
 | leetcode | Hard | [1359-count-all-valid-pickup-and-delivery-options](./leetcode/Hard/1359-count-all-valid-pickup-and-delivery-options/) | Python | 2023-09-10 |
 | leetcode | Hard | [2709-greatest-common-divisor-traversal](./leetcode/Hard/2709-greatest-common-divisor-traversal/) | Python | 2024-02-25 |

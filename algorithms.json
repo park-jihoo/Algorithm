@@ -1778,6 +1778,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Hard",
+    "problem_name": "2290-minimum-obstacle-removal-to-reach-corner",
+    "languages": "Python",
+    "last_commit_date": "2024-11-28",
+    "slug": "leetcode/Hard/2290-minimum-obstacle-removal-to-reach-corner"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Hard",
     "problem_name": "2171-second-minimum-time-to-reach-destination",
     "languages": "Python",
     "last_commit_date": "2024-09-14",
