@@ -1818,6 +1818,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Hard",
+    "problem_name": "2577-minimum-time-to-visit-a-cell-in-a-grid",
+    "languages": "Python",
+    "last_commit_date": "2024-11-29",
+    "slug": "leetcode/Hard/2577-minimum-time-to-visit-a-cell-in-a-grid"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Hard",
     "problem_name": "1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons",
     "languages": "Python",
     "last_commit_date": "2023-10-07",

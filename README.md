@@ -231,6 +231,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Hard | [1359-count-all-valid-pickup-and-delivery-options](./leetcode/Hard/1359-count-all-valid-pickup-and-delivery-options/) | Python | 2023-09-10 |
 | leetcode | Hard | [2709-greatest-common-divisor-traversal](./leetcode/Hard/2709-greatest-common-divisor-traversal/) | Python | 2024-02-25 |
 | leetcode | Hard | [0564-find-the-closest-palindrome](./leetcode/Hard/0564-find-the-closest-palindrome/) | Python | 2024-08-24 |
+| leetcode | Hard | [2577-minimum-time-to-visit-a-cell-in-a-grid](./leetcode/Hard/2577-minimum-time-to-visit-a-cell-in-a-grid/) | Python | 2024-11-29 |
 | leetcode | Hard | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](./leetcode/Hard/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons/) | Python | 2023-10-07 |
 | leetcode | Hard | [0502-ipo](./leetcode/Hard/0502-ipo/) | Python | 2024-06-15 |
 | leetcode | Hard | [0004-median-of-two-sorted-arrays](./leetcode/Hard/0004-median-of-two-sorted-arrays/) | Python | 2023-09-21 |
