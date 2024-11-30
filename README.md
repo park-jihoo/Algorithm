@@ -181,6 +181,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Hard | [1125-smallest-sufficient-team](./leetcode/Hard/1125-smallest-sufficient-team/) | Python | 2023-08-14 |
 | leetcode | Hard | [1406-stone-game-iii](./leetcode/Hard/1406-stone-game-iii/) | Python | 2023-08-14 |
 | leetcode | Hard | [2141-maximum-running-time-of-n-computers](./leetcode/Hard/2141-maximum-running-time-of-n-computers/) | Python | 2023-08-14 |
+| leetcode | Hard | [2097-valid-arrangement-of-pairs](./leetcode/Hard/2097-valid-arrangement-of-pairs/) | Python | 2024-11-30 |
 | leetcode | Hard | [0446-arithmetic-slices-ii-subsequence](./leetcode/Hard/0446-arithmetic-slices-ii-subsequence/) | Python | 2024-01-07 |
 | leetcode | Hard | [1444-number-of-ways-of-cutting-a-pizza](./leetcode/Hard/1444-number-of-ways-of-cutting-a-pizza/) | Python | 2024-09-14 |
 | leetcode | Hard | [1402-reducing-dishes](./leetcode/Hard/1402-reducing-dishes/) | Python | 2024-09-14 |

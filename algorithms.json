@@ -1418,6 +1418,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Hard",
+    "problem_name": "2097-valid-arrangement-of-pairs",
+    "languages": "Python",
+    "last_commit_date": "2024-11-30",
+    "slug": "leetcode/Hard/2097-valid-arrangement-of-pairs"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Hard",
     "problem_name": "0446-arithmetic-slices-ii-subsequence",
     "languages": "Python",
     "last_commit_date": "2024-01-07",
