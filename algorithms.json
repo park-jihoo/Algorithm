@@ -5998,5 +5998,13 @@
     "languages": "C,C++,Java,Python",
     "last_commit_date": "2024-09-14",
     "slug": "leetcode/Easy/0035-search-insert-position"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Easy",
+    "problem_name": "1346-check-if-n-and-its-double-exist",
+    "languages": "Python",
+    "last_commit_date": "2024-12-01",
+    "slug": "leetcode/Easy/1346-check-if-n-and-its-double-exist"
   }
 ]

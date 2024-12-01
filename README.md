@@ -754,5 +754,6 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [1608-special-array-with-x-elements-greater-than-or-equal-x](./leetcode/Easy/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Python | 2024-05-27 |
 | leetcode | Easy | [2053-kth-distinct-string-in-an-array](./leetcode/Easy/2053-kth-distinct-string-in-an-array/) | Python | 2024-08-05 |
 | leetcode | Easy | [0035-search-insert-position](./leetcode/Easy/0035-search-insert-position/) | C,C++,Java,Python | 2024-09-14 |
+| leetcode | Easy | [1346-check-if-n-and-its-double-exist](./leetcode/Easy/1346-check-if-n-and-its-double-exist/) | Python | 2024-12-01 |
 
 Click on the problem names to view their contents.
