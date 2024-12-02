@@ -5266,6 +5266,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Easy",
+    "problem_name": "1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence",
+    "languages": "Python",
+    "last_commit_date": "2024-12-02",
+    "slug": "leetcode/Easy/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Easy",
     "problem_name": "0001-two-sum",
     "languages": "C,C++,Java,JavaScript,Python",
     "last_commit_date": "2024-09-14",

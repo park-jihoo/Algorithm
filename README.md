@@ -662,6 +662,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [1539-kth-missing-positive-number](./leetcode/Easy/1539-kth-missing-positive-number/) | Python | 2024-09-14 |
 | leetcode | Easy | [0392-is-subsequence](./leetcode/Easy/0392-is-subsequence/) | Python | 2024-09-14 |
 | leetcode | Easy | [0844-backspace-string-compare](./leetcode/Easy/0844-backspace-string-compare/) | Python | 2023-10-19 |
+| leetcode | Easy | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](./leetcode/Easy/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Python | 2024-12-02 |
 | leetcode | Easy | [0001-two-sum](./leetcode/Easy/0001-two-sum/) | C,C++,Java,JavaScript,Python | 2024-09-14 |
 | leetcode | Easy | [0706-design-hashmap](./leetcode/Easy/0706-design-hashmap/) | Python | 2023-10-04 |
 | leetcode | Easy | [3005-count-elements-with-maximum-frequency](./leetcode/Easy/3005-count-elements-with-maximum-frequency/) | Python | 2024-03-08 |
