@@ -575,6 +575,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [0673-number-of-longest-increasing-subsequence](./leetcode/Medium/0673-number-of-longest-increasing-subsequence/) | Python | 2023-08-14 |
 | leetcode | Medium | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](./leetcode/Medium/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Python | 2024-09-14 |
 | leetcode | Medium | [0539-minimum-time-difference](./leetcode/Medium/0539-minimum-time-difference/) | Python | 2024-09-16 |
+| leetcode | Medium | [2109-adding-spaces-to-a-string](./leetcode/Medium/2109-adding-spaces-to-a-string/) | Python | 2024-12-03 |
 | leetcode | Medium | [1027-longest-arithmetic-subsequence](./leetcode/Medium/1027-longest-arithmetic-subsequence/) | Python | 2023-08-14 |
 | leetcode | Medium | [1845-seat-reservation-manager](./leetcode/Medium/1845-seat-reservation-manager/) | Python | 2023-11-06 |
 | leetcode | Medium | [1743-restore-the-array-from-adjacent-pairs](./leetcode/Medium/1743-restore-the-array-from-adjacent-pairs/) | Python | 2023-11-10 |
