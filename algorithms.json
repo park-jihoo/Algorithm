@@ -2746,6 +2746,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "2825-make-string-a-subsequence-using-cyclic-increments",
+    "languages": "Python",
+    "last_commit_date": "2024-12-04",
+    "slug": "leetcode/Medium/2825-make-string-a-subsequence-using-cyclic-increments"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "1497-check-if-array-pairs-are-divisible-by-k",
     "languages": "Python",
     "last_commit_date": "2024-10-01",

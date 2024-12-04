@@ -347,6 +347,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [0341-flatten-nested-list-iterator](./leetcode/Medium/0341-flatten-nested-list-iterator/) | Python | 2023-10-20 |
 | leetcode | Medium | [1530-number-of-good-leaf-nodes-pairs](./leetcode/Medium/1530-number-of-good-leaf-nodes-pairs/) | Python | 2024-07-18 |
 | leetcode | Medium | [1020-number-of-enclaves](./leetcode/Medium/1020-number-of-enclaves/) | Python | 2024-09-14 |
+| leetcode | Medium | [2825-make-string-a-subsequence-using-cyclic-increments](./leetcode/Medium/2825-make-string-a-subsequence-using-cyclic-increments/) | Python | 2024-12-04 |
 | leetcode | Medium | [1497-check-if-array-pairs-are-divisible-by-k](./leetcode/Medium/1497-check-if-array-pairs-are-divisible-by-k/) | Python | 2024-10-01 |
 | leetcode | Medium | [2583-kth-largest-sum-in-a-binary-tree](./leetcode/Medium/2583-kth-largest-sum-in-a-binary-tree/) | Python | 2024-10-22 |
 | leetcode | Medium | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](./leetcode/Medium/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Python | 2023-08-14 |
