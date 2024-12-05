@@ -586,6 +586,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [0300-longest-increasing-subsequence](./leetcode/Medium/0300-longest-increasing-subsequence/) | Python | 2024-01-05 |
 | leetcode | Medium | [2870-minimum-number-of-operations-to-make-array-empty](./leetcode/Medium/2870-minimum-number-of-operations-to-make-array-empty/) | Python | 2024-01-04 |
 | leetcode | Medium | [2439-minimize-maximum-of-array](./leetcode/Medium/2439-minimize-maximum-of-array/) | Python | 2024-09-14 |
+| leetcode | Medium | [2337-move-pieces-to-obtain-a-string](./leetcode/Medium/2337-move-pieces-to-obtain-a-string/) | Python | 2024-12-05 |
 | leetcode | Medium | [2370-longest-ideal-subsequence](./leetcode/Medium/2370-longest-ideal-subsequence/) | Python | 2024-04-25 |
 | leetcode | Medium | [1021-distribute-coins-in-binary-tree](./leetcode/Medium/1021-distribute-coins-in-binary-tree/) | Python | 2024-05-18 |
 | leetcode | Medium | [1584-min-cost-to-connect-all-points](./leetcode/Medium/1584-min-cost-to-connect-all-points/) | Python | 2024-09-14 |

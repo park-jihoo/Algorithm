@@ -4658,6 +4658,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "2337-move-pieces-to-obtain-a-string",
+    "languages": "Python",
+    "last_commit_date": "2024-12-05",
+    "slug": "leetcode/Medium/2337-move-pieces-to-obtain-a-string"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "2370-longest-ideal-subsequence",
     "languages": "Python",
     "last_commit_date": "2024-04-25",
