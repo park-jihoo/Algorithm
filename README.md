@@ -380,6 +380,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [1877-minimize-maximum-pair-sum-in-array](./leetcode/Medium/1877-minimize-maximum-pair-sum-in-array/) | Python | 2024-09-14 |
 | leetcode | Medium | [0208-implement-trie-prefix-tree](./leetcode/Medium/0208-implement-trie-prefix-tree/) | Python | 2023-08-14 |
 | leetcode | Medium | [0091-decode-ways](./leetcode/Medium/0091-decode-ways/) | Python | 2023-12-25 |
+| leetcode | Medium | [2554-maximum-number-of-integers-to-choose-from-a-range-i](./leetcode/Medium/2554-maximum-number-of-integers-to-choose-from-a-range-i/) | Python | 2024-12-06 |
 | leetcode | Medium | [0525-contiguous-array](./leetcode/Medium/0525-contiguous-array/) | Python | 2024-03-16 |
 | leetcode | Medium | [0621-task-scheduler](./leetcode/Medium/0621-task-scheduler/) | Python | 2024-03-19 |
 | leetcode | Medium | [0567-permutation-in-string](./leetcode/Medium/0567-permutation-in-string/) | Python | 2024-10-05 |

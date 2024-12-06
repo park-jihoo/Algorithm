@@ -3010,6 +3010,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "2554-maximum-number-of-integers-to-choose-from-a-range-i",
+    "languages": "Python",
+    "last_commit_date": "2024-12-06",
+    "slug": "leetcode/Medium/2554-maximum-number-of-integers-to-choose-from-a-range-i"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "0525-contiguous-array",
     "languages": "Python",
     "last_commit_date": "2024-03-16",
