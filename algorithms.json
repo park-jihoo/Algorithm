@@ -4274,6 +4274,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "1760-minimum-limit-of-balls-in-a-bag",
+    "languages": "Python",
+    "last_commit_date": "2024-12-07",
+    "slug": "leetcode/Medium/1760-minimum-limit-of-balls-in-a-bag"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "1347-minimum-number-of-steps-to-make-two-strings-anagram",
     "languages": "Python",
     "last_commit_date": "2024-01-13",

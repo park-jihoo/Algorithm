@@ -538,6 +538,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [2369-check-if-there-is-a-valid-partition-for-the-array](./leetcode/Medium/2369-check-if-there-is-a-valid-partition-for-the-array/) | Python | 2023-08-14 |
 | leetcode | Medium | [0912-sort-an-array](./leetcode/Medium/0912-sort-an-array/) | Python | 2024-09-14 |
 | leetcode | Medium | [2225-find-players-with-zero-or-one-losses](./leetcode/Medium/2225-find-players-with-zero-or-one-losses/) | Python | 2024-01-15 |
+| leetcode | Medium | [1760-minimum-limit-of-balls-in-a-bag](./leetcode/Medium/1760-minimum-limit-of-balls-in-a-bag/) | Python | 2024-12-07 |
 | leetcode | Medium | [1347-minimum-number-of-steps-to-make-two-strings-anagram](./leetcode/Medium/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Python | 2024-01-13 |
 | leetcode | Medium | [0427-construct-quad-tree](./leetcode/Medium/0427-construct-quad-tree/) | Python | 2024-09-14 |
 | leetcode | Medium | [2352-equal-row-and-column-pairs](./leetcode/Medium/2352-equal-row-and-column-pairs/) | Python | 2023-08-14 |
