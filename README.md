@@ -237,6 +237,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Hard | [0502-ipo](./leetcode/Hard/0502-ipo/) | Python | 2024-06-15 |
 | leetcode | Hard | [0004-median-of-two-sorted-arrays](./leetcode/Hard/0004-median-of-two-sorted-arrays/) | Python | 2023-09-21 |
 | leetcode | Medium | [1838-frequency-of-the-most-frequent-element](./leetcode/Medium/1838-frequency-of-the-most-frequent-element/) | Python | 2023-12-21 |
+| leetcode | Medium | [2054-two-best-non-overlapping-events](./leetcode/Medium/2054-two-best-non-overlapping-events/) | Python | 2024-12-08 |
 | leetcode | Medium | [0633-sum-of-square-numbers](./leetcode/Medium/0633-sum-of-square-numbers/) | Python | 2024-06-17 |
 | leetcode | Medium | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](./leetcode/Medium/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Python | 2024-06-23 |
 | leetcode | Medium | [0007-reverse-integer](./leetcode/Medium/0007-reverse-integer/) | Python | 2023-09-18 |

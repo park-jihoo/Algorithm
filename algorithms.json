@@ -1866,6 +1866,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "2054-two-best-non-overlapping-events",
+    "languages": "Python",
+    "last_commit_date": "2024-12-08",
+    "slug": "leetcode/Medium/2054-two-best-non-overlapping-events"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "0633-sum-of-square-numbers",
     "languages": "Python",
     "last_commit_date": "2024-06-17",
