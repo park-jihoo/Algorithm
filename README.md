@@ -274,6 +274,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [1647-minimum-deletions-to-make-character-frequencies-unique](./leetcode/Medium/1647-minimum-deletions-to-make-character-frequencies-unique/) | Python | 2023-09-12 |
 | leetcode | Medium | [0974-subarray-sums-divisible-by-k](./leetcode/Medium/0974-subarray-sums-divisible-by-k/) | Python | 2024-06-09 |
 | leetcode | Medium | [2542-maximum-subsequence-score](./leetcode/Medium/2542-maximum-subsequence-score/) | Python | 2023-08-14 |
+| leetcode | Medium | [3152-special-array-ii](./leetcode/Medium/3152-special-array-ii/) | Python | 2024-12-09 |
 | leetcode | Medium | [2616-minimize-the-maximum-difference-of-pairs](./leetcode/Medium/2616-minimize-the-maximum-difference-of-pairs/) | Python | 2023-08-14 |
 | leetcode | Medium | [2336-smallest-number-in-infinite-set](./leetcode/Medium/2336-smallest-number-in-infinite-set/) | Python | 2024-09-14 |
 | leetcode | Medium | [1813-sentence-similarity-iii](./leetcode/Medium/1813-sentence-similarity-iii/) | Python | 2024-10-06 |
