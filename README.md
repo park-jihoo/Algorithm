@@ -252,6 +252,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [0652-find-duplicate-subtrees](./leetcode/Medium/0652-find-duplicate-subtrees/) | Python | 2024-09-14 |
 | leetcode | Medium | [1146-snapshot-array](./leetcode/Medium/1146-snapshot-array/) | Python | 2023-08-14 |
 | leetcode | Medium | [0861-score-after-flipping-matrix](./leetcode/Medium/0861-score-after-flipping-matrix/) | Python | 2024-05-13 |
+| leetcode | Medium | [2981-find-longest-special-substring-that-occurs-thrice-i](./leetcode/Medium/2981-find-longest-special-substring-that-occurs-thrice-i/) | Python | 2024-12-10 |
 | leetcode | Medium | [1578-minimum-time-to-make-rope-colorful](./leetcode/Medium/1578-minimum-time-to-make-rope-colorful/) | Python | 2023-12-27 |
 | leetcode | Medium | [0347-top-k-frequent-elements](./leetcode/Medium/0347-top-k-frequent-elements/) | Python | 2023-08-14 |
 | leetcode | Medium | [1980-find-unique-binary-string](./leetcode/Medium/1980-find-unique-binary-string/) | Python | 2023-12-21 |

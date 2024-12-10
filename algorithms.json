@@ -1986,6 +1986,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "2981-find-longest-special-substring-that-occurs-thrice-i",
+    "languages": "Python",
+    "last_commit_date": "2024-12-10",
+    "slug": "leetcode/Medium/2981-find-longest-special-substring-that-occurs-thrice-i"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "1578-minimum-time-to-make-rope-colorful",
     "languages": "Python",
     "last_commit_date": "2023-12-27",

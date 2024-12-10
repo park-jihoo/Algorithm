@@ -12,7 +12,7 @@ class Solution:
                 continue
             test = len(list(size))
             for substr in range(test, 0, -1):
-                cand[ltr][substr] += (test - substr + 1)
+                cand[ltr][substr] += test - substr + 1
         ans = 1
         for substr in cand:
             for size in cand[substr]:
