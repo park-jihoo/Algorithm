@@ -491,6 +491,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [0946-validate-stack-sequences](./leetcode/Medium/0946-validate-stack-sequences/) | Python | 2024-09-14 |
 | leetcode | Medium | [1963-minimum-number-of-swaps-to-make-the-string-balanced](./leetcode/Medium/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Python | 2024-10-08 |
 | leetcode | Medium | [2326-spiral-matrix-iv](./leetcode/Medium/2326-spiral-matrix-iv/) | Python | 2024-09-09 |
+| leetcode | Medium | [2779-maximum-beauty-of-an-array-after-applying-operation](./leetcode/Medium/2779-maximum-beauty-of-an-array-after-applying-operation/) | Python | 2024-12-11 |
 | leetcode | Medium | [1802-maximum-value-at-a-given-index-in-a-bounded-array](./leetcode/Medium/1802-maximum-value-at-a-given-index-in-a-bounded-array/) | Python | 2023-08-14 |
 | leetcode | Medium | [0028-find-the-index-of-the-first-occurrence-in-a-string](./leetcode/Medium/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Python | 2024-09-14 |
 | leetcode | Medium | [0576-out-of-boundary-paths](./leetcode/Medium/0576-out-of-boundary-paths/) | Python | 2024-01-26 |
