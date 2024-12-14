@@ -12,6 +12,6 @@ class Solution:
             marked[idx] = True
             if idx >= 1:
                 marked[idx - 1] = True
-            if idx < len(nums)-1:
+            if idx < len(nums) - 1:
                 marked[idx + 1] = True
         return ans

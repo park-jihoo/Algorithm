@@ -14,6 +14,6 @@ class Solution:
                 while not cnt[-maxpq[0]]:
                     heapq.heappop(maxpq)
                 i += 1
-            ans += (j-i+1)
+            ans += j - i + 1
             j += 1
         return ans

@@ -4394,6 +4394,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "2762-continuous-subarrays",
+    "languages": "Python",
+    "last_commit_date": "2024-12-14",
+    "slug": "leetcode/Medium/2762-continuous-subarrays"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "2971-find-polygon-with-the-largest-perimeter",
     "languages": "Python",
     "last_commit_date": "2024-02-15",
@@ -4710,6 +4718,14 @@
     "languages": "Python",
     "last_commit_date": "2024-12-05",
     "slug": "leetcode/Medium/2337-move-pieces-to-obtain-a-string"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
+    "problem_name": "2593-find-score-of-an-array-after-marking-all-elements",
+    "languages": "Python",
+    "last_commit_date": "2024-12-13",
+    "slug": "leetcode/Medium/2593-find-score-of-an-array-after-marking-all-elements"
   },
   {
     "platform": "leetcode",
@@ -5846,6 +5862,14 @@
     "languages": "Python",
     "last_commit_date": "2024-09-14",
     "slug": "leetcode/Easy/1832-check-if-the-sentence-is-pangram"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Easy",
+    "problem_name": "2558-take-gifts-from-the-richest-pile",
+    "languages": "Python",
+    "last_commit_date": "2024-12-12",
+    "slug": "leetcode/Easy/2558-take-gifts-from-the-richest-pile"
   },
   {
     "platform": "leetcode",
