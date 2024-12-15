@@ -4058,6 +4058,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "1792-maximum-average-pass-ratio",
+    "languages": "Python",
+    "last_commit_date": "2024-12-15",
+    "slug": "leetcode/Medium/1792-maximum-average-pass-ratio"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "0368-largest-divisible-subset",
     "languages": "Python",
     "last_commit_date": "2024-02-09",
@@ -4724,7 +4732,7 @@
     "difficulty": "Medium",
     "problem_name": "2593-find-score-of-an-array-after-marking-all-elements",
     "languages": "Python",
-    "last_commit_date": "2024-12-13",
+    "last_commit_date": "2024-12-14",
     "slug": "leetcode/Medium/2593-find-score-of-an-array-after-marking-all-elements"
   },
   {
@@ -5868,7 +5876,7 @@
     "difficulty": "Easy",
     "problem_name": "2558-take-gifts-from-the-richest-pile",
     "languages": "Python",
-    "last_commit_date": "2024-12-12",
+    "last_commit_date": "2024-12-14",
     "slug": "leetcode/Easy/2558-take-gifts-from-the-richest-pile"
   },
   {

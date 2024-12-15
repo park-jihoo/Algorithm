@@ -511,6 +511,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](./leetcode/Medium/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Python | 2024-05-30 |
 | leetcode | Medium | [0142-linked-list-cycle-ii](./leetcode/Medium/0142-linked-list-cycle-ii/) | Python | 2024-09-14 |
 | leetcode | Medium | [2405-optimal-partition-of-string](./leetcode/Medium/2405-optimal-partition-of-string/) | Python | 2024-09-14 |
+| leetcode | Medium | [1792-maximum-average-pass-ratio](./leetcode/Medium/1792-maximum-average-pass-ratio/) | Python | 2024-12-15 |
 | leetcode | Medium | [0368-largest-divisible-subset](./leetcode/Medium/0368-largest-divisible-subset/) | Python | 2024-02-09 |
 | leetcode | Medium | [2486-append-characters-to-string-to-make-subsequence](./leetcode/Medium/2486-append-characters-to-string-to-make-subsequence/) | Python | 2024-06-03 |
 | leetcode | Medium | [0658-find-k-closest-elements](./leetcode/Medium/0658-find-k-closest-elements/) | Python | 2024-09-14 |
@@ -594,7 +595,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [2870-minimum-number-of-operations-to-make-array-empty](./leetcode/Medium/2870-minimum-number-of-operations-to-make-array-empty/) | Python | 2024-01-04 |
 | leetcode | Medium | [2439-minimize-maximum-of-array](./leetcode/Medium/2439-minimize-maximum-of-array/) | Python | 2024-09-14 |
 | leetcode | Medium | [2337-move-pieces-to-obtain-a-string](./leetcode/Medium/2337-move-pieces-to-obtain-a-string/) | Python | 2024-12-05 |
-| leetcode | Medium | [2593-find-score-of-an-array-after-marking-all-elements](./leetcode/Medium/2593-find-score-of-an-array-after-marking-all-elements/) | Python | 2024-12-13 |
+| leetcode | Medium | [2593-find-score-of-an-array-after-marking-all-elements](./leetcode/Medium/2593-find-score-of-an-array-after-marking-all-elements/) | Python | 2024-12-14 |
 | leetcode | Medium | [2370-longest-ideal-subsequence](./leetcode/Medium/2370-longest-ideal-subsequence/) | Python | 2024-04-25 |
 | leetcode | Medium | [1021-distribute-coins-in-binary-tree](./leetcode/Medium/1021-distribute-coins-in-binary-tree/) | Python | 2024-05-18 |
 | leetcode | Medium | [1584-min-cost-to-connect-all-points](./leetcode/Medium/1584-min-cost-to-connect-all-points/) | Python | 2024-09-14 |
@@ -737,7 +738,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [0389-find-the-difference](./leetcode/Easy/0389-find-the-difference/) | Python | 2023-09-25 |
 | leetcode | Easy | [1913-maximum-product-difference-between-two-pairs](./leetcode/Easy/1913-maximum-product-difference-between-two-pairs/) | Python | 2024-09-14 |
 | leetcode | Easy | [1832-check-if-the-sentence-is-pangram](./leetcode/Easy/1832-check-if-the-sentence-is-pangram/) | Python | 2024-09-14 |
-| leetcode | Easy | [2558-take-gifts-from-the-richest-pile](./leetcode/Easy/2558-take-gifts-from-the-richest-pile/) | Python | 2024-12-12 |
+| leetcode | Easy | [2558-take-gifts-from-the-richest-pile](./leetcode/Easy/2558-take-gifts-from-the-richest-pile/) | Python | 2024-12-14 |
 | leetcode | Easy | [1903-largest-odd-number-in-string](./leetcode/Easy/1903-largest-odd-number-in-string/) | Python | 2023-12-21 |
 | leetcode | Easy | [0859-buddy-strings](./leetcode/Easy/0859-buddy-strings/) | C++,Python | 2023-08-14 |
 | leetcode | Easy | [1232-check-if-it-is-a-straight-line](./leetcode/Easy/1232-check-if-it-is-a-straight-line/) | Python | 2024-09-14 |
