@@ -5162,6 +5162,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Easy",
+    "problem_name": "3264-final-array-state-after-k-multiplication-operations-i",
+    "languages": "Python",
+    "last_commit_date": "2024-12-16",
+    "slug": "leetcode/Easy/3264-final-array-state-after-k-multiplication-operations-i"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Easy",
     "problem_name": "1603-design-parking-system",
     "languages": "C++,Python",
     "last_commit_date": "2023-08-14",
