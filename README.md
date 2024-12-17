@@ -270,6 +270,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [0077-combinations](./leetcode/Medium/0077-combinations/) | Python | 2023-08-14 |
 | leetcode | Medium | [2433-find-the-original-array-of-prefix-xor](./leetcode/Medium/2433-find-the-original-array-of-prefix-xor/) | Python | 2023-10-31 |
 | leetcode | Medium | [0513-find-bottom-left-tree-value](./leetcode/Medium/0513-find-bottom-left-tree-value/) | Python | 2024-02-28 |
+| leetcode | Medium | [2182-construct-string-with-repeat-limit](./leetcode/Medium/2182-construct-string-with-repeat-limit/) | Python | 2024-12-17 |
 | leetcode | Medium | [0650-2-keys-keyboard](./leetcode/Medium/0650-2-keys-keyboard/) | Python | 2024-08-19 |
 | leetcode | Medium | [2101-detonate-the-maximum-bombs](./leetcode/Medium/2101-detonate-the-maximum-bombs/) | Python | 2023-08-14 |
 | leetcode | Medium | [1647-minimum-deletions-to-make-character-frequencies-unique](./leetcode/Medium/1647-minimum-deletions-to-make-character-frequencies-unique/) | Python | 2023-09-12 |

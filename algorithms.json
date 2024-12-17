@@ -2130,6 +2130,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "2182-construct-string-with-repeat-limit",
+    "languages": "Python",
+    "last_commit_date": "2024-12-17",
+    "slug": "leetcode/Medium/2182-construct-string-with-repeat-limit"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "0650-2-keys-keyboard",
     "languages": "Python",
     "last_commit_date": "2024-08-19",
