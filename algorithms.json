@@ -1290,6 +1290,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "0769-max-chunks-to-make-sorted",
+    "languages": "Python",
+    "last_commit_date": "2024-12-19",
+    "slug": "leetcode/Medium/0769-max-chunks-to-make-sorted"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "2530-maximal-score-after-applying-k-operations",
     "languages": "Python",
     "last_commit_date": "2024-10-14",

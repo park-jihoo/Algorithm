@@ -165,6 +165,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [0542-01-matrix](./leetcode/Medium/0542-01-matrix/) | Python | 2023-08-17 |
 | leetcode | Medium | [0012-integer-to-roman](./leetcode/Medium/0012-integer-to-roman/) | Python | 2024-09-14 |
 | leetcode | Medium | [2406-divide-intervals-into-minimum-number-of-groups](./leetcode/Medium/2406-divide-intervals-into-minimum-number-of-groups/) | Python | 2024-10-12 |
+| leetcode | Medium | [0769-max-chunks-to-make-sorted](./leetcode/Medium/0769-max-chunks-to-make-sorted/) | Python | 2024-12-19 |
 | leetcode | Medium | [2530-maximal-score-after-applying-k-operations](./leetcode/Medium/2530-maximal-score-after-applying-k-operations/) | Python | 2024-10-14 |
 | leetcode | Medium | [2149-rearrange-array-elements-by-sign](./leetcode/Medium/2149-rearrange-array-elements-by-sign/) | Python | 2024-02-14 |
 | leetcode | Medium | [1190-reverse-substrings-between-each-pair-of-parentheses](./leetcode/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Python | 2024-07-11 |
