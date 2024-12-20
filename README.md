@@ -362,6 +362,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [0525-contiguous-array](./leetcode/Medium/0525-contiguous-array/) | Python | 2024-03-16 |
 | leetcode | Medium | [2601-prime-subtraction-operation](./leetcode/Medium/2601-prime-subtraction-operation/) | Python | 2024-11-11 |
 | leetcode | Medium | [2825-make-string-a-subsequence-using-cyclic-increments](./leetcode/Medium/2825-make-string-a-subsequence-using-cyclic-increments/) | Python | 2024-12-04 |
+| leetcode | Medium | [2415-reverse-odd-levels-of-binary-tree](./leetcode/Medium/2415-reverse-odd-levels-of-binary-tree/) | Python | 2024-12-20 |
 | leetcode | Medium | [0934-shortest-bridge](./leetcode/Medium/0934-shortest-bridge/) | Python | 2023-08-14 |
 | leetcode | Medium | [0999-regions-cut-by-slashes](./leetcode/Medium/0999-regions-cut-by-slashes/) | Python | 2024-08-10 |
 | leetcode | Medium | [2914-find-the-safest-path-in-a-grid](./leetcode/Medium/2914-find-the-safest-path-in-a-grid/) | Python | 2024-05-15 |
