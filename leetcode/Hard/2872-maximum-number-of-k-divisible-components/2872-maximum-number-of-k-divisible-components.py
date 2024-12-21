@@ -1,5 +1,7 @@
 class Solution:
-    def maxKDivisibleComponents(self, n: int, edges: List[List[int]], values: List[int], k: int) -> int:
+    def maxKDivisibleComponents(
+        self, n: int, edges: List[List[int]], values: List[int], k: int
+    ) -> int:
         if n <= 1:
             return 1
         graph, ans = defaultdict(set), 0
@@ -13,7 +15,7 @@ class Solution:
                 c = next(iter(graph[node])) if graph[node] else -1
                 if c >= 0:
                     graph[c].remove(node)
-                if values[node]%k == 0:
+                if values[node] % k == 0:
                     ans += 1
                 else:
                     values[c] += values[node]

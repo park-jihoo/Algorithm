@@ -559,6 +559,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Hard | [1125-smallest-sufficient-team](./leetcode/Hard/1125-smallest-sufficient-team/) | Python | 2023-08-14 |
 | leetcode | Hard | [2366-minimum-replacements-to-sort-the-array](./leetcode/Hard/2366-minimum-replacements-to-sort-the-array/) | C++ | 2023-08-30 |
 | leetcode | Hard | [0273-integer-to-english-words](./leetcode/Hard/0273-integer-to-english-words/) | Python | 2024-08-07 |
+| leetcode | Hard | [2872-maximum-number-of-k-divisible-components](./leetcode/Hard/2872-maximum-number-of-k-divisible-components/) | Python | 2024-12-21 |
 | leetcode | Hard | [0920-number-of-music-playlists](./leetcode/Hard/0920-number-of-music-playlists/) | Python | 2023-08-14 |
 | leetcode | Hard | [1289-minimum-falling-path-sum-ii](./leetcode/Hard/1289-minimum-falling-path-sum-ii/) | Python | 2024-04-26 |
 | leetcode | Hard | [0864-shortest-path-to-get-all-keys](./leetcode/Hard/0864-shortest-path-to-get-all-keys/) | Python | 2023-08-14 |
