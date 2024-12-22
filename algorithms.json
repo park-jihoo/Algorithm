@@ -4178,6 +4178,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Hard",
+    "problem_name": "2940-find-building-where-alice-and-bob-can-meet",
+    "languages": "Python",
+    "last_commit_date": "2024-12-22",
+    "slug": "leetcode/Hard/2940-find-building-where-alice-and-bob-can-meet"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Hard",
     "problem_name": "2092-find-all-people-with-secret",
     "languages": "Python",
     "last_commit_date": "2024-02-24",

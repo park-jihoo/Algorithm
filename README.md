@@ -526,6 +526,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Hard | [1326-minimum-number-of-taps-to-open-to-water-a-garden](./leetcode/Hard/1326-minimum-number-of-taps-to-open-to-water-a-garden/) | Python | 2023-08-31 |
 | leetcode | Hard | [2272-substring-with-largest-variance](./leetcode/Hard/2272-substring-with-largest-variance/) | C,C++,Python | 2023-08-14 |
 | leetcode | Hard | [2742-painting-the-walls](./leetcode/Hard/2742-painting-the-walls/) | Python | 2023-10-14 |
+| leetcode | Hard | [2940-find-building-where-alice-and-bob-can-meet](./leetcode/Hard/2940-find-building-where-alice-and-bob-can-meet/) | Python | 2024-12-22 |
 | leetcode | Hard | [2092-find-all-people-with-secret](./leetcode/Hard/2092-find-all-people-with-secret/) | Python | 2024-02-24 |
 | leetcode | Hard | [1406-stone-game-iii](./leetcode/Hard/1406-stone-game-iii/) | Python | 2023-08-14 |
 | leetcode | Hard | [1601-maximum-number-of-achievable-transfer-requests](./leetcode/Hard/1601-maximum-number-of-achievable-transfer-requests/) | Python | 2023-08-14 |
