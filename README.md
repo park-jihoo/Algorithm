@@ -329,6 +329,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [0040-combination-sum-ii](./leetcode/Medium/0040-combination-sum-ii/) | Python | 2024-08-13 |
 | leetcode | Medium | [0767-reorganize-string](./leetcode/Medium/0767-reorganize-string/) | Python | 2023-08-23 |
 | leetcode | Medium | [1254-number-of-closed-islands](./leetcode/Medium/1254-number-of-closed-islands/) | Python | 2024-09-14 |
+| leetcode | Medium | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](./leetcode/Medium/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level/) | Python | 2024-12-23 |
 | leetcode | Medium | [0678-valid-parenthesis-string](./leetcode/Medium/0678-valid-parenthesis-string/) | Python | 2024-04-07 |
 | leetcode | Medium | [1823-find-the-winner-of-the-circular-game](./leetcode/Medium/1823-find-the-winner-of-the-circular-game/) | Python | 2024-07-08 |
 | leetcode | Medium | [0343-integer-break](./leetcode/Medium/0343-integer-break/) | C,C++,Java,JavaScript,Python | 2023-10-06 |

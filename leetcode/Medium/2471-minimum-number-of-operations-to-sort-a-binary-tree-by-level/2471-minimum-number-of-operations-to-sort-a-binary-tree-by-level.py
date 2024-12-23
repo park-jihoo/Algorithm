@@ -12,12 +12,12 @@ class Solution:
             size = len(q)
             lvl = [node.val for node in q]
             arr = sorted(lvl)
-            d = {arr[i]:i for i in range(size)}
+            d = {arr[i]: i for i in range(size)}
             for i in range(size):
                 j = d[lvl[i]]
-                while i!=j:
+                while i != j:
                     ans += 1
-                    lvl[i],lvl[j],j=lvl[j],lvl[i],d[lvl[j]]
+                    lvl[i], lvl[j], j = lvl[j], lvl[i], d[lvl[j]]
             for i in range(size):
                 node = q.popleft()
                 if node.left:

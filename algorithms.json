@@ -2602,6 +2602,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level",
+    "languages": "Python",
+    "last_commit_date": "2024-12-23",
+    "slug": "leetcode/Medium/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "0678-valid-parenthesis-string",
     "languages": "Python",
     "last_commit_date": "2024-04-07",
