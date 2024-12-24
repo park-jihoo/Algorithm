@@ -4402,6 +4402,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Hard",
+    "problem_name": "3203-find-minimum-diameter-after-merging-two-trees",
+    "languages": "Python",
+    "last_commit_date": "2024-12-24",
+    "slug": "leetcode/Hard/3203-find-minimum-diameter-after-merging-two-trees"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Hard",
     "problem_name": "1335-minimum-difficulty-of-a-job-schedule",
     "languages": "Python",
     "last_commit_date": "2023-12-29",

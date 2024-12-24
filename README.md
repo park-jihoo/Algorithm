@@ -554,6 +554,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Hard | [2097-valid-arrangement-of-pairs](./leetcode/Hard/2097-valid-arrangement-of-pairs/) | Python | 2024-11-30 |
 | leetcode | Hard | [2392-build-a-matrix-with-conditions](./leetcode/Hard/2392-build-a-matrix-with-conditions/) | Python | 2024-07-21 |
 | leetcode | Hard | [0068-text-justification](./leetcode/Hard/0068-text-justification/) | Python | 2023-08-24 |
+| leetcode | Hard | [3203-find-minimum-diameter-after-merging-two-trees](./leetcode/Hard/3203-find-minimum-diameter-after-merging-two-trees/) | Python | 2024-12-24 |
 | leetcode | Hard | [1335-minimum-difficulty-of-a-job-schedule](./leetcode/Hard/1335-minimum-difficulty-of-a-job-schedule/) | Python | 2023-12-29 |
 | leetcode | Hard | [2709-greatest-common-divisor-traversal](./leetcode/Hard/2709-greatest-common-divisor-traversal/) | Python | 2024-02-25 |
 | leetcode | Hard | [1345-jump-game-iv](./leetcode/Hard/1345-jump-game-iv/) | Python | 2024-09-14 |
