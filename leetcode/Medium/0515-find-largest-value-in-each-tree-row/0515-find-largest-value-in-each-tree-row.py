@@ -12,7 +12,7 @@ class Solution:
         q = deque([root])
         while q:
             length = len(q)
-            maximum = float("-inf")
+            maximum = float('-inf')
 
             for i in range(length):
                 node = q.popleft()
