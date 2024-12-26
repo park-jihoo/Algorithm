@@ -1546,6 +1546,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "0494-target-sum",
+    "languages": "Python",
+    "last_commit_date": "2024-12-26",
+    "slug": "leetcode/Medium/0494-target-sum"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "0785-is-graph-bipartite",
     "languages": "Python",
     "last_commit_date": "2023-08-14",
@@ -2764,7 +2772,7 @@
     "difficulty": "Medium",
     "problem_name": "0515-find-largest-value-in-each-tree-row",
     "languages": "Python",
-    "last_commit_date": "2024-12-26",
+    "last_commit_date": "2024-12-25",
     "slug": "leetcode/Medium/0515-find-largest-value-in-each-tree-row"
   },
   {

@@ -197,6 +197,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [2501-longest-square-streak-in-an-array](./leetcode/Medium/2501-longest-square-streak-in-an-array/) | Python | 2024-10-28 |
 | leetcode | Medium | [0846-hand-of-straights](./leetcode/Medium/0846-hand-of-straights/) | Python | 2024-06-06 |
 | leetcode | Medium | [0078-subsets](./leetcode/Medium/0078-subsets/) | Python | 2024-05-21 |
+| leetcode | Medium | [0494-target-sum](./leetcode/Medium/0494-target-sum/) | Python | 2024-12-26 |
 | leetcode | Medium | [0785-is-graph-bipartite](./leetcode/Medium/0785-is-graph-bipartite/) | Python | 2023-08-14 |
 | leetcode | Medium | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](./leetcode/Medium/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) | Python | 2024-05-29 |
 | leetcode | Medium | [2641-cousins-in-binary-tree-ii](./leetcode/Medium/2641-cousins-in-binary-tree-ii/) | Python | 2024-10-23 |
@@ -349,7 +350,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [2684-maximum-number-of-moves-in-a-grid](./leetcode/Medium/2684-maximum-number-of-moves-in-a-grid/) | Python | 2024-10-29 |
 | leetcode | Medium | [2337-move-pieces-to-obtain-a-string](./leetcode/Medium/2337-move-pieces-to-obtain-a-string/) | Python | 2024-12-05 |
 | leetcode | Medium | [2353-design-a-food-rating-system](./leetcode/Medium/2353-design-a-food-rating-system/) | Python | 2024-09-14 |
-| leetcode | Medium | [0515-find-largest-value-in-each-tree-row](./leetcode/Medium/0515-find-largest-value-in-each-tree-row/) | Python | 2024-12-26 |
+| leetcode | Medium | [0515-find-largest-value-in-each-tree-row](./leetcode/Medium/0515-find-largest-value-in-each-tree-row/) | Python | 2024-12-25 |
 | leetcode | Medium | [2779-maximum-beauty-of-an-array-after-applying-operation](./leetcode/Medium/2779-maximum-beauty-of-an-array-after-applying-operation/) | Python | 2024-12-11 |
 | leetcode | Medium | [2225-find-players-with-zero-or-one-losses](./leetcode/Medium/2225-find-players-with-zero-or-one-losses/) | Python | 2024-01-15 |
 | leetcode | Medium | [0131-palindrome-partitioning](./leetcode/Medium/0131-palindrome-partitioning/) | Python | 2024-05-22 |
