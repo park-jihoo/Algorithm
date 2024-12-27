@@ -1426,6 +1426,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "1014-best-sightseeing-pair",
+    "languages": "Python",
+    "last_commit_date": "2024-12-28",
+    "slug": "leetcode/Medium/1014-best-sightseeing-pair"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "1642-furthest-building-you-can-reach",
     "languages": "Python",
     "last_commit_date": "2024-02-17",
