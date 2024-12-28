@@ -182,7 +182,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [2492-minimum-score-of-a-path-between-two-cities](./leetcode/Medium/2492-minimum-score-of-a-path-between-two-cities/) | Python | 2024-09-14 |
 | leetcode | Medium | [2461-maximum-sum-of-distinct-subarrays-with-length-k](./leetcode/Medium/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Python | 2024-11-19 |
 | leetcode | Medium | [0852-peak-index-in-a-mountain-array](./leetcode/Medium/0852-peak-index-in-a-mountain-array/) | C++,Java,Python | 2023-08-14 |
-| leetcode | Medium | [1014-best-sightseeing-pair](./leetcode/Medium/1014-best-sightseeing-pair/) | Python | 2024-12-28 |
+| leetcode | Medium | [1014-best-sightseeing-pair](./leetcode/Medium/1014-best-sightseeing-pair/) | Python | 2024-12-27 |
 | leetcode | Medium | [1642-furthest-building-you-can-reach](./leetcode/Medium/1642-furthest-building-you-can-reach/) | Python | 2024-02-17 |
 | leetcode | Medium | [2466-count-ways-to-build-good-strings](./leetcode/Medium/2466-count-ways-to-build-good-strings/) | Python | 2023-08-14 |
 | leetcode | Medium | [0050-powx-n](./leetcode/Medium/0050-powx-n/) | C++,JavaScript,Python | 2023-08-14 |
@@ -593,6 +593,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Hard | [1671-minimum-number-of-removals-to-make-mountain-array](./leetcode/Hard/1671-minimum-number-of-removals-to-make-mountain-array/) | Python | 2024-10-30 |
 | leetcode | Hard | [2251-number-of-flowers-in-full-bloom](./leetcode/Hard/2251-number-of-flowers-in-full-bloom/) | Python | 2023-12-21 |
 | leetcode | Hard | [2751-robot-collisions](./leetcode/Hard/2751-robot-collisions/) | Python | 2024-07-13 |
+| leetcode | Hard | [0689-maximum-sum-of-3-non-overlapping-subarrays](./leetcode/Hard/0689-maximum-sum-of-3-non-overlapping-subarrays/) | Python | 2024-12-28 |
 | leetcode | Hard | [1106-parsing-a-boolean-expression](./leetcode/Hard/1106-parsing-a-boolean-expression/) | Python | 2024-10-20 |
 | leetcode | Hard | [0879-profitable-schemes](./leetcode/Hard/0879-profitable-schemes/) | Python | 2024-09-14 |
 | leetcode | Hard | [2642-design-graph-with-shortest-path-calculator](./leetcode/Hard/2642-design-graph-with-shortest-path-calculator/) | Python | 2024-09-14 |
