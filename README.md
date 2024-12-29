@@ -618,7 +618,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Hard | [2171-second-minimum-time-to-reach-destination](./leetcode/Hard/2171-second-minimum-time-to-reach-destination/) | Python | 2024-09-14 |
 | leetcode | Hard | [0330-patching-array](./leetcode/Hard/0330-patching-array/) | Python | 2024-06-16 |
 | leetcode | Hard | [0042-trapping-rain-water](./leetcode/Hard/0042-trapping-rain-water/) | Python | 2024-04-12 |
-| leetcode | Hard | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](./leetcode/Hard/1639-number-of-ways-to-form-a-target-string-given-a-dictionary/) | Python | 2024-09-14 |
+| leetcode | Hard | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](./leetcode/Hard/1639-number-of-ways-to-form-a-target-string-given-a-dictionary/) | Python | 2024-12-29 |
 | leetcode | Easy | [0183-customers-who-never-order](./leetcode/Easy/0183-customers-who-never-order/) | SQL | 2023-12-15 |
 | leetcode | Easy | [0100-same-tree](./leetcode/Easy/0100-same-tree/) | Python | 2024-02-26 |
 | leetcode | Easy | [1903-largest-odd-number-in-string](./leetcode/Easy/1903-largest-odd-number-in-string/) | Python | 2023-12-21 |
