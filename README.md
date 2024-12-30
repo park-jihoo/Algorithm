@@ -184,7 +184,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [0852-peak-index-in-a-mountain-array](./leetcode/Medium/0852-peak-index-in-a-mountain-array/) | C++,Java,Python | 2023-08-14 |
 | leetcode | Medium | [1014-best-sightseeing-pair](./leetcode/Medium/1014-best-sightseeing-pair/) | Python | 2024-12-27 |
 | leetcode | Medium | [1642-furthest-building-you-can-reach](./leetcode/Medium/1642-furthest-building-you-can-reach/) | Python | 2024-02-17 |
-| leetcode | Medium | [2466-count-ways-to-build-good-strings](./leetcode/Medium/2466-count-ways-to-build-good-strings/) | Python | 2023-08-14 |
+| leetcode | Medium | [2466-count-ways-to-build-good-strings](./leetcode/Medium/2466-count-ways-to-build-good-strings/) | Python | 2024-12-30 |
 | leetcode | Medium | [0050-powx-n](./leetcode/Medium/0050-powx-n/) | C++,JavaScript,Python | 2023-08-14 |
 | leetcode | Medium | [1282-group-the-people-given-the-group-size-they-belong-to](./leetcode/Medium/1282-group-the-people-given-the-group-size-they-belong-to/) | Python | 2023-09-11 |
 | leetcode | Medium | [0983-minimum-cost-for-tickets](./leetcode/Medium/0983-minimum-cost-for-tickets/) | Python | 2024-09-14 |
