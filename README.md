@@ -628,7 +628,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [1331-rank-transform-of-an-array](./leetcode/Easy/1331-rank-transform-of-an-array/) | Python | 2024-10-02 |
 | leetcode | Easy | [1002-find-common-characters](./leetcode/Easy/1002-find-common-characters/) | Python | 2024-06-05 |
 | leetcode | Easy | [1464-maximum-product-of-two-elements-in-an-array](./leetcode/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Python | 2023-12-12 |
-| leetcode | Easy | [1422-maximum-score-after-splitting-a-string](./leetcode/Easy/1422-maximum-score-after-splitting-a-string/) | Python | 2023-12-22 |
+| leetcode | Easy | [1422-maximum-score-after-splitting-a-string](./leetcode/Easy/1422-maximum-score-after-splitting-a-string/) | Python | 2025-01-01 |
 | leetcode | Easy | [0896-monotonic-array](./leetcode/Easy/0896-monotonic-array/) | Python | 2023-09-29 |
 | leetcode | Easy | [2864-maximum-odd-binary-number](./leetcode/Easy/2864-maximum-odd-binary-number/) | Python | 2024-03-01 |
 | leetcode | Easy | [0121-best-time-to-buy-and-sell-stock](./leetcode/Easy/0121-best-time-to-buy-and-sell-stock/) | Python | 2023-08-14 |
