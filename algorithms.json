@@ -2314,6 +2314,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "2559-count-vowel-strings-in-ranges",
+    "languages": "Python",
+    "last_commit_date": "2025-01-02",
+    "slug": "leetcode/Medium/2559-count-vowel-strings-in-ranges"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "0109-convert-sorted-list-to-binary-search-tree",
     "languages": "Python",
     "last_commit_date": "2024-09-14",

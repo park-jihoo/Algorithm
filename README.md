@@ -293,6 +293,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [1043-partition-array-for-maximum-sum](./leetcode/Medium/1043-partition-array-for-maximum-sum/) | Python | 2024-02-03 |
 | leetcode | Medium | [0207-course-schedule](./leetcode/Medium/0207-course-schedule/) | Python | 2023-08-14 |
 | leetcode | Medium | [1105-filling-bookcase-shelves](./leetcode/Medium/1105-filling-bookcase-shelves/) | Python | 2024-07-31 |
+| leetcode | Medium | [2559-count-vowel-strings-in-ranges](./leetcode/Medium/2559-count-vowel-strings-in-ranges/) | Python | 2025-01-02 |
 | leetcode | Medium | [0109-convert-sorted-list-to-binary-search-tree](./leetcode/Medium/0109-convert-sorted-list-to-binary-search-tree/) | Python | 2024-09-14 |
 | leetcode | Medium | [1319-number-of-operations-to-make-network-connected](./leetcode/Medium/1319-number-of-operations-to-make-network-connected/) | Python | 2024-09-14 |
 | leetcode | Medium | [0435-non-overlapping-intervals](./leetcode/Medium/0435-non-overlapping-intervals/) | C++,Python | 2023-08-14 |
