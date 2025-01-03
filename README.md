@@ -460,6 +460,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [0046-permutations](./leetcode/Medium/0046-permutations/) | C,C++,Python | 2023-08-27 |
 | leetcode | Medium | [3011-find-if-array-can-be-sorted](./leetcode/Medium/3011-find-if-array-can-be-sorted/) | Python | 2024-11-06 |
 | leetcode | Medium | [1590-make-sum-divisible-by-p](./leetcode/Medium/1590-make-sum-divisible-by-p/) | Python | 2024-10-03 |
+| leetcode | Medium | [2270-number-of-ways-to-split-array](./leetcode/Medium/2270-number-of-ways-to-split-array/) | Python | 2025-01-03 |
 | leetcode | Medium | [1615-maximal-network-rank](./leetcode/Medium/1615-maximal-network-rank/) | Python | 2023-08-18 |
 | leetcode | Medium | [1081-smallest-subsequence-of-distinct-characters](./leetcode/Medium/1081-smallest-subsequence-of-distinct-characters/) | Python | 2024-09-14 |
 | leetcode | Medium | [3217-delete-nodes-from-linked-list-present-in-array](./leetcode/Medium/3217-delete-nodes-from-linked-list-present-in-array/) | Python | 2024-09-06 |
