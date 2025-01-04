@@ -394,7 +394,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [1992-find-all-groups-of-farmland](./leetcode/Medium/1992-find-all-groups-of-farmland/) | Python | 2024-04-20 |
 | leetcode | Medium | [2095-delete-the-middle-node-of-a-linked-list](./leetcode/Medium/2095-delete-the-middle-node-of-a-linked-list/) | C++ | 2024-09-14 |
 | leetcode | Medium | [1472-design-browser-history](./leetcode/Medium/1472-design-browser-history/) | Python | 2024-09-14 |
-| leetcode | Medium | [1930-unique-length-3-palindromic-subsequences](./leetcode/Medium/1930-unique-length-3-palindromic-subsequences/) | Python | 2023-12-21 |
+| leetcode | Medium | [1930-unique-length-3-palindromic-subsequences](./leetcode/Medium/1930-unique-length-3-palindromic-subsequences/) | Python | 2025-01-04 |
 | leetcode | Medium | [1493-longest-subarray-of-1s-after-deleting-one-element](./leetcode/Medium/1493-longest-subarray-of-1s-after-deleting-one-element/) | Python | 2023-08-14 |
 | leetcode | Medium | [2542-maximum-subsequence-score](./leetcode/Medium/2542-maximum-subsequence-score/) | Python | 2023-08-14 |
 | leetcode | Medium | [0200-number-of-islands](./leetcode/Medium/0200-number-of-islands/) | Python | 2024-04-19 |
