@@ -306,6 +306,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [1140-stone-game-ii](./leetcode/Medium/1140-stone-game-ii/) | Python | 2023-08-14 |
 | leetcode | Medium | [0947-most-stones-removed-with-same-row-or-column](./leetcode/Medium/0947-most-stones-removed-with-same-row-or-column/) | Python | 2024-08-29 |
 | leetcode | Medium | [0443-string-compression](./leetcode/Medium/0443-string-compression/) | Python | 2024-09-14 |
+| leetcode | Medium | [2381-shifting-letters-ii](./leetcode/Medium/2381-shifting-letters-ii/) | Python | 2025-01-05 |
 | leetcode | Medium | [0215-kth-largest-element-in-an-array](./leetcode/Medium/0215-kth-largest-element-in-an-array/) | Python | 2023-08-14 |
 | leetcode | Medium | [0837-new-21-game](./leetcode/Medium/0837-new-21-game/) | Python | 2023-08-14 |
 | leetcode | Medium | [1884-egg-drop-with-2-eggs-and-n-floors](./leetcode/Medium/1884-egg-drop-with-2-eggs-and-n-floors/) | Python | 2023-09-18 |
