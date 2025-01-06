@@ -465,6 +465,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [1615-maximal-network-rank](./leetcode/Medium/1615-maximal-network-rank/) | Python | 2023-08-18 |
 | leetcode | Medium | [1081-smallest-subsequence-of-distinct-characters](./leetcode/Medium/1081-smallest-subsequence-of-distinct-characters/) | Python | 2024-09-14 |
 | leetcode | Medium | [3217-delete-nodes-from-linked-list-present-in-array](./leetcode/Medium/3217-delete-nodes-from-linked-list-present-in-array/) | Python | 2024-09-06 |
+| leetcode | Medium | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](./leetcode/Medium/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Python | 2025-01-06 |
 | leetcode | Medium | [1605-find-valid-matrix-given-row-and-column-sums](./leetcode/Medium/1605-find-valid-matrix-given-row-and-column-sums/) | Python | 2024-07-20 |
 | leetcode | Medium | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](./leetcode/Medium/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color/) | Python | 2023-10-02 |
 | leetcode | Medium | [0974-subarray-sums-divisible-by-k](./leetcode/Medium/0974-subarray-sums-divisible-by-k/) | Python | 2024-06-09 |

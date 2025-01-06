@@ -3690,6 +3690,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "1769-minimum-number-of-operations-to-move-all-balls-to-each-box",
+    "languages": "Python",
+    "last_commit_date": "2025-01-06",
+    "slug": "leetcode/Medium/1769-minimum-number-of-operations-to-move-all-balls-to-each-box"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "1605-find-valid-matrix-given-row-and-column-sums",
     "languages": "Python",
     "last_commit_date": "2024-07-20",
