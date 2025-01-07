@@ -770,6 +770,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [0867-transpose-matrix](./leetcode/Easy/0867-transpose-matrix/) | Python | 2023-12-10 |
 | leetcode | Easy | [0705-design-hashset](./leetcode/Easy/0705-design-hashset/) | Python | 2023-08-14 |
 | leetcode | Easy | [2696-minimum-string-length-after-removing-substrings](./leetcode/Easy/2696-minimum-string-length-after-removing-substrings/) | Python | 2024-10-07 |
+| leetcode | Easy | [1408-string-matching-in-an-array](./leetcode/Easy/1408-string-matching-in-an-array/) | Python | 2025-01-07 |
 | leetcode | Easy | [1122-relative-sort-array](./leetcode/Easy/1122-relative-sort-array/) | Python | 2024-06-11 |
 | leetcode | Easy | [0228-summary-ranges](./leetcode/Easy/0228-summary-ranges/) | Python | 2023-08-14 |
 | leetcode | Easy | [1897-redistribute-characters-to-make-all-strings-equal](./leetcode/Easy/1897-redistribute-characters-to-make-all-strings-equal/) | Python | 2023-12-30 |

@@ -6130,6 +6130,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Easy",
+    "problem_name": "1408-string-matching-in-an-array",
+    "languages": "Python",
+    "last_commit_date": "2025-01-07",
+    "slug": "leetcode/Easy/1408-string-matching-in-an-array"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Easy",
     "problem_name": "1122-relative-sort-array",
     "languages": "Python",
     "last_commit_date": "2024-06-11",
