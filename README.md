@@ -780,6 +780,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [2540-minimum-common-value](./leetcode/Easy/2540-minimum-common-value/) | Python | 2024-03-09 |
 | leetcode | Easy | [0977-squares-of-a-sorted-array](./leetcode/Easy/0977-squares-of-a-sorted-array/) | Python | 2024-09-14 |
 | leetcode | Easy | [0746-min-cost-climbing-stairs](./leetcode/Easy/0746-min-cost-climbing-stairs/) | Python | 2023-10-13 |
+| leetcode | Easy | [3042-count-prefix-and-suffix-pairs-i](./leetcode/Easy/3042-count-prefix-and-suffix-pairs-i/) | Python | 2025-01-08 |
 | leetcode | Easy | [1431-kids-with-the-greatest-number-of-candies](./leetcode/Easy/1431-kids-with-the-greatest-number-of-candies/) | Python | 2024-09-14 |
 | leetcode | Easy | [0796-rotate-string](./leetcode/Easy/0796-rotate-string/) | Python | 2024-11-03 |
 | leetcode | Easy | [0020-valid-parentheses](./leetcode/Easy/0020-valid-parentheses/) | Python | 2024-09-14 |

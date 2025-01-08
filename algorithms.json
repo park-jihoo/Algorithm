@@ -6210,6 +6210,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Easy",
+    "problem_name": "3042-count-prefix-and-suffix-pairs-i",
+    "languages": "Python",
+    "last_commit_date": "2025-01-08",
+    "slug": "leetcode/Easy/3042-count-prefix-and-suffix-pairs-i"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Easy",
     "problem_name": "1431-kids-with-the-greatest-number-of-candies",
     "languages": "Python",
     "last_commit_date": "2024-09-14",
