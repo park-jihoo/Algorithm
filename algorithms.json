@@ -6234,6 +6234,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Easy",
+    "problem_name": "2185-counting-words-with-a-given-prefix",
+    "languages": "Python",
+    "last_commit_date": "2025-01-09",
+    "slug": "leetcode/Easy/2185-counting-words-with-a-given-prefix"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Easy",
     "problem_name": "0020-valid-parentheses",
     "languages": "Python",
     "last_commit_date": "2024-09-14",

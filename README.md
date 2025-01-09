@@ -783,6 +783,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [3042-count-prefix-and-suffix-pairs-i](./leetcode/Easy/3042-count-prefix-and-suffix-pairs-i/) | Python | 2025-01-08 |
 | leetcode | Easy | [1431-kids-with-the-greatest-number-of-candies](./leetcode/Easy/1431-kids-with-the-greatest-number-of-candies/) | Python | 2024-09-14 |
 | leetcode | Easy | [0796-rotate-string](./leetcode/Easy/0796-rotate-string/) | Python | 2024-11-03 |
+| leetcode | Easy | [2185-counting-words-with-a-given-prefix](./leetcode/Easy/2185-counting-words-with-a-given-prefix/) | Python | 2025-01-09 |
 | leetcode | Easy | [0020-valid-parentheses](./leetcode/Easy/0020-valid-parentheses/) | Python | 2024-09-14 |
 | leetcode | Easy | [1108-defanging-an-ip-address](./leetcode/Easy/1108-defanging-an-ip-address/) | Python | 2024-09-14 |
 | leetcode | Easy | [0530-minimum-absolute-difference-in-bst](./leetcode/Easy/0530-minimum-absolute-difference-in-bst/) | Python | 2023-08-14 |
