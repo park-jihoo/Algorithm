@@ -145,6 +145,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [1325-delete-leaves-with-a-given-value](./leetcode/Medium/1325-delete-leaves-with-a-given-value/) | Python | 2024-05-17 |
 | leetcode | Medium | [0688-knight-probability-in-chessboard](./leetcode/Medium/0688-knight-probability-in-chessboard/) | Python | 2023-08-14 |
 | leetcode | Medium | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](./leetcode/Medium/1574-shortest-subarray-to-be-removed-to-make-array-sorted/) | Python | 2024-11-15 |
+| leetcode | Medium | [0916-word-subsets](./leetcode/Medium/0916-word-subsets/) | Python | 2025-01-11 |
 | leetcode | Medium | [0874-walking-robot-simulation](./leetcode/Medium/0874-walking-robot-simulation/) | Python | 2024-09-04 |
 | leetcode | Medium | [0054-spiral-matrix](./leetcode/Medium/0054-spiral-matrix/) | C++,Python | 2023-08-14 |
 | leetcode | Medium | [1584-min-cost-to-connect-all-points](./leetcode/Medium/1584-min-cost-to-connect-all-points/) | Python | 2024-09-14 |
