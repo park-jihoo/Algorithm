@@ -245,6 +245,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [2482-difference-between-ones-and-zeros-in-row-and-column](./leetcode/Medium/2482-difference-between-ones-and-zeros-in-row-and-column/) | Python | 2023-12-17 |
 | leetcode | Medium | [2573-remove-nodes-from-linked-list](./leetcode/Medium/2573-remove-nodes-from-linked-list/) | Python | 2024-05-06 |
 | leetcode | Medium | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](./leetcode/Medium/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Python | 2023-08-14 |
+| leetcode | Medium | [1400-construct-k-palindrome-strings](./leetcode/Medium/1400-construct-k-palindrome-strings/) | Python | 2025-01-11 |
 | leetcode | Medium | [0238-product-of-array-except-self](./leetcode/Medium/0238-product-of-array-except-self/) | Python | 2024-03-15 |
 | leetcode | Medium | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](./leetcode/Medium/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Python | 2024-06-23 |
 | leetcode | Medium | [0931-minimum-falling-path-sum](./leetcode/Medium/0931-minimum-falling-path-sum/) | Python | 2024-01-19 |
