@@ -223,6 +223,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [0921-minimum-add-to-make-parentheses-valid](./leetcode/Medium/0921-minimum-add-to-make-parentheses-valid/) | Python | 2024-10-09 |
 | leetcode | Medium | [2187-minimum-time-to-complete-trips](./leetcode/Medium/2187-minimum-time-to-complete-trips/) | Python | 2024-09-14 |
 | leetcode | Medium | [0567-permutation-in-string](./leetcode/Medium/0567-permutation-in-string/) | Python | 2024-10-05 |
+| leetcode | Medium | [2116-check-if-a-parentheses-string-can-be-valid](./leetcode/Medium/2116-check-if-a-parentheses-string-can-be-valid/) | Python | 2025-01-12 |
 | leetcode | Medium | [1381-design-a-stack-with-increment-operation](./leetcode/Medium/1381-design-a-stack-with-increment-operation/) | Python | 2024-09-30 |
 | leetcode | Medium | [0208-implement-trie-prefix-tree](./leetcode/Medium/0208-implement-trie-prefix-tree/) | Python | 2023-08-14 |
 | leetcode | Medium | [2433-find-the-original-array-of-prefix-xor](./leetcode/Medium/2433-find-the-original-array-of-prefix-xor/) | Python | 2023-10-31 |

@@ -1754,6 +1754,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "2116-check-if-a-parentheses-string-can-be-valid",
+    "languages": "Python",
+    "last_commit_date": "2025-01-12",
+    "slug": "leetcode/Medium/2116-check-if-a-parentheses-string-can-be-valid"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "1381-design-a-stack-with-increment-operation",
     "languages": "Python",
     "last_commit_date": "2024-09-30",
