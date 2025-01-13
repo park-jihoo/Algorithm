@@ -1002,6 +1002,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "3223-minimum-length-of-string-after-operations",
+    "languages": "Python",
+    "last_commit_date": "2025-01-13",
+    "slug": "leetcode/Medium/3223-minimum-length-of-string-after-operations"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "0033-search-in-rotated-sorted-array",
     "languages": "C,C++,Python",
     "last_commit_date": "2023-08-14",

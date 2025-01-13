@@ -129,6 +129,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | SWEA | Unrated | [4322. ［연습문제］ 패킷 처리](./SWEA/Unrated/4322. ［연습문제］ 패킷 처리/) | Python | 2024-09-14 |
 | SWEA | Unrated | [4340. ［연습문제］ 파이프 연결](./SWEA/Unrated/4340. ［연습문제］ 파이프 연결/) | Python | 2024-09-14 |
 | leetcode | Medium | [1838-frequency-of-the-most-frequent-element](./leetcode/Medium/1838-frequency-of-the-most-frequent-element/) | Python | 2023-12-21 |
+| leetcode | Medium | [3223-minimum-length-of-string-after-operations](./leetcode/Medium/3223-minimum-length-of-string-after-operations/) | Python | 2025-01-13 |
 | leetcode | Medium | [0033-search-in-rotated-sorted-array](./leetcode/Medium/0033-search-in-rotated-sorted-array/) | C,C++,Python | 2023-08-14 |
 | leetcode | Medium | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](./leetcode/Medium/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Python | 2024-09-14 |
 | leetcode | Medium | [0279-perfect-squares](./leetcode/Medium/0279-perfect-squares/) | Python | 2024-02-08 |
