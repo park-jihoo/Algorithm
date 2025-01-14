@@ -510,6 +510,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [0092-reverse-linked-list-ii](./leetcode/Medium/0092-reverse-linked-list-ii/) | C,C++,Python | 2024-09-14 |
 | leetcode | Medium | [0840-magic-squares-in-grid](./leetcode/Medium/0840-magic-squares-in-grid/) | Python | 2024-08-09 |
 | leetcode | Medium | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](./leetcode/Medium/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k/) | Python | 2024-04-29 |
+| leetcode | Medium | [2657-find-the-prefix-common-array-of-two-arrays](./leetcode/Medium/2657-find-the-prefix-common-array-of-two-arrays/) | Python | 2025-01-14 |
 | leetcode | Medium | [0007-reverse-integer](./leetcode/Medium/0007-reverse-integer/) | Python | 2023-09-18 |
 | leetcode | Medium | [1877-minimize-maximum-pair-sum-in-array](./leetcode/Medium/1877-minimize-maximum-pair-sum-in-array/) | Python | 2024-09-14 |
 | leetcode | Medium | [1052-grumpy-bookstore-owner](./leetcode/Medium/1052-grumpy-bookstore-owner/) | Python | 2024-06-21 |

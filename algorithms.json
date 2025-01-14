@@ -4050,6 +4050,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "2657-find-the-prefix-common-array-of-two-arrays",
+    "languages": "Python",
+    "last_commit_date": "2025-01-14",
+    "slug": "leetcode/Medium/2657-find-the-prefix-common-array-of-two-arrays"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "0007-reverse-integer",
     "languages": "Python",
     "last_commit_date": "2023-09-18",
