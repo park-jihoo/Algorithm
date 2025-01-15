@@ -1082,6 +1082,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "2429-minimize-xor",
+    "languages": "Python",
+    "last_commit_date": "2025-01-15",
+    "slug": "leetcode/Medium/2429-minimize-xor"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "0300-longest-increasing-subsequence",
     "languages": "Python",
     "last_commit_date": "2024-01-05",

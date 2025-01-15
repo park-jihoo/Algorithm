@@ -139,6 +139,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [1631-path-with-minimum-effort](./leetcode/Medium/1631-path-with-minimum-effort/) | Python | 2024-09-14 |
 | leetcode | Medium | [3254-find-the-power-of-k-size-subarrays-i](./leetcode/Medium/3254-find-the-power-of-k-size-subarrays-i/) | Python | 2024-11-16 |
 | leetcode | Medium | [3043-find-the-length-of-the-longest-common-prefix](./leetcode/Medium/3043-find-the-length-of-the-longest-common-prefix/) | Python | 2024-09-24 |
+| leetcode | Medium | [2429-minimize-xor](./leetcode/Medium/2429-minimize-xor/) | Python | 2025-01-15 |
 | leetcode | Medium | [0300-longest-increasing-subsequence](./leetcode/Medium/0300-longest-increasing-subsequence/) | Python | 2024-01-05 |
 | leetcode | Medium | [0452-minimum-number-of-arrows-to-burst-balloons](./leetcode/Medium/0452-minimum-number-of-arrows-to-burst-balloons/) | Python | 2024-03-18 |
 | leetcode | Medium | [1813-sentence-similarity-iii](./leetcode/Medium/1813-sentence-similarity-iii/) | Python | 2024-10-06 |

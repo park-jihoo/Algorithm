@@ -4,8 +4,8 @@ class Solution:
         while bit_diff != 0:
             if bit_diff > 0:
                 bit_diff -= 1
-                num1 &= num1-1
+                num1 &= num1 - 1
             else:
                 bit_diff += 1
-                num1 |= num1+1
+                num1 |= num1 + 1
         return num1
