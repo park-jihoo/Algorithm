@@ -5,4 +5,4 @@ class Solution:
             ans1 = reduce(lambda a, b: a ^ b, nums2, 0)
         if len(nums2) % 2 == 1:
             ans2 = reduce(lambda a, b: a ^ b, nums1, 0)
-        return ans1^ans2
+        return ans1 ^ ans2
