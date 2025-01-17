@@ -2050,6 +2050,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "2683-neighboring-bitwise-xor",
+    "languages": "Python",
+    "last_commit_date": "2025-01-17",
+    "slug": "leetcode/Medium/2683-neighboring-bitwise-xor"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "1870-minimum-speed-to-arrive-on-time",
     "languages": "Python",
     "last_commit_date": "2023-08-14",

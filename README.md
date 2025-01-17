@@ -260,6 +260,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [0097-interleaving-string](./leetcode/Medium/0097-interleaving-string/) | Python | 2023-08-25 |
 | leetcode | Medium | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](./leetcode/Medium/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Python | 2023-08-14 |
 | leetcode | Medium | [1361-validate-binary-tree-nodes](./leetcode/Medium/1361-validate-binary-tree-nodes/) | Python | 2023-10-17 |
+| leetcode | Medium | [2683-neighboring-bitwise-xor](./leetcode/Medium/2683-neighboring-bitwise-xor/) | Python | 2025-01-17 |
 | leetcode | Medium | [1870-minimum-speed-to-arrive-on-time](./leetcode/Medium/1870-minimum-speed-to-arrive-on-time/) | Python | 2023-08-14 |
 | leetcode | Medium | [2370-longest-ideal-subsequence](./leetcode/Medium/2370-longest-ideal-subsequence/) | Python | 2024-04-25 |
 | leetcode | Medium | [2044-count-number-of-maximum-bitwise-or-subsets](./leetcode/Medium/2044-count-number-of-maximum-bitwise-or-subsets/) | Python | 2024-10-18 |
