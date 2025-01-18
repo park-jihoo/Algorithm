@@ -525,6 +525,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Hard | [1203-sort-items-by-groups-respecting-dependencies](./leetcode/Hard/1203-sort-items-by-groups-respecting-dependencies/) | Python | 2023-08-20 |
 | leetcode | Hard | [1074-number-of-submatrices-that-sum-to-target](./leetcode/Hard/1074-number-of-submatrices-that-sum-to-target/) | Python | 2024-01-28 |
 | leetcode | Hard | [0072-edit-distance](./leetcode/Hard/0072-edit-distance/) | Python | 2024-09-14 |
+| leetcode | Hard | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](./leetcode/Hard/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Python | 2025-01-18 |
 | leetcode | Hard | [0262-trips-and-users](./leetcode/Hard/0262-trips-and-users/) | SQL | 2024-09-14 |
 | leetcode | Hard | [1312-minimum-insertion-steps-to-make-a-string-palindrome](./leetcode/Hard/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Python | 2024-09-14 |
 | leetcode | Hard | [1235-maximum-profit-in-job-scheduling](./leetcode/Hard/1235-maximum-profit-in-job-scheduling/) | Python | 2024-01-06 |

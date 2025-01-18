@@ -4170,6 +4170,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Hard",
+    "problem_name": "1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid",
+    "languages": "Python",
+    "last_commit_date": "2025-01-18",
+    "slug": "leetcode/Hard/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Hard",
     "problem_name": "0262-trips-and-users",
     "languages": "SQL",
     "last_commit_date": "2024-09-14",
