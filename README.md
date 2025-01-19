@@ -627,6 +627,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Hard | [0214-shortest-palindrome](./leetcode/Hard/0214-shortest-palindrome/) | Python | 2024-09-20 |
 | leetcode | Hard | [0458-poor-pigs](./leetcode/Hard/0458-poor-pigs/) | Python | 2023-10-29 |
 | leetcode | Hard | [0502-ipo](./leetcode/Hard/0502-ipo/) | Python | 2024-06-15 |
+| leetcode | Hard | [0407-trapping-rain-water-ii](./leetcode/Hard/0407-trapping-rain-water-ii/) | Python | 2025-01-19 |
 | leetcode | Hard | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](./leetcode/Hard/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/) | Python | 2023-08-19 |
 | leetcode | Hard | [2171-second-minimum-time-to-reach-destination](./leetcode/Hard/2171-second-minimum-time-to-reach-destination/) | Python | 2024-09-14 |
 | leetcode | Hard | [0330-patching-array](./leetcode/Hard/0330-patching-array/) | Python | 2024-06-16 |

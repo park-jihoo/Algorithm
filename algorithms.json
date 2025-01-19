@@ -4986,6 +4986,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Hard",
+    "problem_name": "0407-trapping-rain-water-ii",
+    "languages": "Python",
+    "last_commit_date": "2025-01-19",
+    "slug": "leetcode/Hard/0407-trapping-rain-water-ii"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Hard",
     "problem_name": "1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree",
     "languages": "Python",
     "last_commit_date": "2023-08-19",
