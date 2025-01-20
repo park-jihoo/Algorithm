@@ -3354,6 +3354,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "2661-first-completely-painted-row-or-column",
+    "languages": "Python",
+    "last_commit_date": "2025-01-20",
+    "slug": "leetcode/Medium/2661-first-completely-painted-row-or-column"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "2971-find-polygon-with-the-largest-perimeter",
     "languages": "Python",
     "last_commit_date": "2024-02-15",

@@ -423,6 +423,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [2369-check-if-there-is-a-valid-partition-for-the-array](./leetcode/Medium/2369-check-if-there-is-a-valid-partition-for-the-array/) | Python | 2023-08-14 |
 | leetcode | Medium | [0138-copy-list-with-random-pointer](./leetcode/Medium/0138-copy-list-with-random-pointer/) | Python | 2023-09-05 |
 | leetcode | Medium | [1277-count-square-submatrices-with-all-ones](./leetcode/Medium/1277-count-square-submatrices-with-all-ones/) | Python | 2024-10-27 |
+| leetcode | Medium | [2661-first-completely-painted-row-or-column](./leetcode/Medium/2661-first-completely-painted-row-or-column/) | Python | 2025-01-20 |
 | leetcode | Medium | [2971-find-polygon-with-the-largest-perimeter](./leetcode/Medium/2971-find-polygon-with-the-largest-perimeter/) | Python | 2024-02-15 |
 | leetcode | Medium | [0885-spiral-matrix-iii](./leetcode/Medium/0885-spiral-matrix-iii/) | Python | 2024-08-08 |
 | leetcode | Medium | [2090-k-radius-subarray-averages](./leetcode/Medium/2090-k-radius-subarray-averages/) | Python | 2023-08-14 |
