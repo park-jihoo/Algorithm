@@ -1378,6 +1378,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "2017-grid-game",
+    "languages": "Python",
+    "last_commit_date": "2025-01-21",
+    "slug": "leetcode/Medium/2017-grid-game"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "2762-continuous-subarrays",
     "languages": "Python",
     "last_commit_date": "2024-12-14",

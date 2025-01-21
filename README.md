@@ -176,6 +176,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [1717-maximum-score-from-removing-substrings](./leetcode/Medium/1717-maximum-score-from-removing-substrings/) | Python | 2024-09-14 |
 | leetcode | Medium | [3276-minimum-number-of-pushes-to-type-word-ii](./leetcode/Medium/3276-minimum-number-of-pushes-to-type-word-ii/) | Python | 2024-08-06 |
 | leetcode | Medium | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](./leetcode/Medium/1239-maximum-length-of-a-concatenated-string-with-unique-characters/) | Python | 2024-01-23 |
+| leetcode | Medium | [2017-grid-game](./leetcode/Medium/2017-grid-game/) | Python | 2025-01-21 |
 | leetcode | Medium | [2762-continuous-subarrays](./leetcode/Medium/2762-continuous-subarrays/) | Python | 2024-12-14 |
 | leetcode | Medium | [0198-house-robber](./leetcode/Medium/0198-house-robber/) | Python | 2024-01-21 |
 | leetcode | Medium | [0201-bitwise-and-of-numbers-range](./leetcode/Medium/0201-bitwise-and-of-numbers-range/) | Python | 2024-11-23 |
