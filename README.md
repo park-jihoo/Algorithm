@@ -497,6 +497,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [1021-distribute-coins-in-binary-tree](./leetcode/Medium/1021-distribute-coins-in-binary-tree/) | Python | 2024-05-18 |
 | leetcode | Medium | [1535-find-the-winner-of-an-array-game](./leetcode/Medium/1535-find-the-winner-of-an-array-game/) | Python | 2023-11-05 |
 | leetcode | Medium | [2067-maximum-number-of-points-with-cost](./leetcode/Medium/2067-maximum-number-of-points-with-cost/) | Python | 2024-08-17 |
+| leetcode | Medium | [1765-map-of-highest-peak](./leetcode/Medium/1765-map-of-highest-peak/) | Python | 2025-01-22 |
 | leetcode | Medium | [0647-palindromic-substrings](./leetcode/Medium/0647-palindromic-substrings/) | Python | 2024-02-10 |
 | leetcode | Medium | [0229-majority-element-ii](./leetcode/Medium/0229-majority-element-ii/) | Python | 2023-10-05 |
 | leetcode | Medium | [0988-smallest-string-starting-from-leaf](./leetcode/Medium/0988-smallest-string-starting-from-leaf/) | Python | 2024-04-17 |
