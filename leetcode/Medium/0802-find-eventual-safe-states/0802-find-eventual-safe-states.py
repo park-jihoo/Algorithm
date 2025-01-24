@@ -15,5 +15,5 @@ class Solution:
         visited = [False for _ in range(len(graph))]
         for i in range(len(graph)):
             self.dfs(visited, graph, i)
-
+        
         return [x for x in range(len(graph)) if visited[x] == 2]
