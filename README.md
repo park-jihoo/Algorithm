@@ -379,7 +379,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [1249-minimum-remove-to-make-valid-parentheses](./leetcode/Medium/1249-minimum-remove-to-make-valid-parentheses/) | Python | 2024-04-06 |
 | leetcode | Medium | [1441-build-an-array-with-stack-operations](./leetcode/Medium/1441-build-an-array-with-stack-operations/) | Python | 2023-11-03 |
 | leetcode | Medium | [1190-reverse-substrings-between-each-pair-of-parentheses](./leetcode/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Python | 2024-07-11 |
-| leetcode | Medium | [0802-find-eventual-safe-states](./leetcode/Medium/0802-find-eventual-safe-states/) | Python | 2023-08-14 |
+| leetcode | Medium | [0802-find-eventual-safe-states](./leetcode/Medium/0802-find-eventual-safe-states/) | Python | 2025-01-24 |
 | leetcode | Medium | [2871-double-a-number-represented-as-a-linked-list](./leetcode/Medium/2871-double-a-number-represented-as-a-linked-list/) | Python | 2024-05-07 |
 | leetcode | Medium | [0769-max-chunks-to-make-sorted](./leetcode/Medium/0769-max-chunks-to-make-sorted/) | Python | 2024-12-19 |
 | leetcode | Medium | [0091-decode-ways](./leetcode/Medium/0091-decode-ways/) | Python | 2023-12-25 |
