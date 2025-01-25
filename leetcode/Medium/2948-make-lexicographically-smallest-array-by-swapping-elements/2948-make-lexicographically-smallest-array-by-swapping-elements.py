@@ -3,7 +3,7 @@ class Solution:
         numsort = sorted(nums)
         sets = []
         tempset = [numsort[0]]
-        graph = {numsort[0] : 0}
+        graph = {numsort[0]: 0}
         for i in range(1, len(nums)):
             if numsort[i] - tempset[-1] > limit:
                 sets.append(tempset)
@@ -12,7 +12,7 @@ class Solution:
                 tempset.append(numsort[i])
             graph[numsort[i]] = len(sets)
         sets.append(tempset)
-        cur_idx = [0]*len(sets)
+        cur_idx = [0] * len(sets)
         ans = []
         for num in nums:
             idx = graph[num]

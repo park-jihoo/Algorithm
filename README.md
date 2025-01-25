@@ -518,6 +518,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [2257-count-unguarded-cells-in-the-grid](./leetcode/Medium/2257-count-unguarded-cells-in-the-grid/) | Python | 2024-11-21 |
 | leetcode | Medium | [1291-sequential-digits](./leetcode/Medium/1291-sequential-digits/) | Python | 2024-02-02 |
 | leetcode | Medium | [0241-different-ways-to-add-parentheses](./leetcode/Medium/0241-different-ways-to-add-parentheses/) | Python | 2024-09-19 |
+| leetcode | Medium | [2948-make-lexicographically-smallest-array-by-swapping-elements](./leetcode/Medium/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Python | 2025-01-25 |
 | leetcode | Medium | [0079-word-search](./leetcode/Medium/0079-word-search/) | Python | 2024-04-03 |
 | leetcode | Medium | [2825-make-string-a-subsequence-using-cyclic-increments](./leetcode/Medium/2825-make-string-a-subsequence-using-cyclic-increments/) | Python | 2024-12-04 |
 | leetcode | Medium | [1823-find-the-winner-of-the-circular-game](./leetcode/Medium/1823-find-the-winner-of-the-circular-game/) | Python | 2024-07-08 |

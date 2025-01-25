@@ -4114,6 +4114,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "2948-make-lexicographically-smallest-array-by-swapping-elements",
+    "languages": "Python",
+    "last_commit_date": "2025-01-25",
+    "slug": "leetcode/Medium/2948-make-lexicographically-smallest-array-by-swapping-elements"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "0079-word-search",
     "languages": "Python",
     "last_commit_date": "2024-04-03",
