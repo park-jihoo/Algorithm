@@ -10,7 +10,7 @@ class Solution:
         for person in range(n):
             if in_degree[person] == 0:
                 q.append(person)
-        depth = [1] * n  
+        depth = [1] * n
 
         while q:
             current_node = q.popleft()
@@ -24,13 +24,13 @@ class Solution:
         two_cycle_invitations = 0
 
         for person in range(n):
-            if in_degree[person] == 0: 
+            if in_degree[person] == 0:
                 continue
 
             cycle_length = 0
             current = person
             while in_degree[current] != 0:
-                in_degree[current] = 0  
+                in_degree[current] = 0
                 cycle_length += 1
                 current = favorite[current]
 

@@ -5818,6 +5818,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Hard",
+    "problem_name": "2127-maximum-employees-to-be-invited-to-a-meeting",
+    "languages": "Python",
+    "last_commit_date": "2025-01-26",
+    "slug": "leetcode/Hard/2127-maximum-employees-to-be-invited-to-a-meeting"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Hard",
     "problem_name": "2577-minimum-time-to-visit-a-cell-in-a-grid",
     "languages": "Python",
     "last_commit_date": "2024-11-29",

@@ -731,6 +731,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Hard | [0087-scramble-string](./leetcode/Hard/0087-scramble-string/) | Python | 2024-09-14 |
 | leetcode | Hard | [2940-find-building-where-alice-and-bob-can-meet](./leetcode/Hard/2940-find-building-where-alice-and-bob-can-meet/) | Python | 2024-12-22 |
 | leetcode | Hard | [0726-number-of-atoms](./leetcode/Hard/0726-number-of-atoms/) | Python | 2024-07-14 |
+| leetcode | Hard | [2127-maximum-employees-to-be-invited-to-a-meeting](./leetcode/Hard/2127-maximum-employees-to-be-invited-to-a-meeting/) | Python | 2025-01-26 |
 | leetcode | Hard | [2577-minimum-time-to-visit-a-cell-in-a-grid](./leetcode/Hard/2577-minimum-time-to-visit-a-cell-in-a-grid/) | Python | 2024-11-29 |
 | leetcode | Hard | [0239-sliding-window-maximum](./leetcode/Hard/0239-sliding-window-maximum/) | C,C++,Python | 2023-08-16 |
 | leetcode | Hard | [0992-subarrays-with-k-different-integers](./leetcode/Hard/0992-subarrays-with-k-different-integers/) | Python | 2024-03-30 |
