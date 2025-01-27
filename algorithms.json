@@ -4906,6 +4906,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "1462-course-schedule-iv",
+    "languages": "Python",
+    "last_commit_date": "2025-01-27",
+    "slug": "leetcode/Medium/1462-course-schedule-iv"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "0057-insert-interval",
     "languages": "Python",
     "last_commit_date": "2024-03-17",

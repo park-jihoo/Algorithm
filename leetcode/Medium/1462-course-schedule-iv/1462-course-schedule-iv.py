@@ -15,7 +15,9 @@ class Solution:
                     q.append(i)
         return result_dict
 
-    def checkIfPrerequisite(self, numCourses: int, prerequisites: List[List[int]], queries: List[List[int]]) -> List[bool]:
+    def checkIfPrerequisite(
+        self, numCourses: int, prerequisites: List[List[int]], queries: List[List[int]]
+    ) -> List[bool]:
         adj = defaultdict(list)
         indegree = [0] * numCourses
         for a, b in prerequisites:

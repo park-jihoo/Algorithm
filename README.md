@@ -617,6 +617,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [2326-spiral-matrix-iv](./leetcode/Medium/2326-spiral-matrix-iv/) | Python | 2024-09-09 |
 | leetcode | Medium | [1642-furthest-building-you-can-reach](./leetcode/Medium/1642-furthest-building-you-can-reach/) | Python | 2024-02-17 |
 | leetcode | Medium | [2381-shifting-letters-ii](./leetcode/Medium/2381-shifting-letters-ii/) | Python | 2025-01-05 |
+| leetcode | Medium | [1462-course-schedule-iv](./leetcode/Medium/1462-course-schedule-iv/) | Python | 2025-01-27 |
 | leetcode | Medium | [0057-insert-interval](./leetcode/Medium/0057-insert-interval/) | Python | 2024-03-17 |
 | leetcode | Medium | [0097-interleaving-string](./leetcode/Medium/0097-interleaving-string/) | Python | 2023-08-25 |
 | leetcode | Medium | [0735-asteroid-collision](./leetcode/Medium/0735-asteroid-collision/) | Python | 2023-08-14 |
