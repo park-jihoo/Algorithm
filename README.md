@@ -310,6 +310,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [2616-minimize-the-maximum-difference-of-pairs](./leetcode/Medium/2616-minimize-the-maximum-difference-of-pairs/) | Python | 2023-08-14 |
 | leetcode | Medium | [2870-minimum-number-of-operations-to-make-array-empty](./leetcode/Medium/2870-minimum-number-of-operations-to-make-array-empty/) | Python | 2024-01-04 |
 | leetcode | Medium | [1637-widest-vertical-area-between-two-points-containing-no-points](./leetcode/Medium/1637-widest-vertical-area-between-two-points-containing-no-points/) | Python | 2023-12-21 |
+| leetcode | Medium | [2658-maximum-number-of-fish-in-a-grid](./leetcode/Medium/2658-maximum-number-of-fish-in-a-grid/) | Python | 2025-01-28 |
 | leetcode | Medium | [0343-integer-break](./leetcode/Medium/0343-integer-break/) | C,C++,Java,JavaScript,Python | 2023-10-06 |
 | leetcode | Medium | [0622-design-circular-queue](./leetcode/Medium/0622-design-circular-queue/) | C++ | 2024-09-14 |
 | leetcode | Medium | [0494-target-sum](./leetcode/Medium/0494-target-sum/) | Python | 2024-12-26 |

@@ -2450,6 +2450,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "2658-maximum-number-of-fish-in-a-grid",
+    "languages": "Python",
+    "last_commit_date": "2025-01-28",
+    "slug": "leetcode/Medium/2658-maximum-number-of-fish-in-a-grid"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "0343-integer-break",
     "languages": "C,C++,Java,JavaScript,Python",
     "last_commit_date": "2023-10-06",
