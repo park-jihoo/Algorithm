@@ -5290,6 +5290,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "0684-redundant-connection",
+    "languages": "Python",
+    "last_commit_date": "2025-01-29",
+    "slug": "leetcode/Medium/0684-redundant-connection"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "0983-minimum-cost-for-tickets",
     "languages": "Python",
     "last_commit_date": "2024-12-31",

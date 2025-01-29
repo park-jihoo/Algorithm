@@ -6,7 +6,7 @@ class Solution:
         return self.root[node]
 
     def findRedundantConnection(self, edges: List[List[int]]) -> List[int]:
-        self.root = list(range(len(edges)+1))
+        self.root = list(range(len(edges) + 1))
 
         for s, e in edges:
             r1, r2 = self.find_root(s), self.find_root(e)

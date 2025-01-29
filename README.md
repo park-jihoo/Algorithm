@@ -665,6 +665,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [1014-best-sightseeing-pair](./leetcode/Medium/1014-best-sightseeing-pair/) | Python | 2024-12-27 |
 | leetcode | Medium | [2024-maximize-the-confusion-of-an-exam](./leetcode/Medium/2024-maximize-the-confusion-of-an-exam/) | C,Python | 2023-08-14 |
 | leetcode | Medium | [2390-removing-stars-from-a-string](./leetcode/Medium/2390-removing-stars-from-a-string/) | Python | 2024-09-14 |
+| leetcode | Medium | [0684-redundant-connection](./leetcode/Medium/0684-redundant-connection/) | Python | 2025-01-29 |
 | leetcode | Medium | [0983-minimum-cost-for-tickets](./leetcode/Medium/0983-minimum-cost-for-tickets/) | Python | 2024-12-31 |
 | leetcode | Medium | [0147-insertion-sort-list](./leetcode/Medium/0147-insertion-sort-list/) | Java | 2024-09-14 |
 | leetcode | Medium | [0633-sum-of-square-numbers](./leetcode/Medium/0633-sum-of-square-numbers/) | Python | 2024-06-17 |
