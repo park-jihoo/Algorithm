@@ -766,6 +766,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Hard | [1402-reducing-dishes](./leetcode/Hard/1402-reducing-dishes/) | Python | 2024-09-14 |
 | leetcode | Hard | [0041-first-missing-positive](./leetcode/Hard/0041-first-missing-positive/) | Python | 2024-03-26 |
 | leetcode | Hard | [2147-number-of-ways-to-divide-a-long-corridor](./leetcode/Hard/2147-number-of-ways-to-divide-a-long-corridor/) | Python | 2023-11-29 |
+| leetcode | Hard | [2493-divide-nodes-into-the-maximum-number-of-groups](./leetcode/Hard/2493-divide-nodes-into-the-maximum-number-of-groups/) | Python | 2025-01-30 |
 | leetcode | Hard | [2742-painting-the-walls](./leetcode/Hard/2742-painting-the-walls/) | Python | 2023-10-14 |
 | leetcode | Hard | [2272-substring-with-largest-variance](./leetcode/Hard/2272-substring-with-largest-variance/) | C,C++,Python | 2023-08-14 |
 | leetcode | Hard | [2416-sum-of-prefix-scores-of-strings](./leetcode/Hard/2416-sum-of-prefix-scores-of-strings/) | Python | 2024-09-25 |
@@ -796,8 +797,8 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Hard | [1964-find-the-longest-valid-obstacle-course-at-each-position](./leetcode/Hard/1964-find-the-longest-valid-obstacle-course-at-each-position/) | Python | 2023-08-14 |
 | leetcode | Hard | [2360-longest-cycle-in-a-graph](./leetcode/Hard/2360-longest-cycle-in-a-graph/) | Python | 2024-09-14 |
 | leetcode | Hard | [0632-smallest-range-covering-elements-from-k-lists](./leetcode/Hard/0632-smallest-range-covering-elements-from-k-lists/) | Python | 2024-10-13 |
-| SWEA | D3 | [1244. ［S／W 문제해결 응용］ 2일차 － 최대 상금](./SWEA/D3/1244. ［S／W 문제해결 응용］ 2일차 － 최대 상금/) | Python | 2024-09-14 |
-| SWEA | D3 | [1206. ［S／W 문제해결 기본］ 1일차 － View](./SWEA/D3/1206. ［S／W 문제해결 기본］ 1일차 － View/) | Python | 2024-09-14 |
+| SWEA | D3 | [1244. ［S／W 문제해결 응용］ 2일차 － 최대 상금](./SWEA/D3/1244. ［S／W 문제해결 응용］ 2일차 － 최대 상금/) | Python | 2025-01-29 |
+| SWEA | D3 | [1206. ［S／W 문제해결 기본］ 1일차 － View](./SWEA/D3/1206. ［S／W 문제해결 기본］ 1일차 － View/) | Python | 2025-01-29 |
 | SWEA | D5 | [1245. ［S／W 문제해결 응용］ 2일차 － 균형점](./SWEA/D5/1245. ［S／W 문제해결 응용］ 2일차 － 균형점/) | C++ | 2024-09-14 |
 | SWEA | D5 | [1265. ［S／W 문제해결 응용］ 9일차 － 달란트2](./SWEA/D5/1265. ［S／W 문제해결 응용］ 9일차 － 달란트2/) | C++ | 2024-09-14 |
 | SWEA | Unrated | [4322. ［연습문제］ 패킷 처리](./SWEA/Unrated/4322. ［연습문제］ 패킷 처리/) | Python | 2024-09-14 |

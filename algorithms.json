@@ -6098,6 +6098,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Hard",
+    "problem_name": "2493-divide-nodes-into-the-maximum-number-of-groups",
+    "languages": "Python",
+    "last_commit_date": "2025-01-30",
+    "slug": "leetcode/Hard/2493-divide-nodes-into-the-maximum-number-of-groups"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Hard",
     "problem_name": "2742-painting-the-walls",
     "languages": "Python",
     "last_commit_date": "2023-10-14",
@@ -6340,7 +6348,7 @@
     "difficulty": "D3",
     "problem_name": "1244. ［S／W 문제해결 응용］ 2일차 － 최대 상금",
     "languages": "Python",
-    "last_commit_date": "2024-09-14",
+    "last_commit_date": "2025-01-29",
     "slug": "SWEA/D3/1244. ［S／W 문제해결 응용］ 2일차 － 최대 상금"
   },
   {
@@ -6348,7 +6356,7 @@
     "difficulty": "D3",
     "problem_name": "1206. ［S／W 문제해결 기본］ 1일차 － View",
     "languages": "Python",
-    "last_commit_date": "2024-09-14",
+    "last_commit_date": "2025-01-29",
     "slug": "SWEA/D3/1206. ［S／W 문제해결 기본］ 1일차 － View"
   },
   {

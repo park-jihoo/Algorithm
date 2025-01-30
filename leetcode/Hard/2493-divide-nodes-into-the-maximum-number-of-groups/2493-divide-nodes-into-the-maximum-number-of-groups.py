@@ -1,6 +1,6 @@
 class Solution:
     def isBipartite(self, n, graph):
-        color = [-1] * (n+1)
+        color = [-1] * (n + 1)
         for i in range(n):
             if color[i] == -1:
                 color[i] = 0
@@ -32,20 +32,19 @@ class Solution:
             level += 1
         return level
 
-
     def magnificentSets(self, n: int, edges: List[List[int]]) -> int:
-        parent = list(range(n+1))
+        parent = list(range(n + 1))
         graph = defaultdict(list)
         for u, v in edges:
             parent[self.union(parent, u)] = self.union(parent, v)
             graph[u].append(v)
             graph[v].append(u)
 
-        for i in range(1, n+1):
+        for i in range(1, n + 1):
             parent[i] = self.union(parent, parent[i])
-        
+
         m = defaultdict(list)
-        for i in range(1, n+1):
+        for i in range(1, n + 1):
             m[parent[i]].append(i)
         ans = 0
         for nodes in m.values():
