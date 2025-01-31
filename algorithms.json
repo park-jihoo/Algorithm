@@ -5762,6 +5762,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Hard",
+    "problem_name": "0827-making-a-large-island",
+    "languages": "Python",
+    "last_commit_date": "2025-01-31",
+    "slug": "leetcode/Hard/0827-making-a-large-island"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Hard",
     "problem_name": "1547-minimum-cost-to-cut-a-stick",
     "languages": "Python",
     "last_commit_date": "2023-08-14",

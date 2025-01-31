@@ -724,6 +724,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Hard | [1095-find-in-mountain-array](./leetcode/Hard/1095-find-in-mountain-array/) | Python | 2023-10-12 |
 | leetcode | Hard | [2872-maximum-number-of-k-divisible-components](./leetcode/Hard/2872-maximum-number-of-k-divisible-components/) | Python | 2024-12-21 |
 | leetcode | Hard | [0834-sum-of-distances-in-tree](./leetcode/Hard/0834-sum-of-distances-in-tree/) | Python | 2024-04-28 |
+| leetcode | Hard | [0827-making-a-large-island](./leetcode/Hard/0827-making-a-large-island/) | Python | 2025-01-31 |
 | leetcode | Hard | [1547-minimum-cost-to-cut-a-stick](./leetcode/Hard/1547-minimum-cost-to-cut-a-stick/) | Python | 2023-08-14 |
 | leetcode | Hard | [0072-edit-distance](./leetcode/Hard/0072-edit-distance/) | Python | 2024-09-14 |
 | leetcode | Hard | [0920-number-of-music-playlists](./leetcode/Hard/0920-number-of-music-playlists/) | Python | 2023-08-14 |
