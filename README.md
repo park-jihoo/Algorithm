@@ -219,6 +219,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](./leetcode/Easy/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Python | 2024-12-02 |
 | leetcode | Easy | [1550-three-consecutive-odds](./leetcode/Easy/1550-three-consecutive-odds/) | Python | 2024-07-01 |
 | leetcode | Easy | [0183-customers-who-never-order](./leetcode/Easy/0183-customers-who-never-order/) | SQL | 2023-12-15 |
+| leetcode | Easy | [3151-special-array-i](./leetcode/Easy/3151-special-array-i/) | Python | 2025-02-01 |
 | leetcode | Easy | [1491-average-salary-excluding-the-minimum-and-maximum-salary](./leetcode/Easy/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Python | 2024-09-14 |
 | leetcode | Easy | [0168-excel-sheet-column-title](./leetcode/Easy/0168-excel-sheet-column-title/) | Python | 2023-08-22 |
 | leetcode | Easy | [1544-make-the-string-great](./leetcode/Easy/1544-make-the-string-great/) | Python | 2024-04-05 |

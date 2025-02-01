@@ -1722,6 +1722,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Easy",
+    "problem_name": "3151-special-array-i",
+    "languages": "Python",
+    "last_commit_date": "2025-02-01",
+    "slug": "leetcode/Easy/3151-special-array-i"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Easy",
     "problem_name": "1491-average-salary-excluding-the-minimum-and-maximum-salary",
     "languages": "Python",
     "last_commit_date": "2024-09-14",
