@@ -1930,6 +1930,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Easy",
+    "problem_name": "1752-check-if-array-is-sorted-and-rotated",
+    "languages": "Python",
+    "last_commit_date": "2025-02-02",
+    "slug": "leetcode/Easy/1752-check-if-array-is-sorted-and-rotated"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Easy",
     "problem_name": "0175-combine-two-tables",
     "languages": "SQL",
     "last_commit_date": "2024-09-14",

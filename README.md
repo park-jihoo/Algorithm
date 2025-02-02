@@ -245,6 +245,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [1518-water-bottles](./leetcode/Easy/1518-water-bottles/) | Python | 2024-07-07 |
 | leetcode | Easy | [1122-relative-sort-array](./leetcode/Easy/1122-relative-sort-array/) | Python | 2024-06-11 |
 | leetcode | Easy | [0459-repeated-substring-pattern](./leetcode/Easy/0459-repeated-substring-pattern/) | C++,Python | 2023-08-21 |
+| leetcode | Easy | [1752-check-if-array-is-sorted-and-rotated](./leetcode/Easy/1752-check-if-array-is-sorted-and-rotated/) | Python | 2025-02-02 |
 | leetcode | Easy | [0175-combine-two-tables](./leetcode/Easy/0175-combine-two-tables/) | SQL | 2024-09-14 |
 | leetcode | Easy | [0234-palindrome-linked-list](./leetcode/Easy/0234-palindrome-linked-list/) | Python | 2024-09-14 |
 | leetcode | Easy | [0101-symmetric-tree](./leetcode/Easy/0101-symmetric-tree/) | Python | 2024-09-14 |
