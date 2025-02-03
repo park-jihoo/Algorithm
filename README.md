@@ -168,6 +168,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [0219-contains-duplicate-ii](./leetcode/Easy/0219-contains-duplicate-ii/) | Python | 2024-09-14 |
 | leetcode | Easy | [0242-valid-anagram](./leetcode/Easy/0242-valid-anagram/) | C++,Python | 2023-12-17 |
 | leetcode | Easy | [2220-minimum-bit-flips-to-convert-number](./leetcode/Easy/2220-minimum-bit-flips-to-convert-number/) | Python | 2024-09-12 |
+| leetcode | Easy | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](./leetcode/Easy/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Python | 2025-02-03 |
 | leetcode | Easy | [2037-minimum-number-of-moves-to-seat-everyone](./leetcode/Easy/2037-minimum-number-of-moves-to-seat-everyone/) | Python | 2024-06-13 |
 | leetcode | Easy | [1614-maximum-nesting-depth-of-the-parentheses](./leetcode/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Python | 2024-04-04 |
 | leetcode | Easy | [0844-backspace-string-compare](./leetcode/Easy/0844-backspace-string-compare/) | Python | 2023-10-19 |
