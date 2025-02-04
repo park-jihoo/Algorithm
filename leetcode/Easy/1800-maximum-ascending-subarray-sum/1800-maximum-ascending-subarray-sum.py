@@ -13,5 +13,4 @@ class Solution:
                 if(temp>answer):
                     answer = temp
                 temp = 0
-            print(answer)
         return answer
