@@ -254,6 +254,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [2540-minimum-common-value](./leetcode/Easy/2540-minimum-common-value/) | Python | 2024-03-09 |
 | leetcode | Easy | [0141-linked-list-cycle](./leetcode/Easy/0141-linked-list-cycle/) | C++,Python | 2023-09-04 |
 | leetcode | Easy | [0645-set-mismatch](./leetcode/Easy/0645-set-mismatch/) | Python | 2024-09-14 |
+| leetcode | Easy | [1800-maximum-ascending-subarray-sum](./leetcode/Easy/1800-maximum-ascending-subarray-sum/) | Python | 2025-02-04 |
 | leetcode | Easy | [0344-reverse-string](./leetcode/Easy/0344-reverse-string/) | Python | 2024-06-02 |
 | leetcode | Easy | [1916-find-center-of-star-graph](./leetcode/Easy/1916-find-center-of-star-graph/) | Python | 2024-06-27 |
 | leetcode | Easy | [0145-binary-tree-postorder-traversal](./leetcode/Easy/0145-binary-tree-postorder-traversal/) | Python | 2024-09-14 |

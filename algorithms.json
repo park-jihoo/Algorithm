@@ -2002,6 +2002,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Easy",
+    "problem_name": "1800-maximum-ascending-subarray-sum",
+    "languages": "Python",
+    "last_commit_date": "2025-02-04",
+    "slug": "leetcode/Easy/1800-maximum-ascending-subarray-sum"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Easy",
     "problem_name": "0344-reverse-string",
     "languages": "Python",
     "last_commit_date": "2024-06-02",
