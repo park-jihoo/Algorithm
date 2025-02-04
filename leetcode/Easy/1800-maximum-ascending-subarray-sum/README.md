@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/maximum-ascending-subarray-sum">1800. Maximum Ascending Subarray Sum</a></h2><h3>Easy</h3><hr><p>Given an array of positive integers <code>nums</code>, return the <em>maximum possible sum of an <strong>ascending</strong> subarray in </em><code>nums</code>.</p>
+<h2><a href="https://leetcode.com/problems/maximum-ascending-subarray-sum/">1800. Maximum Ascending Subarray Sum</a></h2><h3>Easy</h3><hr><p>Given an array of positive integers <code>nums</code>, return the <em>maximum possible sum of an <strong>ascending</strong> subarray in </em><code>nums</code>.</p>
 
 <p>A subarray is defined as a contiguous sequence of numbers in an array.</p>
 
