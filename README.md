@@ -134,6 +134,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [1700-number-of-students-unable-to-eat-lunch](./leetcode/Easy/1700-number-of-students-unable-to-eat-lunch/) | Python | 2024-04-08 |
 | leetcode | Easy | [0606-construct-string-from-binary-tree](./leetcode/Easy/0606-construct-string-from-binary-tree/) | Python | 2023-12-09 |
 | leetcode | Easy | [2485-find-the-pivot-integer](./leetcode/Easy/2485-find-the-pivot-integer/) | Python | 2024-03-13 |
+| leetcode | Easy | [1790-check-if-one-string-swap-can-make-strings-equal](./leetcode/Easy/1790-check-if-one-string-swap-can-make-strings-equal/) | Python | 2025-02-05 |
 | leetcode | Easy | [0557-reverse-words-in-a-string-iii](./leetcode/Easy/0557-reverse-words-in-a-string-iii/) | Python | 2023-10-01 |
 | leetcode | Easy | [1422-maximum-score-after-splitting-a-string](./leetcode/Easy/1422-maximum-score-after-splitting-a-string/) | Python | 2025-01-01 |
 | leetcode | Easy | [0258-add-digits](./leetcode/Easy/0258-add-digits/) | Python | 2024-09-14 |
