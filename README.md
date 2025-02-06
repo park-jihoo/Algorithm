@@ -442,6 +442,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [0198-house-robber](./leetcode/Medium/0198-house-robber/) | Python | 2024-01-21 |
 | leetcode | Medium | [0402-remove-k-digits](./leetcode/Medium/0402-remove-k-digits/) | Python | 2024-04-11 |
 | leetcode | Medium | [2109-adding-spaces-to-a-string](./leetcode/Medium/2109-adding-spaces-to-a-string/) | Python | 2024-12-03 |
+| leetcode | Medium | [1726-tuple-with-same-product](./leetcode/Medium/1726-tuple-with-same-product/) | Python | 2025-02-06 |
 | leetcode | Medium | [0948-bag-of-tokens](./leetcode/Medium/0948-bag-of-tokens/) | Python | 2024-03-04 |
 | leetcode | Medium | [1615-maximal-network-rank](./leetcode/Medium/1615-maximal-network-rank/) | Python | 2023-08-18 |
 | leetcode | Medium | [0050-powx-n](./leetcode/Medium/0050-powx-n/) | C++,JavaScript,Python | 2023-08-14 |

@@ -3506,6 +3506,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "1726-tuple-with-same-product",
+    "languages": "Python",
+    "last_commit_date": "2025-02-06",
+    "slug": "leetcode/Medium/1726-tuple-with-same-product"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "0948-bag-of-tokens",
     "languages": "Python",
     "last_commit_date": "2024-03-04",
