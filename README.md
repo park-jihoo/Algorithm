@@ -298,6 +298,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [1894-find-the-student-that-will-replace-the-chalk](./leetcode/Medium/1894-find-the-student-that-will-replace-the-chalk/) | Python | 2024-09-02 |
 | leetcode | Medium | [0435-non-overlapping-intervals](./leetcode/Medium/0435-non-overlapping-intervals/) | C++,Python | 2023-08-14 |
 | leetcode | Medium | [2064-minimized-maximum-of-products-distributed-to-any-store](./leetcode/Medium/2064-minimized-maximum-of-products-distributed-to-any-store/) | Python | 2024-11-14 |
+| leetcode | Medium | [3160-find-the-number-of-distinct-colors-among-the-balls](./leetcode/Medium/3160-find-the-number-of-distinct-colors-among-the-balls/) | Python | 2025-02-07 |
 | leetcode | Medium | [2762-continuous-subarrays](./leetcode/Medium/2762-continuous-subarrays/) | Python | 2024-12-14 |
 | leetcode | Medium | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](./leetcode/Medium/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Python | 2024-07-05 |
 | leetcode | Medium | [2385-amount-of-time-for-binary-tree-to-be-infected](./leetcode/Medium/2385-amount-of-time-for-binary-tree-to-be-infected/) | Python | 2024-01-10 |

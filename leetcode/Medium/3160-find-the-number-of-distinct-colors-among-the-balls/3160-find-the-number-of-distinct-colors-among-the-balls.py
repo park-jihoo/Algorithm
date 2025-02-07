@@ -11,6 +11,6 @@ class Solution:
             if cnt[color] == 0:
                 uniq += 1
             cnt[color] += 1
-            
+
             ans.append(uniq)
         return ans

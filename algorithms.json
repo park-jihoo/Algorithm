@@ -2354,6 +2354,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "3160-find-the-number-of-distinct-colors-among-the-balls",
+    "languages": "Python",
+    "last_commit_date": "2025-02-07",
+    "slug": "leetcode/Medium/3160-find-the-number-of-distinct-colors-among-the-balls"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "2762-continuous-subarrays",
     "languages": "Python",
     "last_commit_date": "2024-12-14",
