@@ -12,15 +12,15 @@ class NumberContainers:
             self.valid[(prev, index)] = False
 
         self.map[index] = number
-        heapq.heappush(self.revmap[number],index)
-        self.valid[(number,index)] = True
+        heapq.heappush(self.revmap[number], index)
+        self.valid[(number, index)] = True
 
     def find(self, number: int) -> int:
         if number not in self.revmap:
             return -1
         while self.revmap[number]:
             index = self.revmap[number][0]
-            if self.valid.get((number,index), False):
+            if self.valid.get((number, index), False):
                 return index
             heapq.heappop(self.revmap[number])
         return -1

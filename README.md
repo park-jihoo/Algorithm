@@ -616,6 +616,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [2181-merge-nodes-in-between-zeros](./leetcode/Medium/2181-merge-nodes-in-between-zeros/) | Python | 2024-07-04 |
 | leetcode | Medium | [2125-number-of-laser-beams-in-a-bank](./leetcode/Medium/2125-number-of-laser-beams-in-a-bank/) | Python | 2024-01-03 |
 | leetcode | Medium | [2684-maximum-number-of-moves-in-a-grid](./leetcode/Medium/2684-maximum-number-of-moves-in-a-grid/) | Python | 2024-10-29 |
+| leetcode | Medium | [2349-design-a-number-container-system](./leetcode/Medium/2349-design-a-number-container-system/) | Python | 2025-02-08 |
 | leetcode | Medium | [2300-successful-pairs-of-spells-and-potions](./leetcode/Medium/2300-successful-pairs-of-spells-and-potions/) | Python | 2024-09-14 |
 | leetcode | Medium | [2391-minimum-amount-of-time-to-collect-garbage](./leetcode/Medium/2391-minimum-amount-of-time-to-collect-garbage/) | Python | 2023-12-21 |
 | leetcode | Medium | [2641-cousins-in-binary-tree-ii](./leetcode/Medium/2641-cousins-in-binary-tree-ii/) | Python | 2024-10-23 |
