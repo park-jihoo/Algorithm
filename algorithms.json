@@ -4874,6 +4874,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "2364-count-number-of-bad-pairs",
+    "languages": "Python",
+    "last_commit_date": "2025-02-09",
+    "slug": "leetcode/Medium/2364-count-number-of-bad-pairs"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "2181-merge-nodes-in-between-zeros",
     "languages": "Python",
     "last_commit_date": "2024-07-04",

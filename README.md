@@ -613,6 +613,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [0086-partition-list](./leetcode/Medium/0086-partition-list/) | Python | 2023-08-15 |
 | leetcode | Medium | [0652-find-duplicate-subtrees](./leetcode/Medium/0652-find-duplicate-subtrees/) | Python | 2024-09-14 |
 | leetcode | Medium | [1921-eliminate-maximum-number-of-monsters](./leetcode/Medium/1921-eliminate-maximum-number-of-monsters/) | Python | 2023-11-07 |
+| leetcode | Medium | [2364-count-number-of-bad-pairs](./leetcode/Medium/2364-count-number-of-bad-pairs/) | Python | 2025-02-09 |
 | leetcode | Medium | [2181-merge-nodes-in-between-zeros](./leetcode/Medium/2181-merge-nodes-in-between-zeros/) | Python | 2024-07-04 |
 | leetcode | Medium | [2125-number-of-laser-beams-in-a-bank](./leetcode/Medium/2125-number-of-laser-beams-in-a-bank/) | Python | 2024-01-03 |
 | leetcode | Medium | [2684-maximum-number-of-moves-in-a-grid](./leetcode/Medium/2684-maximum-number-of-moves-in-a-grid/) | Python | 2024-10-29 |
