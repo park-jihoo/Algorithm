@@ -144,6 +144,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [1716-calculate-money-in-leetcode-bank](./leetcode/Easy/1716-calculate-money-in-leetcode-bank/) | Python | 2023-12-12 |
 | leetcode | Easy | [0169-majority-element](./leetcode/Easy/0169-majority-element/) | Python | 2024-09-14 |
 | leetcode | Easy | [0905-sort-array-by-parity](./leetcode/Easy/0905-sort-array-by-parity/) | Python | 2023-09-28 |
+| leetcode | Easy | [3174-clear-digits](./leetcode/Easy/3174-clear-digits/) | Python | 2025-02-10 |
 | leetcode | Easy | [0094-binary-tree-inorder-traversal](./leetcode/Easy/0094-binary-tree-inorder-traversal/) | Python | 2024-09-14 |
 | leetcode | Easy | [0228-summary-ranges](./leetcode/Easy/0228-summary-ranges/) | Python | 2023-08-14 |
 | leetcode | Easy | [1287-element-appearing-more-than-25-in-sorted-array](./leetcode/Easy/1287-element-appearing-more-than-25-in-sorted-array/) | Python | 2023-12-11 |

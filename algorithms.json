@@ -1122,6 +1122,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Easy",
+    "problem_name": "3174-clear-digits",
+    "languages": "Python",
+    "last_commit_date": "2025-02-10",
+    "slug": "leetcode/Easy/3174-clear-digits"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Easy",
     "problem_name": "0094-binary-tree-inorder-traversal",
     "languages": "Python",
     "last_commit_date": "2024-09-14",
