@@ -10,5 +10,4 @@ class Solution:
         return ans
 
     def punishmentNumber(self, n: int) -> int:
-        return sum(i**2 for i in range(1, n+1) if i in self.partition(str(i**2)))
-        
+        return sum(i**2 for i in range(1, n + 1) if i in self.partition(str(i**2)))

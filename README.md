@@ -281,6 +281,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [0494-target-sum](./leetcode/Medium/0494-target-sum/) | Python | 2024-12-26 |
 | leetcode | Medium | [0209-minimum-size-subarray-sum](./leetcode/Medium/0209-minimum-size-subarray-sum/) | Python | 2024-09-14 |
 | leetcode | Medium | [0086-partition-list](./leetcode/Medium/0086-partition-list/) | Python | 2023-08-15 |
+| leetcode | Medium | [2698-find-the-punishment-number-of-an-integer](./leetcode/Medium/2698-find-the-punishment-number-of-an-integer/) | Python | 2025-02-15 |
 | leetcode | Medium | [2140-solving-questions-with-brainpower](./leetcode/Medium/2140-solving-questions-with-brainpower/) | Python | 2024-09-14 |
 | leetcode | Medium | [1743-restore-the-array-from-adjacent-pairs](./leetcode/Medium/1743-restore-the-array-from-adjacent-pairs/) | Python | 2023-11-10 |
 | leetcode | Medium | [0894-all-possible-full-binary-trees](./leetcode/Medium/0894-all-possible-full-binary-trees/) | Python | 2023-08-14 |
@@ -594,7 +595,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [0427-construct-quad-tree](./leetcode/Medium/0427-construct-quad-tree/) | Python | 2024-09-14 |
 | leetcode | Medium | [2017-grid-game](./leetcode/Medium/2017-grid-game/) | Python | 2025-01-21 |
 | leetcode | Medium | [1105-filling-bookcase-shelves](./leetcode/Medium/1105-filling-bookcase-shelves/) | Python | 2024-07-31 |
-| leetcode | Medium | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](./leetcode/Medium/2342-max-sum-of-a-pair-with-equal-sum-of-digits/) | Python | 2025-02-12 |
+| leetcode | Medium | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](./leetcode/Medium/2342-max-sum-of-a-pair-with-equal-sum-of-digits/) | Python | 2025-02-14 |
 | leetcode | Medium | [2870-minimum-number-of-operations-to-make-array-empty](./leetcode/Medium/2870-minimum-number-of-operations-to-make-array-empty/) | Python | 2024-01-04 |
 | leetcode | Medium | [1035-uncrossed-lines](./leetcode/Medium/1035-uncrossed-lines/) | Python | 2023-08-14 |
 | leetcode | Medium | [2225-find-players-with-zero-or-one-losses](./leetcode/Medium/2225-find-players-with-zero-or-one-losses/) | Python | 2024-01-15 |
