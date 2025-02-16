@@ -450,6 +450,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [0012-integer-to-roman](./leetcode/Medium/0012-integer-to-roman/) | Python | 2024-09-14 |
 | leetcode | Medium | [0846-hand-of-straights](./leetcode/Medium/0846-hand-of-straights/) | Python | 2024-06-06 |
 | leetcode | Medium | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](./leetcode/Medium/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Python | 2023-08-14 |
+| leetcode | Medium | [1718-construct-the-lexicographically-largest-valid-sequence](./leetcode/Medium/1718-construct-the-lexicographically-largest-valid-sequence/) | Python | 2025-02-16 |
 | leetcode | Medium | [1218-longest-arithmetic-subsequence-of-given-difference](./leetcode/Medium/1218-longest-arithmetic-subsequence-of-given-difference/) | Python | 2023-08-14 |
 | leetcode | Medium | [0769-max-chunks-to-make-sorted](./leetcode/Medium/0769-max-chunks-to-make-sorted/) | Python | 2024-12-19 |
 | leetcode | Medium | [0399-evaluate-division](./leetcode/Medium/0399-evaluate-division/) | Python | 2023-08-14 |

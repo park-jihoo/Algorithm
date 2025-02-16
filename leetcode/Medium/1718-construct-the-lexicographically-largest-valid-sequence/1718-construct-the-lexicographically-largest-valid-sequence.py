@@ -3,6 +3,7 @@ class Solution:
         size = 2 * n - 1
         sequence = [0] * size
         used = [False] * (n + 1)
+
         def backtrack(pos):
             if pos == size:
                 return True
@@ -25,5 +26,6 @@ class Solution:
                 sequence[pos] = 0
                 used[1] = False
             return False
+
         backtrack(0)
         return sequence
