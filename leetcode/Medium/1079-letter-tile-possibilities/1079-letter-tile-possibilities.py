@@ -1,6 +1,7 @@
 class Solution:
     def numTilePossibilities(self, tiles: str) -> int:
         cnts = Counter(tiles)
+
         def back():
             ans = 0
             for key, val in cnts.items():
@@ -9,4 +10,5 @@ class Solution:
                     ans += 1 + back()
                     cnts[key] += 1
             return ans
+
         return back()

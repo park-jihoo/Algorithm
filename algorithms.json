@@ -4026,6 +4026,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "1079-letter-tile-possibilities",
+    "languages": "Python",
+    "last_commit_date": "2025-02-17",
+    "slug": "leetcode/Medium/1079-letter-tile-possibilities"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "2597-the-number-of-beautiful-subsets",
     "languages": "Python",
     "last_commit_date": "2024-05-23",

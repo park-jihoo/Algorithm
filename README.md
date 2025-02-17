@@ -507,6 +507,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [0735-asteroid-collision](./leetcode/Medium/0735-asteroid-collision/) | Python | 2023-08-14 |
 | leetcode | Medium | [0576-out-of-boundary-paths](./leetcode/Medium/0576-out-of-boundary-paths/) | Python | 2024-01-26 |
 | leetcode | Medium | [2390-removing-stars-from-a-string](./leetcode/Medium/2390-removing-stars-from-a-string/) | Python | 2024-09-14 |
+| leetcode | Medium | [1079-letter-tile-possibilities](./leetcode/Medium/1079-letter-tile-possibilities/) | Python | 2025-02-17 |
 | leetcode | Medium | [2597-the-number-of-beautiful-subsets](./leetcode/Medium/2597-the-number-of-beautiful-subsets/) | Python | 2024-05-23 |
 | leetcode | Medium | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](./leetcode/Medium/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) | Python | 2024-05-29 |
 | leetcode | Medium | [0077-combinations](./leetcode/Medium/0077-combinations/) | Python | 2023-08-14 |
