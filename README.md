@@ -582,6 +582,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [1647-minimum-deletions-to-make-character-frequencies-unique](./leetcode/Medium/1647-minimum-deletions-to-make-character-frequencies-unique/) | Python | 2023-09-12 |
 | leetcode | Medium | [2785-sort-vowels-in-a-string](./leetcode/Medium/2785-sort-vowels-in-a-string/) | Python | 2023-11-13 |
 | leetcode | Medium | [0622-design-circular-queue](./leetcode/Medium/0622-design-circular-queue/) | C++ | 2024-09-14 |
+| leetcode | Medium | [2375-construct-smallest-number-from-di-string](./leetcode/Medium/2375-construct-smallest-number-from-di-string/) | Python | 2025-02-18 |
 | leetcode | Medium | [0647-palindromic-substrings](./leetcode/Medium/0647-palindromic-substrings/) | Python | 2024-02-10 |
 | leetcode | Medium | [0885-spiral-matrix-iii](./leetcode/Medium/0885-spiral-matrix-iii/) | Python | 2024-08-08 |
 | leetcode | Medium | [2871-double-a-number-represented-as-a-linked-list](./leetcode/Medium/2871-double-a-number-represented-as-a-linked-list/) | Python | 2024-05-07 |
