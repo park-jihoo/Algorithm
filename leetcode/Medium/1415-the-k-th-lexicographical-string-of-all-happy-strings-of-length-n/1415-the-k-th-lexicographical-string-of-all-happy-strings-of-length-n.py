@@ -1,9 +1,10 @@
 class Solution:
     def getHappyString(self, n: int, k: int) -> str:
-        count = 0 
+        count = 0
+
         def backtrack(i, chars):
             nonlocal count
-            if i == n: 
+            if i == n:
                 count += 1
                 return "".join(chars) if count == k else ""
             for c in "abc":
@@ -13,5 +14,5 @@ class Solution:
                 if res:
                     return res
             return ""
-            
+
         return backtrack(0, [])

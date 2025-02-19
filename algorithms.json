@@ -4866,6 +4866,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n",
+    "languages": "Python",
+    "last_commit_date": "2025-02-19",
+    "slug": "leetcode/Medium/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "0539-minimum-time-difference",
     "languages": "Python",
     "last_commit_date": "2024-09-16",

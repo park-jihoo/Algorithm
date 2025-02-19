@@ -612,6 +612,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [0641-design-circular-deque](./leetcode/Medium/0641-design-circular-deque/) | C++,Java | 2024-09-29 |
 | leetcode | Medium | [2849-determine-if-a-cell-is-reachable-at-a-given-time](./leetcode/Medium/2849-determine-if-a-cell-is-reachable-at-a-given-time/) | Python | 2023-11-10 |
 | leetcode | Medium | [0019-remove-nth-node-from-end-of-list](./leetcode/Medium/0019-remove-nth-node-from-end-of-list/) | Python | 2024-03-03 |
+| leetcode | Medium | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](./leetcode/Medium/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Python | 2025-02-19 |
 | leetcode | Medium | [0539-minimum-time-difference](./leetcode/Medium/0539-minimum-time-difference/) | Python | 2024-09-16 |
 | leetcode | Medium | [0343-integer-break](./leetcode/Medium/0343-integer-break/) | C,C++,Java,JavaScript,Python | 2023-10-06 |
 | leetcode | Medium | [0650-2-keys-keyboard](./leetcode/Medium/0650-2-keys-keyboard/) | Python | 2024-08-19 |
