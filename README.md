@@ -414,6 +414,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [0005-longest-palindromic-substring](./leetcode/Medium/0005-longest-palindromic-substring/) | Python | 2023-10-27 |
 | leetcode | Medium | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](./leetcode/Medium/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Python | 2024-09-14 |
 | leetcode | Medium | [2054-two-best-non-overlapping-events](./leetcode/Medium/2054-two-best-non-overlapping-events/) | Python | 2024-12-08 |
+| leetcode | Medium | [1261-find-elements-in-a-contaminated-binary-tree](./leetcode/Medium/1261-find-elements-in-a-contaminated-binary-tree/) | Python | 2025-02-21 |
 | leetcode | Medium | [0767-reorganize-string](./leetcode/Medium/0767-reorganize-string/) | Python | 2023-08-23 |
 | leetcode | Medium | [1802-maximum-value-at-a-given-index-in-a-bounded-array](./leetcode/Medium/1802-maximum-value-at-a-given-index-in-a-bounded-array/) | Python | 2023-08-14 |
 | leetcode | Medium | [1026-maximum-difference-between-node-and-ancestor](./leetcode/Medium/1026-maximum-difference-between-node-and-ancestor/) | Python | 2024-01-11 |
