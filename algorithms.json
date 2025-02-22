@@ -5738,6 +5738,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Hard",
+    "problem_name": "1028-recover-a-tree-from-preorder-traversal",
+    "languages": "Python",
+    "last_commit_date": "2025-02-22",
+    "slug": "leetcode/Hard/1028-recover-a-tree-from-preorder-traversal"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Hard",
     "problem_name": "0879-profitable-schemes",
     "languages": "Python",
     "last_commit_date": "2024-09-14",

@@ -721,6 +721,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Hard | [0664-strange-printer](./leetcode/Hard/0664-strange-printer/) | Python | 2023-08-14 |
 | leetcode | Hard | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](./leetcode/Hard/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons/) | Python | 2023-10-07 |
 | leetcode | Hard | [0857-minimum-cost-to-hire-k-workers](./leetcode/Hard/0857-minimum-cost-to-hire-k-workers/) | Python | 2024-05-11 |
+| leetcode | Hard | [1028-recover-a-tree-from-preorder-traversal](./leetcode/Hard/1028-recover-a-tree-from-preorder-traversal/) | Python | 2025-02-22 |
 | leetcode | Hard | [0879-profitable-schemes](./leetcode/Hard/0879-profitable-schemes/) | Python | 2024-09-14 |
 | leetcode | Hard | [0920-number-of-music-playlists](./leetcode/Hard/0920-number-of-music-playlists/) | Python | 2023-08-14 |
 | leetcode | Hard | [2097-valid-arrangement-of-pairs](./leetcode/Hard/2097-valid-arrangement-of-pairs/) | Python | 2024-11-30 |
