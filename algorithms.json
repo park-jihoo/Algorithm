@@ -1674,6 +1674,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "0889-construct-binary-tree-from-preorder-and-postorder-traversal",
+    "languages": "Python",
+    "last_commit_date": "2025-02-23",
+    "slug": "leetcode/Medium/0889-construct-binary-tree-from-preorder-and-postorder-traversal"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "0947-most-stones-removed-with-same-row-or-column",
     "languages": "Python",
     "last_commit_date": "2024-08-29",

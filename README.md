@@ -213,6 +213,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [0009-palindrome-number](./leetcode/Easy/0009-palindrome-number/) | Python | 2024-09-14 |
 | leetcode | Easy | [1652-defuse-the-bomb](./leetcode/Easy/1652-defuse-the-bomb/) | Python | 2024-11-18 |
 | leetcode | Easy | [1716-calculate-money-in-leetcode-bank](./leetcode/Easy/1716-calculate-money-in-leetcode-bank/) | Python | 2023-12-12 |
+| leetcode | Medium | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](./leetcode/Medium/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Python | 2025-02-23 |
 | leetcode | Medium | [0947-most-stones-removed-with-same-row-or-column](./leetcode/Medium/0947-most-stones-removed-with-same-row-or-column/) | Python | 2024-08-29 |
 | leetcode | Medium | [1381-design-a-stack-with-increment-operation](./leetcode/Medium/1381-design-a-stack-with-increment-operation/) | Python | 2024-09-30 |
 | leetcode | Medium | [1669-merge-in-between-linked-lists](./leetcode/Medium/1669-merge-in-between-linked-lists/) | Python | 2024-03-20 |
