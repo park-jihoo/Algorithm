@@ -2698,6 +2698,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "2467-most-profitable-path-in-a-tree",
+    "languages": "Python",
+    "last_commit_date": "2025-02-24",
+    "slug": "leetcode/Medium/2467-most-profitable-path-in-a-tree"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "2101-detonate-the-maximum-bombs",
     "languages": "Python",
     "last_commit_date": "2023-08-14",

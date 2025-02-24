@@ -341,6 +341,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [1503-last-moment-before-all-ants-fall-out-of-a-plank](./leetcode/Medium/1503-last-moment-before-all-ants-fall-out-of-a-plank/) | Python | 2023-11-04 |
 | leetcode | Medium | [2559-count-vowel-strings-in-ranges](./leetcode/Medium/2559-count-vowel-strings-in-ranges/) | Python | 2025-01-02 |
 | leetcode | Medium | [2483-minimum-penalty-for-a-shop](./leetcode/Medium/2483-minimum-penalty-for-a-shop/) | Python | 2023-08-29 |
+| leetcode | Medium | [2467-most-profitable-path-in-a-tree](./leetcode/Medium/2467-most-profitable-path-in-a-tree/) | Python | 2025-02-24 |
 | leetcode | Medium | [2101-detonate-the-maximum-bombs](./leetcode/Medium/2101-detonate-the-maximum-bombs/) | Python | 2023-08-14 |
 | leetcode | Medium | [1038-binary-search-tree-to-greater-sum-tree](./leetcode/Medium/1038-binary-search-tree-to-greater-sum-tree/) | Python | 2024-06-25 |
 | leetcode | Medium | [2305-fair-distribution-of-cookies](./leetcode/Medium/2305-fair-distribution-of-cookies/) | Python | 2023-08-14 |
