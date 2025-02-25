@@ -340,6 +340,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [0238-product-of-array-except-self](./leetcode/Medium/0238-product-of-array-except-self/) | Python | 2024-03-15 |
 | leetcode | Medium | [1503-last-moment-before-all-ants-fall-out-of-a-plank](./leetcode/Medium/1503-last-moment-before-all-ants-fall-out-of-a-plank/) | Python | 2023-11-04 |
 | leetcode | Medium | [2559-count-vowel-strings-in-ranges](./leetcode/Medium/2559-count-vowel-strings-in-ranges/) | Python | 2025-01-02 |
+| leetcode | Medium | [1524-number-of-sub-arrays-with-odd-sum](./leetcode/Medium/1524-number-of-sub-arrays-with-odd-sum/) | Python | 2025-02-25 |
 | leetcode | Medium | [2483-minimum-penalty-for-a-shop](./leetcode/Medium/2483-minimum-penalty-for-a-shop/) | Python | 2023-08-29 |
 | leetcode | Medium | [2467-most-profitable-path-in-a-tree](./leetcode/Medium/2467-most-profitable-path-in-a-tree/) | Python | 2025-02-24 |
 | leetcode | Medium | [2101-detonate-the-maximum-bombs](./leetcode/Medium/2101-detonate-the-maximum-bombs/) | Python | 2023-08-14 |
