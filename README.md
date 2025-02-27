@@ -680,6 +680,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [1749-maximum-absolute-sum-of-any-subarray](./leetcode/Medium/1749-maximum-absolute-sum-of-any-subarray/) | Python | 2025-02-26 |
 | leetcode | Medium | [2140-solving-questions-with-brainpower](./leetcode/Medium/2140-solving-questions-with-brainpower/) | Python | 2024-09-14 |
 | leetcode | Medium | [2958-length-of-longest-subarray-with-at-most-k-frequency](./leetcode/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Python | 2024-03-28 |
+| leetcode | Medium | [0873-length-of-longest-fibonacci-subsequence](./leetcode/Medium/0873-length-of-longest-fibonacci-subsequence/) | Python | 2025-02-27 |
 | leetcode | Medium | [0062-unique-paths](./leetcode/Medium/0062-unique-paths/) | Python | 2023-09-03 |
 | leetcode | Medium | [1319-number-of-operations-to-make-network-connected](./leetcode/Medium/1319-number-of-operations-to-make-network-connected/) | Python | 2024-09-14 |
 | leetcode | Medium | [1405-longest-happy-string](./leetcode/Medium/1405-longest-happy-string/) | Python | 2024-10-16 |

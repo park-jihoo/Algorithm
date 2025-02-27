@@ -5410,6 +5410,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "0873-length-of-longest-fibonacci-subsequence",
+    "languages": "Python",
+    "last_commit_date": "2025-02-27",
+    "slug": "leetcode/Medium/0873-length-of-longest-fibonacci-subsequence"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "0062-unique-paths",
     "languages": "Python",
     "last_commit_date": "2023-09-03",
