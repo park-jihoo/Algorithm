@@ -9,16 +9,16 @@ class Solution:
         i, j = len(str1), len(str2)
         ans = []
 
-        while i>0 or j>0:
-            if i>0 and j>0 and str1[i-1] == str2[j-1]:
-                ans.append(str1[i-1])
-                i-=1
-                j-=1
-            elif i>0 and (j==0 or dp[i-1][j] >= dp[i][j-1]):
-                ans.append(str1[i-1])
-                i-=1
+        while i > 0 or j > 0:
+            if i > 0 and j > 0 and str1[i - 1] == str2[j - 1]:
+                ans.append(str1[i - 1])
+                i -= 1
+                j -= 1
+            elif i > 0 and (j == 0 or dp[i - 1][j] >= dp[i][j - 1]):
+                ans.append(str1[i - 1])
+                i -= 1
             else:
-                ans.append(str2[j-1])
-                j-=1
+                ans.append(str2[j - 1])
+                j -= 1
 
         return "".join(reversed(ans))

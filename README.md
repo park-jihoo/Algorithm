@@ -267,6 +267,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Hard | [2709-greatest-common-divisor-traversal](./leetcode/Hard/2709-greatest-common-divisor-traversal/) | Python | 2024-02-25 |
 | leetcode | Hard | [0834-sum-of-distances-in-tree](./leetcode/Hard/0834-sum-of-distances-in-tree/) | Python | 2024-04-28 |
 | leetcode | Hard | [1575-count-all-possible-routes](./leetcode/Hard/1575-count-all-possible-routes/) | Python | 2023-08-14 |
+| leetcode | Hard | [1092-shortest-common-supersequence](./leetcode/Hard/1092-shortest-common-supersequence/) | Python | 2025-02-28 |
 | leetcode | Hard | [0239-sliding-window-maximum](./leetcode/Hard/0239-sliding-window-maximum/) | C,C++,Python | 2023-08-16 |
 | leetcode | Hard | [2416-sum-of-prefix-scores-of-strings](./leetcode/Hard/2416-sum-of-prefix-scores-of-strings/) | Python | 2024-09-25 |
 | leetcode | Hard | [0920-number-of-music-playlists](./leetcode/Hard/0920-number-of-music-playlists/) | Python | 2023-08-14 |
