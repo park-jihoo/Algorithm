@@ -882,6 +882,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Easy",
+    "problem_name": "2460-apply-operations-to-an-array",
+    "languages": "Python",
+    "last_commit_date": "2025-03-01",
+    "slug": "leetcode/Easy/2460-apply-operations-to-an-array"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Easy",
     "problem_name": "0506-relative-ranks",
     "languages": "Python",
     "last_commit_date": "2024-05-08",

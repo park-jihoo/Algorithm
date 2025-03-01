@@ -114,6 +114,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [0463-island-perimeter](./leetcode/Easy/0463-island-perimeter/) | Python | 2024-04-18 |
 | leetcode | Easy | [0387-first-unique-character-in-a-string](./leetcode/Easy/0387-first-unique-character-in-a-string/) | Python | 2024-02-05 |
 | leetcode | Easy | [0021-merge-two-sorted-lists](./leetcode/Easy/0021-merge-two-sorted-lists/) | C,C++ | 2023-08-27 |
+| leetcode | Easy | [2460-apply-operations-to-an-array](./leetcode/Easy/2460-apply-operations-to-an-array/) | Python | 2025-03-01 |
 | leetcode | Easy | [0506-relative-ranks](./leetcode/Easy/0506-relative-ranks/) | Python | 2024-05-08 |
 | leetcode | Easy | [1704-determine-if-string-halves-are-alike](./leetcode/Easy/1704-determine-if-string-halves-are-alike/) | Python | 2024-01-12 |
 | leetcode | Easy | [1422-maximum-score-after-splitting-a-string](./leetcode/Easy/1422-maximum-score-after-splitting-a-string/) | Python | 2025-01-01 |
