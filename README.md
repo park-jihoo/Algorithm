@@ -44,6 +44,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [1662-check-if-two-string-arrays-are-equivalent](./leetcode/Easy/1662-check-if-two-string-arrays-are-equivalent/) | Python | 2023-12-12 |
 | leetcode | Easy | [0872-leaf-similar-trees](./leetcode/Easy/0872-leaf-similar-trees/) | Python | 2024-01-09 |
 | leetcode | Easy | [0606-construct-string-from-binary-tree](./leetcode/Easy/0606-construct-string-from-binary-tree/) | Python | 2023-12-09 |
+| leetcode | Easy | [2570-merge-two-2d-arrays-by-summing-values](./leetcode/Easy/2570-merge-two-2d-arrays-by-summing-values/) | Python | 2025-03-02 |
 | leetcode | Easy | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](./leetcode/Easy/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Python | 2025-02-03 |
 | leetcode | Easy | [0706-design-hashmap](./leetcode/Easy/0706-design-hashmap/) | Python | 2023-10-04 |
 | leetcode | Easy | [0844-backspace-string-compare](./leetcode/Easy/0844-backspace-string-compare/) | Python | 2023-10-19 |

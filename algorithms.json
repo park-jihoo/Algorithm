@@ -322,6 +322,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Easy",
+    "problem_name": "2570-merge-two-2d-arrays-by-summing-values",
+    "languages": "Python",
+    "last_commit_date": "2025-03-02",
+    "slug": "leetcode/Easy/2570-merge-two-2d-arrays-by-summing-values"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Easy",
     "problem_name": "3105-longest-strictly-increasing-or-strictly-decreasing-subarray",
     "languages": "Python",
     "last_commit_date": "2025-02-03",
