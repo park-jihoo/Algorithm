@@ -460,6 +460,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [1482-minimum-number-of-days-to-make-m-bouquets](./leetcode/Medium/1482-minimum-number-of-days-to-make-m-bouquets/) | Python | 2024-06-19 |
 | leetcode | Medium | [0658-find-k-closest-elements](./leetcode/Medium/0658-find-k-closest-elements/) | Python | 2024-09-14 |
 | leetcode | Medium | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](./leetcode/Medium/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level/) | Python | 2024-12-23 |
+| leetcode | Medium | [2579-count-total-number-of-colored-cells](./leetcode/Medium/2579-count-total-number-of-colored-cells/) | Python | 2025-03-05 |
 | leetcode | Medium | [1035-uncrossed-lines](./leetcode/Medium/1035-uncrossed-lines/) | Python | 2023-08-14 |
 | leetcode | Medium | [0092-reverse-linked-list-ii](./leetcode/Medium/0092-reverse-linked-list-ii/) | C,C++,Python | 2024-09-14 |
 | leetcode | Medium | [2275-largest-combination-with-bitwise-and-greater-than-zero](./leetcode/Medium/2275-largest-combination-with-bitwise-and-greater-than-zero/) | Python | 2024-11-07 |
