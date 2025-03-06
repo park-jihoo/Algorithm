@@ -27,6 +27,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [0191-number-of-1-bits](./leetcode/Easy/0191-number-of-1-bits/) | Python | 2024-09-14 |
 | leetcode | Easy | [0746-min-cost-climbing-stairs](./leetcode/Easy/0746-min-cost-climbing-stairs/) | Python | 2023-10-13 |
 | leetcode | Easy | [1351-count-negative-numbers-in-a-sorted-matrix](./leetcode/Easy/1351-count-negative-numbers-in-a-sorted-matrix/) | Python | 2024-09-14 |
+| leetcode | Easy | [2965-find-missing-and-repeated-values](./leetcode/Easy/2965-find-missing-and-repeated-values/) | Python | 2025-03-06 |
 | leetcode | Easy | [1331-rank-transform-of-an-array](./leetcode/Easy/1331-rank-transform-of-an-array/) | Python | 2024-10-02 |
 | leetcode | Easy | [0175-combine-two-tables](./leetcode/Easy/0175-combine-two-tables/) | SQL | 2024-09-14 |
 | leetcode | Easy | [0459-repeated-substring-pattern](./leetcode/Easy/0459-repeated-substring-pattern/) | C++,Python | 2023-08-21 |
