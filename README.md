@@ -513,6 +513,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [2924-find-champion-ii](./leetcode/Medium/2924-find-champion-ii/) | Python | 2024-11-26 |
 | leetcode | Medium | [2948-make-lexicographically-smallest-array-by-swapping-elements](./leetcode/Medium/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Python | 2025-01-25 |
 | leetcode | Medium | [0846-hand-of-straights](./leetcode/Medium/0846-hand-of-straights/) | Python | 2024-06-06 |
+| leetcode | Medium | [2523-closest-prime-numbers-in-range](./leetcode/Medium/2523-closest-prime-numbers-in-range/) | Python | 2025-03-07 |
 | leetcode | Medium | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](./leetcode/Medium/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Python | 2023-08-14 |
 | leetcode | Medium | [0623-add-one-row-to-tree](./leetcode/Medium/0623-add-one-row-to-tree/) | Python | 2024-04-16 |
 | leetcode | Medium | [1743-restore-the-array-from-adjacent-pairs](./leetcode/Medium/1743-restore-the-array-from-adjacent-pairs/) | Python | 2023-11-10 |
