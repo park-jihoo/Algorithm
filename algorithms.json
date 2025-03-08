@@ -1034,6 +1034,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Easy",
+    "problem_name": "2379-minimum-recolors-to-get-k-consecutive-black-blocks",
+    "languages": "Python",
+    "last_commit_date": "2025-03-08",
+    "slug": "leetcode/Easy/2379-minimum-recolors-to-get-k-consecutive-black-blocks"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Easy",
     "problem_name": "0860-lemonade-change",
     "languages": "Python",
     "last_commit_date": "2024-08-15",

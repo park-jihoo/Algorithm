@@ -133,6 +133,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [2154-keep-multiplying-found-values-by-two](./leetcode/Easy/2154-keep-multiplying-found-values-by-two/) | Python | 2023-12-21 |
 | leetcode | Easy | [1475-final-prices-with-a-special-discount-in-a-shop](./leetcode/Easy/1475-final-prices-with-a-special-discount-in-a-shop/) | Python | 2024-12-18 |
 | leetcode | Easy | [1337-the-k-weakest-rows-in-a-matrix](./leetcode/Easy/1337-the-k-weakest-rows-in-a-matrix/) | Python | 2023-09-18 |
+| leetcode | Easy | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](./leetcode/Easy/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Python | 2025-03-08 |
 | leetcode | Easy | [0860-lemonade-change](./leetcode/Easy/0860-lemonade-change/) | Python | 2024-08-15 |
 | leetcode | Easy | [0349-intersection-of-two-arrays](./leetcode/Easy/0349-intersection-of-two-arrays/) | Python | 2024-03-10 |
 | leetcode | Easy | [1464-maximum-product-of-two-elements-in-an-array](./leetcode/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Python | 2023-12-12 |
