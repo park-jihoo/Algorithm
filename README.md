@@ -660,6 +660,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [0840-magic-squares-in-grid](./leetcode/Medium/0840-magic-squares-in-grid/) | Python | 2024-08-09 |
 | leetcode | Medium | [0028-find-the-index-of-the-first-occurrence-in-a-string](./leetcode/Medium/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Python | 2024-09-14 |
 | leetcode | Medium | [2616-minimize-the-maximum-difference-of-pairs](./leetcode/Medium/2616-minimize-the-maximum-difference-of-pairs/) | Python | 2023-08-14 |
+| leetcode | Medium | [3208-alternating-groups-ii](./leetcode/Medium/3208-alternating-groups-ii/) | Python | 2025-03-09 |
 | leetcode | Medium | [2369-check-if-there-is-a-valid-partition-for-the-array](./leetcode/Medium/2369-check-if-there-is-a-valid-partition-for-the-array/) | Python | 2023-08-14 |
 | leetcode | Medium | [2196-create-binary-tree-from-descriptions](./leetcode/Medium/2196-create-binary-tree-from-descriptions/) | Python | 2024-07-15 |
 | leetcode | Medium | [1352-product-of-the-last-k-numbers](./leetcode/Medium/1352-product-of-the-last-k-numbers/) | Python | 2025-02-14 |
