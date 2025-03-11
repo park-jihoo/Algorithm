@@ -3106,6 +3106,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "1358-number-of-substrings-containing-all-three-characters",
+    "languages": "Python",
+    "last_commit_date": "2025-03-11",
+    "slug": "leetcode/Medium/1358-number-of-substrings-containing-all-three-characters"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "0652-find-duplicate-subtrees",
     "languages": "Python",
     "last_commit_date": "2024-09-14",

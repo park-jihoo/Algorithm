@@ -392,6 +392,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](./leetcode/Medium/2342-max-sum-of-a-pair-with-equal-sum-of-digits/) | Python | 2025-02-14 |
 | leetcode | Medium | [0264-ugly-number-ii](./leetcode/Medium/0264-ugly-number-ii/) | Python | 2024-08-18 |
 | leetcode | Medium | [0279-perfect-squares](./leetcode/Medium/0279-perfect-squares/) | Python | 2024-02-08 |
+| leetcode | Medium | [1358-number-of-substrings-containing-all-three-characters](./leetcode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Python | 2025-03-11 |
 | leetcode | Medium | [0652-find-duplicate-subtrees](./leetcode/Medium/0652-find-duplicate-subtrees/) | Python | 2024-09-14 |
 | leetcode | Medium | [0017-letter-combinations-of-a-phone-number](./leetcode/Medium/0017-letter-combinations-of-a-phone-number/) | Python | 2023-08-14 |
 | leetcode | Medium | [0947-most-stones-removed-with-same-row-or-column](./leetcode/Medium/0947-most-stones-removed-with-same-row-or-column/) | Python | 2024-08-29 |
