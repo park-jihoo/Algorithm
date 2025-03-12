@@ -149,6 +149,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [0859-buddy-strings](./leetcode/Easy/0859-buddy-strings/) | C++,Python | 2023-08-14 |
 | leetcode | Easy | [0035-search-insert-position](./leetcode/Easy/0035-search-insert-position/) | C,C++,Java,Python | 2024-09-14 |
 | leetcode | Easy | [0938-range-sum-of-bst](./leetcode/Easy/0938-range-sum-of-bst/) | Python | 2024-01-08 |
+| leetcode | Easy | [2529-maximum-count-of-positive-integer-and-negative-integer](./leetcode/Easy/2529-maximum-count-of-positive-integer-and-negative-integer/) | Python | 2025-03-12 |
 | leetcode | Easy | [1652-defuse-the-bomb](./leetcode/Easy/1652-defuse-the-bomb/) | Python | 2024-11-18 |
 | leetcode | Easy | [0026-remove-duplicates-from-sorted-array](./leetcode/Easy/0026-remove-duplicates-from-sorted-array/) | Python | 2023-09-23 |
 | leetcode | Easy | [0704-binary-search](./leetcode/Easy/0704-binary-search/) | Python | 2024-09-14 |

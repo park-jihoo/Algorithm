@@ -1162,6 +1162,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Easy",
+    "problem_name": "2529-maximum-count-of-positive-integer-and-negative-integer",
+    "languages": "Python",
+    "last_commit_date": "2025-03-12",
+    "slug": "leetcode/Easy/2529-maximum-count-of-positive-integer-and-negative-integer"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Easy",
     "problem_name": "1652-defuse-the-bomb",
     "languages": "Python",
     "last_commit_date": "2024-11-18",
