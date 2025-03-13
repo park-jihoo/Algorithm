@@ -584,6 +584,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [2593-find-score-of-an-array-after-marking-all-elements](./leetcode/Medium/2593-find-score-of-an-array-after-marking-all-elements/) | Python | 2024-12-14 |
 | leetcode | Medium | [0176-second-highest-salary](./leetcode/Medium/0176-second-highest-salary/) | SQL | 2024-09-14 |
 | leetcode | Medium | [2352-equal-row-and-column-pairs](./leetcode/Medium/2352-equal-row-and-column-pairs/) | Python | 2023-08-14 |
+| leetcode | Medium | [3356-zero-array-transformation-ii](./leetcode/Medium/3356-zero-array-transformation-ii/) | Python | 2025-03-13 |
 | leetcode | Medium | [2326-spiral-matrix-iv](./leetcode/Medium/2326-spiral-matrix-iv/) | Python | 2024-09-09 |
 | leetcode | Medium | [1277-count-square-submatrices-with-all-ones](./leetcode/Medium/1277-count-square-submatrices-with-all-ones/) | Python | 2024-10-27 |
 | leetcode | Medium | [3011-find-if-array-can-be-sorted](./leetcode/Medium/3011-find-if-array-can-be-sorted/) | Python | 2024-11-06 |

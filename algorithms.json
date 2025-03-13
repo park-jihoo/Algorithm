@@ -4642,6 +4642,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "3356-zero-array-transformation-ii",
+    "languages": "Python",
+    "last_commit_date": "2025-03-13",
+    "slug": "leetcode/Medium/3356-zero-array-transformation-ii"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "2326-spiral-matrix-iv",
     "languages": "Python",
     "last_commit_date": "2024-09-09",

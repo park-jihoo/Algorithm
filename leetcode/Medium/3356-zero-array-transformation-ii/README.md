@@ -24,17 +24,18 @@
 <ul>
 	<li><strong>For i = 0 (l = 0, r = 2, val = 1):</strong>
 
-	<ul>
-		<li>Decrement values at indices <code>[0, 1, 2]</code> by <code>[1, 0, 1]</code> respectively.</li>
-		<li>The array will become <code>[1, 0, 1]</code>.</li>
-	</ul>
-	</li>
-	<li><strong>For i = 1 (l = 0, r = 2, val = 1):</strong>
-	<ul>
-		<li>Decrement values at indices <code>[0, 1, 2]</code> by <code>[1, 0, 1]</code> respectively.</li>
-		<li>The array will become <code>[0, 0, 0]</code>, which is a Zero Array. Therefore, the minimum value of <code>k</code> is 2.</li>
-	</ul>
-	</li>
+    <ul>
+    	<li>Decrement values at indices <code>[0, 1, 2]</code> by <code>[1, 0, 1]</code> respectively.</li>
+    	<li>The array will become <code>[1, 0, 1]</code>.</li>
+    </ul>
+    </li>
+    <li><strong>For i = 1 (l = 0, r = 2, val = 1):</strong>
+    <ul>
+    	<li>Decrement values at indices <code>[0, 1, 2]</code> by <code>[1, 0, 1]</code> respectively.</li>
+    	<li>The array will become <code>[0, 0, 0]</code>, which is a Zero Array. Therefore, the minimum value of <code>k</code> is 2.</li>
+    </ul>
+    </li>
+
 </ul>
 </div>
 
@@ -50,17 +51,18 @@
 <ul>
 	<li><strong>For i = 0 (l = 1, r = 3, val = 2):</strong>
 
-	<ul>
-		<li>Decrement values at indices <code>[1, 2, 3]</code> by <code>[2, 2, 1]</code> respectively.</li>
-		<li>The array will become <code>[4, 1, 0, 0]</code>.</li>
-	</ul>
-	</li>
-	<li><strong>For i = 1 (l = 0, r = 2, val<span style="font-size: 13.3333px;"> </span>= 1):</strong>
-	<ul>
-		<li>Decrement values at indices <code>[0, 1, 2]</code> by <code>[1, 1, 0]</code> respectively.</li>
-		<li>The array will become <code>[3, 0, 0, 0]</code>, which is not a Zero Array.</li>
-	</ul>
-	</li>
+    <ul>
+    	<li>Decrement values at indices <code>[1, 2, 3]</code> by <code>[2, 2, 1]</code> respectively.</li>
+    	<li>The array will become <code>[4, 1, 0, 0]</code>.</li>
+    </ul>
+    </li>
+    <li><strong>For i = 1 (l = 0, r = 2, val<span style="font-size: 13.3333px;"> </span>= 1):</strong>
+    <ul>
+    	<li>Decrement values at indices <code>[0, 1, 2]</code> by <code>[1, 1, 0]</code> respectively.</li>
+    	<li>The array will become <code>[3, 0, 0, 0]</code>, which is not a Zero Array.</li>
+    </ul>
+    </li>
+
 </ul>
 </div>
 
