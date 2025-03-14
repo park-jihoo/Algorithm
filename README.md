@@ -352,6 +352,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [0948-bag-of-tokens](./leetcode/Medium/0948-bag-of-tokens/) | Python | 2024-03-04 |
 | leetcode | Medium | [2530-maximal-score-after-applying-k-operations](./leetcode/Medium/2530-maximal-score-after-applying-k-operations/) | Python | 2024-10-14 |
 | leetcode | Medium | [1615-maximal-network-rank](./leetcode/Medium/1615-maximal-network-rank/) | Python | 2023-08-18 |
+| leetcode | Medium | [2226-maximum-candies-allocated-to-k-children](./leetcode/Medium/2226-maximum-candies-allocated-to-k-children/) | Python | 2025-03-14 |
 | leetcode | Medium | [0081-search-in-rotated-sorted-array-ii](./leetcode/Medium/0081-search-in-rotated-sorted-array-ii/) | C,C++,Python | 2023-08-14 |
 | leetcode | Medium | [2641-cousins-in-binary-tree-ii](./leetcode/Medium/2641-cousins-in-binary-tree-ii/) | Python | 2024-10-23 |
 | leetcode | Medium | [1921-eliminate-maximum-number-of-monsters](./leetcode/Medium/1921-eliminate-maximum-number-of-monsters/) | Python | 2023-11-07 |

@@ -2786,6 +2786,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "2226-maximum-candies-allocated-to-k-children",
+    "languages": "Python",
+    "last_commit_date": "2025-03-14",
+    "slug": "leetcode/Medium/2226-maximum-candies-allocated-to-k-children"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "0081-search-in-rotated-sorted-array-ii",
     "languages": "C,C++,Python",
     "last_commit_date": "2023-08-14",
