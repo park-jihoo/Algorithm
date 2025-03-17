@@ -21,6 +21,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [1913-maximum-product-difference-between-two-pairs](./leetcode/Easy/1913-maximum-product-difference-between-two-pairs/) | Python | 2024-09-14 |
 | leetcode | Easy | [0181-employees-earning-more-than-their-managers](./leetcode/Easy/0181-employees-earning-more-than-their-managers/) | SQL | 2023-09-15 |
 | leetcode | Easy | [1207-unique-number-of-occurrences](./leetcode/Easy/1207-unique-number-of-occurrences/) | Python | 2024-01-17 |
+| leetcode | Easy | [2206-divide-array-into-equal-pairs](./leetcode/Easy/2206-divide-array-into-equal-pairs/) | Python | 2025-03-17 |
 | leetcode | Easy | [1408-string-matching-in-an-array](./leetcode/Easy/1408-string-matching-in-an-array/) | Python | 2025-01-07 |
 | leetcode | Easy | [3274-check-if-two-chessboard-squares-have-the-same-color](./leetcode/Easy/3274-check-if-two-chessboard-squares-have-the-same-color/) | Python | 2024-09-03 |
 | leetcode | Easy | [1957-delete-characters-to-make-fancy-string](./leetcode/Easy/1957-delete-characters-to-make-fancy-string/) | Python | 2024-11-01 |
@@ -317,6 +318,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [2938-separate-black-and-white-balls](./leetcode/Medium/2938-separate-black-and-white-balls/) | Python | 2024-10-15 |
 | leetcode | Medium | [2064-minimized-maximum-of-products-distributed-to-any-store](./leetcode/Medium/2064-minimized-maximum-of-products-distributed-to-any-store/) | Python | 2024-11-14 |
 | leetcode | Medium | [0916-word-subsets](./leetcode/Medium/0916-word-subsets/) | Python | 2025-01-11 |
+| leetcode | Medium | [2594-minimum-time-to-repair-cars](./leetcode/Medium/2594-minimum-time-to-repair-cars/) | Unknown | 2025-03-16 |
 | leetcode | Medium | [3217-delete-nodes-from-linked-list-present-in-array](./leetcode/Medium/3217-delete-nodes-from-linked-list-present-in-array/) | Python | 2024-09-06 |
 | leetcode | Medium | [0875-koko-eating-bananas](./leetcode/Medium/0875-koko-eating-bananas/) | Python | 2024-09-14 |
 | leetcode | Medium | [0373-find-k-pairs-with-smallest-sums](./leetcode/Medium/0373-find-k-pairs-with-smallest-sums/) | Python | 2023-08-14 |
