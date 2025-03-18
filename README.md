@@ -623,6 +623,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [0739-daily-temperatures](./leetcode/Medium/0739-daily-temperatures/) | Python | 2024-01-31 |
 | leetcode | Medium | [0912-sort-an-array](./leetcode/Medium/0912-sort-an-array/) | Python | 2024-09-14 |
 | leetcode | Medium | [1870-minimum-speed-to-arrive-on-time](./leetcode/Medium/1870-minimum-speed-to-arrive-on-time/) | Python | 2023-08-14 |
+| leetcode | Medium | [2401-longest-nice-subarray](./leetcode/Medium/2401-longest-nice-subarray/) | Python | 2025-03-18 |
 | leetcode | Medium | [1845-seat-reservation-manager](./leetcode/Medium/1845-seat-reservation-manager/) | Python | 2023-11-06 |
 | leetcode | Medium | [1535-find-the-winner-of-an-array-game](./leetcode/Medium/1535-find-the-winner-of-an-array-game/) | Python | 2023-11-05 |
 | leetcode | Medium | [1014-best-sightseeing-pair](./leetcode/Medium/1014-best-sightseeing-pair/) | Python | 2024-12-27 |

@@ -4954,6 +4954,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "2401-longest-nice-subarray",
+    "languages": "Python",
+    "last_commit_date": "2025-03-18",
+    "slug": "leetcode/Medium/2401-longest-nice-subarray"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "1845-seat-reservation-manager",
     "languages": "Python",
     "last_commit_date": "2023-11-06",
