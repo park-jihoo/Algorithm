@@ -4274,6 +4274,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i",
+    "languages": "Python",
+    "last_commit_date": "2025-03-19",
+    "slug": "leetcode/Medium/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "0382-linked-list-random-node",
     "languages": "Python",
     "last_commit_date": "2024-09-14",

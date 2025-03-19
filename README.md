@@ -538,6 +538,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](./leetcode/Medium/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Python | 2024-09-14 |
 | leetcode | Medium | [0198-house-robber](./leetcode/Medium/0198-house-robber/) | Python | 2024-01-21 |
 | leetcode | Medium | [0946-validate-stack-sequences](./leetcode/Medium/0946-validate-stack-sequences/) | Python | 2024-09-14 |
+| leetcode | Medium | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](./leetcode/Medium/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Python | 2025-03-19 |
 | leetcode | Medium | [0382-linked-list-random-node](./leetcode/Medium/0382-linked-list-random-node/) | Python | 2024-09-14 |
 | leetcode | Medium | [0435-non-overlapping-intervals](./leetcode/Medium/0435-non-overlapping-intervals/) | C++,Python | 2023-08-14 |
 | leetcode | Medium | [0785-is-graph-bipartite](./leetcode/Medium/0785-is-graph-bipartite/) | Python | 2023-08-14 |
