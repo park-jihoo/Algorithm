@@ -22,13 +22,16 @@ class unionFind:
     def connected(self, x, y):
         return self.find(x) == self.find(y)
 
+
 class Solution:
-    def minimumCost(self, n: int, edges: List[List[int]], query: List[List[int]]) -> List[int]:
-        uf, weights = unionFind(n), [(1<<32)-1 for _ in range(n)]
+    def minimumCost(
+        self, n: int, edges: List[List[int]], query: List[List[int]]
+    ) -> List[int]:
+        uf, weights = unionFind(n), [(1 << 32) - 1 for _ in range(n)]
         for x, y, e in edges:
             uf.union(x, y)
         for x, y, e in edges:
-            weights[uf.find(x)] &=e
+            weights[uf.find(x)] &= e
         ans = []
         for x, y in query:
             if uf.find(x) == uf.find(y):
@@ -36,4 +39,3 @@ class Solution:
             else:
                 ans.append(-1)
         return ans
-            

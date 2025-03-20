@@ -1418,6 +1418,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Hard",
+    "problem_name": "3108-minimum-cost-walk-in-weighted-graph",
+    "languages": "Python",
+    "last_commit_date": "2025-03-20",
+    "slug": "leetcode/Hard/3108-minimum-cost-walk-in-weighted-graph"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Hard",
     "problem_name": "2251-number-of-flowers-in-full-bloom",
     "languages": "Python",
     "last_commit_date": "2023-12-21",

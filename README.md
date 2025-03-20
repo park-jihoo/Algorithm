@@ -181,6 +181,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [2864-maximum-odd-binary-number](./leetcode/Easy/2864-maximum-odd-binary-number/) | Python | 2024-03-01 |
 | leetcode | Easy | [0703-kth-largest-element-in-a-stream](./leetcode/Easy/0703-kth-largest-element-in-a-stream/) | Python | 2023-08-14 |
 | leetcode | Easy | [0268-missing-number](./leetcode/Easy/0268-missing-number/) | Python | 2024-02-20 |
+| leetcode | Hard | [3108-minimum-cost-walk-in-weighted-graph](./leetcode/Hard/3108-minimum-cost-walk-in-weighted-graph/) | Python | 2025-03-20 |
 | leetcode | Hard | [2251-number-of-flowers-in-full-bloom](./leetcode/Hard/2251-number-of-flowers-in-full-bloom/) | Python | 2023-12-21 |
 | leetcode | Hard | [1601-maximum-number-of-achievable-transfer-requests](./leetcode/Hard/1601-maximum-number-of-achievable-transfer-requests/) | Python | 2023-08-14 |
 | leetcode | Hard | [0992-subarrays-with-k-different-integers](./leetcode/Hard/0992-subarrays-with-k-different-integers/) | Python | 2024-03-30 |
