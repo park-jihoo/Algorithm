@@ -2970,6 +2970,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "2115-find-all-possible-recipes-from-given-supplies",
+    "languages": "Python",
+    "last_commit_date": "2025-03-22",
+    "slug": "leetcode/Medium/2115-find-all-possible-recipes-from-given-supplies"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "0542-01-matrix",
     "languages": "Python",
     "last_commit_date": "2023-08-17",

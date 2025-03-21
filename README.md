@@ -375,6 +375,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [2191-sort-the-jumbled-numbers](./leetcode/Medium/2191-sort-the-jumbled-numbers/) | Python | 2024-07-24 |
 | leetcode | Medium | [1011-capacity-to-ship-packages-within-d-days](./leetcode/Medium/1011-capacity-to-ship-packages-within-d-days/) | Python | 2024-09-14 |
 | leetcode | Medium | [0095-unique-binary-search-trees-ii](./leetcode/Medium/0095-unique-binary-search-trees-ii/) | Java,Python | 2023-08-14 |
+| leetcode | Medium | [2115-find-all-possible-recipes-from-given-supplies](./leetcode/Medium/2115-find-all-possible-recipes-from-given-supplies/) | Python | 2025-03-22 |
 | leetcode | Medium | [0542-01-matrix](./leetcode/Medium/0542-01-matrix/) | Python | 2023-08-17 |
 | leetcode | Medium | [0983-minimum-cost-for-tickets](./leetcode/Medium/0983-minimum-cost-for-tickets/) | Python | 2024-12-31 |
 | leetcode | Medium | [0091-decode-ways](./leetcode/Medium/0091-decode-ways/) | Python | 2023-12-25 |

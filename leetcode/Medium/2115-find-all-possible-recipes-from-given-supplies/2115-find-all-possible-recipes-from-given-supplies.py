@@ -1,11 +1,15 @@
 class Solution:
-    #topological sort
-    def findAllRecipes(self, recipes: List[str], ingredients: List[List[str]], supplies: List[str]) -> List[str]:
+    # topological sort
+    def findAllRecipes(
+        self, recipes: List[str], ingredients: List[List[str]], supplies: List[str]
+    ) -> List[str]:
         graph = defaultdict(list)
         for i in range(len(recipes)):
             for ing in ingredients[i]:
                 graph[ing].append(recipes[i])
-        indegree = {recipe: len(ingredient) for recipe, ingredient in zip(recipes, ingredients)}
+        indegree = {
+            recipe: len(ingredient) for recipe, ingredient in zip(recipes, ingredients)
+        }
 
         result_dict = defaultdict(set)
         q = deque(supplies)
