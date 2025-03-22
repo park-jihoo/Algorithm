@@ -375,7 +375,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [2191-sort-the-jumbled-numbers](./leetcode/Medium/2191-sort-the-jumbled-numbers/) | Python | 2024-07-24 |
 | leetcode | Medium | [1011-capacity-to-ship-packages-within-d-days](./leetcode/Medium/1011-capacity-to-ship-packages-within-d-days/) | Python | 2024-09-14 |
 | leetcode | Medium | [0095-unique-binary-search-trees-ii](./leetcode/Medium/0095-unique-binary-search-trees-ii/) | Java,Python | 2023-08-14 |
-| leetcode | Medium | [2115-find-all-possible-recipes-from-given-supplies](./leetcode/Medium/2115-find-all-possible-recipes-from-given-supplies/) | Python | 2025-03-22 |
+| leetcode | Medium | [2115-find-all-possible-recipes-from-given-supplies](./leetcode/Medium/2115-find-all-possible-recipes-from-given-supplies/) | Python | 2025-03-21 |
 | leetcode | Medium | [0542-01-matrix](./leetcode/Medium/0542-01-matrix/) | Python | 2023-08-17 |
 | leetcode | Medium | [0983-minimum-cost-for-tickets](./leetcode/Medium/0983-minimum-cost-for-tickets/) | Python | 2024-12-31 |
 | leetcode | Medium | [0091-decode-ways](./leetcode/Medium/0091-decode-ways/) | Python | 2023-12-25 |
@@ -439,6 +439,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [1803-average-waiting-time](./leetcode/Medium/1803-average-waiting-time/) | Python | 2024-07-09 |
 | leetcode | Medium | [0201-bitwise-and-of-numbers-range](./leetcode/Medium/0201-bitwise-and-of-numbers-range/) | Python | 2024-11-23 |
 | leetcode | Medium | [1143-longest-common-subsequence](./leetcode/Medium/1143-longest-common-subsequence/) | Python | 2024-01-25 |
+| leetcode | Medium | [2685-count-the-number-of-complete-components](./leetcode/Medium/2685-count-the-number-of-complete-components/) | Python | 2025-03-22 |
 | leetcode | Medium | [2381-shifting-letters-ii](./leetcode/Medium/2381-shifting-letters-ii/) | Python | 2025-01-05 |
 | leetcode | Medium | [0712-minimum-ascii-delete-sum-for-two-strings](./leetcode/Medium/0712-minimum-ascii-delete-sum-for-two-strings/) | Python | 2023-08-14 |
 | leetcode | Medium | [2415-reverse-odd-levels-of-binary-tree](./leetcode/Medium/2415-reverse-odd-levels-of-binary-tree/) | Python | 2024-12-20 |
