@@ -588,6 +588,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [0808-soup-servings](./leetcode/Medium/0808-soup-servings/) | Python | 2023-08-14 |
 | leetcode | Medium | [1877-minimize-maximum-pair-sum-in-array](./leetcode/Medium/1877-minimize-maximum-pair-sum-in-array/) | Python | 2024-09-14 |
 | leetcode | Medium | [2491-divide-players-into-teams-of-equal-skill](./leetcode/Medium/2491-divide-players-into-teams-of-equal-skill/) | Python | 2024-10-04 |
+| leetcode | Medium | [1976-number-of-ways-to-arrive-at-destination](./leetcode/Medium/1976-number-of-ways-to-arrive-at-destination/) | Python | 2025-03-24 |
 | leetcode | Medium | [2593-find-score-of-an-array-after-marking-all-elements](./leetcode/Medium/2593-find-score-of-an-array-after-marking-all-elements/) | Python | 2024-12-14 |
 | leetcode | Medium | [0176-second-highest-salary](./leetcode/Medium/0176-second-highest-salary/) | SQL | 2024-09-14 |
 | leetcode | Medium | [2352-equal-row-and-column-pairs](./leetcode/Medium/2352-equal-row-and-column-pairs/) | Python | 2023-08-14 |
