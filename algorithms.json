@@ -4858,6 +4858,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "3169-count-days-without-meetings",
+    "languages": "Python",
+    "last_commit_date": "2025-03-24",
+    "slug": "leetcode/Medium/3169-count-days-without-meetings"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "0147-insertion-sort-list",
     "languages": "Java",
     "last_commit_date": "2024-09-14",

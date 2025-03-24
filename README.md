@@ -611,6 +611,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [1233-remove-sub-folders-from-the-filesystem](./leetcode/Medium/1233-remove-sub-folders-from-the-filesystem/) | Python | 2024-10-25 |
 | leetcode | Medium | [0057-insert-interval](./leetcode/Medium/0057-insert-interval/) | Python | 2024-03-17 |
 | leetcode | Medium | [1038-binary-search-tree-to-greater-sum-tree](./leetcode/Medium/1038-binary-search-tree-to-greater-sum-tree/) | Python | 2024-06-25 |
+| leetcode | Medium | [3169-count-days-without-meetings](./leetcode/Medium/3169-count-days-without-meetings/) | Python | 2025-03-24 |
 | leetcode | Medium | [0147-insertion-sort-list](./leetcode/Medium/0147-insertion-sort-list/) | Java | 2024-09-14 |
 | leetcode | Medium | [1261-find-elements-in-a-contaminated-binary-tree](./leetcode/Medium/1261-find-elements-in-a-contaminated-binary-tree/) | Python | 2025-02-21 |
 | leetcode | Medium | [1325-delete-leaves-with-a-given-value](./leetcode/Medium/1325-delete-leaves-with-a-given-value/) | Python | 2024-05-17 |
