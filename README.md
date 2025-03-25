@@ -405,6 +405,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [0005-longest-palindromic-substring](./leetcode/Medium/0005-longest-palindromic-substring/) | Python | 2023-10-27 |
 | leetcode | Medium | [1514-path-with-maximum-probability](./leetcode/Medium/1514-path-with-maximum-probability/) | Python | 2023-08-14 |
 | leetcode | Medium | [0040-combination-sum-ii](./leetcode/Medium/0040-combination-sum-ii/) | Python | 2024-08-13 |
+| leetcode | Medium | [3394-check-if-grid-can-be-cut-into-sections](./leetcode/Medium/3394-check-if-grid-can-be-cut-into-sections/) | Python | 2025-03-25 |
 | leetcode | Medium | [2109-adding-spaces-to-a-string](./leetcode/Medium/2109-adding-spaces-to-a-string/) | Python | 2024-12-03 |
 | leetcode | Medium | [0034-find-first-and-last-position-of-element-in-sorted-array](./leetcode/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Python | 2023-10-09 |
 | leetcode | Medium | [2657-find-the-prefix-common-array-of-two-arrays](./leetcode/Medium/2657-find-the-prefix-common-array-of-two-arrays/) | Python | 2025-01-14 |

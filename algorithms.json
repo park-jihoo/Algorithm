@@ -3210,6 +3210,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "3394-check-if-grid-can-be-cut-into-sections",
+    "languages": "Python",
+    "last_commit_date": "2025-03-25",
+    "slug": "leetcode/Medium/3394-check-if-grid-can-be-cut-into-sections"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "2109-adding-spaces-to-a-string",
     "languages": "Python",
     "last_commit_date": "2024-12-03",

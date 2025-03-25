@@ -17,4 +17,3 @@ class Solution:
             xs.append((sx, ex))
             ys.append((sy, ey))
         return self.split(xs) or self.split(ys)
-        
