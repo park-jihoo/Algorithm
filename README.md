@@ -628,6 +628,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [1043-partition-array-for-maximum-sum](./leetcode/Medium/1043-partition-array-for-maximum-sum/) | Python | 2024-02-03 |
 | leetcode | Medium | [1072-flip-columns-for-maximum-number-of-equal-rows](./leetcode/Medium/1072-flip-columns-for-maximum-number-of-equal-rows/) | Python | 2024-11-22 |
 | leetcode | Medium | [0739-daily-temperatures](./leetcode/Medium/0739-daily-temperatures/) | Python | 2024-01-31 |
+| leetcode | Medium | [2033-minimum-operations-to-make-a-uni-value-grid](./leetcode/Medium/2033-minimum-operations-to-make-a-uni-value-grid/) | Python | 2025-03-26 |
 | leetcode | Medium | [0912-sort-an-array](./leetcode/Medium/0912-sort-an-array/) | Python | 2024-09-14 |
 | leetcode | Medium | [1870-minimum-speed-to-arrive-on-time](./leetcode/Medium/1870-minimum-speed-to-arrive-on-time/) | Python | 2023-08-14 |
 | leetcode | Medium | [2401-longest-nice-subarray](./leetcode/Medium/2401-longest-nice-subarray/) | Python | 2025-03-18 |
