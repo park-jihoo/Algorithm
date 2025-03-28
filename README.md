@@ -205,6 +205,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Hard | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](./leetcode/Hard/1639-number-of-ways-to-form-a-target-string-given-a-dictionary/) | Python | 2024-12-29 |
 | leetcode | Hard | [2493-divide-nodes-into-the-maximum-number-of-groups](./leetcode/Hard/2493-divide-nodes-into-the-maximum-number-of-groups/) | Python | 2025-01-30 |
 | leetcode | Hard | [1416-restore-the-array](./leetcode/Hard/1416-restore-the-array/) | Python | 2024-09-14 |
+| leetcode | Hard | [2503-maximum-number-of-points-from-grid-queries](./leetcode/Hard/2503-maximum-number-of-points-from-grid-queries/) | Python | 2025-03-28 |
 | leetcode | Hard | [0857-minimum-cost-to-hire-k-workers](./leetcode/Hard/0857-minimum-cost-to-hire-k-workers/) | Python | 2024-05-11 |
 | leetcode | Hard | [2009-minimum-number-of-operations-to-make-array-continuous](./leetcode/Hard/2009-minimum-number-of-operations-to-make-array-continuous/) | Python | 2023-10-10 |
 | leetcode | Hard | [2171-second-minimum-time-to-reach-destination](./leetcode/Hard/2171-second-minimum-time-to-reach-destination/) | Python | 2024-09-14 |

@@ -1610,6 +1610,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Hard",
+    "problem_name": "2503-maximum-number-of-points-from-grid-queries",
+    "languages": "Python",
+    "last_commit_date": "2025-03-28",
+    "slug": "leetcode/Hard/2503-maximum-number-of-points-from-grid-queries"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Hard",
     "problem_name": "0857-minimum-cost-to-hire-k-workers",
     "languages": "Python",
     "last_commit_date": "2024-05-11",
