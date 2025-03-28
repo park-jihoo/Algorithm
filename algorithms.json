@@ -4570,6 +4570,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "2780-minimum-index-of-a-valid-split",
+    "languages": "Python",
+    "last_commit_date": "2025-03-28",
+    "slug": "leetcode/Medium/2780-minimum-index-of-a-valid-split"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "1653-minimum-deletions-to-make-string-balanced",
     "languages": "Python",
     "last_commit_date": "2024-07-30",

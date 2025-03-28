@@ -575,6 +575,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [2044-count-number-of-maximum-bitwise-or-subsets](./leetcode/Medium/2044-count-number-of-maximum-bitwise-or-subsets/) | Python | 2024-10-18 |
 | leetcode | Medium | [0513-find-bottom-left-tree-value](./leetcode/Medium/0513-find-bottom-left-tree-value/) | Python | 2024-02-28 |
 | leetcode | Medium | [3160-find-the-number-of-distinct-colors-among-the-balls](./leetcode/Medium/3160-find-the-number-of-distinct-colors-among-the-balls/) | Python | 2025-02-07 |
+| leetcode | Medium | [2780-minimum-index-of-a-valid-split](./leetcode/Medium/2780-minimum-index-of-a-valid-split/) | Python | 2025-03-28 |
 | leetcode | Medium | [1653-minimum-deletions-to-make-string-balanced](./leetcode/Medium/1653-minimum-deletions-to-make-string-balanced/) | Python | 2024-07-30 |
 | leetcode | Medium | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](./leetcode/Medium/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Python | 2025-02-19 |
 | leetcode | Medium | [2785-sort-vowels-in-a-string](./leetcode/Medium/2785-sort-vowels-in-a-string/) | Python | 2023-11-13 |
