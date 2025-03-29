@@ -301,6 +301,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Hard | [1235-maximum-profit-in-job-scheduling](./leetcode/Hard/1235-maximum-profit-in-job-scheduling/) | Python | 2024-01-06 |
 | leetcode | Hard | [2458-height-of-binary-tree-after-subtree-removal-queries](./leetcode/Hard/2458-height-of-binary-tree-after-subtree-removal-queries/) | Python | 2024-10-26 |
 | leetcode | Hard | [1289-minimum-falling-path-sum-ii](./leetcode/Hard/1289-minimum-falling-path-sum-ii/) | Python | 2024-04-26 |
+| leetcode | Hard | [2818-apply-operations-to-maximize-score](./leetcode/Hard/2818-apply-operations-to-maximize-score/) | Python | 2025-03-29 |
 | leetcode | Hard | [1402-reducing-dishes](./leetcode/Hard/1402-reducing-dishes/) | Python | 2024-09-14 |
 | leetcode | Medium | [0962-maximum-width-ramp](./leetcode/Medium/0962-maximum-width-ramp/) | Python | 2024-10-10 |
 | leetcode | Medium | [2433-find-the-original-array-of-prefix-xor](./leetcode/Medium/2433-find-the-original-array-of-prefix-xor/) | Python | 2023-10-31 |

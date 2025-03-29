@@ -2378,6 +2378,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Hard",
+    "problem_name": "2818-apply-operations-to-maximize-score",
+    "languages": "Python",
+    "last_commit_date": "2025-03-29",
+    "slug": "leetcode/Hard/2818-apply-operations-to-maximize-score"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Hard",
     "problem_name": "1402-reducing-dishes",
     "languages": "Python",
     "last_commit_date": "2024-09-14",

@@ -11,10 +11,10 @@ class Solution:
         return len(factorset)
 
     def maximumScore(self, nums: List[int], k: int) -> int:
-        mod = 10**9+7
+        mod = 10**9 + 7
         arr = [(i, self.getFactor(x), x) for i, x in enumerate(nums)]
         n = len(nums)
-        left, right = [-1]*n, [n]*n
+        left, right = [-1] * n, [n] * n
 
         left_stack, right_stack = [], []
         for idx, prime_num, num in arr:
@@ -28,13 +28,13 @@ class Solution:
                 right_stack.pop()
             right[idx] = right_stack[-1][1] if right_stack else n
             right_stack.append((prime_num, idx))
-        
-        arr.sort(key=lambda x:-x[2])
+
+        arr.sort(key=lambda x: -x[2])
         ans = 1
 
         for idx, prime_num, num in arr:
             l, r = left[idx], right[idx]
-            cnt = (idx-l)*(r-idx)
+            cnt = (idx - l) * (r - idx)
             if cnt <= k:
                 ans = ans * pow(num, cnt, mod) % mod
                 k -= cnt
