@@ -503,6 +503,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [1048-longest-string-chain](./leetcode/Medium/1048-longest-string-chain/) | Python | 2023-09-23 |
 | leetcode | Medium | [0673-number-of-longest-increasing-subsequence](./leetcode/Medium/0673-number-of-longest-increasing-subsequence/) | Python | 2023-08-14 |
 | leetcode | Medium | [2070-most-beautiful-item-for-each-query](./leetcode/Medium/2070-most-beautiful-item-for-each-query/) | Python | 2024-11-12 |
+| leetcode | Medium | [0763-partition-labels](./leetcode/Medium/0763-partition-labels/) | Python | 2025-03-30 |
 | leetcode | Medium | [0516-longest-palindromic-subsequence](./leetcode/Medium/0516-longest-palindromic-subsequence/) | Python | 2024-09-14 |
 | leetcode | Medium | [0861-score-after-flipping-matrix](./leetcode/Medium/0861-score-after-flipping-matrix/) | Python | 2024-05-13 |
 | leetcode | Medium | [1481-least-number-of-unique-integers-after-k-removals](./leetcode/Medium/1481-least-number-of-unique-integers-after-k-removals/) | Python | 2024-09-14 |

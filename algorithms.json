@@ -3994,6 +3994,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "0763-partition-labels",
+    "languages": "Python",
+    "last_commit_date": "2025-03-30",
+    "slug": "leetcode/Medium/0763-partition-labels"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "0516-longest-palindromic-subsequence",
     "languages": "Python",
     "last_commit_date": "2024-09-14",
