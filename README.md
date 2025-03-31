@@ -214,7 +214,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Hard | [0689-maximum-sum-of-3-non-overlapping-subarrays](./leetcode/Hard/0689-maximum-sum-of-3-non-overlapping-subarrays/) | Python | 2024-12-28 |
 | leetcode | Hard | [0185-department-top-three-salaries](./leetcode/Hard/0185-department-top-three-salaries/) | SQL | 2024-09-14 |
 | leetcode | Hard | [0458-poor-pigs](./leetcode/Hard/0458-poor-pigs/) | Python | 2023-10-29 |
-| leetcode | Hard | [2551-put-marbles-in-bags](./leetcode/Hard/2551-put-marbles-in-bags/) | Python | 2023-08-14 |
+| leetcode | Hard | [2551-put-marbles-in-bags](./leetcode/Hard/2551-put-marbles-in-bags/) | Python | 2025-03-31 |
 | leetcode | Hard | [1037-minimum-number-of-k-consecutive-bit-flips](./leetcode/Hard/1037-minimum-number-of-k-consecutive-bit-flips/) | Python | 2024-06-24 |
 | leetcode | Hard | [0332-reconstruct-itinerary](./leetcode/Hard/0332-reconstruct-itinerary/) | Python | 2023-09-14 |
 | leetcode | Hard | [2092-find-all-people-with-secret](./leetcode/Hard/2092-find-all-people-with-secret/) | Python | 2024-02-24 |
