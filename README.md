@@ -126,6 +126,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [0404-sum-of-left-leaves](./leetcode/Easy/0404-sum-of-left-leaves/) | Python | 2024-04-14 |
 | leetcode | Easy | [1512-number-of-good-pairs](./leetcode/Easy/1512-number-of-good-pairs/) | Python | 2023-10-03 |
 | leetcode | Easy | [0121-best-time-to-buy-and-sell-stock](./leetcode/Easy/0121-best-time-to-buy-and-sell-stock/) | Python | 2023-08-14 |
+| leetcode | Easy | [2873-maximum-value-of-an-ordered-triplet-i](./leetcode/Easy/2873-maximum-value-of-an-ordered-triplet-i/) | Python | 2025-04-02 |
 | leetcode | Easy | [1544-make-the-string-great](./leetcode/Easy/1544-make-the-string-great/) | Python | 2024-04-05 |
 | leetcode | Easy | [2706-buy-two-chocolates](./leetcode/Easy/2706-buy-two-chocolates/) | Python | 2023-12-20 |
 | leetcode | Easy | [0744-find-smallest-letter-greater-than-target](./leetcode/Easy/0744-find-smallest-letter-greater-than-target/) | Python | 2023-08-14 |

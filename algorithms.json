@@ -978,6 +978,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Easy",
+    "problem_name": "2873-maximum-value-of-an-ordered-triplet-i",
+    "languages": "Python",
+    "last_commit_date": "2025-04-02",
+    "slug": "leetcode/Easy/2873-maximum-value-of-an-ordered-triplet-i"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Easy",
     "problem_name": "1544-make-the-string-great",
     "languages": "Python",
     "last_commit_date": "2024-04-05",

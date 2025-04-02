@@ -4,5 +4,5 @@ class Solution:
         for k in range(2, len(nums)):
             for j in range(k):
                 for i in range(j):
-                    ans = max(ans, (nums[i] - nums[j])* nums[k] )
+                    ans = max(ans, (nums[i] - nums[j]) * nums[k])
         return ans
