@@ -441,6 +441,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [0241-different-ways-to-add-parentheses](./leetcode/Medium/0241-different-ways-to-add-parentheses/) | Python | 2024-09-19 |
 | leetcode | Medium | [0650-2-keys-keyboard](./leetcode/Medium/0650-2-keys-keyboard/) | Python | 2024-08-19 |
 | leetcode | Medium | [1803-average-waiting-time](./leetcode/Medium/1803-average-waiting-time/) | Python | 2024-07-09 |
+| leetcode | Medium | [2874-maximum-value-of-an-ordered-triplet-ii](./leetcode/Medium/2874-maximum-value-of-an-ordered-triplet-ii/) | Python | 2025-04-03 |
 | leetcode | Medium | [0201-bitwise-and-of-numbers-range](./leetcode/Medium/0201-bitwise-and-of-numbers-range/) | Python | 2024-11-23 |
 | leetcode | Medium | [1143-longest-common-subsequence](./leetcode/Medium/1143-longest-common-subsequence/) | Python | 2024-01-25 |
 | leetcode | Medium | [2685-count-the-number-of-complete-components](./leetcode/Medium/2685-count-the-number-of-complete-components/) | Python | 2025-03-22 |

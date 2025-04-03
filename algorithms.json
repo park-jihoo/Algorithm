@@ -3498,6 +3498,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "2874-maximum-value-of-an-ordered-triplet-ii",
+    "languages": "Python",
+    "last_commit_date": "2025-04-03",
+    "slug": "leetcode/Medium/2874-maximum-value-of-an-ordered-triplet-ii"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "0201-bitwise-and-of-numbers-range",
     "languages": "Python",
     "last_commit_date": "2024-11-23",
