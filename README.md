@@ -326,6 +326,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [3217-delete-nodes-from-linked-list-present-in-array](./leetcode/Medium/3217-delete-nodes-from-linked-list-present-in-array/) | Python | 2024-09-06 |
 | leetcode | Medium | [0875-koko-eating-bananas](./leetcode/Medium/0875-koko-eating-bananas/) | Python | 2024-09-14 |
 | leetcode | Medium | [0373-find-k-pairs-with-smallest-sums](./leetcode/Medium/0373-find-k-pairs-with-smallest-sums/) | Python | 2023-08-14 |
+| leetcode | Medium | [1123-lowest-common-ancestor-of-deepest-leaves](./leetcode/Medium/1123-lowest-common-ancestor-of-deepest-leaves/) | Python | 2025-04-04 |
 | leetcode | Medium | [1382-balance-a-binary-search-tree](./leetcode/Medium/1382-balance-a-binary-search-tree/) | Python | 2024-06-26 |
 | leetcode | Medium | [0137-single-number-ii](./leetcode/Medium/0137-single-number-ii/) | C++,Python | 2023-08-14 |
 | leetcode | Medium | [2554-maximum-number-of-integers-to-choose-from-a-range-i](./leetcode/Medium/2554-maximum-number-of-integers-to-choose-from-a-range-i/) | Python | 2024-12-06 |
