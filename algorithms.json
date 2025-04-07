@@ -4394,6 +4394,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "0416-partition-equal-subset-sum",
+    "languages": "Python",
+    "last_commit_date": "2025-04-07",
+    "slug": "leetcode/Medium/0416-partition-equal-subset-sum"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "0142-linked-list-cycle-ii",
     "languages": "Python",
     "last_commit_date": "2024-09-14",

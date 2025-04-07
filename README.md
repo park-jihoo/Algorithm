@@ -553,6 +553,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [0435-non-overlapping-intervals](./leetcode/Medium/0435-non-overlapping-intervals/) | C++,Python | 2023-08-14 |
 | leetcode | Medium | [0785-is-graph-bipartite](./leetcode/Medium/0785-is-graph-bipartite/) | Python | 2023-08-14 |
 | leetcode | Medium | [0054-spiral-matrix](./leetcode/Medium/0054-spiral-matrix/) | C++,Python | 2023-08-14 |
+| leetcode | Medium | [0416-partition-equal-subset-sum](./leetcode/Medium/0416-partition-equal-subset-sum/) | Python | 2025-04-07 |
 | leetcode | Medium | [0142-linked-list-cycle-ii](./leetcode/Medium/0142-linked-list-cycle-ii/) | Python | 2024-09-14 |
 | leetcode | Medium | [0624-maximum-distance-in-arrays](./leetcode/Medium/0624-maximum-distance-in-arrays/) | Python | 2024-09-14 |
 | leetcode | Medium | [3152-special-array-ii](./leetcode/Medium/3152-special-array-ii/) | Python | 2024-12-09 |
