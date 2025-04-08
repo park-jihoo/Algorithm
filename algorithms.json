@@ -1058,6 +1058,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Easy",
+    "problem_name": "3396-minimum-number-of-operations-to-make-elements-in-array-distinct",
+    "languages": "Python",
+    "last_commit_date": "2025-04-08",
+    "slug": "leetcode/Easy/3396-minimum-number-of-operations-to-make-elements-in-array-distinct"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Easy",
     "problem_name": "0860-lemonade-change",
     "languages": "Python",
     "last_commit_date": "2024-08-15",
