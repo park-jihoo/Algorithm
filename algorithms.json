@@ -90,6 +90,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Easy",
+    "problem_name": "3375-minimum-operations-to-make-array-values-equal-to-k",
+    "languages": "Python",
+    "last_commit_date": "2025-04-09",
+    "slug": "leetcode/Easy/3375-minimum-operations-to-make-array-values-equal-to-k"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Easy",
     "problem_name": "0070-climbing-stairs",
     "languages": "Python",
     "last_commit_date": "2024-09-14",

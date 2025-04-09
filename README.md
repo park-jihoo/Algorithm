@@ -15,6 +15,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [0705-design-hashset](./leetcode/Easy/0705-design-hashset/) | Python | 2023-08-14 |
 | leetcode | Easy | [0069-sqrtx](./leetcode/Easy/0069-sqrtx/) | Python | 2023-12-21 |
 | leetcode | Easy | [0501-find-mode-in-binary-search-tree](./leetcode/Easy/0501-find-mode-in-binary-search-tree/) | Python | 2024-09-14 |
+| leetcode | Easy | [3375-minimum-operations-to-make-array-values-equal-to-k](./leetcode/Easy/3375-minimum-operations-to-make-array-values-equal-to-k/) | Python | 2025-04-09 |
 | leetcode | Easy | [0070-climbing-stairs](./leetcode/Easy/0070-climbing-stairs/) | Python | 2024-09-14 |
 | leetcode | Easy | [1356-sort-integers-by-the-number-of-1-bits](./leetcode/Easy/1356-sort-integers-by-the-number-of-1-bits/) | Python | 2023-10-30 |
 | leetcode | Easy | [0234-palindrome-linked-list](./leetcode/Easy/0234-palindrome-linked-list/) | Python | 2024-09-14 |
