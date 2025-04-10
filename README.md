@@ -291,6 +291,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Hard | [0076-minimum-window-substring](./leetcode/Hard/0076-minimum-window-substring/) | Python | 2024-09-14 |
 | leetcode | Hard | [2147-number-of-ways-to-divide-a-long-corridor](./leetcode/Hard/2147-number-of-ways-to-divide-a-long-corridor/) | Python | 2023-11-29 |
 | leetcode | Hard | [0847-shortest-path-visiting-all-nodes](./leetcode/Hard/0847-shortest-path-visiting-all-nodes/) | Python | 2023-09-17 |
+| leetcode | Hard | [2999-count-the-number-of-powerful-integers](./leetcode/Hard/2999-count-the-number-of-powerful-integers/) | Python | 2025-04-10 |
 | leetcode | Hard | [1425-constrained-subsequence-sum](./leetcode/Hard/1425-constrained-subsequence-sum/) | Python | 2023-10-21 |
 | leetcode | Hard | [1531-string-compression-ii](./leetcode/Hard/1531-string-compression-ii/) | Python | 2023-12-28 |
 | leetcode | Hard | [2463-minimum-total-distance-traveled](./leetcode/Hard/2463-minimum-total-distance-traveled/) | Python | 2024-10-31 |
