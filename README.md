@@ -167,6 +167,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [0884-uncommon-words-from-two-sentences](./leetcode/Easy/0884-uncommon-words-from-two-sentences/) | Python | 2024-09-17 |
 | leetcode | Easy | [0530-minimum-absolute-difference-in-bst](./leetcode/Easy/0530-minimum-absolute-difference-in-bst/) | Python | 2023-08-14 |
 | leetcode | Easy | [3174-clear-digits](./leetcode/Easy/3174-clear-digits/) | Python | 2025-02-10 |
+| leetcode | Easy | [2843-count-symmetric-integers](./leetcode/Easy/2843-count-symmetric-integers/) | Python | 2025-04-11 |
 | leetcode | Easy | [1716-calculate-money-in-leetcode-bank](./leetcode/Easy/1716-calculate-money-in-leetcode-bank/) | Python | 2023-12-12 |
 | leetcode | Easy | [0661-image-smoother](./leetcode/Easy/0661-image-smoother/) | Python | 2023-12-19 |
 | leetcode | Easy | [1603-design-parking-system](./leetcode/Easy/1603-design-parking-system/) | C++,Python | 2023-08-14 |

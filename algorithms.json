@@ -1306,6 +1306,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Easy",
+    "problem_name": "2843-count-symmetric-integers",
+    "languages": "Python",
+    "last_commit_date": "2025-04-11",
+    "slug": "leetcode/Easy/2843-count-symmetric-integers"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Easy",
     "problem_name": "1716-calculate-money-in-leetcode-bank",
     "languages": "Python",
     "last_commit_date": "2023-12-12",
