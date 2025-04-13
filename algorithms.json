@@ -1490,6 +1490,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Hard",
+    "problem_name": "3272-find-the-count-of-good-integers",
+    "languages": "Unknown",
+    "last_commit_date": "2025-04-12",
+    "slug": "leetcode/Hard/3272-find-the-count-of-good-integers"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Hard",
     "problem_name": "1106-parsing-a-boolean-expression",
     "languages": "Python",
     "last_commit_date": "2024-10-20",
@@ -4342,6 +4350,14 @@
     "languages": "Python",
     "last_commit_date": "2023-09-06",
     "slug": "leetcode/Medium/0725-split-linked-list-in-parts"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
+    "problem_name": "1922-count-good-numbers",
+    "languages": "Python",
+    "last_commit_date": "2025-04-13",
+    "slug": "leetcode/Medium/1922-count-good-numbers"
   },
   {
     "platform": "leetcode",

@@ -190,6 +190,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Hard | [1601-maximum-number-of-achievable-transfer-requests](./leetcode/Hard/1601-maximum-number-of-achievable-transfer-requests/) | Python | 2023-08-14 |
 | leetcode | Hard | [0992-subarrays-with-k-different-integers](./leetcode/Hard/0992-subarrays-with-k-different-integers/) | Python | 2024-03-30 |
 | leetcode | Hard | [2272-substring-with-largest-variance](./leetcode/Hard/2272-substring-with-largest-variance/) | C,C++,Python | 2023-08-14 |
+| leetcode | Hard | [3272-find-the-count-of-good-integers](./leetcode/Hard/3272-find-the-count-of-good-integers/) | Unknown | 2025-04-12 |
 | leetcode | Hard | [1106-parsing-a-boolean-expression](./leetcode/Hard/1106-parsing-a-boolean-expression/) | Python | 2024-10-20 |
 | leetcode | Hard | [0407-trapping-rain-water-ii](./leetcode/Hard/0407-trapping-rain-water-ii/) | Python | 2025-01-19 |
 | leetcode | Hard | [1444-number-of-ways-of-cutting-a-pizza](./leetcode/Hard/1444-number-of-ways-of-cutting-a-pizza/) | Python | 2024-09-14 |
@@ -547,6 +548,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [2597-the-number-of-beautiful-subsets](./leetcode/Medium/2597-the-number-of-beautiful-subsets/) | Python | 2024-05-23 |
 | leetcode | Medium | [0033-search-in-rotated-sorted-array](./leetcode/Medium/0033-search-in-rotated-sorted-array/) | C,C++,Python | 2023-08-14 |
 | leetcode | Medium | [0725-split-linked-list-in-parts](./leetcode/Medium/0725-split-linked-list-in-parts/) | Python | 2023-09-06 |
+| leetcode | Medium | [1922-count-good-numbers](./leetcode/Medium/1922-count-good-numbers/) | Python | 2025-04-13 |
 | leetcode | Medium | [0678-valid-parenthesis-string](./leetcode/Medium/0678-valid-parenthesis-string/) | Python | 2024-04-07 |
 | leetcode | Medium | [0735-asteroid-collision](./leetcode/Medium/0735-asteroid-collision/) | Python | 2023-08-14 |
 | leetcode | Medium | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](./leetcode/Medium/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Python | 2024-09-14 |
