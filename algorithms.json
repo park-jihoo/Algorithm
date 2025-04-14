@@ -546,6 +546,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Easy",
+    "problem_name": "1534-count-good-triplets",
+    "languages": "Python",
+    "last_commit_date": "2025-04-14",
+    "slug": "leetcode/Easy/1534-count-good-triplets"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Easy",
     "problem_name": "0342-power-of-four",
     "languages": "Python",
     "last_commit_date": "2024-09-14",

@@ -72,6 +72,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [0094-binary-tree-inorder-traversal](./leetcode/Easy/0094-binary-tree-inorder-traversal/) | Python | 2024-09-14 |
 | leetcode | Easy | [1431-kids-with-the-greatest-number-of-candies](./leetcode/Easy/1431-kids-with-the-greatest-number-of-candies/) | Python | 2024-09-14 |
 | leetcode | Easy | [0219-contains-duplicate-ii](./leetcode/Easy/0219-contains-duplicate-ii/) | Python | 2024-09-14 |
+| leetcode | Easy | [1534-count-good-triplets](./leetcode/Easy/1534-count-good-triplets/) | Python | 2025-04-14 |
 | leetcode | Easy | [0342-power-of-four](./leetcode/Easy/0342-power-of-four/) | Python | 2024-09-14 |
 | leetcode | Easy | [2185-counting-words-with-a-given-prefix](./leetcode/Easy/2185-counting-words-with-a-given-prefix/) | Python | 2025-01-09 |
 | leetcode | Easy | [0232-implement-queue-using-stacks](./leetcode/Easy/0232-implement-queue-using-stacks/) | C++,Python | 2024-01-29 |
