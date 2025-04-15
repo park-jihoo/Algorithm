@@ -276,6 +276,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Hard | [1463-cherry-pickup-ii](./leetcode/Hard/1463-cherry-pickup-ii/) | Python | 2024-02-11 |
 | leetcode | Hard | [2050-parallel-courses-iii](./leetcode/Hard/2050-parallel-courses-iii/) | Python | 2023-12-21 |
 | leetcode | Hard | [0072-edit-distance](./leetcode/Hard/0072-edit-distance/) | Python | 2024-09-14 |
+| leetcode | Hard | [2179-count-good-triplets-in-an-array](./leetcode/Hard/2179-count-good-triplets-in-an-array/) | Python | 2025-04-15 |
 | leetcode | Hard | [3068-find-the-maximum-sum-of-node-values](./leetcode/Hard/3068-find-the-maximum-sum-of-node-values/) | Python | 2024-09-14 |
 | leetcode | Hard | [0726-number-of-atoms](./leetcode/Hard/0726-number-of-atoms/) | Python | 2024-07-14 |
 | leetcode | Hard | [2709-greatest-common-divisor-traversal](./leetcode/Hard/2709-greatest-common-divisor-traversal/) | Python | 2024-02-25 |

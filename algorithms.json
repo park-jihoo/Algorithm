@@ -2178,6 +2178,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Hard",
+    "problem_name": "2179-count-good-triplets-in-an-array",
+    "languages": "Python",
+    "last_commit_date": "2025-04-15",
+    "slug": "leetcode/Hard/2179-count-good-triplets-in-an-array"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Hard",
     "problem_name": "3068-find-the-maximum-sum-of-node-values",
     "languages": "Python",
     "last_commit_date": "2024-09-14",
