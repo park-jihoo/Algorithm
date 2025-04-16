@@ -7,8 +7,8 @@ class Solution:
             cnt += fr[x]
             fr[x] += 1
             while cnt >= k:
-                ans += (n-r)
+                ans += n - r
                 fr[nums[left]] -= 1
                 cnt -= fr[nums[left]]
                 left += 1
-        return ans 
+        return ans

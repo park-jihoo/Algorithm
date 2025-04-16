@@ -564,6 +564,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [0416-partition-equal-subset-sum](./leetcode/Medium/0416-partition-equal-subset-sum/) | Python | 2025-04-07 |
 | leetcode | Medium | [0142-linked-list-cycle-ii](./leetcode/Medium/0142-linked-list-cycle-ii/) | Python | 2024-09-14 |
 | leetcode | Medium | [0624-maximum-distance-in-arrays](./leetcode/Medium/0624-maximum-distance-in-arrays/) | Python | 2024-09-14 |
+| leetcode | Medium | [2537-count-the-number-of-good-subarrays](./leetcode/Medium/2537-count-the-number-of-good-subarrays/) | Python | 2025-04-16 |
 | leetcode | Medium | [3152-special-array-ii](./leetcode/Medium/3152-special-array-ii/) | Python | 2024-12-09 |
 | leetcode | Medium | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](./leetcode/Medium/1239-maximum-length-of-a-concatenated-string-with-unique-characters/) | Python | 2024-01-23 |
 | leetcode | Medium | [0427-construct-quad-tree](./leetcode/Medium/0427-construct-quad-tree/) | Python | 2024-09-14 |

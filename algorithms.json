@@ -4482,6 +4482,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "2537-count-the-number-of-good-subarrays",
+    "languages": "Python",
+    "last_commit_date": "2025-04-16",
+    "slug": "leetcode/Medium/2537-count-the-number-of-good-subarrays"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "3152-special-array-ii",
     "languages": "Python",
     "last_commit_date": "2024-12-09",
