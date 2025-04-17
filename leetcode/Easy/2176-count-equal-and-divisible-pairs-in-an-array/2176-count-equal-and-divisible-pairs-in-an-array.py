@@ -5,5 +5,5 @@ class Solution:
             cnts[num].append(idx)
         ans = 0
         for key in cnts.keys():
-            ans += sum([1 for a, b in combinations(cnts[key], 2) if (a*b)%k == 0])
+            ans += sum([1 for a, b in combinations(cnts[key], 2) if (a * b) % k == 0])
         return ans

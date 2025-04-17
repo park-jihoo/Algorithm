@@ -175,6 +175,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [1732-find-the-highest-altitude](./leetcode/Easy/1732-find-the-highest-altitude/) | Python | 2023-08-14 |
 | leetcode | Easy | [1832-check-if-the-sentence-is-pangram](./leetcode/Easy/1832-check-if-the-sentence-is-pangram/) | Python | 2024-09-14 |
 | leetcode | Easy | [0796-rotate-string](./leetcode/Easy/0796-rotate-string/) | Python | 2024-11-03 |
+| leetcode | Easy | [2176-count-equal-and-divisible-pairs-in-an-array](./leetcode/Easy/2176-count-equal-and-divisible-pairs-in-an-array/) | Python | 2025-04-17 |
 | leetcode | Easy | [3042-count-prefix-and-suffix-pairs-i](./leetcode/Easy/3042-count-prefix-and-suffix-pairs-i/) | Python | 2025-01-08 |
 | leetcode | Easy | [1122-relative-sort-array](./leetcode/Easy/1122-relative-sort-array/) | Python | 2024-06-11 |
 | leetcode | Easy | [0111-minimum-depth-of-binary-tree](./leetcode/Easy/0111-minimum-depth-of-binary-tree/) | C,C++,Java,Python | 2024-09-14 |
