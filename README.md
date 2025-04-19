@@ -616,7 +616,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [1277-count-square-submatrices-with-all-ones](./leetcode/Medium/1277-count-square-submatrices-with-all-ones/) | Python | 2024-10-27 |
 | leetcode | Medium | [3011-find-if-array-can-be-sorted](./leetcode/Medium/3011-find-if-array-can-be-sorted/) | Python | 2024-11-06 |
 | leetcode | Medium | [1503-last-moment-before-all-ants-fall-out-of-a-plank](./leetcode/Medium/1503-last-moment-before-all-ants-fall-out-of-a-plank/) | Python | 2023-11-04 |
-| leetcode | Medium | [2563-count-the-number-of-fair-pairs](./leetcode/Medium/2563-count-the-number-of-fair-pairs/) | Python | 2024-11-13 |
+| leetcode | Medium | [2563-count-the-number-of-fair-pairs](./leetcode/Medium/2563-count-the-number-of-fair-pairs/) | Python | 2025-04-19 |
 | leetcode | Medium | [1161-maximum-level-sum-of-a-binary-tree](./leetcode/Medium/1161-maximum-level-sum-of-a-binary-tree/) | Python | 2023-08-14 |
 | leetcode | Medium | [0209-minimum-size-subarray-sum](./leetcode/Medium/0209-minimum-size-subarray-sum/) | Python | 2024-09-14 |
 | leetcode | Medium | [2462-total-cost-to-hire-k-workers](./leetcode/Medium/2462-total-cost-to-hire-k-workers/) | Python | 2023-08-14 |
