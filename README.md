@@ -696,6 +696,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [3208-alternating-groups-ii](./leetcode/Medium/3208-alternating-groups-ii/) | Python | 2025-03-09 |
 | leetcode | Medium | [2369-check-if-there-is-a-valid-partition-for-the-array](./leetcode/Medium/2369-check-if-there-is-a-valid-partition-for-the-array/) | Python | 2023-08-14 |
 | leetcode | Medium | [2196-create-binary-tree-from-descriptions](./leetcode/Medium/2196-create-binary-tree-from-descriptions/) | Python | 2024-07-15 |
+| leetcode | Medium | [0781-rabbits-in-forest](./leetcode/Medium/0781-rabbits-in-forest/) | Python | 2025-04-20 |
 | leetcode | Medium | [1352-product-of-the-last-k-numbers](./leetcode/Medium/1352-product-of-the-last-k-numbers/) | Python | 2025-02-14 |
 | leetcode | Medium | [0456-132-pattern](./leetcode/Medium/0456-132-pattern/) | Python | 2024-09-14 |
 | leetcode | Medium | [0540-single-element-in-a-sorted-array](./leetcode/Medium/0540-single-element-in-a-sorted-array/) | Java,Python | 2024-09-14 |
