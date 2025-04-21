@@ -4794,6 +4794,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "2145-count-the-hidden-sequences",
+    "languages": "Python",
+    "last_commit_date": "2025-04-21",
+    "slug": "leetcode/Medium/2145-count-the-hidden-sequences"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "1190-reverse-substrings-between-each-pair-of-parentheses",
     "languages": "Python",
     "last_commit_date": "2024-07-11",

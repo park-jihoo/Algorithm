@@ -603,6 +603,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [0823-binary-trees-with-factors](./leetcode/Medium/0823-binary-trees-with-factors/) | Python | 2023-10-26 |
 | leetcode | Medium | [1545-find-kth-bit-in-nth-binary-string](./leetcode/Medium/1545-find-kth-bit-in-nth-binary-string/) | Python | 2024-10-19 |
 | leetcode | Medium | [1052-grumpy-bookstore-owner](./leetcode/Medium/1052-grumpy-bookstore-owner/) | Python | 2024-06-21 |
+| leetcode | Medium | [2145-count-the-hidden-sequences](./leetcode/Medium/2145-count-the-hidden-sequences/) | Python | 2025-04-21 |
 | leetcode | Medium | [1190-reverse-substrings-between-each-pair-of-parentheses](./leetcode/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Python | 2024-07-11 |
 | leetcode | Medium | [0808-soup-servings](./leetcode/Medium/0808-soup-servings/) | Python | 2023-08-14 |
 | leetcode | Medium | [1877-minimize-maximum-pair-sum-in-array](./leetcode/Medium/1877-minimize-maximum-pair-sum-in-array/) | Python | 2024-09-14 |
