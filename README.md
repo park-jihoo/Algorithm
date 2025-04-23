@@ -5,6 +5,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | Platform   | Difficulty | Problem Name | Languages | Last Commit Date |
 |------------|------------|--------------|-----------|------------------|
 | leetcode | Easy | [0977-squares-of-a-sorted-array](./leetcode/Easy/0977-squares-of-a-sorted-array/) | Python | 2024-09-14 |
+| leetcode | Easy | [1399-count-largest-group](./leetcode/Easy/1399-count-largest-group/) | Python | 2025-04-23 |
 | leetcode | Easy | [1496-path-crossing](./leetcode/Easy/1496-path-crossing/) | Python | 2023-12-23 |
 | leetcode | Easy | [0590-n-ary-tree-postorder-traversal](./leetcode/Easy/0590-n-ary-tree-postorder-traversal/) | Python | 2024-08-26 |
 | leetcode | Easy | [1614-maximum-nesting-depth-of-the-parentheses](./leetcode/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Python | 2024-04-04 |

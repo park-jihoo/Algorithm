@@ -10,6 +10,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Easy",
+    "problem_name": "1399-count-largest-group",
+    "languages": "Python",
+    "last_commit_date": "2025-04-23",
+    "slug": "leetcode/Easy/1399-count-largest-group"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Easy",
     "problem_name": "1496-path-crossing",
     "languages": "Python",
     "last_commit_date": "2023-12-23",
