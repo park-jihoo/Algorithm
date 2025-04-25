@@ -4,6 +4,6 @@ class Solution:
         cnt = Counter([0])
         for i in range(n):
             pref += int(nums[i] % modulo == k)
-            ans += cnt[(pref-k+modulo)%modulo]
-            cnt[pref%modulo]+=1
+            ans += cnt[(pref - k + modulo) % modulo]
+            cnt[pref % modulo] += 1
         return ans

@@ -3874,6 +3874,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "2845-count-of-interesting-subarrays",
+    "languages": "Python",
+    "last_commit_date": "2025-04-26",
+    "slug": "leetcode/Medium/2845-count-of-interesting-subarrays"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "0516-longest-palindromic-subsequence",
     "languages": "Python",
     "last_commit_date": "2024-09-14",
