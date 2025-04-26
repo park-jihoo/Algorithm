@@ -333,7 +333,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Hard | [1289-minimum-falling-path-sum-ii](./leetcode/Hard/1289-minimum-falling-path-sum-ii/) | Python | 2024-04-26 |
 | leetcode | Hard | [0502-ipo](./leetcode/Hard/0502-ipo/) | Python | 2024-06-15 |
 | leetcode | Hard | [2818-apply-operations-to-maximize-score](./leetcode/Hard/2818-apply-operations-to-maximize-score/) | Python | 2025-03-29 |
-| leetcode | Hard | [2444-count-subarrays-with-fixed-bounds](./leetcode/Hard/2444-count-subarrays-with-fixed-bounds/) | Python | 2024-09-14 |
+| leetcode | Hard | [2444-count-subarrays-with-fixed-bounds](./leetcode/Hard/2444-count-subarrays-with-fixed-bounds/) | Python | 2025-04-26 |
 | leetcode | Hard | [1235-maximum-profit-in-job-scheduling](./leetcode/Hard/1235-maximum-profit-in-job-scheduling/) | Python | 2024-01-06 |
 | leetcode | Hard | [2463-minimum-total-distance-traveled](./leetcode/Hard/2463-minimum-total-distance-traveled/) | Python | 2024-10-31 |
 | leetcode | Hard | [0862-shortest-subarray-with-sum-at-least-k](./leetcode/Hard/0862-shortest-subarray-with-sum-at-least-k/) | Python | 2024-11-17 |
@@ -488,7 +488,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [0658-find-k-closest-elements](./leetcode/Medium/0658-find-k-closest-elements/) | Python | 2024-09-14 |
 | leetcode | Medium | [2914-find-the-safest-path-in-a-grid](./leetcode/Medium/2914-find-the-safest-path-in-a-grid/) | Python | 2024-05-15 |
 | leetcode | Medium | [0712-minimum-ascii-delete-sum-for-two-strings](./leetcode/Medium/0712-minimum-ascii-delete-sum-for-two-strings/) | Python | 2023-08-14 |
-| leetcode | Medium | [2845-count-of-interesting-subarrays](./leetcode/Medium/2845-count-of-interesting-subarrays/) | Python | 2025-04-26 |
+| leetcode | Medium | [2845-count-of-interesting-subarrays](./leetcode/Medium/2845-count-of-interesting-subarrays/) | Python | 2025-04-25 |
 | leetcode | Medium | [0516-longest-palindromic-subsequence](./leetcode/Medium/0516-longest-palindromic-subsequence/) | Python | 2024-09-14 |
 | leetcode | Medium | [2486-append-characters-to-string-to-make-subsequence](./leetcode/Medium/2486-append-characters-to-string-to-make-subsequence/) | Python | 2024-06-03 |
 | leetcode | Medium | [1524-number-of-sub-arrays-with-odd-sum](./leetcode/Medium/1524-number-of-sub-arrays-with-odd-sum/) | Python | 2025-02-25 |
