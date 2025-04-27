@@ -181,6 +181,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [0100-same-tree](./leetcode/Easy/0100-same-tree/) | Python | 2024-02-26 |
 | leetcode | Easy | [1608-special-array-with-x-elements-greater-than-or-equal-x](./leetcode/Easy/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Python | 2024-05-27 |
 | leetcode | Easy | [1518-water-bottles](./leetcode/Easy/1518-water-bottles/) | Python | 2024-07-07 |
+| leetcode | Easy | [3392-count-subarrays-of-length-three-with-a-condition](./leetcode/Easy/3392-count-subarrays-of-length-three-with-a-condition/) | Python | 2025-04-27 |
 | leetcode | Easy | [1957-delete-characters-to-make-fancy-string](./leetcode/Easy/1957-delete-characters-to-make-fancy-string/) | Python | 2024-11-01 |
 | leetcode | Easy | [0349-intersection-of-two-arrays](./leetcode/Easy/0349-intersection-of-two-arrays/) | Python | 2024-03-10 |
 | leetcode | Easy | [1108-defanging-an-ip-address](./leetcode/Easy/1108-defanging-an-ip-address/) | Python | 2024-09-14 |
