@@ -7,5 +7,5 @@ class Solution:
             while scr >= k and left < right:
                 left += 1
                 scr = (p[right] - p[left]) * (right - left)
-            ans += (right - left)
+            ans += right - left
         return ans

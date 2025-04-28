@@ -250,6 +250,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Hard | [0632-smallest-range-covering-elements-from-k-lists](./leetcode/Hard/0632-smallest-range-covering-elements-from-k-lists/) | Python | 2024-10-13 |
 | leetcode | Hard | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](./leetcode/Hard/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/) | Python | 2023-08-19 |
 | leetcode | Hard | [1345-jump-game-iv](./leetcode/Hard/1345-jump-game-iv/) | Python | 2024-09-14 |
+| leetcode | Hard | [2302-count-subarrays-with-score-less-than-k](./leetcode/Hard/2302-count-subarrays-with-score-less-than-k/) | Python | 2025-04-28 |
 | leetcode | Hard | [1255-maximum-score-words-formed-by-letters](./leetcode/Hard/1255-maximum-score-words-formed-by-letters/) | Python | 2024-05-24 |
 | leetcode | Hard | [1312-minimum-insertion-steps-to-make-a-string-palindrome](./leetcode/Hard/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Python | 2024-09-14 |
 | leetcode | Hard | [2392-build-a-matrix-with-conditions](./leetcode/Hard/2392-build-a-matrix-with-conditions/) | Python | 2024-07-21 |

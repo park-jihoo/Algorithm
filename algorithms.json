@@ -1970,6 +1970,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Hard",
+    "problem_name": "2302-count-subarrays-with-score-less-than-k",
+    "languages": "Python",
+    "last_commit_date": "2025-04-28",
+    "slug": "leetcode/Hard/2302-count-subarrays-with-score-less-than-k"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Hard",
     "problem_name": "1255-maximum-score-words-formed-by-letters",
     "languages": "Python",
     "last_commit_date": "2024-05-24",
