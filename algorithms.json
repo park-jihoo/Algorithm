@@ -315,8 +315,8 @@
     "platform": "leetcode",
     "difficulty": "Easy",
     "problem_name": "1295-find-numbers-with-even-number-of-digits",
-    "languages": "C++",
-    "last_commit_date": "2024-09-14",
+    "languages": "C++,Python",
+    "last_commit_date": "2025-04-30",
     "slug": "leetcode/Easy/1295-find-numbers-with-even-number-of-digits"
   },
   {

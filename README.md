@@ -43,7 +43,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | 프로그래머스 | lv2 | [60057. 문자열 압축](./프로그래머스/lv2/60057. 문자열 압축/) | Python | 2024-09-14 |
 | 프로그래머스 | lv2 | [42839. 소수 찾기](./프로그래머스/lv2/42839. 소수 찾기/) | Python | 2024-09-14 |
 | leetcode | Easy | [0058-length-of-last-word](./leetcode/Easy/0058-length-of-last-word/) | Python | 2024-04-01 |
-| leetcode | Easy | [1295-find-numbers-with-even-number-of-digits](./leetcode/Easy/1295-find-numbers-with-even-number-of-digits/) | C++ | 2024-09-14 |
+| leetcode | Easy | [1295-find-numbers-with-even-number-of-digits](./leetcode/Easy/1295-find-numbers-with-even-number-of-digits/) | C++,Python | 2025-04-30 |
 | leetcode | Easy | [1232-check-if-it-is-a-straight-line](./leetcode/Easy/1232-check-if-it-is-a-straight-line/) | Python | 2024-09-14 |
 | leetcode | Easy | [1534-count-good-triplets](./leetcode/Easy/1534-count-good-triplets/) | Python | 2025-04-14 |
 | leetcode | Easy | [1916-find-center-of-star-graph](./leetcode/Easy/1916-find-center-of-star-graph/) | Python | 2024-06-27 |
