@@ -3474,6 +3474,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "0838-push-dominoes",
+    "languages": "Python",
+    "last_commit_date": "2025-05-02",
+    "slug": "leetcode/Medium/0838-push-dominoes"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "0142-linked-list-cycle-ii",
     "languages": "Python",
     "last_commit_date": "2024-09-14",

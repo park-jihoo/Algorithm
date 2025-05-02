@@ -438,6 +438,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [0201-bitwise-and-of-numbers-range](./leetcode/Medium/0201-bitwise-and-of-numbers-range/) | Python | 2024-11-23 |
 | leetcode | Medium | [0861-score-after-flipping-matrix](./leetcode/Medium/0861-score-after-flipping-matrix/) | Python | 2024-05-13 |
 | leetcode | Medium | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](./leetcode/Medium/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Python | 2025-03-19 |
+| leetcode | Medium | [0838-push-dominoes](./leetcode/Medium/0838-push-dominoes/) | Python | 2025-05-02 |
 | leetcode | Medium | [0142-linked-list-cycle-ii](./leetcode/Medium/0142-linked-list-cycle-ii/) | Python | 2024-09-14 |
 | leetcode | Medium | [0951-flip-equivalent-binary-trees](./leetcode/Medium/0951-flip-equivalent-binary-trees/) | Python | 2024-10-24 |
 | leetcode | Medium | [0005-longest-palindromic-substring](./leetcode/Medium/0005-longest-palindromic-substring/) | Python | 2023-10-27 |
