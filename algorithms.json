@@ -4010,6 +4010,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "1007-minimum-domino-rotations-for-equal-row",
+    "languages": "Python",
+    "last_commit_date": "2025-05-03",
+    "slug": "leetcode/Medium/1007-minimum-domino-rotations-for-equal-row"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "1110-delete-nodes-and-return-forest",
     "languages": "Python",
     "last_commit_date": "2024-07-17",

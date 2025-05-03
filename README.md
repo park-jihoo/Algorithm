@@ -505,6 +505,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [0921-minimum-add-to-make-parentheses-valid](./leetcode/Medium/0921-minimum-add-to-make-parentheses-valid/) | Python | 2024-10-09 |
 | leetcode | Medium | [1545-find-kth-bit-in-nth-binary-string](./leetcode/Medium/1545-find-kth-bit-in-nth-binary-string/) | Python | 2024-10-19 |
 | leetcode | Medium | [1829-maximum-xor-for-each-query](./leetcode/Medium/1829-maximum-xor-for-each-query/) | Python | 2024-11-08 |
+| leetcode | Medium | [1007-minimum-domino-rotations-for-equal-row](./leetcode/Medium/1007-minimum-domino-rotations-for-equal-row/) | Python | 2025-05-03 |
 | leetcode | Medium | [1110-delete-nodes-and-return-forest](./leetcode/Medium/1110-delete-nodes-and-return-forest/) | Python | 2024-07-17 |
 | leetcode | Medium | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](./leetcode/Medium/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k/) | Python | 2024-04-29 |
 | leetcode | Medium | [1190-reverse-substrings-between-each-pair-of-parentheses](./leetcode/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Python | 2024-07-11 |
