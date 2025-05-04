@@ -1330,6 +1330,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Easy",
+    "problem_name": "1128-number-of-equivalent-domino-pairs",
+    "languages": "Python",
+    "last_commit_date": "2025-05-04",
+    "slug": "leetcode/Easy/1128-number-of-equivalent-domino-pairs"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Easy",
     "problem_name": "1598-crawler-log-folder",
     "languages": "Python",
     "last_commit_date": "2024-07-10",

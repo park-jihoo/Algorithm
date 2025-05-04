@@ -170,6 +170,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [1832-check-if-the-sentence-is-pangram](./leetcode/Easy/1832-check-if-the-sentence-is-pangram/) | Python | 2024-09-14 |
 | leetcode | Easy | [0338-counting-bits](./leetcode/Easy/0338-counting-bits/) | Python | 2023-09-01 |
 | leetcode | Easy | [3005-count-elements-with-maximum-frequency](./leetcode/Easy/3005-count-elements-with-maximum-frequency/) | Python | 2024-03-08 |
+| leetcode | Easy | [1128-number-of-equivalent-domino-pairs](./leetcode/Easy/1128-number-of-equivalent-domino-pairs/) | Python | 2025-05-04 |
 | leetcode | Easy | [1598-crawler-log-folder](./leetcode/Easy/1598-crawler-log-folder/) | Python | 2024-07-10 |
 | leetcode | Easy | [1704-determine-if-string-halves-are-alike](./leetcode/Easy/1704-determine-if-string-halves-are-alike/) | Python | 2024-01-12 |
 | leetcode | Easy | [1662-check-if-two-string-arrays-are-equivalent](./leetcode/Easy/1662-check-if-two-string-arrays-are-equivalent/) | Python | 2023-12-12 |
