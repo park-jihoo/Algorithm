@@ -190,6 +190,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [1732-find-the-highest-altitude](./leetcode/Easy/1732-find-the-highest-altitude/) | Python | 2023-08-14 |
 | leetcode | Easy | [1331-rank-transform-of-an-array](./leetcode/Easy/1331-rank-transform-of-an-array/) | Python | 2024-10-02 |
 | leetcode | Easy | [0844-backspace-string-compare](./leetcode/Easy/0844-backspace-string-compare/) | Python | 2023-10-19 |
+| leetcode | Easy | [1920-build-array-from-permutation](./leetcode/Easy/1920-build-array-from-permutation/) | Python | 2025-05-06 |
 | leetcode | Easy | [0225-implement-stack-using-queues](./leetcode/Easy/0225-implement-stack-using-queues/) | C,C++,Python | 2023-08-28 |
 | leetcode | Easy | [0175-combine-two-tables](./leetcode/Easy/0175-combine-two-tables/) | SQL | 2024-09-14 |
 | leetcode | Easy | [0703-kth-largest-element-in-a-stream](./leetcode/Easy/0703-kth-largest-element-in-a-stream/) | Python | 2023-08-14 |
@@ -557,6 +558,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [1381-design-a-stack-with-increment-operation](./leetcode/Medium/1381-design-a-stack-with-increment-operation/) | Python | 2024-09-30 |
 | leetcode | Medium | [1020-number-of-enclaves](./leetcode/Medium/1020-number-of-enclaves/) | Python | 2024-09-14 |
 | leetcode | Medium | [0133-clone-graph](./leetcode/Medium/0133-clone-graph/) | Python | 2024-09-14 |
+| leetcode | Medium | [0790-domino-and-tromino-tiling](./leetcode/Medium/0790-domino-and-tromino-tiling/) | Unknown | 2025-05-05 |
 | leetcode | Medium | [0427-construct-quad-tree](./leetcode/Medium/0427-construct-quad-tree/) | Python | 2024-09-14 |
 | leetcode | Medium | [0846-hand-of-straights](./leetcode/Medium/0846-hand-of-straights/) | Python | 2024-06-06 |
 | leetcode | Medium | [0131-palindrome-partitioning](./leetcode/Medium/0131-palindrome-partitioning/) | Python | 2024-05-22 |
