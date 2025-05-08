@@ -2,7 +2,7 @@ class Solution:
     def minTimeToReach(self, moveTime: List[List[int]]) -> int:
         m, n = len(moveTime), len(moveTime[0])
         dirs = [(-1, 0), (1, 0), (0, -1), (0, 1)]
-        dist = [[float('inf')]*n for _ in range(m)]
+        dist = [[float("inf")] * n for _ in range(m)]
         dist[0][0] = 0
         heap = [(0, 0, 0, 1)]
         visited = set()
@@ -13,8 +13,8 @@ class Solution:
                 continue
             visited.add((x, y))
             for dx, dy in dirs:
-                nx, ny = x+dx, y+dy
-                if 0<=nx<m and 0<=ny<n:
+                nx, ny = x + dx, y + dy
+                if 0 <= nx < m and 0 <= ny < n:
                     if moveTime[nx][ny] > dist[x][y]:
                         dist[nx][ny] = moveTime[nx][ny] + f
                     elif dist[x][y] + f < dist[nx][ny]:
@@ -23,4 +23,4 @@ class Solution:
                         continue
                     nf = 1 + f % 2
                     heapq.heappush(heap, (dist[nx][ny], nx, ny, nf))
-        return dist[m-1][n-1]
+        return dist[m - 1][n - 1]

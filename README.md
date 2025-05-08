@@ -597,6 +597,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [2780-minimum-index-of-a-valid-split](./leetcode/Medium/2780-minimum-index-of-a-valid-split/) | Python | 2025-03-28 |
 | leetcode | Medium | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](./leetcode/Medium/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Python | 2024-09-14 |
 | leetcode | Medium | [0028-find-the-index-of-the-first-occurrence-in-a-string](./leetcode/Medium/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Python | 2024-09-14 |
+| leetcode | Medium | [3342-find-minimum-time-to-reach-last-room-ii](./leetcode/Medium/3342-find-minimum-time-to-reach-last-room-ii/) | Python | 2025-05-08 |
 | leetcode | Medium | [0091-decode-ways](./leetcode/Medium/0091-decode-ways/) | Python | 2023-12-25 |
 | leetcode | Medium | [0012-integer-to-roman](./leetcode/Medium/0012-integer-to-roman/) | Python | 2024-09-14 |
 | leetcode | Medium | [0647-palindromic-substrings](./leetcode/Medium/0647-palindromic-substrings/) | Python | 2024-02-10 |
