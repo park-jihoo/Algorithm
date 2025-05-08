@@ -364,6 +364,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [2385-amount-of-time-for-binary-tree-to-be-infected](./leetcode/Medium/2385-amount-of-time-for-binary-tree-to-be-infected/) | Python | 2024-01-10 |
 | leetcode | Medium | [1552-magnetic-force-between-two-balls](./leetcode/Medium/1552-magnetic-force-between-two-balls/) | Python | 2024-06-20 |
 | leetcode | Medium | [0622-design-circular-queue](./leetcode/Medium/0622-design-circular-queue/) | C++ | 2024-09-14 |
+| leetcode | Medium | [3341-find-minimum-time-to-reach-last-room-i](./leetcode/Medium/3341-find-minimum-time-to-reach-last-room-i/) | Python | 2025-05-08 |
 | leetcode | Medium | [2140-solving-questions-with-brainpower](./leetcode/Medium/2140-solving-questions-with-brainpower/) | Python | 2025-04-01 |
 | leetcode | Medium | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](./leetcode/Medium/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color/) | Python | 2023-10-02 |
 | leetcode | Medium | [0539-minimum-time-difference](./leetcode/Medium/0539-minimum-time-difference/) | Python | 2024-09-16 |

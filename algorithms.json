@@ -2882,6 +2882,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "3341-find-minimum-time-to-reach-last-room-i",
+    "languages": "Python",
+    "last_commit_date": "2025-05-08",
+    "slug": "leetcode/Medium/3341-find-minimum-time-to-reach-last-room-i"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "2140-solving-questions-with-brainpower",
     "languages": "Python",
     "last_commit_date": "2025-04-01",
