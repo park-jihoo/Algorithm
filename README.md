@@ -257,6 +257,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Hard | [1312-minimum-insertion-steps-to-make-a-string-palindrome](./leetcode/Hard/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Python | 2024-09-14 |
 | leetcode | Hard | [2392-build-a-matrix-with-conditions](./leetcode/Hard/2392-build-a-matrix-with-conditions/) | Python | 2024-07-21 |
 | leetcode | Hard | [2097-valid-arrangement-of-pairs](./leetcode/Hard/2097-valid-arrangement-of-pairs/) | Python | 2024-11-30 |
+| leetcode | Hard | [3343-count-number-of-balanced-permutations](./leetcode/Hard/3343-count-number-of-balanced-permutations/) | Python | 2025-05-10 |
 | leetcode | Hard | [2448-minimum-cost-to-make-array-equal](./leetcode/Hard/2448-minimum-cost-to-make-array-equal/) | Python | 2023-08-14 |
 | leetcode | Hard | [1406-stone-game-iii](./leetcode/Hard/1406-stone-game-iii/) | Python | 2023-08-14 |
 | leetcode | Hard | [2742-painting-the-walls](./leetcode/Hard/2742-painting-the-walls/) | Python | 2023-10-14 |
