@@ -916,7 +916,7 @@
     "difficulty": "Easy",
     "problem_name": "1550-three-consecutive-odds",
     "languages": "Python",
-    "last_commit_date": "2024-07-01",
+    "last_commit_date": "2025-05-11",
     "slug": "leetcode/Easy/1550-three-consecutive-odds"
   },
   {
@@ -2028,7 +2028,7 @@
     "difficulty": "Hard",
     "problem_name": "3343-count-number-of-balanced-permutations",
     "languages": "Python",
-    "last_commit_date": "2025-05-10",
+    "last_commit_date": "2025-05-09",
     "slug": "leetcode/Hard/3343-count-number-of-balanced-permutations"
   },
   {
@@ -3486,6 +3486,14 @@
     "languages": "Python",
     "last_commit_date": "2024-11-23",
     "slug": "leetcode/Medium/0201-bitwise-and-of-numbers-range"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
+    "problem_name": "2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros",
+    "languages": "Unknown",
+    "last_commit_date": "2025-05-10",
+    "slug": "leetcode/Medium/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros"
   },
   {
     "platform": "leetcode",

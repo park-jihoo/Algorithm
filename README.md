@@ -118,7 +118,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [2460-apply-operations-to-an-array](./leetcode/Easy/2460-apply-operations-to-an-array/) | Python | 2025-03-01 |
 | leetcode | Easy | [1758-minimum-changes-to-make-alternating-binary-string](./leetcode/Easy/1758-minimum-changes-to-make-alternating-binary-string/) | Python | 2023-12-24 |
 | leetcode | Easy | [0404-sum-of-left-leaves](./leetcode/Easy/0404-sum-of-left-leaves/) | Python | 2024-04-14 |
-| leetcode | Easy | [1550-three-consecutive-odds](./leetcode/Easy/1550-three-consecutive-odds/) | Python | 2024-07-01 |
+| leetcode | Easy | [1550-three-consecutive-odds](./leetcode/Easy/1550-three-consecutive-odds/) | Python | 2025-05-11 |
 | leetcode | Easy | [0867-transpose-matrix](./leetcode/Easy/0867-transpose-matrix/) | Python | 2023-12-10 |
 | leetcode | Easy | [0509-fibonacci-number](./leetcode/Easy/0509-fibonacci-number/) | Python | 2024-09-14 |
 | leetcode | Easy | [2558-take-gifts-from-the-richest-pile](./leetcode/Easy/2558-take-gifts-from-the-richest-pile/) | Python | 2024-12-14 |
@@ -257,7 +257,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Hard | [1312-minimum-insertion-steps-to-make-a-string-palindrome](./leetcode/Hard/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Python | 2024-09-14 |
 | leetcode | Hard | [2392-build-a-matrix-with-conditions](./leetcode/Hard/2392-build-a-matrix-with-conditions/) | Python | 2024-07-21 |
 | leetcode | Hard | [2097-valid-arrangement-of-pairs](./leetcode/Hard/2097-valid-arrangement-of-pairs/) | Python | 2024-11-30 |
-| leetcode | Hard | [3343-count-number-of-balanced-permutations](./leetcode/Hard/3343-count-number-of-balanced-permutations/) | Python | 2025-05-10 |
+| leetcode | Hard | [3343-count-number-of-balanced-permutations](./leetcode/Hard/3343-count-number-of-balanced-permutations/) | Python | 2025-05-09 |
 | leetcode | Hard | [2448-minimum-cost-to-make-array-equal](./leetcode/Hard/2448-minimum-cost-to-make-array-equal/) | Python | 2023-08-14 |
 | leetcode | Hard | [1406-stone-game-iii](./leetcode/Hard/1406-stone-game-iii/) | Python | 2023-08-14 |
 | leetcode | Hard | [2742-painting-the-walls](./leetcode/Hard/2742-painting-the-walls/) | Python | 2023-10-14 |
@@ -440,6 +440,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [2101-detonate-the-maximum-bombs](./leetcode/Medium/2101-detonate-the-maximum-bombs/) | Python | 2023-08-14 |
 | leetcode | Medium | [0054-spiral-matrix](./leetcode/Medium/0054-spiral-matrix/) | C++,Python | 2023-08-14 |
 | leetcode | Medium | [0201-bitwise-and-of-numbers-range](./leetcode/Medium/0201-bitwise-and-of-numbers-range/) | Python | 2024-11-23 |
+| leetcode | Medium | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](./leetcode/Medium/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros/) | Unknown | 2025-05-10 |
 | leetcode | Medium | [0861-score-after-flipping-matrix](./leetcode/Medium/0861-score-after-flipping-matrix/) | Python | 2024-05-13 |
 | leetcode | Medium | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](./leetcode/Medium/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Python | 2025-03-19 |
 | leetcode | Medium | [0838-push-dominoes](./leetcode/Medium/0838-push-dominoes/) | Python | 2025-05-02 |
