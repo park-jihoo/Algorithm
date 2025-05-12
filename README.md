@@ -149,6 +149,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [1207-unique-number-of-occurrences](./leetcode/Easy/1207-unique-number-of-occurrences/) | Python | 2024-01-17 |
 | leetcode | Easy | [2037-minimum-number-of-moves-to-seat-everyone](./leetcode/Easy/2037-minimum-number-of-moves-to-seat-everyone/) | Python | 2024-06-13 |
 | leetcode | Easy | [3151-special-array-i](./leetcode/Easy/3151-special-array-i/) | Python | 2025-02-01 |
+| leetcode | Easy | [2094-finding-3-digit-even-numbers](./leetcode/Easy/2094-finding-3-digit-even-numbers/) | Python | 2025-05-12 |
 | leetcode | Easy | [1863-sum-of-all-subset-xor-totals](./leetcode/Easy/1863-sum-of-all-subset-xor-totals/) | Python | 2024-05-20 |
 | leetcode | Easy | [2220-minimum-bit-flips-to-convert-number](./leetcode/Easy/2220-minimum-bit-flips-to-convert-number/) | Python | 2024-09-12 |
 | leetcode | Easy | [0876-middle-of-the-linked-list](./leetcode/Easy/0876-middle-of-the-linked-list/) | Python | 2024-03-07 |

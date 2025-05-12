@@ -1162,6 +1162,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Easy",
+    "problem_name": "2094-finding-3-digit-even-numbers",
+    "languages": "Python",
+    "last_commit_date": "2025-05-12",
+    "slug": "leetcode/Easy/2094-finding-3-digit-even-numbers"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Easy",
     "problem_name": "1863-sum-of-all-subset-xor-totals",
     "languages": "Python",
     "last_commit_date": "2024-05-20",
