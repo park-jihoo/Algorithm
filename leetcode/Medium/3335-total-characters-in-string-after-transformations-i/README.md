@@ -22,26 +22,27 @@
 <ul>
 	<li><strong>First Transformation (t = 1)</strong>:
 
-	<ul>
-		<li><code>&#39;a&#39;</code> becomes <code>&#39;b&#39;</code></li>
-		<li><code>&#39;b&#39;</code> becomes <code>&#39;c&#39;</code></li>
-		<li><code>&#39;c&#39;</code> becomes <code>&#39;d&#39;</code></li>
-		<li><code>&#39;y&#39;</code> becomes <code>&#39;z&#39;</code></li>
-		<li><code>&#39;y&#39;</code> becomes <code>&#39;z&#39;</code></li>
-		<li>String after the first transformation: <code>&quot;bcdzz&quot;</code></li>
-	</ul>
-	</li>
-	<li><strong>Second Transformation (t = 2)</strong>:
-	<ul>
-		<li><code>&#39;b&#39;</code> becomes <code>&#39;c&#39;</code></li>
-		<li><code>&#39;c&#39;</code> becomes <code>&#39;d&#39;</code></li>
-		<li><code>&#39;d&#39;</code> becomes <code>&#39;e&#39;</code></li>
-		<li><code>&#39;z&#39;</code> becomes <code>&quot;ab&quot;</code></li>
-		<li><code>&#39;z&#39;</code> becomes <code>&quot;ab&quot;</code></li>
-		<li>String after the second transformation: <code>&quot;cdeabab&quot;</code></li>
-	</ul>
-	</li>
-	<li><strong>Final Length of the string</strong>: The string is <code>&quot;cdeabab&quot;</code>, which has 7 characters.</li>
+    <ul>
+    	<li><code>&#39;a&#39;</code> becomes <code>&#39;b&#39;</code></li>
+    	<li><code>&#39;b&#39;</code> becomes <code>&#39;c&#39;</code></li>
+    	<li><code>&#39;c&#39;</code> becomes <code>&#39;d&#39;</code></li>
+    	<li><code>&#39;y&#39;</code> becomes <code>&#39;z&#39;</code></li>
+    	<li><code>&#39;y&#39;</code> becomes <code>&#39;z&#39;</code></li>
+    	<li>String after the first transformation: <code>&quot;bcdzz&quot;</code></li>
+    </ul>
+    </li>
+    <li><strong>Second Transformation (t = 2)</strong>:
+    <ul>
+    	<li><code>&#39;b&#39;</code> becomes <code>&#39;c&#39;</code></li>
+    	<li><code>&#39;c&#39;</code> becomes <code>&#39;d&#39;</code></li>
+    	<li><code>&#39;d&#39;</code> becomes <code>&#39;e&#39;</code></li>
+    	<li><code>&#39;z&#39;</code> becomes <code>&quot;ab&quot;</code></li>
+    	<li><code>&#39;z&#39;</code> becomes <code>&quot;ab&quot;</code></li>
+    	<li>String after the second transformation: <code>&quot;cdeabab&quot;</code></li>
+    </ul>
+    </li>
+    <li><strong>Final Length of the string</strong>: The string is <code>&quot;cdeabab&quot;</code>, which has 7 characters.</li>
+
 </ul>
 </div>
 
@@ -57,15 +58,16 @@
 <ul>
 	<li><strong>First Transformation (t = 1)</strong>:
 
-	<ul>
-		<li><code>&#39;a&#39;</code> becomes <code>&#39;b&#39;</code></li>
-		<li><code>&#39;z&#39;</code> becomes <code>&quot;ab&quot;</code></li>
-		<li><code>&#39;b&#39;</code> becomes <code>&#39;c&#39;</code></li>
-		<li><code>&#39;k&#39;</code> becomes <code>&#39;l&#39;</code></li>
-		<li>String after the first transformation: <code>&quot;babcl&quot;</code></li>
-	</ul>
-	</li>
-	<li><strong>Final Length of the string</strong>: The string is <code>&quot;babcl&quot;</code>, which has 5 characters.</li>
+    <ul>
+    	<li><code>&#39;a&#39;</code> becomes <code>&#39;b&#39;</code></li>
+    	<li><code>&#39;z&#39;</code> becomes <code>&quot;ab&quot;</code></li>
+    	<li><code>&#39;b&#39;</code> becomes <code>&#39;c&#39;</code></li>
+    	<li><code>&#39;k&#39;</code> becomes <code>&#39;l&#39;</code></li>
+    	<li>String after the first transformation: <code>&quot;babcl&quot;</code></li>
+    </ul>
+    </li>
+    <li><strong>Final Length of the string</strong>: The string is <code>&quot;babcl&quot;</code>, which has 5 characters.</li>
+
 </ul>
 </div>
 

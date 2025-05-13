@@ -549,6 +549,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [1894-find-the-student-that-will-replace-the-chalk](./leetcode/Medium/1894-find-the-student-that-will-replace-the-chalk/) | Python | 2024-09-02 |
 | leetcode | Medium | [2134-minimum-swaps-to-group-all-1s-together-ii](./leetcode/Medium/2134-minimum-swaps-to-group-all-1s-together-ii/) | Python | 2024-08-02 |
 | leetcode | Medium | [2779-maximum-beauty-of-an-array-after-applying-operation](./leetcode/Medium/2779-maximum-beauty-of-an-array-after-applying-operation/) | Python | 2024-12-11 |
+| leetcode | Medium | [3335-total-characters-in-string-after-transformations-i](./leetcode/Medium/3335-total-characters-in-string-after-transformations-i/) | Python | 2025-05-13 |
 | leetcode | Medium | [1535-find-the-winner-of-an-array-game](./leetcode/Medium/1535-find-the-winner-of-an-array-game/) | Python | 2023-11-05 |
 | leetcode | Medium | [2149-rearrange-array-elements-by-sign](./leetcode/Medium/2149-rearrange-array-elements-by-sign/) | Python | 2024-02-14 |
 | leetcode | Medium | [0875-koko-eating-bananas](./leetcode/Medium/0875-koko-eating-bananas/) | Python | 2024-09-14 |

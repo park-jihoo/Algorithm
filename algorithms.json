@@ -4362,6 +4362,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "3335-total-characters-in-string-after-transformations-i",
+    "languages": "Python",
+    "last_commit_date": "2025-05-13",
+    "slug": "leetcode/Medium/3335-total-characters-in-string-after-transformations-i"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "1535-find-the-winner-of-an-array-game",
     "languages": "Python",
     "last_commit_date": "2023-11-05",
