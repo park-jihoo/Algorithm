@@ -20,16 +20,15 @@ class Solution:
         return res
 
     def lengthAfterTransformations(self, s: str, t: int, nums: List[int]) -> int:
-        self.mod = 10 ** 9  + 7
+        self.mod = 10**9 + 7
         m = 26
         cntr = Counter(s)
         cnt = [cntr[chr(c + ord("a"))] for c in range(m)]
         mat = [[0] * m for _ in range(m)]
         for i, x in enumerate(nums):
             for j in range(x):
-                mat[i][(i+j+1)%m] = 1
+                mat[i][(i + j + 1) % m] = 1
         cnt = [cnt]
         factor = self.matpow(mat, t)
         result = self.matmul(cnt, factor)[0]
-        return sum(result)%self.mod
-        
+        return sum(result) % self.mod

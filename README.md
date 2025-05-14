@@ -304,6 +304,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Hard | [2092-find-all-people-with-secret](./leetcode/Hard/2092-find-all-people-with-secret/) | Python | 2024-02-24 |
 | leetcode | Hard | [0920-number-of-music-playlists](./leetcode/Hard/0920-number-of-music-playlists/) | Python | 2023-08-14 |
 | leetcode | Hard | [0446-arithmetic-slices-ii-subsequence](./leetcode/Hard/0446-arithmetic-slices-ii-subsequence/) | Python | 2024-01-07 |
+| leetcode | Hard | [3337-total-characters-in-string-after-transformations-ii](./leetcode/Hard/3337-total-characters-in-string-after-transformations-ii/) | Python | 2025-05-14 |
 | leetcode | Hard | [0185-department-top-three-salaries](./leetcode/Hard/0185-department-top-three-salaries/) | SQL | 2024-09-14 |
 | leetcode | Hard | [2179-count-good-triplets-in-an-array](./leetcode/Hard/2179-count-good-triplets-in-an-array/) | Python | 2025-04-15 |
 | leetcode | Hard | [0857-minimum-cost-to-hire-k-workers](./leetcode/Hard/0857-minimum-cost-to-hire-k-workers/) | Python | 2024-05-11 |

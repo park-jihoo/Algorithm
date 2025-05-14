@@ -2402,6 +2402,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Hard",
+    "problem_name": "3337-total-characters-in-string-after-transformations-ii",
+    "languages": "Python",
+    "last_commit_date": "2025-05-14",
+    "slug": "leetcode/Hard/3337-total-characters-in-string-after-transformations-ii"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Hard",
     "problem_name": "0185-department-top-three-salaries",
     "languages": "SQL",
     "last_commit_date": "2024-09-14",
