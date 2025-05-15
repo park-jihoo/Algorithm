@@ -858,6 +858,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Easy",
+    "problem_name": "2900-longest-unequal-adjacent-groups-subsequence-i",
+    "languages": "Python",
+    "last_commit_date": "2025-05-15",
+    "slug": "leetcode/Easy/2900-longest-unequal-adjacent-groups-subsequence-i"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Easy",
     "problem_name": "2873-maximum-value-of-an-ordered-triplet-i",
     "languages": "Python",
     "last_commit_date": "2025-04-02",

@@ -111,6 +111,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [3264-final-array-state-after-k-multiplication-operations-i](./leetcode/Easy/3264-final-array-state-after-k-multiplication-operations-i/) | Python | 2024-12-16 |
 | leetcode | Easy | [0001-two-sum](./leetcode/Easy/0001-two-sum/) | C,C++,Java,JavaScript,Python | 2024-09-14 |
 | leetcode | Easy | [1582-special-positions-in-a-binary-matrix](./leetcode/Easy/1582-special-positions-in-a-binary-matrix/) | Python | 2023-12-17 |
+| leetcode | Easy | [2900-longest-unequal-adjacent-groups-subsequence-i](./leetcode/Easy/2900-longest-unequal-adjacent-groups-subsequence-i/) | Python | 2025-05-15 |
 | leetcode | Easy | [2873-maximum-value-of-an-ordered-triplet-i](./leetcode/Easy/2873-maximum-value-of-an-ordered-triplet-i/) | Python | 2025-04-02 |
 | leetcode | Easy | [0572-subtree-of-another-tree](./leetcode/Easy/0572-subtree-of-another-tree/) | Python | 2024-09-14 |
 | leetcode | Easy | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](./leetcode/Easy/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Python | 2025-02-03 |
