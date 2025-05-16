@@ -633,6 +633,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [1395-count-number-of-teams](./leetcode/Medium/1395-count-number-of-teams/) | Python | 2024-07-29 |
 | leetcode | Medium | [0934-shortest-bridge](./leetcode/Medium/0934-shortest-bridge/) | Python | 2023-08-14 |
 | leetcode | Medium | [0567-permutation-in-string](./leetcode/Medium/0567-permutation-in-string/) | Python | 2024-10-05 |
+| leetcode | Medium | [2901-longest-unequal-adjacent-groups-subsequence-ii](./leetcode/Medium/2901-longest-unequal-adjacent-groups-subsequence-ii/) | Python | 2025-05-16 |
 | leetcode | Medium | [2125-number-of-laser-beams-in-a-bank](./leetcode/Medium/2125-number-of-laser-beams-in-a-bank/) | Python | 2024-01-03 |
 | leetcode | Medium | [0402-remove-k-digits](./leetcode/Medium/0402-remove-k-digits/) | Python | 2024-04-11 |
 | leetcode | Medium | [0211-design-add-and-search-words-data-structure](./leetcode/Medium/0211-design-add-and-search-words-data-structure/) | Python | 2024-09-14 |
