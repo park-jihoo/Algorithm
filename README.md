@@ -861,6 +861,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [1249-minimum-remove-to-make-valid-parentheses](./leetcode/Medium/1249-minimum-remove-to-make-valid-parentheses/) | Python | 2024-04-06 |
 | leetcode | Medium | [1552-magnetic-force-between-two-balls](./leetcode/Medium/1552-magnetic-force-between-two-balls/) | Python | 2024-06-20 |
 | leetcode | Medium | [0838-push-dominoes](./leetcode/Medium/0838-push-dominoes/) | Python | 2025-05-02 |
+| leetcode | Medium | [3355-zero-array-transformation-i](./leetcode/Medium/3355-zero-array-transformation-i/) | Python | 2025-05-20 |
 | leetcode | Medium | [3075-maximize-happiness-of-selected-children](./leetcode/Medium/3075-maximize-happiness-of-selected-children/) | Python | 2024-05-09 |
 | leetcode | Medium | [1760-minimum-limit-of-balls-in-a-bag](./leetcode/Medium/1760-minimum-limit-of-balls-in-a-bag/) | Python | 2024-12-07 |
 | leetcode | Medium | [0054-spiral-matrix](./leetcode/Medium/0054-spiral-matrix/) | C++,Python | 2023-08-14 |

@@ -24,11 +24,12 @@
 <ul>
 	<li><strong>For i = 0:</strong>
 
-	<ul>
-		<li>Select the subset of indices as <code>[0, 2]</code> and decrement the values at these indices by 1.</li>
-		<li>The array will become <code>[0, 0, 0]</code>, which is a Zero Array.</li>
-	</ul>
-	</li>
+    <ul>
+    	<li>Select the subset of indices as <code>[0, 2]</code> and decrement the values at these indices by 1.</li>
+    	<li>The array will become <code>[0, 0, 0]</code>, which is a Zero Array.</li>
+    </ul>
+    </li>
+
 </ul>
 </div>
 
@@ -44,17 +45,18 @@
 <ul>
 	<li><strong>For i = 0:</strong>
 
-	<ul>
-		<li>Select the subset of indices as <code>[1, 2, 3]</code> and decrement the values at these indices by 1.</li>
-		<li>The array will become <code>[4, 2, 1, 0]</code>.</li>
-	</ul>
-	</li>
-	<li><strong>For i = 1:</strong>
-	<ul>
-		<li>Select the subset of indices as <code>[0, 1, 2]</code> and decrement the values at these indices by 1.</li>
-		<li>The array will become <code>[3, 1, 0, 0]</code>, which is not a Zero Array.</li>
-	</ul>
-	</li>
+    <ul>
+    	<li>Select the subset of indices as <code>[1, 2, 3]</code> and decrement the values at these indices by 1.</li>
+    	<li>The array will become <code>[4, 2, 1, 0]</code>.</li>
+    </ul>
+    </li>
+    <li><strong>For i = 1:</strong>
+    <ul>
+    	<li>Select the subset of indices as <code>[0, 1, 2]</code> and decrement the values at these indices by 1.</li>
+    	<li>The array will become <code>[3, 1, 0, 0]</code>, which is not a Zero Array.</li>
+    </ul>
+    </li>
+
 </ul>
 </div>
 
