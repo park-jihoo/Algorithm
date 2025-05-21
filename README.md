@@ -545,6 +545,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [0540-single-element-in-a-sorted-array](./leetcode/Medium/0540-single-element-in-a-sorted-array/) | Java,Python | 2024-09-14 |
 | leetcode | Medium | [0624-maximum-distance-in-arrays](./leetcode/Medium/0624-maximum-distance-in-arrays/) | Python | 2024-09-14 |
 | leetcode | Medium | [0934-shortest-bridge](./leetcode/Medium/0934-shortest-bridge/) | Python | 2023-08-14 |
+| leetcode | Medium | [0073-set-matrix-zeroes](./leetcode/Medium/0073-set-matrix-zeroes/) | Python | 2025-05-21 |
 | leetcode | Medium | [0024-swap-nodes-in-pairs](./leetcode/Medium/0024-swap-nodes-in-pairs/) | Python | 2023-08-14 |
 | leetcode | Medium | [0658-find-k-closest-elements](./leetcode/Medium/0658-find-k-closest-elements/) | Python | 2024-09-14 |
 | leetcode | Medium | [0200-number-of-islands](./leetcode/Medium/0200-number-of-islands/) | Python | 2024-04-19 |

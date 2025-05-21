@@ -15,4 +15,4 @@ class Solution:
                 matrix[i][j] = 0
         for j in col:
             for i in range(n):
-                matrix[i][j]=0
+                matrix[i][j] = 0
