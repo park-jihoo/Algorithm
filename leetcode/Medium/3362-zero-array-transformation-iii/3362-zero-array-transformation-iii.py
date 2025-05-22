@@ -3,7 +3,7 @@ class Solution:
         queries.sort()
         ops, r = 0, 0
         heap = []
-        delta = [0] * (len(nums)+1)
+        delta = [0] * (len(nums) + 1)
         for l, elem in enumerate(nums):
             ops += delta[l]
             while r < len(queries) and queries[r][0] == l:

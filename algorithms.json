@@ -4242,6 +4242,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "3362-zero-array-transformation-iii",
+    "languages": "Python",
+    "last_commit_date": "2025-05-22",
+    "slug": "leetcode/Medium/3362-zero-array-transformation-iii"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "1396-design-underground-system",
     "languages": "Python",
     "last_commit_date": "2024-09-14",

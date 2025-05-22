@@ -534,6 +534,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [0712-minimum-ascii-delete-sum-for-two-strings](./leetcode/Medium/0712-minimum-ascii-delete-sum-for-two-strings/) | Python | 2023-08-14 |
 | leetcode | Medium | [2779-maximum-beauty-of-an-array-after-applying-operation](./leetcode/Medium/2779-maximum-beauty-of-an-array-after-applying-operation/) | Python | 2024-12-11 |
 | leetcode | Medium | [0673-number-of-longest-increasing-subsequence](./leetcode/Medium/0673-number-of-longest-increasing-subsequence/) | Python | 2023-08-14 |
+| leetcode | Medium | [3362-zero-array-transformation-iii](./leetcode/Medium/3362-zero-array-transformation-iii/) | Python | 2025-05-22 |
 | leetcode | Medium | [1396-design-underground-system](./leetcode/Medium/1396-design-underground-system/) | Python | 2024-09-14 |
 | leetcode | Medium | [2579-count-total-number-of-colored-cells](./leetcode/Medium/2579-count-total-number-of-colored-cells/) | Python | 2025-03-05 |
 | leetcode | Medium | [2225-find-players-with-zero-or-one-losses](./leetcode/Medium/2225-find-players-with-zero-or-one-losses/) | Python | 2024-01-15 |
