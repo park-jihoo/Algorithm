@@ -328,7 +328,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Hard | [0564-find-the-closest-palindrome](./leetcode/Hard/0564-find-the-closest-palindrome/) | Python | 2024-08-24 |
 | leetcode | Hard | [2493-divide-nodes-into-the-maximum-number-of-groups](./leetcode/Hard/2493-divide-nodes-into-the-maximum-number-of-groups/) | Python | 2025-01-30 |
 | leetcode | Hard | [1416-restore-the-array](./leetcode/Hard/1416-restore-the-array/) | Python | 2024-09-14 |
-| leetcode | Hard | [3068-find-the-maximum-sum-of-node-values](./leetcode/Hard/3068-find-the-maximum-sum-of-node-values/) | Python | 2024-09-14 |
+| leetcode | Hard | [3068-find-the-maximum-sum-of-node-values](./leetcode/Hard/3068-find-the-maximum-sum-of-node-values/) | Python | 2025-05-23 |
 | leetcode | Hard | [0458-poor-pigs](./leetcode/Hard/0458-poor-pigs/) | Python | 2023-10-29 |
 | leetcode | Hard | [1751-maximum-number-of-events-that-can-be-attended-ii](./leetcode/Hard/1751-maximum-number-of-events-that-can-be-attended-ii/) | Python | 2023-08-14 |
 | leetcode | Hard | [2642-design-graph-with-shortest-path-calculator](./leetcode/Hard/2642-design-graph-with-shortest-path-calculator/) | Python | 2024-09-14 |
