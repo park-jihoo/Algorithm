@@ -1650,6 +1650,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Easy",
+    "problem_name": "2942-find-words-containing-character",
+    "languages": "Python",
+    "last_commit_date": "2025-05-24",
+    "slug": "leetcode/Easy/2942-find-words-containing-character"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Easy",
     "problem_name": "0501-find-mode-in-binary-search-tree",
     "languages": "Python",
     "last_commit_date": "2024-09-14",

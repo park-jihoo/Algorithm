@@ -210,6 +210,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [0181-employees-earning-more-than-their-managers](./leetcode/Easy/0181-employees-earning-more-than-their-managers/) | SQL | 2023-09-15 |
 | leetcode | Easy | [1598-crawler-log-folder](./leetcode/Easy/1598-crawler-log-folder/) | Python | 2024-07-10 |
 | leetcode | Easy | [1903-largest-odd-number-in-string](./leetcode/Easy/1903-largest-odd-number-in-string/) | Python | 2023-12-21 |
+| leetcode | Easy | [2942-find-words-containing-character](./leetcode/Easy/2942-find-words-containing-character/) | Python | 2025-05-24 |
 | leetcode | Easy | [0501-find-mode-in-binary-search-tree](./leetcode/Easy/0501-find-mode-in-binary-search-tree/) | Python | 2024-09-14 |
 | leetcode | Easy | [0350-intersection-of-two-arrays-ii](./leetcode/Easy/0350-intersection-of-two-arrays-ii/) | Python | 2024-07-02 |
 | leetcode | Easy | [0867-transpose-matrix](./leetcode/Easy/0867-transpose-matrix/) | Python | 2023-12-10 |
