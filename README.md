@@ -638,6 +638,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [0542-01-matrix](./leetcode/Medium/0542-01-matrix/) | Python | 2023-08-17 |
 | leetcode | Medium | [0341-flatten-nested-list-iterator](./leetcode/Medium/0341-flatten-nested-list-iterator/) | Python | 2023-10-20 |
 | leetcode | Medium | [1319-number-of-operations-to-make-network-connected](./leetcode/Medium/1319-number-of-operations-to-make-network-connected/) | Python | 2024-09-14 |
+| leetcode | Medium | [2131-longest-palindrome-by-concatenating-two-letter-words](./leetcode/Medium/2131-longest-palindrome-by-concatenating-two-letter-words/) | Python | 2025-05-25 |
 | leetcode | Medium | [0215-kth-largest-element-in-an-array](./leetcode/Medium/0215-kth-largest-element-in-an-array/) | Python | 2023-08-14 |
 | leetcode | Medium | [1457-pseudo-palindromic-paths-in-a-binary-tree](./leetcode/Medium/1457-pseudo-palindromic-paths-in-a-binary-tree/) | Python | 2024-01-24 |
 | leetcode | Medium | [0885-spiral-matrix-iii](./leetcode/Medium/0885-spiral-matrix-iii/) | Python | 2024-08-08 |
