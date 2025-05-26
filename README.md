@@ -417,7 +417,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Hard | [1345-jump-game-iv](./leetcode/Hard/1345-jump-game-iv/) | Python | 2024-09-14 |
 | leetcode | Hard | [1458-max-dot-product-of-two-subsequences](./leetcode/Hard/1458-max-dot-product-of-two-subsequences/) | Python | 2023-10-08 |
 | leetcode | Hard | [2171-second-minimum-time-to-reach-destination](./leetcode/Hard/2171-second-minimum-time-to-reach-destination/) | Python | 2024-09-14 |
-| leetcode | Hard | [1857-largest-color-value-in-a-directed-graph](./leetcode/Hard/1857-largest-color-value-in-a-directed-graph/) | Python | 2024-09-14 |
+| leetcode | Hard | [1857-largest-color-value-in-a-directed-graph](./leetcode/Hard/1857-largest-color-value-in-a-directed-graph/) | Python | 2025-05-26 |
 | leetcode | Hard | [1037-minimum-number-of-k-consecutive-bit-flips](./leetcode/Hard/1037-minimum-number-of-k-consecutive-bit-flips/) | Python | 2024-06-24 |
 | leetcode | Hard | [0632-smallest-range-covering-elements-from-k-lists](./leetcode/Hard/0632-smallest-range-covering-elements-from-k-lists/) | Python | 2024-10-13 |
 | leetcode | Hard | [0042-trapping-rain-water](./leetcode/Hard/0042-trapping-rain-water/) | Python | 2024-04-12 |
