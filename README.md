@@ -315,6 +315,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [3151-special-array-i](./leetcode/Easy/3151-special-array-i/) | Python | 2025-02-01 |
 | leetcode | Easy | [1337-the-k-weakest-rows-in-a-matrix](./leetcode/Easy/1337-the-k-weakest-rows-in-a-matrix/) | Python | 2023-09-18 |
 | leetcode | Easy | [3274-check-if-two-chessboard-squares-have-the-same-color](./leetcode/Easy/3274-check-if-two-chessboard-squares-have-the-same-color/) | Python | 2024-09-03 |
+| leetcode | Easy | [2894-divisible-and-non-divisible-sums-difference](./leetcode/Easy/2894-divisible-and-non-divisible-sums-difference/) | Python | 2025-05-27 |
 | leetcode | Easy | [0463-island-perimeter](./leetcode/Easy/0463-island-perimeter/) | Python | 2024-04-18 |
 | leetcode | Easy | [3264-final-array-state-after-k-multiplication-operations-i](./leetcode/Easy/3264-final-array-state-after-k-multiplication-operations-i/) | Python | 2024-12-16 |
 | leetcode | Easy | [0706-design-hashmap](./leetcode/Easy/0706-design-hashmap/) | Python | 2023-10-04 |

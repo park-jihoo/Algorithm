@@ -2490,6 +2490,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Easy",
+    "problem_name": "2894-divisible-and-non-divisible-sums-difference",
+    "languages": "Python",
+    "last_commit_date": "2025-05-27",
+    "slug": "leetcode/Easy/2894-divisible-and-non-divisible-sums-difference"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Easy",
     "problem_name": "0463-island-perimeter",
     "languages": "Python",
     "last_commit_date": "2024-04-18",
