@@ -860,6 +860,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [3243-shortest-distance-after-road-addition-queries-i](./leetcode/Medium/3243-shortest-distance-after-road-addition-queries-i/) | Python | 2024-11-27 |
 | leetcode | Medium | [1248-count-number-of-nice-subarrays](./leetcode/Medium/1248-count-number-of-nice-subarrays/) | Python | 2024-06-22 |
 | leetcode | Medium | [1155-number-of-dice-rolls-with-target-sum](./leetcode/Medium/1155-number-of-dice-rolls-with-target-sum/) | Python | 2023-12-26 |
+| leetcode | Medium | [3372-maximize-the-number-of-target-nodes-after-connecting-trees-i](./leetcode/Medium/3372-maximize-the-number-of-target-nodes-after-connecting-trees-i/) | Python | 2025-05-28 |
 | leetcode | Medium | [1514-path-with-maximum-probability](./leetcode/Medium/1514-path-with-maximum-probability/) | Python | 2023-08-14 |
 | leetcode | Medium | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](./leetcode/Medium/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Python | 2024-09-14 |
 | leetcode | Medium | [1727-largest-submatrix-with-rearrangements](./leetcode/Medium/1727-largest-submatrix-with-rearrangements/) | Python | 2023-11-27 |

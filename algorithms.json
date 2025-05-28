@@ -6850,6 +6850,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "3372-maximize-the-number-of-target-nodes-after-connecting-trees-i",
+    "languages": "Python",
+    "last_commit_date": "2025-05-28",
+    "slug": "leetcode/Medium/3372-maximize-the-number-of-target-nodes-after-connecting-trees-i"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "1514-path-with-maximum-probability",
     "languages": "Python",
     "last_commit_date": "2023-08-14",
