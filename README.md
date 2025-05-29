@@ -359,6 +359,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Hard | [0330-patching-array](./leetcode/Hard/0330-patching-array/) | Python | 2024-06-16 |
 | leetcode | Hard | [2218-maximum-value-of-k-coins-from-piles](./leetcode/Hard/2218-maximum-value-of-k-coins-from-piles/) | Python | 2024-09-14 |
 | leetcode | Hard | [0185-department-top-three-salaries](./leetcode/Hard/0185-department-top-three-salaries/) | SQL | 2024-09-14 |
+| leetcode | Hard | [3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii](./leetcode/Hard/3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii/) | Python | 2025-05-29 |
 | leetcode | Hard | [3203-find-minimum-diameter-after-merging-two-trees](./leetcode/Hard/3203-find-minimum-diameter-after-merging-two-trees/) | Python | 2024-12-24 |
 | leetcode | Hard | [2999-count-the-number-of-powerful-integers](./leetcode/Hard/2999-count-the-number-of-powerful-integers/) | Python | 2025-04-10 |
 | leetcode | Hard | [2818-apply-operations-to-maximize-score](./leetcode/Hard/2818-apply-operations-to-maximize-score/) | Python | 2025-03-29 |

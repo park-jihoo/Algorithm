@@ -2842,6 +2842,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Hard",
+    "problem_name": "3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii",
+    "languages": "Python",
+    "last_commit_date": "2025-05-29",
+    "slug": "leetcode/Hard/3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Hard",
     "problem_name": "3203-find-minimum-diameter-after-merging-two-trees",
     "languages": "Python",
     "last_commit_date": "2024-12-24",
