@@ -13,8 +13,8 @@ class Solution:
 
         dist1 = get_distances(node1)
         dist2 = get_distances(node2)
-        
-        min_dist = float('inf')
+
+        min_dist = float("inf")
         answer = -1
         for i in range(len(edges)):
             if dist1[i] != -1 and dist2[i] != -1:

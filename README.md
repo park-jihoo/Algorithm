@@ -562,6 +562,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [2486-append-characters-to-string-to-make-subsequence](./leetcode/Medium/2486-append-characters-to-string-to-make-subsequence/) | Python | 2024-06-03 |
 | leetcode | Medium | [0650-2-keys-keyboard](./leetcode/Medium/0650-2-keys-keyboard/) | Python | 2024-08-19 |
 | leetcode | Medium | [1802-maximum-value-at-a-given-index-in-a-bounded-array](./leetcode/Medium/1802-maximum-value-at-a-given-index-in-a-bounded-array/) | Python | 2023-08-14 |
+| leetcode | Medium | [2359-find-closest-node-to-given-two-nodes](./leetcode/Medium/2359-find-closest-node-to-given-two-nodes/) | Python | 2025-05-30 |
 | leetcode | Medium | [0368-largest-divisible-subset](./leetcode/Medium/0368-largest-divisible-subset/) | Python | 2025-04-06 |
 | leetcode | Medium | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](./leetcode/Medium/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k/) | Python | 2024-04-29 |
 | leetcode | Medium | [2054-two-best-non-overlapping-events](./leetcode/Medium/2054-two-best-non-overlapping-events/) | Python | 2024-12-08 |

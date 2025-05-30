@@ -4466,6 +4466,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "2359-find-closest-node-to-given-two-nodes",
+    "languages": "Python",
+    "last_commit_date": "2025-05-30",
+    "slug": "leetcode/Medium/2359-find-closest-node-to-given-two-nodes"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "0368-largest-divisible-subset",
     "languages": "Python",
     "last_commit_date": "2025-04-06",
