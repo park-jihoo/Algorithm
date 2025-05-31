@@ -871,6 +871,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [0838-push-dominoes](./leetcode/Medium/0838-push-dominoes/) | Python | 2025-05-02 |
 | leetcode | Medium | [3355-zero-array-transformation-i](./leetcode/Medium/3355-zero-array-transformation-i/) | Python | 2025-05-20 |
 | leetcode | Medium | [3075-maximize-happiness-of-selected-children](./leetcode/Medium/3075-maximize-happiness-of-selected-children/) | Python | 2024-05-09 |
+| leetcode | Medium | [0909-snakes-and-ladders](./leetcode/Medium/0909-snakes-and-ladders/) | Python | 2025-05-31 |
 | leetcode | Medium | [1760-minimum-limit-of-balls-in-a-bag](./leetcode/Medium/1760-minimum-limit-of-balls-in-a-bag/) | Python | 2024-12-07 |
 | leetcode | Medium | [0054-spiral-matrix](./leetcode/Medium/0054-spiral-matrix/) | C++,Python | 2023-08-14 |
 | leetcode | Medium | [1371-find-the-longest-substring-containing-vowels-in-even-counts](./leetcode/Medium/1371-find-the-longest-substring-containing-vowels-in-even-counts/) | Python | 2024-09-15 |

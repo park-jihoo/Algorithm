@@ -20,7 +20,11 @@ class Solution:
                 for neig in range(1, 7):
                     next_node = node + neig
                     if next_node <= n * n:
-                        dest = newboard[next_node] if newboard[next_node] != -1 else next_node
+                        dest = (
+                            newboard[next_node]
+                            if newboard[next_node] != -1
+                            else next_node
+                        )
                         if dest not in vis:
                             q.append(dest)
             steps += 1
