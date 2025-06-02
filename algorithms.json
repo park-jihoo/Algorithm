@@ -5898,6 +5898,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "2929-distribute-candies-among-children-ii",
+    "languages": "Python",
+    "last_commit_date": "2025-06-02",
+    "slug": "leetcode/Medium/2929-distribute-candies-among-children-ii"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "2938-separate-black-and-white-balls",
     "languages": "Python",
     "last_commit_date": "2024-10-15",

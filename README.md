@@ -741,6 +741,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [2523-closest-prime-numbers-in-range](./leetcode/Medium/2523-closest-prime-numbers-in-range/) | Python | 2025-03-07 |
 | leetcode | Medium | [2785-sort-vowels-in-a-string](./leetcode/Medium/2785-sort-vowels-in-a-string/) | Python | 2023-11-13 |
 | leetcode | Medium | [0646-maximum-length-of-pair-chain](./leetcode/Medium/0646-maximum-length-of-pair-chain/) | Python | 2023-08-26 |
+| leetcode | Medium | [2929-distribute-candies-among-children-ii](./leetcode/Medium/2929-distribute-candies-among-children-ii/) | Python | 2025-06-02 |
 | leetcode | Medium | [2938-separate-black-and-white-balls](./leetcode/Medium/2938-separate-black-and-white-balls/) | Python | 2024-10-15 |
 | leetcode | Medium | [0059-spiral-matrix-ii](./leetcode/Medium/0059-spiral-matrix-ii/) | Python | 2023-08-14 |
 | leetcode | Medium | [2337-move-pieces-to-obtain-a-string](./leetcode/Medium/2337-move-pieces-to-obtain-a-string/) | Python | 2024-12-05 |
