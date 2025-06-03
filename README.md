@@ -402,6 +402,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Hard | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](./leetcode/Hard/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons/) | Python | 2023-10-07 |
 | leetcode | Hard | [1187-make-array-strictly-increasing](./leetcode/Hard/1187-make-array-strictly-increasing/) | Java | 2024-09-14 |
 | leetcode | Hard | [0726-number-of-atoms](./leetcode/Hard/0726-number-of-atoms/) | Python | 2024-07-14 |
+| leetcode | Hard | [1298-maximum-candies-you-can-get-from-boxes](./leetcode/Hard/1298-maximum-candies-you-can-get-from-boxes/) | Python | 2025-06-03 |
 | leetcode | Hard | [0879-profitable-schemes](./leetcode/Hard/0879-profitable-schemes/) | Python | 2024-09-14 |
 | leetcode | Hard | [2141-maximum-running-time-of-n-computers](./leetcode/Hard/2141-maximum-running-time-of-n-computers/) | Python | 2023-08-14 |
 | leetcode | Hard | [1095-find-in-mountain-array](./leetcode/Hard/1095-find-in-mountain-array/) | Python | 2023-10-12 |

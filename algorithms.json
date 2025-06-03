@@ -3186,6 +3186,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Hard",
+    "problem_name": "1298-maximum-candies-you-can-get-from-boxes",
+    "languages": "Python",
+    "last_commit_date": "2025-06-03",
+    "slug": "leetcode/Hard/1298-maximum-candies-you-can-get-from-boxes"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Hard",
     "problem_name": "0879-profitable-schemes",
     "languages": "Python",
     "last_commit_date": "2024-09-14",
