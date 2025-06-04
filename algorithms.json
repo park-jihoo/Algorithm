@@ -6810,6 +6810,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "3403-find-the-lexicographically-largest-string-from-the-box-i",
+    "languages": "Python",
+    "last_commit_date": "2025-06-04",
+    "slug": "leetcode/Medium/3403-find-the-lexicographically-largest-string-from-the-box-i"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "2182-construct-string-with-repeat-limit",
     "languages": "Python",
     "last_commit_date": "2024-12-17",

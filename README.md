@@ -855,6 +855,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [0427-construct-quad-tree](./leetcode/Medium/0427-construct-quad-tree/) | Python | 2024-09-14 |
 | leetcode | Medium | [1846-maximum-element-after-decreasing-and-rearranging](./leetcode/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Python | 2023-12-21 |
 | leetcode | Medium | [0916-word-subsets](./leetcode/Medium/0916-word-subsets/) | Python | 2025-01-11 |
+| leetcode | Medium | [3403-find-the-lexicographically-largest-string-from-the-box-i](./leetcode/Medium/3403-find-the-lexicographically-largest-string-from-the-box-i/) | Python | 2025-06-04 |
 | leetcode | Medium | [2182-construct-string-with-repeat-limit](./leetcode/Medium/2182-construct-string-with-repeat-limit/) | Python | 2024-12-17 |
 | leetcode | Medium | [0131-palindrome-partitioning](./leetcode/Medium/0131-palindrome-partitioning/) | Python | 2024-05-22 |
 | leetcode | Medium | [0652-find-duplicate-subtrees](./leetcode/Medium/0652-find-duplicate-subtrees/) | Python | 2024-09-14 |
