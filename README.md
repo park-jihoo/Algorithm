@@ -664,6 +664,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [0790-domino-and-tromino-tiling](./leetcode/Medium/0790-domino-and-tromino-tiling/) | Unknown | 2025-05-05 |
 | leetcode | Medium | [0823-binary-trees-with-factors](./leetcode/Medium/0823-binary-trees-with-factors/) | Python | 2023-10-26 |
 | leetcode | Medium | [0238-product-of-array-except-self](./leetcode/Medium/0238-product-of-array-except-self/) | Python | 2024-03-15 |
+| leetcode | Medium | [1061-lexicographically-smallest-equivalent-string](./leetcode/Medium/1061-lexicographically-smallest-equivalent-string/) | Python | 2025-06-05 |
 | leetcode | Medium | [2134-minimum-swaps-to-group-all-1s-together-ii](./leetcode/Medium/2134-minimum-swaps-to-group-all-1s-together-ii/) | Python | 2024-08-02 |
 | leetcode | Medium | [0133-clone-graph](./leetcode/Medium/0133-clone-graph/) | Python | 2024-09-14 |
 | leetcode | Medium | [1765-map-of-highest-peak](./leetcode/Medium/1765-map-of-highest-peak/) | Python | 2025-01-22 |

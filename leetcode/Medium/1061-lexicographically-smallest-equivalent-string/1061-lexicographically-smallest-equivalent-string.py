@@ -1,6 +1,6 @@
 class UnionFind:
     def __init__(self):
-        self.parent = [i for i in range(26)] 
+        self.parent = [i for i in range(26)]
 
     def find(self, x):
         if self.parent[x] != x:
@@ -17,16 +17,17 @@ class UnionFind:
         else:
             self.parent[px] = py
 
+
 class Solution:
     def smallestEquivalentString(self, s1: str, s2: str, baseStr: str) -> str:
         uf = UnionFind()
-    
+
         for a, b in zip(s1, s2):
-            uf.union(ord(a) - ord('a'), ord(b) - ord('a'))
+            uf.union(ord(a) - ord("a"), ord(b) - ord("a"))
 
         result = []
         for c in baseStr:
-            smallest = uf.find(ord(c) - ord('a'))
-            result.append(chr(smallest + ord('a')))
-        
-        return ''.join(result)
+            smallest = uf.find(ord(c) - ord("a"))
+            result.append(chr(smallest + ord("a")))
+
+        return "".join(result)

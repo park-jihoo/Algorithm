@@ -5282,6 +5282,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "1061-lexicographically-smallest-equivalent-string",
+    "languages": "Python",
+    "last_commit_date": "2025-06-05",
+    "slug": "leetcode/Medium/1061-lexicographically-smallest-equivalent-string"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "2134-minimum-swaps-to-group-all-1s-together-ii",
     "languages": "Python",
     "last_commit_date": "2024-08-02",
