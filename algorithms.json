@@ -3986,6 +3986,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "2434-using-a-robot-to-print-the-lexicographically-smallest-string",
+    "languages": "Python",
+    "last_commit_date": "2025-06-06",
+    "slug": "leetcode/Medium/2434-using-a-robot-to-print-the-lexicographically-smallest-string"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "2381-shifting-letters-ii",
     "languages": "Python",
     "last_commit_date": "2025-01-05",

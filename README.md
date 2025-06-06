@@ -502,6 +502,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [2115-find-all-possible-recipes-from-given-supplies](./leetcode/Medium/2115-find-all-possible-recipes-from-given-supplies/) | Python | 2025-03-21 |
 | leetcode | Medium | [2966-divide-array-into-arrays-with-max-difference](./leetcode/Medium/2966-divide-array-into-arrays-with-max-difference/) | Python | 2024-02-01 |
 | leetcode | Medium | [2336-smallest-number-in-infinite-set](./leetcode/Medium/2336-smallest-number-in-infinite-set/) | Python | 2024-09-14 |
+| leetcode | Medium | [2434-using-a-robot-to-print-the-lexicographically-smallest-string](./leetcode/Medium/2434-using-a-robot-to-print-the-lexicographically-smallest-string/) | Python | 2025-06-06 |
 | leetcode | Medium | [2381-shifting-letters-ii](./leetcode/Medium/2381-shifting-letters-ii/) | Python | 2025-01-05 |
 | leetcode | Medium | [3356-zero-array-transformation-ii](./leetcode/Medium/3356-zero-array-transformation-ii/) | Python | 2025-03-13 |
 | leetcode | Medium | [0057-insert-interval](./leetcode/Medium/0057-insert-interval/) | Python | 2024-03-17 |
