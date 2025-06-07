@@ -7202,6 +7202,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "3170-lexicographically-minimum-string-after-removing-stars",
+    "languages": "Python",
+    "last_commit_date": "2025-06-07",
+    "slug": "leetcode/Medium/3170-lexicographically-minimum-string-after-removing-stars"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "1081-smallest-subsequence-of-distinct-characters",
     "languages": "Python",
     "last_commit_date": "2024-09-14",

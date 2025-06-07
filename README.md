@@ -904,6 +904,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [0229-majority-element-ii](./leetcode/Medium/0229-majority-element-ii/) | Python | 2023-10-05 |
 | leetcode | Medium | [1441-build-an-array-with-stack-operations](./leetcode/Medium/1441-build-an-array-with-stack-operations/) | Python | 2023-11-03 |
 | leetcode | Medium | [2101-detonate-the-maximum-bombs](./leetcode/Medium/2101-detonate-the-maximum-bombs/) | Python | 2023-08-14 |
+| leetcode | Medium | [3170-lexicographically-minimum-string-after-removing-stars](./leetcode/Medium/3170-lexicographically-minimum-string-after-removing-stars/) | Python | 2025-06-07 |
 | leetcode | Medium | [1081-smallest-subsequence-of-distinct-characters](./leetcode/Medium/1081-smallest-subsequence-of-distinct-characters/) | Python | 2024-09-14 |
 | leetcode | Medium | [1282-group-the-people-given-the-group-size-they-belong-to](./leetcode/Medium/1282-group-the-people-given-the-group-size-they-belong-to/) | Python | 2023-09-11 |
 | leetcode | Medium | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](./leetcode/Medium/2096-step-by-step-directions-from-a-binary-tree-node-to-another/) | Python | 2024-07-16 |
