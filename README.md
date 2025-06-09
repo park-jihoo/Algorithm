@@ -431,6 +431,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Hard | [2009-minimum-number-of-operations-to-make-array-continuous](./leetcode/Hard/2009-minimum-number-of-operations-to-make-array-continuous/) | Python | 2023-10-10 |
 | leetcode | Hard | [3343-count-number-of-balanced-permutations](./leetcode/Hard/3343-count-number-of-balanced-permutations/) | Python | 2025-05-09 |
 | leetcode | Hard | [1074-number-of-submatrices-that-sum-to-target](./leetcode/Hard/1074-number-of-submatrices-that-sum-to-target/) | Python | 2024-01-28 |
+| leetcode | Hard | [0440-k-th-smallest-in-lexicographical-order](./leetcode/Hard/0440-k-th-smallest-in-lexicographical-order/) | Python | 2025-06-09 |
 | leetcode | Hard | [1092-shortest-common-supersequence](./leetcode/Hard/1092-shortest-common-supersequence/) | Python | 2025-02-28 |
 | leetcode | Hard | [2092-find-all-people-with-secret](./leetcode/Hard/2092-find-all-people-with-secret/) | Python | 2024-02-24 |
 | leetcode | Hard | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](./leetcode/Hard/1639-number-of-ways-to-form-a-target-string-given-a-dictionary/) | Python | 2024-12-29 |

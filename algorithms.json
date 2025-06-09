@@ -3418,6 +3418,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Hard",
+    "problem_name": "0440-k-th-smallest-in-lexicographical-order",
+    "languages": "Python",
+    "last_commit_date": "2025-06-09",
+    "slug": "leetcode/Hard/0440-k-th-smallest-in-lexicographical-order"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Hard",
     "problem_name": "1092-shortest-common-supersequence",
     "languages": "Python",
     "last_commit_date": "2025-02-28",
