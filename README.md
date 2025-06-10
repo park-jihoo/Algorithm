@@ -291,6 +291,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [0572-subtree-of-another-tree](./leetcode/Easy/0572-subtree-of-another-tree/) | Python | 2024-09-14 |
 | leetcode | Easy | [2373-largest-local-values-in-a-matrix](./leetcode/Easy/2373-largest-local-values-in-a-matrix/) | Python | 2024-05-12 |
 | leetcode | Easy | [0070-climbing-stairs](./leetcode/Easy/0070-climbing-stairs/) | Python | 2024-09-14 |
+| leetcode | Easy | [3442-maximum-difference-between-even-and-odd-frequency-i](./leetcode/Easy/3442-maximum-difference-between-even-and-odd-frequency-i/) | Python | 2025-06-10 |
 | leetcode | Easy | [1732-find-the-highest-altitude](./leetcode/Easy/1732-find-the-highest-altitude/) | Python | 2023-08-14 |
 | leetcode | Easy | [2540-minimum-common-value](./leetcode/Easy/2540-minimum-common-value/) | Python | 2024-03-09 |
 | leetcode | Easy | [0977-squares-of-a-sorted-array](./leetcode/Easy/0977-squares-of-a-sorted-array/) | Python | 2024-09-14 |
