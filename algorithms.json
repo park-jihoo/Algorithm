@@ -5946,6 +5946,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Easy",
+    "problem_name": "2566-maximum-difference-by-remapping-a-digit",
+    "languages": "Python",
+    "last_commit_date": "2025-06-14",
+    "slug": "leetcode/Easy/2566-maximum-difference-by-remapping-a-digit"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Easy",
     "problem_name": "1582-special-positions-in-a-binary-matrix",
     "languages": "Python",
     "last_commit_date": "2023-12-17",

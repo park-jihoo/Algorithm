@@ -747,6 +747,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [0509-fibonacci-number](./leetcode/Easy/0509-fibonacci-number/) | Python | 2024-09-14 |
 | leetcode | Easy | [0572-subtree-of-another-tree](./leetcode/Easy/0572-subtree-of-another-tree/) | Python | 2024-09-14 |
 | leetcode | Easy | [1460-make-two-arrays-equal-by-reversing-subarrays](./leetcode/Easy/1460-make-two-arrays-equal-by-reversing-subarrays/) | Python | 2024-08-03 |
+| leetcode | Easy | [2566-maximum-difference-by-remapping-a-digit](./leetcode/Easy/2566-maximum-difference-by-remapping-a-digit/) | Python | 2025-06-14 |
 | leetcode | Easy | [1582-special-positions-in-a-binary-matrix](./leetcode/Easy/1582-special-positions-in-a-binary-matrix/) | Python | 2023-12-17 |
 | leetcode | Easy | [0183-customers-who-never-order](./leetcode/Easy/0183-customers-who-never-order/) | SQL | 2023-12-15 |
 | leetcode | Easy | [2965-find-missing-and-repeated-values](./leetcode/Easy/2965-find-missing-and-repeated-values/) | Python | 2025-03-06 |
