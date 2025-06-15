@@ -294,6 +294,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [3362-zero-array-transformation-iii](./leetcode/Medium/3362-zero-array-transformation-iii/) | Python | 2025-05-22 |
 | leetcode | Medium | [0684-redundant-connection](./leetcode/Medium/0684-redundant-connection/) | Python | 2025-01-29 |
 | leetcode | Medium | [0200-number-of-islands](./leetcode/Medium/0200-number-of-islands/) | Python | 2024-04-19 |
+| leetcode | Medium | [1432-max-difference-you-can-get-from-changing-an-integer](./leetcode/Medium/1432-max-difference-you-can-get-from-changing-an-integer/) | Python | 2025-06-15 |
 | leetcode | Medium | [0641-design-circular-deque](./leetcode/Medium/0641-design-circular-deque/) | C++,Java | 2024-09-29 |
 | leetcode | Medium | [1535-find-the-winner-of-an-array-game](./leetcode/Medium/1535-find-the-winner-of-an-array-game/) | Python | 2023-11-05 |
 | leetcode | Medium | [0767-reorganize-string](./leetcode/Medium/0767-reorganize-string/) | Python | 2023-08-23 |

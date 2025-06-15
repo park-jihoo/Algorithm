@@ -2322,6 +2322,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "1432-max-difference-you-can-get-from-changing-an-integer",
+    "languages": "Python",
+    "last_commit_date": "2025-06-15",
+    "slug": "leetcode/Medium/1432-max-difference-you-can-get-from-changing-an-integer"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "0641-design-circular-deque",
     "languages": "C++,Java",
     "last_commit_date": "2024-09-29",
