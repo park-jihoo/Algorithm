@@ -2474,6 +2474,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "3443-maximum-manhattan-distance-after-k-changes",
+    "languages": "Python",
+    "last_commit_date": "2025-06-20",
+    "slug": "leetcode/Medium/3443-maximum-manhattan-distance-after-k-changes"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "3254-find-the-power-of-k-size-subarrays-i",
     "languages": "Python",
     "last_commit_date": "2024-11-16",

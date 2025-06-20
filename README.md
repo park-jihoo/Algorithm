@@ -313,6 +313,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [0019-remove-nth-node-from-end-of-list](./leetcode/Medium/0019-remove-nth-node-from-end-of-list/) | Python | 2024-03-03 |
 | leetcode | Medium | [0147-insertion-sort-list](./leetcode/Medium/0147-insertion-sort-list/) | Java | 2024-09-14 |
 | leetcode | Medium | [2305-fair-distribution-of-cookies](./leetcode/Medium/2305-fair-distribution-of-cookies/) | Python | 2023-08-14 |
+| leetcode | Medium | [3443-maximum-manhattan-distance-after-k-changes](./leetcode/Medium/3443-maximum-manhattan-distance-after-k-changes/) | Python | 2025-06-20 |
 | leetcode | Medium | [3254-find-the-power-of-k-size-subarrays-i](./leetcode/Medium/3254-find-the-power-of-k-size-subarrays-i/) | Python | 2024-11-16 |
 | leetcode | Medium | [0341-flatten-nested-list-iterator](./leetcode/Medium/0341-flatten-nested-list-iterator/) | Python | 2023-10-20 |
 | leetcode | Medium | [0729-my-calendar-i](./leetcode/Medium/0729-my-calendar-i/) | Python | 2024-09-26 |
