@@ -481,6 +481,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [2780-minimum-index-of-a-valid-split](./leetcode/Medium/2780-minimum-index-of-a-valid-split/) | Python | 2025-03-28 |
 | leetcode | Medium | [0050-powx-n](./leetcode/Medium/0050-powx-n/) | C++,JavaScript,Python | 2023-08-14 |
 | leetcode | Medium | [0347-top-k-frequent-elements](./leetcode/Medium/0347-top-k-frequent-elements/) | Python | 2023-08-14 |
+| leetcode | Medium | [3085-minimum-deletions-to-make-string-k-special](./leetcode/Medium/3085-minimum-deletions-to-make-string-k-special/) | Python | 2025-06-21 |
 | leetcode | Medium | [1922-count-good-numbers](./leetcode/Medium/1922-count-good-numbers/) | Python | 2025-04-13 |
 | leetcode | Medium | [1233-remove-sub-folders-from-the-filesystem](./leetcode/Medium/1233-remove-sub-folders-from-the-filesystem/) | Python | 2024-10-25 |
 | leetcode | Medium | [2924-find-champion-ii](./leetcode/Medium/2924-find-champion-ii/) | Python | 2024-11-26 |

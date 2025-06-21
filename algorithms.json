@@ -3818,6 +3818,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "3085-minimum-deletions-to-make-string-k-special",
+    "languages": "Python",
+    "last_commit_date": "2025-06-21",
+    "slug": "leetcode/Medium/3085-minimum-deletions-to-make-string-k-special"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "1922-count-good-numbers",
     "languages": "Python",
     "last_commit_date": "2025-04-13",
