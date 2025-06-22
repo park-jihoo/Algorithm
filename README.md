@@ -772,6 +772,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [0938-range-sum-of-bst](./leetcode/Easy/0938-range-sum-of-bst/) | Python | 2024-01-08 |
 | leetcode | Easy | [1957-delete-characters-to-make-fancy-string](./leetcode/Easy/1957-delete-characters-to-make-fancy-string/) | Python | 2024-11-01 |
 | leetcode | Easy | [0035-search-insert-position](./leetcode/Easy/0035-search-insert-position/) | C,C++,Java,Python | 2024-09-14 |
+| leetcode | Easy | [2138-divide-a-string-into-groups-of-size-k](./leetcode/Easy/2138-divide-a-string-into-groups-of-size-k/) | Python | 2025-06-22 |
 | leetcode | Easy | [0859-buddy-strings](./leetcode/Easy/0859-buddy-strings/) | C++,Python | 2023-08-14 |
 | leetcode | Easy | [1768-merge-strings-alternately](./leetcode/Easy/1768-merge-strings-alternately/) | Python | 2024-09-14 |
 | leetcode | Easy | [1431-kids-with-the-greatest-number-of-candies](./leetcode/Easy/1431-kids-with-the-greatest-number-of-candies/) | Python | 2024-09-14 |
