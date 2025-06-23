@@ -70,6 +70,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Hard | [1575-count-all-possible-routes](./leetcode/Hard/1575-count-all-possible-routes/) | Python | 2023-08-14 |
 | leetcode | Hard | [0920-number-of-music-playlists](./leetcode/Hard/0920-number-of-music-playlists/) | Python | 2023-08-14 |
 | leetcode | Hard | [2251-number-of-flowers-in-full-bloom](./leetcode/Hard/2251-number-of-flowers-in-full-bloom/) | Python | 2023-12-21 |
+| leetcode | Hard | [2081-sum-of-k-mirror-numbers](./leetcode/Hard/2081-sum-of-k-mirror-numbers/) | Python | 2025-06-23 |
 | leetcode | Hard | [2171-second-minimum-time-to-reach-destination](./leetcode/Hard/2171-second-minimum-time-to-reach-destination/) | Python | 2024-09-14 |
 | leetcode | Hard | [1345-jump-game-iv](./leetcode/Hard/1345-jump-game-iv/) | Python | 2024-09-14 |
 | leetcode | Hard | [2302-count-subarrays-with-score-less-than-k](./leetcode/Hard/2302-count-subarrays-with-score-less-than-k/) | Python | 2025-04-28 |

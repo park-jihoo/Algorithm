@@ -530,6 +530,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Hard",
+    "problem_name": "2081-sum-of-k-mirror-numbers",
+    "languages": "Python",
+    "last_commit_date": "2025-06-23",
+    "slug": "leetcode/Hard/2081-sum-of-k-mirror-numbers"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Hard",
     "problem_name": "2171-second-minimum-time-to-reach-destination",
     "languages": "Python",
     "last_commit_date": "2024-09-14",
