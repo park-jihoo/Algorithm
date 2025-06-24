@@ -757,6 +757,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [2566-maximum-difference-by-remapping-a-digit](./leetcode/Easy/2566-maximum-difference-by-remapping-a-digit/) | Python | 2025-06-14 |
 | leetcode | Easy | [1582-special-positions-in-a-binary-matrix](./leetcode/Easy/1582-special-positions-in-a-binary-matrix/) | Python | 2023-12-17 |
 | leetcode | Easy | [0183-customers-who-never-order](./leetcode/Easy/0183-customers-who-never-order/) | SQL | 2023-12-15 |
+| leetcode | Easy | [2200-find-all-k-distant-indices-in-an-array](./leetcode/Easy/2200-find-all-k-distant-indices-in-an-array/) | Python | 2025-06-24 |
 | leetcode | Easy | [2965-find-missing-and-repeated-values](./leetcode/Easy/2965-find-missing-and-repeated-values/) | Python | 2025-03-06 |
 | leetcode | Easy | [0976-largest-perimeter-triangle](./leetcode/Easy/0976-largest-perimeter-triangle/) | Python | 2023-08-14 |
 | leetcode | Easy | [2215-find-the-difference-of-two-arrays](./leetcode/Easy/2215-find-the-difference-of-two-arrays/) | C++,Java,JavaScript,Python | 2024-09-14 |

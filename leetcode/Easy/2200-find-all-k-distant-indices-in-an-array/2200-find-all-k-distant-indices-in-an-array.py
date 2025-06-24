@@ -5,5 +5,5 @@ class Solution:
             if nums[i] == key:
                 val.append(i)
         for x in val:
-            ans.update(set(range(max(0, x-k), min(len(nums), x+k+1))))
+            ans.update(set(range(max(0, x - k), min(len(nums), x + k + 1))))
         return sorted(list(ans))
