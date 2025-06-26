@@ -3802,6 +3802,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "2311-longest-binary-subsequence-less-than-or-equal-to-k",
+    "languages": "Python",
+    "last_commit_date": "2025-06-26",
+    "slug": "leetcode/Medium/2311-longest-binary-subsequence-less-than-or-equal-to-k"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "2780-minimum-index-of-a-valid-split",
     "languages": "Python",
     "last_commit_date": "2025-03-28",

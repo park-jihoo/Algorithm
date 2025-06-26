@@ -479,6 +479,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [1631-path-with-minimum-effort](./leetcode/Medium/1631-path-with-minimum-effort/) | Python | 2024-09-14 |
 | leetcode | Medium | [0652-find-duplicate-subtrees](./leetcode/Medium/0652-find-duplicate-subtrees/) | Python | 2024-09-14 |
 | leetcode | Medium | [1048-longest-string-chain](./leetcode/Medium/1048-longest-string-chain/) | Python | 2023-09-23 |
+| leetcode | Medium | [2311-longest-binary-subsequence-less-than-or-equal-to-k](./leetcode/Medium/2311-longest-binary-subsequence-less-than-or-equal-to-k/) | Python | 2025-06-26 |
 | leetcode | Medium | [2780-minimum-index-of-a-valid-split](./leetcode/Medium/2780-minimum-index-of-a-valid-split/) | Python | 2025-03-28 |
 | leetcode | Medium | [0050-powx-n](./leetcode/Medium/0050-powx-n/) | C++,JavaScript,Python | 2023-08-14 |
 | leetcode | Medium | [0347-top-k-frequent-elements](./leetcode/Medium/0347-top-k-frequent-elements/) | Python | 2023-08-14 |
