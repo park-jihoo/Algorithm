@@ -17,6 +17,7 @@ class PositionIndex:
                 idx = lst[i]
         return True
 
+
 class Solution:
     def longestSubsequenceRepeatedK(self, s: str, k: int) -> str:
         counter = Counter(s)
@@ -24,7 +25,7 @@ class Solution:
 
         pos_index = PositionIndex(s)
         queue = []
-        
+
         heapq.heappush(queue, "")
 
         best = ""
@@ -34,7 +35,9 @@ class Solution:
             for c in valid_chars:
                 new_seq = curr + c
                 if pos_index.is_k_repeated_subseq(new_seq, k):
-                    if len(new_seq) > len(best) or (len(new_seq) == len(best) and new_seq > best):
+                    if len(new_seq) > len(best) or (
+                        len(new_seq) == len(best) and new_seq > best
+                    ):
                         best = new_seq
                     if len(new_seq) < 7:
                         heapq.heappush(queue, new_seq)
