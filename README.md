@@ -575,6 +575,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [2154-keep-multiplying-found-values-by-two](./leetcode/Easy/2154-keep-multiplying-found-values-by-two/) | Python | 2023-12-21 |
 | leetcode | Easy | [1832-check-if-the-sentence-is-pangram](./leetcode/Easy/1832-check-if-the-sentence-is-pangram/) | Python | 2024-09-14 |
 | leetcode | Easy | [0989-add-to-array-form-of-integer](./leetcode/Easy/0989-add-to-array-form-of-integer/) | Python | 2023-08-14 |
+| leetcode | Easy | [0594-longest-harmonious-subsequence](./leetcode/Easy/0594-longest-harmonious-subsequence/) | Python | 2025-06-30 |
 | leetcode | Easy | [1945-sum-of-digits-of-string-after-convert](./leetcode/Easy/1945-sum-of-digits-of-string-after-convert/) | Python | 2024-09-03 |
 | leetcode | Easy | [0169-majority-element](./leetcode/Easy/0169-majority-element/) | Python | 2024-09-14 |
 | leetcode | Easy | [1337-the-k-weakest-rows-in-a-matrix](./leetcode/Easy/1337-the-k-weakest-rows-in-a-matrix/) | Python | 2023-09-18 |

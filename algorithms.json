@@ -4570,6 +4570,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Easy",
+    "problem_name": "0594-longest-harmonious-subsequence",
+    "languages": "Python",
+    "last_commit_date": "2025-06-30",
+    "slug": "leetcode/Easy/0594-longest-harmonious-subsequence"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Easy",
     "problem_name": "1945-sum-of-digits-of-string-after-convert",
     "languages": "Python",
     "last_commit_date": "2024-09-03",
