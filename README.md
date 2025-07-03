@@ -536,6 +536,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [1399-count-largest-group](./leetcode/Easy/1399-count-largest-group/) | Python | 2025-04-23 |
 | leetcode | Easy | [0404-sum-of-left-leaves](./leetcode/Easy/0404-sum-of-left-leaves/) | Python | 2024-04-14 |
 | leetcode | Easy | [0606-construct-string-from-binary-tree](./leetcode/Easy/0606-construct-string-from-binary-tree/) | Python | 2023-12-09 |
+| leetcode | Easy | [3304-find-the-k-th-character-in-string-game-i](./leetcode/Easy/3304-find-the-k-th-character-in-string-game-i/) | Python | 2025-07-03 |
 | leetcode | Easy | [0703-kth-largest-element-in-a-stream](./leetcode/Easy/0703-kth-largest-element-in-a-stream/) | Python | 2023-08-14 |
 | leetcode | Easy | [0645-set-mismatch](./leetcode/Easy/0645-set-mismatch/) | Python | 2024-09-14 |
 | leetcode | Easy | [1913-maximum-product-difference-between-two-pairs](./leetcode/Easy/1913-maximum-product-difference-between-two-pairs/) | Python | 2024-09-14 |
