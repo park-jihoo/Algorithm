@@ -2258,6 +2258,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "1353-maximum-number-of-events-that-can-be-attended",
+    "languages": "Python",
+    "last_commit_date": "2025-07-07",
+    "slug": "leetcode/Medium/1353-maximum-number-of-events-that-can-be-attended"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "0198-house-robber",
     "languages": "Python",
     "last_commit_date": "2024-01-21",

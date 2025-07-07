@@ -286,6 +286,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](./leetcode/Medium/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Python | 2025-02-23 |
 | leetcode | Medium | [1048-longest-string-chain](./leetcode/Medium/1048-longest-string-chain/) | Python | 2023-09-23 |
 | leetcode | Medium | [1218-longest-arithmetic-subsequence-of-given-difference](./leetcode/Medium/1218-longest-arithmetic-subsequence-of-given-difference/) | Python | 2023-08-14 |
+| leetcode | Medium | [1353-maximum-number-of-events-that-can-be-attended](./leetcode/Medium/1353-maximum-number-of-events-that-can-be-attended/) | Python | 2025-07-07 |
 | leetcode | Medium | [0198-house-robber](./leetcode/Medium/0198-house-robber/) | Python | 2024-01-21 |
 | leetcode | Medium | [0081-search-in-rotated-sorted-array-ii](./leetcode/Medium/0081-search-in-rotated-sorted-array-ii/) | C,C++,Python | 2023-08-14 |
 | leetcode | Medium | [2874-maximum-value-of-an-ordered-triplet-ii](./leetcode/Medium/2874-maximum-value-of-an-ordered-triplet-ii/) | Python | 2025-04-03 |
