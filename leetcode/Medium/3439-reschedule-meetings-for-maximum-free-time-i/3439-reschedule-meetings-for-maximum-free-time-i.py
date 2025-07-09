@@ -1,5 +1,7 @@
 class Solution:
-    def maxFreeTime(self, eventTime: int, k: int, startTime: List[int], endTime: List[int]) -> int:
+    def maxFreeTime(
+        self, eventTime: int, k: int, startTime: List[int], endTime: List[int]
+    ) -> int:
         n = len(startTime)
         ans = 0
         total = [0] * (n + 1)

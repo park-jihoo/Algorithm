@@ -409,6 +409,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [1829-maximum-xor-for-each-query](./leetcode/Medium/1829-maximum-xor-for-each-query/) | Python | 2024-11-08 |
 | leetcode | Medium | [2537-count-the-number-of-good-subarrays](./leetcode/Medium/2537-count-the-number-of-good-subarrays/) | Python | 2025-04-16 |
 | leetcode | Medium | [0073-set-matrix-zeroes](./leetcode/Medium/0073-set-matrix-zeroes/) | Python | 2025-05-21 |
+| leetcode | Medium | [3439-reschedule-meetings-for-maximum-free-time-i](./leetcode/Medium/3439-reschedule-meetings-for-maximum-free-time-i/) | Python | 2025-07-09 |
 | leetcode | Medium | [0208-implement-trie-prefix-tree](./leetcode/Medium/0208-implement-trie-prefix-tree/) | Python | 2023-08-14 |
 | leetcode | Medium | [2095-delete-the-middle-node-of-a-linked-list](./leetcode/Medium/2095-delete-the-middle-node-of-a-linked-list/) | C++ | 2024-09-14 |
 | leetcode | Medium | [0935-knight-dialer](./leetcode/Medium/0935-knight-dialer/) | Python | 2023-11-27 |
