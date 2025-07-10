@@ -70,6 +70,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [1894-find-the-student-that-will-replace-the-chalk](./leetcode/Medium/1894-find-the-student-that-will-replace-the-chalk/) | Python | 2024-09-02 |
 | leetcode | Medium | [3355-zero-array-transformation-i](./leetcode/Medium/3355-zero-array-transformation-i/) | Python | 2025-05-20 |
 | leetcode | Medium | [3152-special-array-ii](./leetcode/Medium/3152-special-array-ii/) | Python | 2024-12-09 |
+| leetcode | Medium | [3440-reschedule-meetings-for-maximum-free-time-ii](./leetcode/Medium/3440-reschedule-meetings-for-maximum-free-time-ii/) | Python | 2025-07-10 |
 | leetcode | Medium | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](./leetcode/Medium/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Python | 2025-03-19 |
 | leetcode | Medium | [0260-single-number-iii](./leetcode/Medium/0260-single-number-iii/) | Python | 2024-05-31 |
 | leetcode | Medium | [0024-swap-nodes-in-pairs](./leetcode/Medium/0024-swap-nodes-in-pairs/) | Python | 2023-08-14 |

@@ -530,6 +530,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "3440-reschedule-meetings-for-maximum-free-time-ii",
+    "languages": "Python",
+    "last_commit_date": "2025-07-10",
+    "slug": "leetcode/Medium/3440-reschedule-meetings-for-maximum-free-time-ii"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i",
     "languages": "Python",
     "last_commit_date": "2025-03-19",
