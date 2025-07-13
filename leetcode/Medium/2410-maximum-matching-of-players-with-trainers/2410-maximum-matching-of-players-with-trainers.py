@@ -6,9 +6,9 @@ class Solution:
         for ti in range(len(trainers)):
             while pi < len(players):
                 if players[pi] <= trainers[ti]:
-                    pi +=1
+                    pi += 1
                     ans += 1
                     break
                 else:
-                    pi +=1
+                    pi += 1
         return ans

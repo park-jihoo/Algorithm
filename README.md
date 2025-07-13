@@ -4,6 +4,7 @@ This project contains the following subfolders (up to 3 levels deep):
 
 | Platform   | Difficulty | Problem Name | Languages | Last Commit Date |
 |------------|------------|--------------|-----------|------------------|
+| leetcode | Medium | [2410-maximum-matching-of-players-with-trainers](./leetcode/Medium/2410-maximum-matching-of-players-with-trainers/) | Python | 2025-07-13 |
 | leetcode | Medium | [0763-partition-labels](./leetcode/Medium/0763-partition-labels/) | Python | 2025-03-30 |
 | leetcode | Medium | [2070-most-beautiful-item-for-each-query](./leetcode/Medium/2070-most-beautiful-item-for-each-query/) | Python | 2024-11-12 |
 | leetcode | Medium | [0790-domino-and-tromino-tiling](./leetcode/Medium/0790-domino-and-tromino-tiling/) | Unknown | 2025-05-05 |
