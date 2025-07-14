@@ -689,6 +689,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [1758-minimum-changes-to-make-alternating-binary-string](./leetcode/Easy/1758-minimum-changes-to-make-alternating-binary-string/) | Python | 2023-12-24 |
 | leetcode | Easy | [3304-find-the-k-th-character-in-string-game-i](./leetcode/Easy/3304-find-the-k-th-character-in-string-game-i/) | Python | 2025-07-03 |
 | leetcode | Easy | [0232-implement-queue-using-stacks](./leetcode/Easy/0232-implement-queue-using-stacks/) | C++,Python | 2024-01-29 |
+| leetcode | Easy | [1290-convert-binary-number-in-a-linked-list-to-integer](./leetcode/Easy/1290-convert-binary-number-in-a-linked-list-to-integer/) | Python | 2025-07-14 |
 | leetcode | Easy | [3151-special-array-i](./leetcode/Easy/3151-special-array-i/) | Python | 2025-02-01 |
 | leetcode | Easy | [2022-convert-1d-array-into-2d-array](./leetcode/Easy/2022-convert-1d-array-into-2d-array/) | Python | 2024-09-01 |
 | leetcode | Easy | [3392-count-subarrays-of-length-three-with-a-condition](./leetcode/Easy/3392-count-subarrays-of-length-three-with-a-condition/) | Python | 2025-04-27 |

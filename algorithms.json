@@ -5482,6 +5482,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Easy",
+    "problem_name": "1290-convert-binary-number-in-a-linked-list-to-integer",
+    "languages": "Python",
+    "last_commit_date": "2025-07-14",
+    "slug": "leetcode/Easy/1290-convert-binary-number-in-a-linked-list-to-integer"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Easy",
     "problem_name": "3151-special-array-i",
     "languages": "Python",
     "last_commit_date": "2025-02-01",
