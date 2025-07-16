@@ -10,7 +10,7 @@ class Solution:
                 if eo and eo[-1] % 2 == 0:
                     eo.append(x)
             if x % 2 == 0:
-                if not eo or eo[-1] %2 == 1 :
+                if not eo or eo[-1] % 2 == 1:
                     eo.append(x)
                 if oe and oe[-1] % 2 == 1:
                     oe.append(x)

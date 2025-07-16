@@ -14,6 +14,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [0091-decode-ways](./leetcode/Medium/0091-decode-ways/) | Python | 2023-12-25 |
 | leetcode | Medium | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](./leetcode/Medium/2096-step-by-step-directions-from-a-binary-tree-node-to-another/) | Python | 2024-07-16 |
 | leetcode | Medium | [1331-path-with-maximum-gold](./leetcode/Medium/1331-path-with-maximum-gold/) | Python | 2024-05-14 |
+| leetcode | Medium | [3201-find-the-maximum-length-of-valid-subsequence-i](./leetcode/Medium/3201-find-the-maximum-length-of-valid-subsequence-i/) | Python | 2025-07-16 |
 | leetcode | Medium | [1615-range-sum-of-sorted-subarray-sums](./leetcode/Medium/1615-range-sum-of-sorted-subarray-sums/) | Python | 2024-08-04 |
 | leetcode | Medium | [1584-min-cost-to-connect-all-points](./leetcode/Medium/1584-min-cost-to-connect-all-points/) | Python | 2024-09-14 |
 | leetcode | Medium | [2948-make-lexicographically-smallest-array-by-swapping-elements](./leetcode/Medium/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Python | 2025-01-25 |

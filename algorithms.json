@@ -82,6 +82,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "3201-find-the-maximum-length-of-valid-subsequence-i",
+    "languages": "Python",
+    "last_commit_date": "2025-07-16",
+    "slug": "leetcode/Medium/3201-find-the-maximum-length-of-valid-subsequence-i"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "1615-range-sum-of-sorted-subarray-sums",
     "languages": "Python",
     "last_commit_date": "2024-08-04",
