@@ -1,6 +1,6 @@
 class Solution:
     def maximumLength(self, nums: List[int], k: int) -> int:
-        dp, ans = [[0]*k for _ in range(k)], 0
+        dp, ans = [[0] * k for _ in range(k)], 0
         for num in nums:
             num %= k
             for p in range(k):

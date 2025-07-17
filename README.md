@@ -57,6 +57,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [2807-insert-greatest-common-divisors-in-linked-list](./leetcode/Medium/2807-insert-greatest-common-divisors-in-linked-list/) | Python | 2024-09-10 |
 | leetcode | Medium | [2033-minimum-operations-to-make-a-uni-value-grid](./leetcode/Medium/2033-minimum-operations-to-make-a-uni-value-grid/) | Python | 2025-03-26 |
 | leetcode | Medium | [1371-find-the-longest-substring-containing-vowels-in-even-counts](./leetcode/Medium/1371-find-the-longest-substring-containing-vowels-in-even-counts/) | Python | 2024-09-15 |
+| leetcode | Medium | [3202-find-the-maximum-length-of-valid-subsequence-ii](./leetcode/Medium/3202-find-the-maximum-length-of-valid-subsequence-ii/) | Python | 2025-07-17 |
 | leetcode | Medium | [2101-detonate-the-maximum-bombs](./leetcode/Medium/2101-detonate-the-maximum-bombs/) | Python | 2023-08-14 |
 | leetcode | Medium | [2115-find-all-possible-recipes-from-given-supplies](./leetcode/Medium/2115-find-all-possible-recipes-from-given-supplies/) | Python | 2025-03-21 |
 | leetcode | Medium | [1922-count-good-numbers](./leetcode/Medium/1922-count-good-numbers/) | Python | 2025-04-13 |
