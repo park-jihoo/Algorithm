@@ -722,6 +722,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [0645-set-mismatch](./leetcode/Easy/0645-set-mismatch/) | Python | 2024-09-14 |
 | leetcode | Easy | [2864-maximum-odd-binary-number](./leetcode/Easy/2864-maximum-odd-binary-number/) | Python | 2024-03-01 |
 | leetcode | Easy | [2094-finding-3-digit-even-numbers](./leetcode/Easy/2094-finding-3-digit-even-numbers/) | Python | 2025-05-12 |
+| leetcode | Easy | [3487-maximum-unique-subarray-sum-after-deletion](./leetcode/Easy/3487-maximum-unique-subarray-sum-after-deletion/) | Python | 2025-07-25 |
 | leetcode | Easy | [2053-kth-distinct-string-in-an-array](./leetcode/Easy/2053-kth-distinct-string-in-an-array/) | Python | 2024-08-05 |
 | leetcode | Easy | [0001-two-sum](./leetcode/Easy/0001-two-sum/) | C,C++,Java,JavaScript,Python | 2024-09-14 |
 | leetcode | Easy | [1822-sign-of-the-product-of-an-array](./leetcode/Easy/1822-sign-of-the-product-of-an-array/) | C++,Python | 2024-09-14 |
