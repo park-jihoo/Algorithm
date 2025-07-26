@@ -506,6 +506,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Hard | [0214-shortest-palindrome](./leetcode/Hard/0214-shortest-palindrome/) | Python | 2024-09-20 |
 | leetcode | Hard | [0726-number-of-atoms](./leetcode/Hard/0726-number-of-atoms/) | Python | 2024-07-14 |
 | leetcode | Hard | [2709-greatest-common-divisor-traversal](./leetcode/Hard/2709-greatest-common-divisor-traversal/) | Python | 2024-02-25 |
+| leetcode | Hard | [3480-maximize-subarrays-after-removing-one-conflicting-pair](./leetcode/Hard/3480-maximize-subarrays-after-removing-one-conflicting-pair/) | Python | 2025-07-26 |
 | leetcode | Hard | [2503-maximum-number-of-points-from-grid-queries](./leetcode/Hard/2503-maximum-number-of-points-from-grid-queries/) | Python | 2025-03-28 |
 | leetcode | Hard | [2171-second-minimum-time-to-reach-destination](./leetcode/Hard/2171-second-minimum-time-to-reach-destination/) | Python | 2024-09-14 |
 | leetcode | Hard | [3445-maximum-difference-between-even-and-odd-frequency-ii](./leetcode/Hard/3445-maximum-difference-between-even-and-odd-frequency-ii/) | Python | 2025-06-12 |

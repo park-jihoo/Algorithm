@@ -4018,6 +4018,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Hard",
+    "problem_name": "3480-maximize-subarrays-after-removing-one-conflicting-pair",
+    "languages": "Python",
+    "last_commit_date": "2025-07-26",
+    "slug": "leetcode/Hard/3480-maximize-subarrays-after-removing-one-conflicting-pair"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Hard",
     "problem_name": "2503-maximum-number-of-points-from-grid-queries",
     "languages": "Python",
     "last_commit_date": "2025-03-28",
