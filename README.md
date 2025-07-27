@@ -655,6 +655,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [1122-relative-sort-array](./leetcode/Easy/1122-relative-sort-array/) | Python | 2024-06-11 |
 | leetcode | Easy | [0605-can-place-flowers](./leetcode/Easy/0605-can-place-flowers/) | Python | 2024-09-14 |
 | leetcode | Easy | [2331-evaluate-boolean-binary-tree](./leetcode/Easy/2331-evaluate-boolean-binary-tree/) | Python | 2024-05-16 |
+| leetcode | Easy | [2210-count-hills-and-valleys-in-an-array](./leetcode/Easy/2210-count-hills-and-valleys-in-an-array/) | Python | 2025-07-27 |
 | leetcode | Easy | [2418-sort-the-people](./leetcode/Easy/2418-sort-the-people/) | Python | 2024-07-22 |
 | leetcode | Easy | [2485-find-the-pivot-integer](./leetcode/Easy/2485-find-the-pivot-integer/) | Python | 2024-03-13 |
 | leetcode | Easy | [0118-pascals-triangle](./leetcode/Easy/0118-pascals-triangle/) | C++,Python | 2023-09-08 |

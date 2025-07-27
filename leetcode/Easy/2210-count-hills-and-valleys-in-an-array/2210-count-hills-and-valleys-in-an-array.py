@@ -7,6 +7,6 @@ class Solution:
                 continue
             numu.append(i)
         for i in range(1, len(numu) - 1):
-            if (numu[i-1] - numu[i]) * (numu[i+1] - numu[i]) > 0:
+            if (numu[i - 1] - numu[i]) * (numu[i + 1] - numu[i]) > 0:
                 ans += 1
         return ans
