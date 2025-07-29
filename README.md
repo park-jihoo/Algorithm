@@ -26,6 +26,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [0542-01-matrix](./leetcode/Medium/0542-01-matrix/) | Python | 2023-08-17 |
 | leetcode | Medium | [1381-design-a-stack-with-increment-operation](./leetcode/Medium/1381-design-a-stack-with-increment-operation/) | Python | 2024-09-30 |
 | leetcode | Medium | [0049-group-anagrams](./leetcode/Medium/0049-group-anagrams/) | C++,Python | 2024-02-06 |
+| leetcode | Medium | [2411-smallest-subarrays-with-maximum-bitwise-or](./leetcode/Medium/2411-smallest-subarrays-with-maximum-bitwise-or/) | Python | 2025-07-29 |
 | leetcode | Medium | [2780-minimum-index-of-a-valid-split](./leetcode/Medium/2780-minimum-index-of-a-valid-split/) | Python | 2025-03-28 |
 | leetcode | Medium | [0208-implement-trie-prefix-tree](./leetcode/Medium/0208-implement-trie-prefix-tree/) | Python | 2023-08-14 |
 | leetcode | Medium | [0054-spiral-matrix](./leetcode/Medium/0054-spiral-matrix/) | C++,Python | 2023-08-14 |

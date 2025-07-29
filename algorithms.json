@@ -178,6 +178,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "2411-smallest-subarrays-with-maximum-bitwise-or",
+    "languages": "Python",
+    "last_commit_date": "2025-07-29",
+    "slug": "leetcode/Medium/2411-smallest-subarrays-with-maximum-bitwise-or"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "2780-minimum-index-of-a-valid-split",
     "languages": "Python",
     "last_commit_date": "2025-03-28",
