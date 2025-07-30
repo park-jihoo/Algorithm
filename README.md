@@ -384,7 +384,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [0808-soup-servings](./leetcode/Medium/0808-soup-servings/) | Python | 2023-08-14 |
 | leetcode | Medium | [2779-maximum-beauty-of-an-array-after-applying-operation](./leetcode/Medium/2779-maximum-beauty-of-an-array-after-applying-operation/) | Python | 2024-12-11 |
 | leetcode | Medium | [1759-count-number-of-homogenous-substrings](./leetcode/Medium/1759-count-number-of-homogenous-substrings/) | Python | 2024-09-14 |
-| leetcode | Medium | [2419-longest-subarray-with-maximum-bitwise-and](./leetcode/Medium/2419-longest-subarray-with-maximum-bitwise-and/) | Python | 2024-09-14 |
+| leetcode | Medium | [2419-longest-subarray-with-maximum-bitwise-and](./leetcode/Medium/2419-longest-subarray-with-maximum-bitwise-and/) | Python | 2025-07-30 |
 | leetcode | Medium | [2337-move-pieces-to-obtain-a-string](./leetcode/Medium/2337-move-pieces-to-obtain-a-string/) | Python | 2024-12-05 |
 | leetcode | Medium | [1282-group-the-people-given-the-group-size-they-belong-to](./leetcode/Medium/1282-group-the-people-given-the-group-size-they-belong-to/) | Python | 2023-09-11 |
 | leetcode | Medium | [2375-construct-smallest-number-from-di-string](./leetcode/Medium/2375-construct-smallest-number-from-di-string/) | Python | 2025-02-18 |
