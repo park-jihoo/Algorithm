@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and">2419. Longest Subarray With Maximum Bitwise AND</a></h2><h3>Medium</h3><hr><p>You are given an integer array <code>nums</code> of size <code>n</code>.</p>
+<h2><a href="https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/?envType=daily-question&envId=2025-07-30">2419. Longest Subarray With Maximum Bitwise AND</a></h2><h3>Medium</h3><hr><p>You are given an integer array <code>nums</code> of size <code>n</code>.</p>
 
 <p>Consider a <strong>non-empty</strong> subarray from <code>nums</code> that has the <strong>maximum</strong> possible <strong>bitwise AND</strong>.</p>
 
