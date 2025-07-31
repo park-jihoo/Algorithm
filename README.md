@@ -311,6 +311,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [1052-grumpy-bookstore-owner](./leetcode/Medium/1052-grumpy-bookstore-owner/) | Python | 2024-06-21 |
 | leetcode | Medium | [1963-minimum-number-of-swaps-to-make-the-string-balanced](./leetcode/Medium/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Python | 2024-10-08 |
 | leetcode | Medium | [0260-single-number-iii](./leetcode/Medium/0260-single-number-iii/) | Python | 2024-05-31 |
+| leetcode | Medium | [0898-bitwise-ors-of-subarrays](./leetcode/Medium/0898-bitwise-ors-of-subarrays/) | Python | 2025-07-31 |
 | leetcode | Medium | [2966-divide-array-into-arrays-with-max-difference](./leetcode/Medium/2966-divide-array-into-arrays-with-max-difference/) | Python | 2024-02-01 |
 | leetcode | Medium | [1291-sequential-digits](./leetcode/Medium/1291-sequential-digits/) | Python | 2024-02-02 |
 | leetcode | Medium | [2492-minimum-score-of-a-path-between-two-cities](./leetcode/Medium/2492-minimum-score-of-a-path-between-two-cities/) | Python | 2024-09-14 |

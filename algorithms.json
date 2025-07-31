@@ -2458,6 +2458,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "0898-bitwise-ors-of-subarrays",
+    "languages": "Python",
+    "last_commit_date": "2025-07-31",
+    "slug": "leetcode/Medium/0898-bitwise-ors-of-subarrays"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "2966-divide-array-into-arrays-with-max-difference",
     "languages": "Python",
     "last_commit_date": "2024-02-01",
