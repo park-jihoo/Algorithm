@@ -660,7 +660,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [2210-count-hills-and-valleys-in-an-array](./leetcode/Easy/2210-count-hills-and-valleys-in-an-array/) | Python | 2025-07-27 |
 | leetcode | Easy | [2418-sort-the-people](./leetcode/Easy/2418-sort-the-people/) | Python | 2024-07-22 |
 | leetcode | Easy | [2485-find-the-pivot-integer](./leetcode/Easy/2485-find-the-pivot-integer/) | Python | 2024-03-13 |
-| leetcode | Easy | [0118-pascals-triangle](./leetcode/Easy/0118-pascals-triangle/) | C++,Python | 2023-09-08 |
+| leetcode | Easy | [0118-pascals-triangle](./leetcode/Easy/0118-pascals-triangle/) | C++,Python | 2025-08-01 |
 | leetcode | Easy | [1544-make-the-string-great](./leetcode/Easy/1544-make-the-string-great/) | Python | 2024-04-05 |
 | leetcode | Easy | [2000-reverse-prefix-of-word](./leetcode/Easy/2000-reverse-prefix-of-word/) | Python | 2024-05-01 |
 | leetcode | Easy | [0121-best-time-to-buy-and-sell-stock](./leetcode/Easy/0121-best-time-to-buy-and-sell-stock/) | Python | 2023-08-14 |
