@@ -481,6 +481,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [0621-task-scheduler](./leetcode/Medium/0621-task-scheduler/) | Python | 2024-03-19 |
 | leetcode | Hard | [0072-edit-distance](./leetcode/Hard/0072-edit-distance/) | Python | 2024-09-14 |
 | leetcode | Hard | [2448-minimum-cost-to-make-array-equal](./leetcode/Hard/2448-minimum-cost-to-make-array-equal/) | Python | 2023-08-14 |
+| leetcode | Hard | [2561-rearranging-fruits](./leetcode/Hard/2561-rearranging-fruits/) | Python | 2025-08-02 |
 | leetcode | Hard | [1900-the-earliest-and-latest-rounds-where-players-compete](./leetcode/Hard/1900-the-earliest-and-latest-rounds-where-players-compete/) | Python | 2025-07-12 |
 | leetcode | Hard | [2642-design-graph-with-shortest-path-calculator](./leetcode/Hard/2642-design-graph-with-shortest-path-calculator/) | Python | 2024-09-14 |
 | leetcode | Hard | [1402-reducing-dishes](./leetcode/Hard/1402-reducing-dishes/) | Python | 2024-09-14 |

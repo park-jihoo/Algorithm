@@ -7,7 +7,7 @@ class Solution:
         for k, v in cnt.items():
             if v % 2 != 0:
                 return -1
-            last += [k]*abs(v//2)
+            last += [k] * abs(v // 2)
         minx = min(basket1 + basket2)
         last.sort()
-        return sum(min(2*minx, x) for x in last[0:len(last)//2])
+        return sum(min(2 * minx, x) for x in last[0 : len(last) // 2])

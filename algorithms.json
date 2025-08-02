@@ -3818,6 +3818,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Hard",
+    "problem_name": "2561-rearranging-fruits",
+    "languages": "Python",
+    "last_commit_date": "2025-08-02",
+    "slug": "leetcode/Hard/2561-rearranging-fruits"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Hard",
     "problem_name": "1900-the-earliest-and-latest-rounds-where-players-compete",
     "languages": "Python",
     "last_commit_date": "2025-07-12",
