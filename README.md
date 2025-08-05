@@ -710,6 +710,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [1572-matrix-diagonal-sum](./leetcode/Easy/1572-matrix-diagonal-sum/) | JavaScript,Python | 2023-08-14 |
 | leetcode | Easy | [0191-number-of-1-bits](./leetcode/Easy/0191-number-of-1-bits/) | Python | 2024-09-14 |
 | leetcode | Easy | [1550-three-consecutive-odds](./leetcode/Easy/1550-three-consecutive-odds/) | Python | 2025-05-11 |
+| leetcode | Easy | [3477-fruits-into-baskets-ii](./leetcode/Easy/3477-fruits-into-baskets-ii/) | Python | 2025-08-05 |
 | leetcode | Easy | [0392-is-subsequence](./leetcode/Easy/0392-is-subsequence/) | Python | 2024-09-14 |
 | leetcode | Easy | [0009-palindrome-number](./leetcode/Easy/0009-palindrome-number/) | Python | 2024-09-14 |
 | leetcode | Easy | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](./leetcode/Easy/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Python | 2024-12-02 |

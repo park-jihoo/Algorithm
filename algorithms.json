@@ -5650,6 +5650,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Easy",
+    "problem_name": "3477-fruits-into-baskets-ii",
+    "languages": "Python",
+    "last_commit_date": "2025-08-05",
+    "slug": "leetcode/Easy/3477-fruits-into-baskets-ii"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Easy",
     "problem_name": "0392-is-subsequence",
     "languages": "Python",
     "last_commit_date": "2024-09-14",
