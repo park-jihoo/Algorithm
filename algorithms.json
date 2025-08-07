@@ -3922,6 +3922,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Hard",
+    "problem_name": "3363-find-the-maximum-number-of-fruits-collected",
+    "languages": "Python",
+    "last_commit_date": "2025-08-07",
+    "slug": "leetcode/Hard/3363-find-the-maximum-number-of-fruits-collected"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Hard",
     "problem_name": "1255-maximum-score-words-formed-by-letters",
     "languages": "Python",
     "last_commit_date": "2024-05-24",

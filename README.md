@@ -494,6 +494,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Hard | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](./leetcode/Hard/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Python | 2025-01-18 |
 | leetcode | Hard | [2050-parallel-courses-iii](./leetcode/Hard/2050-parallel-courses-iii/) | Python | 2023-12-21 |
 | leetcode | Hard | [0432-all-oone-data-structure](./leetcode/Hard/0432-all-oone-data-structure/) | Python | 2024-09-29 |
+| leetcode | Hard | [3363-find-the-maximum-number-of-fruits-collected](./leetcode/Hard/3363-find-the-maximum-number-of-fruits-collected/) | Python | 2025-08-07 |
 | leetcode | Hard | [1255-maximum-score-words-formed-by-letters](./leetcode/Hard/1255-maximum-score-words-formed-by-letters/) | Python | 2024-05-24 |
 | leetcode | Hard | [1312-minimum-insertion-steps-to-make-a-string-palindrome](./leetcode/Hard/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Python | 2024-09-14 |
 | leetcode | Hard | [1444-number-of-ways-of-cutting-a-pizza](./leetcode/Hard/1444-number-of-ways-of-cutting-a-pizza/) | Python | 2024-09-14 |
