@@ -442,6 +442,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [2257-count-unguarded-cells-in-the-grid](./leetcode/Medium/2257-count-unguarded-cells-in-the-grid/) | Python | 2024-11-21 |
 | leetcode | Medium | [1637-widest-vertical-area-between-two-points-containing-no-points](./leetcode/Medium/1637-widest-vertical-area-between-two-points-containing-no-points/) | Python | 2023-12-21 |
 | leetcode | Medium | [0373-find-k-pairs-with-smallest-sums](./leetcode/Medium/0373-find-k-pairs-with-smallest-sums/) | Python | 2023-08-14 |
+| leetcode | Medium | [0869-reordered-power-of-2](./leetcode/Medium/0869-reordered-power-of-2/) | Python | 2025-08-10 |
 | leetcode | Medium | [0781-rabbits-in-forest](./leetcode/Medium/0781-rabbits-in-forest/) | Python | 2025-04-20 |
 | leetcode | Medium | [0516-longest-palindromic-subsequence](./leetcode/Medium/0516-longest-palindromic-subsequence/) | Python | 2024-09-14 |
 | leetcode | Medium | [1921-eliminate-maximum-number-of-monsters](./leetcode/Medium/1921-eliminate-maximum-number-of-monsters/) | Python | 2023-11-07 |

@@ -3506,6 +3506,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "0869-reordered-power-of-2",
+    "languages": "Python",
+    "last_commit_date": "2025-08-10",
+    "slug": "leetcode/Medium/0869-reordered-power-of-2"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "0781-rabbits-in-forest",
     "languages": "Python",
     "last_commit_date": "2025-04-20",
