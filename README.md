@@ -680,6 +680,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [2331-evaluate-boolean-binary-tree](./leetcode/Easy/2331-evaluate-boolean-binary-tree/) | Python | 2024-05-16 |
 | leetcode | Easy | [0703-kth-largest-element-in-a-stream](./leetcode/Easy/0703-kth-largest-element-in-a-stream/) | Python | 2023-08-14 |
 | leetcode | Easy | [1832-check-if-the-sentence-is-pangram](./leetcode/Easy/1832-check-if-the-sentence-is-pangram/) | Python | 2024-09-14 |
+| leetcode | Easy | [0326-power-of-three](./leetcode/Easy/0326-power-of-three/) | Python | 2025-08-13 |
 | leetcode | Easy | [0989-add-to-array-form-of-integer](./leetcode/Easy/0989-add-to-array-form-of-integer/) | Python | 2023-08-14 |
 | leetcode | Easy | [0344-reverse-string](./leetcode/Easy/0344-reverse-string/) | Python | 2024-06-02 |
 | leetcode | Easy | [1550-three-consecutive-odds](./leetcode/Easy/1550-three-consecutive-odds/) | Python | 2025-05-11 |
