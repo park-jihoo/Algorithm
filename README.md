@@ -792,7 +792,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [0557-reverse-words-in-a-string-iii](./leetcode/Easy/0557-reverse-words-in-a-string-iii/) | Python | 2023-10-01 |
 | leetcode | Easy | [1614-maximum-nesting-depth-of-the-parentheses](./leetcode/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Python | 2024-04-04 |
 | leetcode | Easy | [0905-sort-array-by-parity](./leetcode/Easy/0905-sort-array-by-parity/) | Python | 2023-09-28 |
-| leetcode | Easy | [2264-largest-3-same-digit-number-in-string](./leetcode/Easy/2264-largest-3-same-digit-number-in-string/) | Python | 2023-12-21 |
+| leetcode | Easy | [2264-largest-3-same-digit-number-in-string](./leetcode/Easy/2264-largest-3-same-digit-number-in-string/) | Python | 2025-08-14 |
 | leetcode | Easy | [2176-count-equal-and-divisible-pairs-in-an-array](./leetcode/Easy/2176-count-equal-and-divisible-pairs-in-an-array/) | Python | 2025-04-17 |
 | leetcode | Easy | [0121-best-time-to-buy-and-sell-stock](./leetcode/Easy/0121-best-time-to-buy-and-sell-stock/) | Python | 2023-08-14 |
 | leetcode | Easy | [1290-convert-binary-number-in-a-linked-list-to-integer](./leetcode/Easy/1290-convert-binary-number-in-a-linked-list-to-integer/) | Python | 2025-07-14 |
