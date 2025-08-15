@@ -822,7 +822,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [1002-find-common-characters](./leetcode/Easy/1002-find-common-characters/) | Python | 2024-06-05 |
 | leetcode | Easy | [1399-count-largest-group](./leetcode/Easy/1399-count-largest-group/) | Python | 2025-04-23 |
 | leetcode | Easy | [1903-largest-odd-number-in-string](./leetcode/Easy/1903-largest-odd-number-in-string/) | Python | 2023-12-21 |
-| leetcode | Easy | [0342-power-of-four](./leetcode/Easy/0342-power-of-four/) | Python | 2024-09-14 |
+| leetcode | Easy | [0342-power-of-four](./leetcode/Easy/0342-power-of-four/) | Python | 2025-08-15 |
 | leetcode | Easy | [0997-find-the-town-judge](./leetcode/Easy/0997-find-the-town-judge/) | Python | 2024-02-22 |
 | leetcode | Easy | [1603-design-parking-system](./leetcode/Easy/1603-design-parking-system/) | C++,Python | 2023-08-14 |
 | leetcode | Easy | [2215-find-the-difference-of-two-arrays](./leetcode/Easy/2215-find-the-difference-of-two-arrays/) | C++,Java,JavaScript,Python | 2024-09-14 |
