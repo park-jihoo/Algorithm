@@ -572,6 +572,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Hard | [2272-substring-with-largest-variance](./leetcode/Hard/2272-substring-with-largest-variance/) | C,C++,Python | 2023-08-14 |
 | leetcode | Hard | [1406-stone-game-iii](./leetcode/Hard/1406-stone-game-iii/) | Python | 2023-08-14 |
 | leetcode | Hard | [0847-shortest-path-visiting-all-nodes](./leetcode/Hard/0847-shortest-path-visiting-all-nodes/) | Python | 2023-09-17 |
+| leetcode | Hard | [0679-24-game](./leetcode/Hard/0679-24-game/) | Python | 2025-08-18 |
 | leetcode | Hard | [1203-sort-items-by-groups-respecting-dependencies](./leetcode/Hard/1203-sort-items-by-groups-respecting-dependencies/) | Python | 2023-08-20 |
 | leetcode | Hard | [2081-sum-of-k-mirror-numbers](./leetcode/Hard/2081-sum-of-k-mirror-numbers/) | Python | 2025-06-23 |
 | leetcode | Hard | [1425-constrained-subsequence-sum](./leetcode/Hard/1425-constrained-subsequence-sum/) | Python | 2023-10-21 |

@@ -4546,6 +4546,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Hard",
+    "problem_name": "0679-24-game",
+    "languages": "Python",
+    "last_commit_date": "2025-08-18",
+    "slug": "leetcode/Hard/0679-24-game"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Hard",
     "problem_name": "1203-sort-items-by-groups-respecting-dependencies",
     "languages": "Python",
     "last_commit_date": "2023-08-20",
