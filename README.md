@@ -304,6 +304,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [1823-find-the-winner-of-the-circular-game](./leetcode/Medium/1823-find-the-winner-of-the-circular-game/) | Python | 2024-07-08 |
 | leetcode | Medium | [0846-hand-of-straights](./leetcode/Medium/0846-hand-of-straights/) | Python | 2024-06-06 |
 | leetcode | Medium | [3097-shortest-subarray-with-or-at-least-k-ii](./leetcode/Medium/3097-shortest-subarray-with-or-at-least-k-ii/) | Python | 2024-11-10 |
+| leetcode | Medium | [1504-count-submatrices-with-all-ones](./leetcode/Medium/1504-count-submatrices-with-all-ones/) | Python | 2025-08-21 |
 | leetcode | Medium | [2684-maximum-number-of-moves-in-a-grid](./leetcode/Medium/2684-maximum-number-of-moves-in-a-grid/) | Python | 2024-10-29 |
 | leetcode | Medium | [0150-evaluate-reverse-polish-notation](./leetcode/Medium/0150-evaluate-reverse-polish-notation/) | Python | 2024-01-30 |
 | leetcode | Medium | [0658-find-k-closest-elements](./leetcode/Medium/0658-find-k-closest-elements/) | Python | 2024-09-14 |

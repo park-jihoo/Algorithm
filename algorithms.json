@@ -2402,6 +2402,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "1504-count-submatrices-with-all-ones",
+    "languages": "Python",
+    "last_commit_date": "2025-08-21",
+    "slug": "leetcode/Medium/1504-count-submatrices-with-all-ones"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "2684-maximum-number-of-moves-in-a-grid",
     "languages": "Python",
     "last_commit_date": "2024-10-29",
