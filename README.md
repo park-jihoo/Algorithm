@@ -608,6 +608,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Hard | [0446-arithmetic-slices-ii-subsequence](./leetcode/Hard/0446-arithmetic-slices-ii-subsequence/) | Python | 2024-01-07 |
 | leetcode | Hard | [1970-last-day-where-you-can-still-cross](./leetcode/Hard/1970-last-day-where-you-can-still-cross/) | Python | 2023-08-14 |
 | leetcode | Hard | [2050-parallel-courses-iii](./leetcode/Hard/2050-parallel-courses-iii/) | Python | 2023-12-21 |
+| leetcode | Hard | [3197-find-the-minimum-area-to-cover-all-ones-ii](./leetcode/Hard/3197-find-the-minimum-area-to-cover-all-ones-ii/) | Python | 2025-08-23 |
 | leetcode | Hard | [0076-minimum-window-substring](./leetcode/Hard/0076-minimum-window-substring/) | Python | 2024-09-14 |
 | leetcode | Hard | [1416-restore-the-array](./leetcode/Hard/1416-restore-the-array/) | Python | 2024-09-14 |
 | leetcode | Hard | [2940-find-building-where-alice-and-bob-can-meet](./leetcode/Hard/2940-find-building-where-alice-and-bob-can-meet/) | Python | 2024-12-22 |

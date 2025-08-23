@@ -4834,6 +4834,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Hard",
+    "problem_name": "3197-find-the-minimum-area-to-cover-all-ones-ii",
+    "languages": "Python",
+    "last_commit_date": "2025-08-23",
+    "slug": "leetcode/Hard/3197-find-the-minimum-area-to-cover-all-ones-ii"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Hard",
     "problem_name": "0076-minimum-window-substring",
     "languages": "Python",
     "last_commit_date": "2024-09-14",
