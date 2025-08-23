@@ -3874,6 +3874,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "3195-find-the-minimum-area-to-cover-all-ones-i",
+    "languages": "Python",
+    "last_commit_date": "2025-08-23",
+    "slug": "leetcode/Medium/3195-find-the-minimum-area-to-cover-all-ones-i"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one",
     "languages": "Python",
     "last_commit_date": "2024-05-29",

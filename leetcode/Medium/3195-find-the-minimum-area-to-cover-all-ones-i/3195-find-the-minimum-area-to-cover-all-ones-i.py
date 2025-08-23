@@ -13,5 +13,5 @@ class Solution:
                         x2 = jdx
                     if x1 > jdx:
                         x1 = jdx
-        
-        return (y2-y1+1) * (x2-x1+1)
+
+        return (y2 - y1 + 1) * (x2 - x1 + 1)
