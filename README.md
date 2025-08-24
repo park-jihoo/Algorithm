@@ -57,7 +57,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [1007-minimum-domino-rotations-for-equal-row](./leetcode/Medium/1007-minimum-domino-rotations-for-equal-row/) | Python | 2025-05-03 |
 | leetcode | Medium | [0907-sum-of-subarray-minimums](./leetcode/Medium/0907-sum-of-subarray-minimums/) | Python | 2024-01-20 |
 | leetcode | Medium | [0881-boats-to-save-people](./leetcode/Medium/0881-boats-to-save-people/) | Python | 2024-05-04 |
-| leetcode | Medium | [1493-longest-subarray-of-1s-after-deleting-one-element](./leetcode/Medium/1493-longest-subarray-of-1s-after-deleting-one-element/) | Python | 2023-08-14 |
+| leetcode | Medium | [1493-longest-subarray-of-1s-after-deleting-one-element](./leetcode/Medium/1493-longest-subarray-of-1s-after-deleting-one-element/) | Python | 2025-08-24 |
 | leetcode | Medium | [2901-longest-unequal-adjacent-groups-subsequence-ii](./leetcode/Medium/2901-longest-unequal-adjacent-groups-subsequence-ii/) | Python | 2025-05-16 |
 | leetcode | Medium | [2364-count-number-of-bad-pairs](./leetcode/Medium/2364-count-number-of-bad-pairs/) | Python | 2025-02-09 |
 | leetcode | Medium | [1146-snapshot-array](./leetcode/Medium/1146-snapshot-array/) | Python | 2023-08-14 |
