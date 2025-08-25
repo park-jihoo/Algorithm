@@ -490,6 +490,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [2434-using-a-robot-to-print-the-lexicographically-smallest-string](./leetcode/Medium/2434-using-a-robot-to-print-the-lexicographically-smallest-string/) | Python | 2025-06-06 |
 | leetcode | Medium | [3195-find-the-minimum-area-to-cover-all-ones-i](./leetcode/Medium/3195-find-the-minimum-area-to-cover-all-ones-i/) | Python | 2025-08-23 |
 | leetcode | Medium | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](./leetcode/Medium/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) | Python | 2024-05-29 |
+| leetcode | Medium | [0498-diagonal-traverse](./leetcode/Medium/0498-diagonal-traverse/) | Python | 2025-08-25 |
 | leetcode | Medium | [3342-find-minimum-time-to-reach-last-room-ii](./leetcode/Medium/3342-find-minimum-time-to-reach-last-room-ii/) | Python | 2025-05-08 |
 | leetcode | Medium | [0624-maximum-distance-in-arrays](./leetcode/Medium/0624-maximum-distance-in-arrays/) | Python | 2024-09-14 |
 | leetcode | Medium | [2359-find-closest-node-to-given-two-nodes](./leetcode/Medium/2359-find-closest-node-to-given-two-nodes/) | Python | 2025-05-30 |

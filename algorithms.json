@@ -3890,6 +3890,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "0498-diagonal-traverse",
+    "languages": "Python",
+    "last_commit_date": "2025-08-25",
+    "slug": "leetcode/Medium/0498-diagonal-traverse"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "3342-find-minimum-time-to-reach-last-room-ii",
     "languages": "Python",
     "last_commit_date": "2025-05-08",
