@@ -5466,6 +5466,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Easy",
+    "problem_name": "3000-maximum-area-of-longest-diagonal-rectangle",
+    "languages": "Python",
+    "last_commit_date": "2025-08-26",
+    "slug": "leetcode/Easy/3000-maximum-area-of-longest-diagonal-rectangle"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Easy",
     "problem_name": "0344-reverse-string",
     "languages": "Python",
     "last_commit_date": "2024-06-02",

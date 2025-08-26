@@ -687,6 +687,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [1832-check-if-the-sentence-is-pangram](./leetcode/Easy/1832-check-if-the-sentence-is-pangram/) | Python | 2024-09-14 |
 | leetcode | Easy | [0326-power-of-three](./leetcode/Easy/0326-power-of-three/) | Python | 2025-08-13 |
 | leetcode | Easy | [0989-add-to-array-form-of-integer](./leetcode/Easy/0989-add-to-array-form-of-integer/) | Python | 2023-08-14 |
+| leetcode | Easy | [3000-maximum-area-of-longest-diagonal-rectangle](./leetcode/Easy/3000-maximum-area-of-longest-diagonal-rectangle/) | Python | 2025-08-26 |
 | leetcode | Easy | [0344-reverse-string](./leetcode/Easy/0344-reverse-string/) | Python | 2024-06-02 |
 | leetcode | Easy | [1550-three-consecutive-odds](./leetcode/Easy/1550-three-consecutive-odds/) | Python | 2025-05-11 |
 | leetcode | Easy | [0860-lemonade-change](./leetcode/Easy/0860-lemonade-change/) | Python | 2024-08-15 |
