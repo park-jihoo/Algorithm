@@ -148,6 +148,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [1319-number-of-operations-to-make-network-connected](./leetcode/Medium/1319-number-of-operations-to-make-network-connected/) | Python | 2024-09-14 |
 | leetcode | Medium | [1325-delete-leaves-with-a-given-value](./leetcode/Medium/1325-delete-leaves-with-a-given-value/) | Python | 2024-05-17 |
 | leetcode | Medium | [1014-best-sightseeing-pair](./leetcode/Medium/1014-best-sightseeing-pair/) | Python | 2024-12-27 |
+| leetcode | Medium | [3021-alice-and-bob-playing-flower-game](./leetcode/Medium/3021-alice-and-bob-playing-flower-game/) | Python | 2025-08-30 |
 | leetcode | Medium | [3170-lexicographically-minimum-string-after-removing-stars](./leetcode/Medium/3170-lexicographically-minimum-string-after-removing-stars/) | Python | 2025-06-07 |
 | leetcode | Medium | [2419-longest-subarray-with-maximum-bitwise-and](./leetcode/Medium/2419-longest-subarray-with-maximum-bitwise-and/) | Python | 2025-07-30 |
 | leetcode | Medium | [0005-longest-palindromic-substring](./leetcode/Medium/0005-longest-palindromic-substring/) | Python | 2023-10-27 |

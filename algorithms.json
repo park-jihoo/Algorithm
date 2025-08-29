@@ -1154,6 +1154,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "3021-alice-and-bob-playing-flower-game",
+    "languages": "Python",
+    "last_commit_date": "2025-08-30",
+    "slug": "leetcode/Medium/3021-alice-and-bob-playing-flower-game"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "3170-lexicographically-minimum-string-after-removing-stars",
     "languages": "Python",
     "last_commit_date": "2025-06-07",
