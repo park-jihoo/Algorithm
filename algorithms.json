@@ -1156,7 +1156,7 @@
     "difficulty": "Medium",
     "problem_name": "3021-alice-and-bob-playing-flower-game",
     "languages": "Python",
-    "last_commit_date": "2025-08-30",
+    "last_commit_date": "2025-08-29",
     "slug": "leetcode/Medium/3021-alice-and-bob-playing-flower-game"
   },
   {
@@ -4190,6 +4190,14 @@
     "languages": "Python",
     "last_commit_date": "2024-05-23",
     "slug": "leetcode/Medium/2597-the-number-of-beautiful-subsets"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
+    "problem_name": "0036-valid-sudoku",
+    "languages": "Python",
+    "last_commit_date": "2025-08-30",
+    "slug": "leetcode/Medium/0036-valid-sudoku"
   },
   {
     "platform": "leetcode",

@@ -148,7 +148,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [1319-number-of-operations-to-make-network-connected](./leetcode/Medium/1319-number-of-operations-to-make-network-connected/) | Python | 2024-09-14 |
 | leetcode | Medium | [1325-delete-leaves-with-a-given-value](./leetcode/Medium/1325-delete-leaves-with-a-given-value/) | Python | 2024-05-17 |
 | leetcode | Medium | [1014-best-sightseeing-pair](./leetcode/Medium/1014-best-sightseeing-pair/) | Python | 2024-12-27 |
-| leetcode | Medium | [3021-alice-and-bob-playing-flower-game](./leetcode/Medium/3021-alice-and-bob-playing-flower-game/) | Python | 2025-08-30 |
+| leetcode | Medium | [3021-alice-and-bob-playing-flower-game](./leetcode/Medium/3021-alice-and-bob-playing-flower-game/) | Python | 2025-08-29 |
 | leetcode | Medium | [3170-lexicographically-minimum-string-after-removing-stars](./leetcode/Medium/3170-lexicographically-minimum-string-after-removing-stars/) | Python | 2025-06-07 |
 | leetcode | Medium | [2419-longest-subarray-with-maximum-bitwise-and](./leetcode/Medium/2419-longest-subarray-with-maximum-bitwise-and/) | Python | 2025-07-30 |
 | leetcode | Medium | [0005-longest-palindromic-substring](./leetcode/Medium/0005-longest-palindromic-substring/) | Python | 2023-10-27 |
@@ -528,6 +528,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [1072-flip-columns-for-maximum-number-of-equal-rows](./leetcode/Medium/1072-flip-columns-for-maximum-number-of-equal-rows/) | Python | 2024-11-22 |
 | leetcode | Medium | [0898-bitwise-ors-of-subarrays](./leetcode/Medium/0898-bitwise-ors-of-subarrays/) | Python | 2025-07-31 |
 | leetcode | Medium | [2597-the-number-of-beautiful-subsets](./leetcode/Medium/2597-the-number-of-beautiful-subsets/) | Python | 2024-05-23 |
+| leetcode | Medium | [0036-valid-sudoku](./leetcode/Medium/0036-valid-sudoku/) | Python | 2025-08-30 |
 | leetcode | Medium | [3085-minimum-deletions-to-make-string-k-special](./leetcode/Medium/3085-minimum-deletions-to-make-string-k-special/) | Python | 2025-06-21 |
 | leetcode | Medium | [1721-swapping-nodes-in-a-linked-list](./leetcode/Medium/1721-swapping-nodes-in-a-linked-list/) | Python | 2023-08-14 |
 | leetcode | Medium | [0377-combination-sum-iv](./leetcode/Medium/0377-combination-sum-iv/) | Python | 2023-09-09 |
