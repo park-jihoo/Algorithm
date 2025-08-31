@@ -71,6 +71,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Hard | [0042-trapping-rain-water](./leetcode/Hard/0042-trapping-rain-water/) | Python | 2024-04-12 |
 | leetcode | Hard | [1335-minimum-difficulty-of-a-job-schedule](./leetcode/Hard/1335-minimum-difficulty-of-a-job-schedule/) | Python | 2023-12-29 |
 | leetcode | Hard | [0041-first-missing-positive](./leetcode/Hard/0041-first-missing-positive/) | Python | 2024-03-26 |
+| leetcode | Hard | [0037-sudoku-solver](./leetcode/Hard/0037-sudoku-solver/) | Python | 2025-08-31 |
 | leetcode | Hard | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](./leetcode/Hard/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Python | 2025-01-18 |
 | leetcode | Hard | [1547-minimum-cost-to-cut-a-stick](./leetcode/Hard/1547-minimum-cost-to-cut-a-stick/) | Python | 2023-08-14 |
 | leetcode | Hard | [0879-profitable-schemes](./leetcode/Hard/0879-profitable-schemes/) | Python | 2024-09-14 |

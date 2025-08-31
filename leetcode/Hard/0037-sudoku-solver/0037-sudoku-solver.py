@@ -22,7 +22,7 @@ class Solution:
             rows[row][d] -= 1
             cols[col][d] -= 1
             boxes[idx][d] -= 1
-            board[row][col] = '.'
+            board[row][col] = "."
 
         def placeNextNumbers(row, col):
             nonlocal sudokuSolved
@@ -35,7 +35,7 @@ class Solution:
 
         def backtrack(row, col):
             nonlocal sudokuSolved
-            if board[row][col] == '.':
+            if board[row][col] == ".":
                 for d in range(1, 10):
                     if couldPlace(d, row, col):
                         placeNumber(d, row, col)
@@ -47,6 +47,6 @@ class Solution:
 
         for i in range(N):
             for j in range(N):
-                if board[i][j] != '.':
+                if board[i][j] != ".":
                     placeNumber(int(board[i][j]), i, j)
         backtrack(0, 0)
