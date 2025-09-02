@@ -296,6 +296,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [2762-continuous-subarrays](./leetcode/Medium/2762-continuous-subarrays/) | Python | 2024-12-14 |
 | leetcode | Medium | [3133-minimum-array-end](./leetcode/Medium/3133-minimum-array-end/) | Python | 2024-11-09 |
 | leetcode | Medium | [2109-adding-spaces-to-a-string](./leetcode/Medium/2109-adding-spaces-to-a-string/) | Python | 2024-12-03 |
+| leetcode | Medium | [3025-find-the-number-of-ways-to-place-people-i](./leetcode/Medium/3025-find-the-number-of-ways-to-place-people-i/) | Python | 2025-09-02 |
 | leetcode | Medium | [2554-maximum-number-of-integers-to-choose-from-a-range-i](./leetcode/Medium/2554-maximum-number-of-integers-to-choose-from-a-range-i/) | Python | 2024-12-06 |
 | leetcode | Medium | [0947-most-stones-removed-with-same-row-or-column](./leetcode/Medium/0947-most-stones-removed-with-same-row-or-column/) | Python | 2024-08-29 |
 | leetcode | Medium | [2871-double-a-number-represented-as-a-linked-list](./leetcode/Medium/2871-double-a-number-represented-as-a-linked-list/) | Python | 2024-05-07 |

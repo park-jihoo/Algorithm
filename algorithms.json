@@ -2338,6 +2338,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "3025-find-the-number-of-ways-to-place-people-i",
+    "languages": "Python",
+    "last_commit_date": "2025-09-02",
+    "slug": "leetcode/Medium/3025-find-the-number-of-ways-to-place-people-i"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "2554-maximum-number-of-integers-to-choose-from-a-range-i",
     "languages": "Python",
     "last_commit_date": "2024-12-06",
