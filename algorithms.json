@@ -346,6 +346,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Hard",
+    "problem_name": "3027-find-the-number-of-ways-to-place-people-ii",
+    "languages": "Unknown",
+    "last_commit_date": "2025-09-03",
+    "slug": "leetcode/Hard/3027-find-the-number-of-ways-to-place-people-ii"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Hard",
     "problem_name": "1289-minimum-falling-path-sum-ii",
     "languages": "Python",
     "last_commit_date": "2024-04-26",
@@ -6582,6 +6590,14 @@
     "languages": "Python",
     "last_commit_date": "2024-07-10",
     "slug": "leetcode/Easy/1598-crawler-log-folder"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Easy",
+    "problem_name": "3516-find-closest-person",
+    "languages": "Python",
+    "last_commit_date": "2025-09-04",
+    "slug": "leetcode/Easy/3516-find-closest-person"
   },
   {
     "platform": "leetcode",

@@ -47,6 +47,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Hard | [2272-substring-with-largest-variance](./leetcode/Hard/2272-substring-with-largest-variance/) | C,C++,Python | 2023-08-14 |
 | leetcode | Hard | [2014-longest-subsequence-repeated-k-times](./leetcode/Hard/2014-longest-subsequence-repeated-k-times/) | Python | 2025-06-27 |
 | leetcode | Hard | [1235-maximum-profit-in-job-scheduling](./leetcode/Hard/1235-maximum-profit-in-job-scheduling/) | Python | 2024-01-06 |
+| leetcode | Hard | [3027-find-the-number-of-ways-to-place-people-ii](./leetcode/Hard/3027-find-the-number-of-ways-to-place-people-ii/) | Unknown | 2025-09-03 |
 | leetcode | Hard | [1289-minimum-falling-path-sum-ii](./leetcode/Hard/1289-minimum-falling-path-sum-ii/) | Python | 2024-04-26 |
 | leetcode | Hard | [0827-making-a-large-island](./leetcode/Hard/0827-making-a-large-island/) | Python | 2025-01-31 |
 | leetcode | Hard | [0502-ipo](./leetcode/Hard/0502-ipo/) | Python | 2024-06-15 |
@@ -827,6 +828,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [0796-rotate-string](./leetcode/Easy/0796-rotate-string/) | Python | 2024-11-03 |
 | leetcode | Easy | [2053-kth-distinct-string-in-an-array](./leetcode/Easy/2053-kth-distinct-string-in-an-array/) | Python | 2024-08-05 |
 | leetcode | Easy | [1598-crawler-log-folder](./leetcode/Easy/1598-crawler-log-folder/) | Python | 2024-07-10 |
+| leetcode | Easy | [3516-find-closest-person](./leetcode/Easy/3516-find-closest-person/) | Python | 2025-09-04 |
 | leetcode | Easy | [1337-the-k-weakest-rows-in-a-matrix](./leetcode/Easy/1337-the-k-weakest-rows-in-a-matrix/) | Python | 2023-09-18 |
 | leetcode | Easy | [2485-find-the-pivot-integer](./leetcode/Easy/2485-find-the-pivot-integer/) | Python | 2024-03-13 |
 | leetcode | Easy | [0225-implement-stack-using-queues](./leetcode/Easy/0225-implement-stack-using-queues/) | C,C++,Python | 2023-08-28 |
