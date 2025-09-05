@@ -588,6 +588,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [0024-swap-nodes-in-pairs](./leetcode/Medium/0024-swap-nodes-in-pairs/) | Python | 2023-08-14 |
 | leetcode | Medium | [1717-maximum-score-from-removing-substrings](./leetcode/Medium/1717-maximum-score-from-removing-substrings/) | Python | 2024-09-14 |
 | leetcode | Medium | [2370-longest-ideal-subsequence](./leetcode/Medium/2370-longest-ideal-subsequence/) | Python | 2024-04-25 |
+| leetcode | Medium | [2749-minimum-operations-to-make-the-integer-zero](./leetcode/Medium/2749-minimum-operations-to-make-the-integer-zero/) | Python | 2025-09-05 |
 | leetcode | Medium | [0347-top-k-frequent-elements](./leetcode/Medium/0347-top-k-frequent-elements/) | Python | 2023-08-14 |
 | leetcode | Medium | [2658-maximum-number-of-fish-in-a-grid](./leetcode/Medium/2658-maximum-number-of-fish-in-a-grid/) | Python | 2025-01-28 |
 | leetcode | Medium | [3394-check-if-grid-can-be-cut-into-sections](./leetcode/Medium/3394-check-if-grid-can-be-cut-into-sections/) | Python | 2025-03-25 |
