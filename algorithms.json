@@ -826,6 +826,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Hard",
+    "problem_name": "3495-minimum-operations-to-make-array-elements-zero",
+    "languages": "Python",
+    "last_commit_date": "2025-09-06",
+    "slug": "leetcode/Hard/3495-minimum-operations-to-make-array-elements-zero"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Hard",
     "problem_name": "0407-trapping-rain-water-ii",
     "languages": "Python",
     "last_commit_date": "2025-01-19",

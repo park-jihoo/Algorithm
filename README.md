@@ -107,6 +107,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Hard | [2751-robot-collisions](./leetcode/Hard/2751-robot-collisions/) | Python | 2024-07-13 |
 | leetcode | Hard | [1575-count-all-possible-routes](./leetcode/Hard/1575-count-all-possible-routes/) | Python | 2023-08-14 |
 | leetcode | Hard | [0185-department-top-three-salaries](./leetcode/Hard/0185-department-top-three-salaries/) | SQL | 2024-09-14 |
+| leetcode | Hard | [3495-minimum-operations-to-make-array-elements-zero](./leetcode/Hard/3495-minimum-operations-to-make-array-elements-zero/) | Python | 2025-09-06 |
 | leetcode | Hard | [0407-trapping-rain-water-ii](./leetcode/Hard/0407-trapping-rain-water-ii/) | Python | 2025-01-19 |
 | leetcode | Hard | [2642-design-graph-with-shortest-path-calculator](./leetcode/Hard/2642-design-graph-with-shortest-path-calculator/) | Python | 2024-09-14 |
 | leetcode | Hard | [1255-maximum-score-words-formed-by-letters](./leetcode/Hard/1255-maximum-score-words-formed-by-letters/) | Python | 2024-05-24 |
