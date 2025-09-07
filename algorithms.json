@@ -5234,6 +5234,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Easy",
+    "problem_name": "1304-find-n-unique-integers-sum-up-to-zero",
+    "languages": "Python",
+    "last_commit_date": "2025-09-07",
+    "slug": "leetcode/Easy/1304-find-n-unique-integers-sum-up-to-zero"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Easy",
     "problem_name": "2894-divisible-and-non-divisible-sums-difference",
     "languages": "Python",
     "last_commit_date": "2025-05-27",

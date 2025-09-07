@@ -658,6 +658,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [1732-find-the-highest-altitude](./leetcode/Easy/1732-find-the-highest-altitude/) | Python | 2023-08-14 |
 | leetcode | Easy | [1431-kids-with-the-greatest-number-of-candies](./leetcode/Easy/1431-kids-with-the-greatest-number-of-candies/) | Python | 2024-09-14 |
 | leetcode | Easy | [2540-minimum-common-value](./leetcode/Easy/2540-minimum-common-value/) | Python | 2024-03-09 |
+| leetcode | Easy | [1304-find-n-unique-integers-sum-up-to-zero](./leetcode/Easy/1304-find-n-unique-integers-sum-up-to-zero/) | Python | 2025-09-07 |
 | leetcode | Easy | [2894-divisible-and-non-divisible-sums-difference](./leetcode/Easy/2894-divisible-and-non-divisible-sums-difference/) | Python | 2025-05-27 |
 | leetcode | Easy | [1539-kth-missing-positive-number](./leetcode/Easy/1539-kth-missing-positive-number/) | Python | 2024-09-14 |
 | leetcode | Easy | [2843-count-symmetric-integers](./leetcode/Easy/2843-count-symmetric-integers/) | Python | 2025-04-11 |
