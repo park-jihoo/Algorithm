@@ -711,6 +711,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [3304-find-the-k-th-character-in-string-game-i](./leetcode/Easy/3304-find-the-k-th-character-in-string-game-i/) | Python | 2025-07-03 |
 | leetcode | Easy | [1232-check-if-it-is-a-straight-line](./leetcode/Easy/1232-check-if-it-is-a-straight-line/) | Python | 2024-09-14 |
 | leetcode | Easy | [2582-pass-the-pillow](./leetcode/Easy/2582-pass-the-pillow/) | Python | 2024-07-06 |
+| leetcode | Easy | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](./leetcode/Easy/1317-convert-integer-to-the-sum-of-two-no-zero-integers/) | Python | 2025-09-08 |
 | leetcode | Easy | [0530-minimum-absolute-difference-in-bst](./leetcode/Easy/0530-minimum-absolute-difference-in-bst/) | Python | 2023-08-14 |
 | leetcode | Easy | [0191-number-of-1-bits](./leetcode/Easy/0191-number-of-1-bits/) | Python | 2024-09-14 |
 | leetcode | Easy | [2460-apply-operations-to-an-array](./leetcode/Easy/2460-apply-operations-to-an-array/) | Python | 2025-03-01 |
