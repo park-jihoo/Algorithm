@@ -484,6 +484,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [1376-time-needed-to-inform-all-employees](./leetcode/Medium/1376-time-needed-to-inform-all-employees/) | Python | 2023-08-14 |
 | leetcode | Medium | [2411-smallest-subarrays-with-maximum-bitwise-or](./leetcode/Medium/2411-smallest-subarrays-with-maximum-bitwise-or/) | Python | 2025-07-29 |
 | leetcode | Medium | [0622-design-circular-queue](./leetcode/Medium/0622-design-circular-queue/) | C++ | 2024-09-14 |
+| leetcode | Medium | [2327-number-of-people-aware-of-a-secret](./leetcode/Medium/2327-number-of-people-aware-of-a-secret/) | Python | 2025-09-09 |
 | leetcode | Medium | [1980-find-unique-binary-string](./leetcode/Medium/1980-find-unique-binary-string/) | Python | 2023-12-21 |
 | leetcode | Medium | [0095-unique-binary-search-trees-ii](./leetcode/Medium/0095-unique-binary-search-trees-ii/) | Java,Python | 2023-08-14 |
 | leetcode | Medium | [2285-maximum-total-importance-of-roads](./leetcode/Medium/2285-maximum-total-importance-of-roads/) | Python | 2024-06-28 |

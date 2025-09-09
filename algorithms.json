@@ -3842,6 +3842,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "2327-number-of-people-aware-of-a-secret",
+    "languages": "Python",
+    "last_commit_date": "2025-09-09",
+    "slug": "leetcode/Medium/2327-number-of-people-aware-of-a-secret"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "1980-find-unique-binary-string",
     "languages": "Python",
     "last_commit_date": "2023-12-21",
