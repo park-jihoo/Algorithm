@@ -450,6 +450,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [0443-string-compression](./leetcode/Medium/0443-string-compression/) | Python | 2024-09-14 |
 | leetcode | Medium | [1371-find-the-longest-substring-containing-vowels-in-even-counts](./leetcode/Medium/1371-find-the-longest-substring-containing-vowels-in-even-counts/) | Python | 2024-09-15 |
 | leetcode | Medium | [0435-non-overlapping-intervals](./leetcode/Medium/0435-non-overlapping-intervals/) | C++,Python | 2023-08-14 |
+| leetcode | Medium | [1733-minimum-number-of-people-to-teach](./leetcode/Medium/1733-minimum-number-of-people-to-teach/) | Python | 2025-09-10 |
 | leetcode | Medium | [0341-flatten-nested-list-iterator](./leetcode/Medium/0341-flatten-nested-list-iterator/) | Python | 2023-10-20 |
 | leetcode | Medium | [3254-find-the-power-of-k-size-subarrays-i](./leetcode/Medium/3254-find-the-power-of-k-size-subarrays-i/) | Python | 2024-11-16 |
 | leetcode | Medium | [0382-linked-list-random-node](./leetcode/Medium/0382-linked-list-random-node/) | Python | 2024-09-14 |

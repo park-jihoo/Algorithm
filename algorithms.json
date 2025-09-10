@@ -3570,6 +3570,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "1733-minimum-number-of-people-to-teach",
+    "languages": "Python",
+    "last_commit_date": "2025-09-10",
+    "slug": "leetcode/Medium/1733-minimum-number-of-people-to-teach"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "0341-flatten-nested-list-iterator",
     "languages": "Python",
     "last_commit_date": "2023-10-20",
