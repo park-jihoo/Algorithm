@@ -603,6 +603,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](./leetcode/Medium/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves/) | Python | 2024-07-03 |
 | leetcode | Medium | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](./leetcode/Medium/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k/) | Python | 2024-04-29 |
 | leetcode | Medium | [1208-get-equal-substrings-within-budget](./leetcode/Medium/1208-get-equal-substrings-within-budget/) | Python | 2024-05-28 |
+| leetcode | Medium | [3227-vowels-game-in-a-string](./leetcode/Medium/3227-vowels-game-in-a-string/) | Python | 2025-09-12 |
 | leetcode | Medium | [2483-minimum-penalty-for-a-shop](./leetcode/Medium/2483-minimum-penalty-for-a-shop/) | Python | 2023-08-29 |
 | leetcode | Medium | [1615-range-sum-of-sorted-subarray-sums](./leetcode/Medium/1615-range-sum-of-sorted-subarray-sums/) | Python | 2024-08-04 |
 | leetcode | Medium | [0451-sort-characters-by-frequency](./leetcode/Medium/0451-sort-characters-by-frequency/) | Python | 2024-02-07 |
