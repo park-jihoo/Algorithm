@@ -5786,6 +5786,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Easy",
+    "problem_name": "3541-find-most-frequent-vowel-and-consonant",
+    "languages": "Python",
+    "last_commit_date": "2025-09-13",
+    "slug": "leetcode/Easy/3541-find-most-frequent-vowel-and-consonant"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Easy",
     "problem_name": "1957-delete-characters-to-make-fancy-string",
     "languages": "Python",
     "last_commit_date": "2024-11-01",

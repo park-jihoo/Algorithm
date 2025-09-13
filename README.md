@@ -727,6 +727,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [2108-find-first-palindromic-string-in-the-array](./leetcode/Easy/2108-find-first-palindromic-string-in-the-array/) | Python | 2024-02-13 |
 | leetcode | Easy | [0035-search-insert-position](./leetcode/Easy/0035-search-insert-position/) | C,C++,Java,Python | 2024-09-14 |
 | leetcode | Easy | [2706-buy-two-chocolates](./leetcode/Easy/2706-buy-two-chocolates/) | Python | 2023-12-20 |
+| leetcode | Easy | [3541-find-most-frequent-vowel-and-consonant](./leetcode/Easy/3541-find-most-frequent-vowel-and-consonant/) | Python | 2025-09-13 |
 | leetcode | Easy | [1957-delete-characters-to-make-fancy-string](./leetcode/Easy/1957-delete-characters-to-make-fancy-string/) | Python | 2024-11-01 |
 | leetcode | Easy | [1662-check-if-two-string-arrays-are-equivalent](./leetcode/Easy/1662-check-if-two-string-arrays-are-equivalent/) | Python | 2023-12-12 |
 | leetcode | Easy | [2696-minimum-string-length-after-removing-substrings](./leetcode/Easy/2696-minimum-string-length-after-removing-substrings/) | Python | 2024-10-07 |
