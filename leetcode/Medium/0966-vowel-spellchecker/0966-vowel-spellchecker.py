@@ -28,4 +28,4 @@ class Solution:
         return result
 
     def deVowel(self, s):
-        return ''.join('*' if c in 'aeiou' else c for c in s)
+        return "".join("*" if c in "aeiou" else c for c in s)

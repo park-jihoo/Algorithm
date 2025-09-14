@@ -394,6 +394,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [2683-neighboring-bitwise-xor](./leetcode/Medium/2683-neighboring-bitwise-xor/) | Python | 2025-01-17 |
 | leetcode | Medium | [2130-maximum-twin-sum-of-a-linked-list](./leetcode/Medium/2130-maximum-twin-sum-of-a-linked-list/) | Python | 2023-08-14 |
 | leetcode | Medium | [2958-length-of-longest-subarray-with-at-most-k-frequency](./leetcode/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Python | 2024-03-28 |
+| leetcode | Medium | [0966-vowel-spellchecker](./leetcode/Medium/0966-vowel-spellchecker/) | Python | 2025-09-14 |
 | leetcode | Medium | [0950-reveal-cards-in-increasing-order](./leetcode/Medium/0950-reveal-cards-in-increasing-order/) | Python | 2024-04-10 |
 | leetcode | Medium | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](./leetcode/Medium/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Python | 2023-08-14 |
 | leetcode | Medium | [3160-find-the-number-of-distinct-colors-among-the-balls](./leetcode/Medium/3160-find-the-number-of-distinct-colors-among-the-balls/) | Python | 2025-02-07 |
