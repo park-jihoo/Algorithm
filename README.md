@@ -681,6 +681,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [2900-longest-unequal-adjacent-groups-subsequence-i](./leetcode/Easy/2900-longest-unequal-adjacent-groups-subsequence-i/) | Python | 2025-05-15 |
 | leetcode | Easy | [0989-add-to-array-form-of-integer](./leetcode/Easy/0989-add-to-array-form-of-integer/) | Python | 2023-08-14 |
 | leetcode | Easy | [2215-find-the-difference-of-two-arrays](./leetcode/Easy/2215-find-the-difference-of-two-arrays/) | C++,Java,JavaScript,Python | 2024-09-14 |
+| leetcode | Easy | [1935-maximum-number-of-words-you-can-type](./leetcode/Easy/1935-maximum-number-of-words-you-can-type/) | Python | 2025-09-15 |
 | leetcode | Easy | [0094-binary-tree-inorder-traversal](./leetcode/Easy/0094-binary-tree-inorder-traversal/) | Python | 2024-09-14 |
 | leetcode | Easy | [1534-count-good-triplets](./leetcode/Easy/1534-count-good-triplets/) | Python | 2025-04-14 |
 | leetcode | Easy | [3174-clear-digits](./leetcode/Easy/3174-clear-digits/) | Python | 2025-02-10 |

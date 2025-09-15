@@ -5418,6 +5418,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Easy",
+    "problem_name": "1935-maximum-number-of-words-you-can-type",
+    "languages": "Python",
+    "last_commit_date": "2025-09-15",
+    "slug": "leetcode/Easy/1935-maximum-number-of-words-you-can-type"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Easy",
     "problem_name": "0094-binary-tree-inorder-traversal",
     "languages": "Python",
     "last_commit_date": "2024-09-14",
