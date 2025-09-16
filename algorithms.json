@@ -914,6 +914,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Hard",
+    "problem_name": "2197-replace-non-coprime-numbers-in-array",
+    "languages": "Python",
+    "last_commit_date": "2025-09-16",
+    "slug": "leetcode/Hard/2197-replace-non-coprime-numbers-in-array"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Hard",
     "problem_name": "1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree",
     "languages": "Python",
     "last_commit_date": "2023-08-19",

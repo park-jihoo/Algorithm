@@ -118,6 +118,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Hard | [2171-second-minimum-time-to-reach-destination](./leetcode/Hard/2171-second-minimum-time-to-reach-destination/) | Python | 2024-09-14 |
 | leetcode | Hard | [1074-number-of-submatrices-that-sum-to-target](./leetcode/Hard/1074-number-of-submatrices-that-sum-to-target/) | Python | 2024-01-28 |
 | leetcode | Hard | [0956-tallest-billboard](./leetcode/Hard/0956-tallest-billboard/) | Python | 2023-08-14 |
+| leetcode | Hard | [2197-replace-non-coprime-numbers-in-array](./leetcode/Hard/2197-replace-non-coprime-numbers-in-array/) | Python | 2025-09-16 |
 | leetcode | Hard | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](./leetcode/Hard/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/) | Python | 2023-08-19 |
 | leetcode | Hard | [1203-sort-items-by-groups-respecting-dependencies](./leetcode/Hard/1203-sort-items-by-groups-respecting-dependencies/) | Python | 2023-08-20 |
 | leetcode | Hard | [1697-checking-existence-of-edge-length-limited-paths](./leetcode/Hard/1697-checking-existence-of-edge-length-limited-paths/) | Python | 2024-09-14 |
