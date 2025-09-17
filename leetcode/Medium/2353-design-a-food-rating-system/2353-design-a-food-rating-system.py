@@ -1,13 +1,14 @@
 from sortedcontainers import SortedList
 
-
 class FoodRatings:
+
     def __init__(self, foods: List[str], cuisines: List[str], ratings: List[int]):
         self.mp = {}
         self.data = defaultdict(SortedList)
         for food, cuisine, rating in zip(foods, cuisines, ratings):
             self.mp[food] = (cuisine, rating)
             self.data[cuisine].add((-rating, food))
+        
 
     def changeRating(self, food: str, newRating: int) -> None:
         cuisine, rating = self.mp[food]
@@ -17,6 +18,7 @@ class FoodRatings:
 
     def highestRated(self, cuisine: str) -> str:
         return self.data[cuisine][0][1]
+        
 
 
 # Your FoodRatings object will be instantiated and called as such:
