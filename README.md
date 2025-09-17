@@ -400,7 +400,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](./leetcode/Medium/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Python | 2023-08-14 |
 | leetcode | Medium | [3160-find-the-number-of-distinct-colors-among-the-balls](./leetcode/Medium/3160-find-the-number-of-distinct-colors-among-the-balls/) | Python | 2025-02-07 |
 | leetcode | Medium | [0739-daily-temperatures](./leetcode/Medium/0739-daily-temperatures/) | Python | 2024-01-31 |
-| leetcode | Medium | [2353-design-a-food-rating-system](./leetcode/Medium/2353-design-a-food-rating-system/) | Python | 2024-09-14 |
+| leetcode | Medium | [2353-design-a-food-rating-system](./leetcode/Medium/2353-design-a-food-rating-system/) | Python | 2025-09-17 |
 | leetcode | Medium | [2311-longest-binary-subsequence-less-than-or-equal-to-k](./leetcode/Medium/2311-longest-binary-subsequence-less-than-or-equal-to-k/) | Python | 2025-06-26 |
 | leetcode | Medium | [0515-find-largest-value-in-each-tree-row](./leetcode/Medium/0515-find-largest-value-in-each-tree-row/) | Python | 2024-12-25 |
 | leetcode | Medium | [0786-k-th-smallest-prime-fraction](./leetcode/Medium/0786-k-th-smallest-prime-fraction/) | Python | 2024-09-14 |
