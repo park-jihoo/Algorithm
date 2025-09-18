@@ -1954,6 +1954,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "3408-design-task-manager",
+    "languages": "Python",
+    "last_commit_date": "2025-09-18",
+    "slug": "leetcode/Medium/3408-design-task-manager"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "1503-last-moment-before-all-ants-fall-out-of-a-plank",
     "languages": "Python",
     "last_commit_date": "2023-11-04",

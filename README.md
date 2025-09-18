@@ -248,6 +248,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [3097-shortest-subarray-with-or-at-least-k-ii](./leetcode/Medium/3097-shortest-subarray-with-or-at-least-k-ii/) | Python | 2024-11-10 |
 | leetcode | Medium | [1035-uncrossed-lines](./leetcode/Medium/1035-uncrossed-lines/) | Python | 2023-08-14 |
 | leetcode | Medium | [2657-find-the-prefix-common-array-of-two-arrays](./leetcode/Medium/2657-find-the-prefix-common-array-of-two-arrays/) | Python | 2025-01-14 |
+| leetcode | Medium | [3408-design-task-manager](./leetcode/Medium/3408-design-task-manager/) | Python | 2025-09-18 |
 | leetcode | Medium | [1503-last-moment-before-all-ants-fall-out-of-a-plank](./leetcode/Medium/1503-last-moment-before-all-ants-fall-out-of-a-plank/) | Python | 2023-11-04 |
 | leetcode | Medium | [0071-simplify-path](./leetcode/Medium/0071-simplify-path/) | JavaScript,Python | 2024-09-14 |
 | leetcode | Medium | [1615-maximal-network-rank](./leetcode/Medium/1615-maximal-network-rank/) | Python | 2023-08-18 |

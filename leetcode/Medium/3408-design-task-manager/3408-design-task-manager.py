@@ -28,8 +28,11 @@ class TaskManager:
 
         while self.topTask:
             priority, negTaskId = heapq.heappop(self.topTask)
-            taskId = -negTaskId  
-            if taskId in self.taskToPriority and self.taskToPriority[taskId] == -priority:
+            taskId = -negTaskId
+            if (
+                taskId in self.taskToPriority
+                and self.taskToPriority[taskId] == -priority
+            ):
                 user = self.taskToUser.pop(taskId)
                 self.taskToPriority.pop(taskId)
                 return user
