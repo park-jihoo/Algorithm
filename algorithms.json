@@ -3970,6 +3970,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "3484-design-spreadsheet",
+    "languages": "Python",
+    "last_commit_date": "2025-09-19",
+    "slug": "leetcode/Medium/3484-design-spreadsheet"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "2300-successful-pairs-of-spells-and-potions",
     "languages": "Python",
     "last_commit_date": "2024-09-14",

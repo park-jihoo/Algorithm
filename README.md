@@ -500,6 +500,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [0641-design-circular-deque](./leetcode/Medium/0641-design-circular-deque/) | C++,Java | 2024-09-29 |
 | leetcode | Medium | [0146-lru-cache](./leetcode/Medium/0146-lru-cache/) | Java,Python | 2023-08-14 |
 | leetcode | Medium | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](./leetcode/Medium/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | Python | 2024-06-29 |
+| leetcode | Medium | [3484-design-spreadsheet](./leetcode/Medium/3484-design-spreadsheet/) | Python | 2025-09-19 |
 | leetcode | Medium | [2300-successful-pairs-of-spells-and-potions](./leetcode/Medium/2300-successful-pairs-of-spells-and-potions/) | Python | 2024-09-14 |
 | leetcode | Medium | [1887-reduction-operations-to-make-the-array-elements-equal](./leetcode/Medium/1887-reduction-operations-to-make-the-array-elements-equal/) | Python | 2023-12-21 |
 | leetcode | Medium | [2375-construct-smallest-number-from-di-string](./leetcode/Medium/2375-construct-smallest-number-from-di-string/) | Python | 2025-02-18 |
