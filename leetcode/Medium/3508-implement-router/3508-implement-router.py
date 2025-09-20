@@ -4,7 +4,7 @@ class Router:
         self.max_routes = memoryLimit
         self.routes_set = set()
         self.dest_timestamp = defaultdict(deque)
-        
+
     def addPacket(self, source: int, destination: int, timestamp: int) -> bool:
         if (source, destination, timestamp) in self.routes_set:
             return False
@@ -15,7 +15,7 @@ class Router:
         self.routes_set.add((source, destination, timestamp))
         self.dest_timestamp[destination].append(timestamp)
         return True
-        
+
     def forwardPacket(self) -> List[int]:
         if self.routes:
             source, destination, timestamp = self.routes.popleft()
@@ -28,7 +28,7 @@ class Router:
         time_range = self.dest_timestamp[destination]
         L = bisect_left(time_range, startTime)
         R = bisect_right(time_range, endTime)
-        return R-L
+        return R - L
 
 
 # Your Router object will be instantiated and called as such:

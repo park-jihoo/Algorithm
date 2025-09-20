@@ -4706,6 +4706,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "3508-implement-router",
+    "languages": "Python",
+    "last_commit_date": "2025-09-20",
+    "slug": "leetcode/Medium/3508-implement-router"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "0024-swap-nodes-in-pairs",
     "languages": "Python",
     "last_commit_date": "2023-08-14",

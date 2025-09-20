@@ -592,6 +592,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [2033-minimum-operations-to-make-a-uni-value-grid](./leetcode/Medium/2033-minimum-operations-to-make-a-uni-value-grid/) | Python | 2025-03-26 |
 | leetcode | Medium | [1462-course-schedule-iv](./leetcode/Medium/1462-course-schedule-iv/) | Python | 2025-01-27 |
 | leetcode | Medium | [3342-find-minimum-time-to-reach-last-room-ii](./leetcode/Medium/3342-find-minimum-time-to-reach-last-room-ii/) | Python | 2025-05-08 |
+| leetcode | Medium | [3508-implement-router](./leetcode/Medium/3508-implement-router/) | Python | 2025-09-20 |
 | leetcode | Medium | [0024-swap-nodes-in-pairs](./leetcode/Medium/0024-swap-nodes-in-pairs/) | Python | 2023-08-14 |
 | leetcode | Medium | [1717-maximum-score-from-removing-substrings](./leetcode/Medium/1717-maximum-score-from-removing-substrings/) | Python | 2024-09-14 |
 | leetcode | Medium | [2370-longest-ideal-subsequence](./leetcode/Medium/2370-longest-ideal-subsequence/) | Python | 2024-04-25 |
