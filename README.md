@@ -98,6 +98,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Hard | [0446-arithmetic-slices-ii-subsequence](./leetcode/Hard/0446-arithmetic-slices-ii-subsequence/) | Python | 2024-01-07 |
 | leetcode | Hard | [1106-parsing-a-boolean-expression](./leetcode/Hard/1106-parsing-a-boolean-expression/) | Python | 2024-10-20 |
 | leetcode | Hard | [1220-count-vowels-permutation](./leetcode/Hard/1220-count-vowels-permutation/) | Python | 2023-10-28 |
+| leetcode | Hard | [1912-design-movie-rental-system](./leetcode/Hard/1912-design-movie-rental-system/) | Python | 2025-09-21 |
 | leetcode | Hard | [2179-count-good-triplets-in-an-array](./leetcode/Hard/2179-count-good-triplets-in-an-array/) | Python | 2025-04-15 |
 | leetcode | Hard | [2561-rearranging-fruits](./leetcode/Hard/2561-rearranging-fruits/) | Python | 2025-08-02 |
 | leetcode | Hard | [2251-number-of-flowers-in-full-bloom](./leetcode/Hard/2251-number-of-flowers-in-full-bloom/) | Python | 2023-12-21 |

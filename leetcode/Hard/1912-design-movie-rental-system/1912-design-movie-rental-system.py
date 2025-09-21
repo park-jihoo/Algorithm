@@ -17,7 +17,7 @@ class MovieRentingSystem:
         if self.ctr[shop][movie] == 0:
             self.shops[movie].remove((self.price[shop][movie], shop))
 
-    def drop(self, shop: int, movie: int, f = False) -> None:
+    def drop(self, shop: int, movie: int, f=False) -> None:
         self.ctr[shop][movie] += 1
         if not f:
             self.cheapest.remove((self.price[shop][movie], shop, movie))
