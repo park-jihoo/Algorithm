@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/count-elements-with-maximum-frequency">3005. Count Elements With Maximum Frequency</a></h2><h3>Easy</h3><hr><p>You are given an array <code>nums</code> consisting of <strong>positive</strong> integers.</p>
+<h2><a href="https://leetcode.com/problems/count-elements-with-maximum-frequency/?envType=daily-question&envId=2025-09-22">3005. Count Elements With Maximum Frequency</a></h2><h3>Easy</h3><hr><p>You are given an array <code>nums</code> consisting of <strong>positive</strong> integers.</p>
 
 <p>Return <em>the <strong>total frequencies</strong> of elements in</em><em> </em><code>nums</code>&nbsp;<em>such that those elements all have the <strong>maximum</strong> frequency</em>.</p>
 
