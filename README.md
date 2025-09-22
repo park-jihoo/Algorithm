@@ -662,7 +662,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [3375-minimum-operations-to-make-array-values-equal-to-k](./leetcode/Easy/3375-minimum-operations-to-make-array-values-equal-to-k/) | Python | 2025-04-09 |
 | leetcode | Easy | [2022-convert-1d-array-into-2d-array](./leetcode/Easy/2022-convert-1d-array-into-2d-array/) | Python | 2024-09-01 |
 | leetcode | Easy | [1422-maximum-score-after-splitting-a-string](./leetcode/Easy/1422-maximum-score-after-splitting-a-string/) | Python | 2025-01-01 |
-| leetcode | Easy | [3005-count-elements-with-maximum-frequency](./leetcode/Easy/3005-count-elements-with-maximum-frequency/) | Python | 2024-03-08 |
+| leetcode | Easy | [3005-count-elements-with-maximum-frequency](./leetcode/Easy/3005-count-elements-with-maximum-frequency/) | Python | 2025-09-22 |
 | leetcode | Easy | [0704-binary-search](./leetcode/Easy/0704-binary-search/) | Python | 2024-09-14 |
 | leetcode | Easy | [1732-find-the-highest-altitude](./leetcode/Easy/1732-find-the-highest-altitude/) | Python | 2023-08-14 |
 | leetcode | Easy | [1431-kids-with-the-greatest-number-of-candies](./leetcode/Easy/1431-kids-with-the-greatest-number-of-candies/) | Python | 2024-09-14 |
