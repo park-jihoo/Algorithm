@@ -195,6 +195,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [0861-score-after-flipping-matrix](./leetcode/Medium/0861-score-after-flipping-matrix/) | Python | 2024-05-13 |
 | leetcode | Medium | [0091-decode-ways](./leetcode/Medium/0091-decode-ways/) | Python | 2023-12-25 |
 | leetcode | Medium | [2825-make-string-a-subsequence-using-cyclic-increments](./leetcode/Medium/2825-make-string-a-subsequence-using-cyclic-increments/) | Python | 2024-12-04 |
+| leetcode | Medium | [0166-fraction-to-recurring-decimal](./leetcode/Medium/0166-fraction-to-recurring-decimal/) | Python | 2025-09-24 |
 | leetcode | Medium | [1061-lexicographically-smallest-equivalent-string](./leetcode/Medium/1061-lexicographically-smallest-equivalent-string/) | Python | 2025-06-05 |
 | leetcode | Medium | [1155-number-of-dice-rolls-with-target-sum](./leetcode/Medium/1155-number-of-dice-rolls-with-target-sum/) | Python | 2023-12-26 |
 | leetcode | Medium | [2101-detonate-the-maximum-bombs](./leetcode/Medium/2101-detonate-the-maximum-bombs/) | Python | 2023-08-14 |
