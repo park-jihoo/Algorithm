@@ -358,6 +358,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [0516-longest-palindromic-subsequence](./leetcode/Medium/0516-longest-palindromic-subsequence/) | Python | 2024-09-14 |
 | leetcode | Medium | [0137-single-number-ii](./leetcode/Medium/0137-single-number-ii/) | C++,Python | 2023-08-14 |
 | leetcode | Medium | [0840-magic-squares-in-grid](./leetcode/Medium/0840-magic-squares-in-grid/) | Python | 2024-08-09 |
+| leetcode | Medium | [0611-valid-triangle-number](./leetcode/Medium/0611-valid-triangle-number/) | Python | 2025-09-27 |
 | leetcode | Medium | [2981-find-longest-special-substring-that-occurs-thrice-i](./leetcode/Medium/2981-find-longest-special-substring-that-occurs-thrice-i/) | Python | 2024-12-10 |
 | leetcode | Medium | [1792-maximum-average-pass-ratio](./leetcode/Medium/1792-maximum-average-pass-ratio/) | Python | 2024-12-15 |
 | leetcode | Medium | [2583-kth-largest-sum-in-a-binary-tree](./leetcode/Medium/2583-kth-largest-sum-in-a-binary-tree/) | Python | 2024-10-22 |
