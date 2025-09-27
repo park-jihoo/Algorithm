@@ -176,6 +176,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [0009-palindrome-number](./leetcode/Easy/0009-palindrome-number/) | Python | 2024-09-14 |
 | leetcode | Easy | [2108-find-first-palindromic-string-in-the-array](./leetcode/Easy/2108-find-first-palindromic-string-in-the-array/) | Python | 2024-02-13 |
 | leetcode | Easy | [0175-combine-two-tables](./leetcode/Easy/0175-combine-two-tables/) | SQL | 2024-09-14 |
+| leetcode | Easy | [0812-largest-triangle-area](./leetcode/Easy/0812-largest-triangle-area/) | Python | 2025-09-27 |
 | leetcode | Easy | [0183-customers-who-never-order](./leetcode/Easy/0183-customers-who-never-order/) | SQL | 2023-12-15 |
 | leetcode | Easy | [2094-finding-3-digit-even-numbers](./leetcode/Easy/2094-finding-3-digit-even-numbers/) | Python | 2025-05-12 |
 | leetcode | Easy | [0094-binary-tree-inorder-traversal](./leetcode/Easy/0094-binary-tree-inorder-traversal/) | Python | 2024-09-14 |
@@ -358,7 +359,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [0516-longest-palindromic-subsequence](./leetcode/Medium/0516-longest-palindromic-subsequence/) | Python | 2024-09-14 |
 | leetcode | Medium | [0137-single-number-ii](./leetcode/Medium/0137-single-number-ii/) | C++,Python | 2023-08-14 |
 | leetcode | Medium | [0840-magic-squares-in-grid](./leetcode/Medium/0840-magic-squares-in-grid/) | Python | 2024-08-09 |
-| leetcode | Medium | [0611-valid-triangle-number](./leetcode/Medium/0611-valid-triangle-number/) | Python | 2025-09-27 |
+| leetcode | Medium | [0611-valid-triangle-number](./leetcode/Medium/0611-valid-triangle-number/) | Python | 2025-09-26 |
 | leetcode | Medium | [2981-find-longest-special-substring-that-occurs-thrice-i](./leetcode/Medium/2981-find-longest-special-substring-that-occurs-thrice-i/) | Python | 2024-12-10 |
 | leetcode | Medium | [1792-maximum-average-pass-ratio](./leetcode/Medium/1792-maximum-average-pass-ratio/) | Python | 2024-12-15 |
 | leetcode | Medium | [2583-kth-largest-sum-in-a-binary-tree](./leetcode/Medium/2583-kth-largest-sum-in-a-binary-tree/) | Python | 2024-10-22 |

@@ -1378,6 +1378,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Easy",
+    "problem_name": "0812-largest-triangle-area",
+    "languages": "Python",
+    "last_commit_date": "2025-09-27",
+    "slug": "leetcode/Easy/0812-largest-triangle-area"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Easy",
     "problem_name": "0183-customers-who-never-order",
     "languages": "SQL",
     "last_commit_date": "2023-12-15",
@@ -2836,7 +2844,7 @@
     "difficulty": "Medium",
     "problem_name": "0611-valid-triangle-number",
     "languages": "Python",
-    "last_commit_date": "2025-09-27",
+    "last_commit_date": "2025-09-26",
     "slug": "leetcode/Medium/0611-valid-triangle-number"
   },
   {
