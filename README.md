@@ -254,7 +254,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [0026-remove-duplicates-from-sorted-array](./leetcode/Easy/0026-remove-duplicates-from-sorted-array/) | Python | 2023-09-23 |
 | leetcode | Easy | [2566-maximum-difference-by-remapping-a-digit](./leetcode/Easy/2566-maximum-difference-by-remapping-a-digit/) | Python | 2025-06-14 |
 | leetcode | Easy | [0661-image-smoother](./leetcode/Easy/0661-image-smoother/) | Python | 2023-12-19 |
-| leetcode | Easy | [0976-largest-perimeter-triangle](./leetcode/Easy/0976-largest-perimeter-triangle/) | Python | 2023-08-14 |
+| leetcode | Easy | [0976-largest-perimeter-triangle](./leetcode/Easy/0976-largest-perimeter-triangle/) | Python | 2025-09-28 |
 | leetcode | Easy | [1232-check-if-it-is-a-straight-line](./leetcode/Easy/1232-check-if-it-is-a-straight-line/) | Python | 2024-09-14 |
 | leetcode | Easy | [0234-palindrome-linked-list](./leetcode/Easy/0234-palindrome-linked-list/) | Python | 2024-09-14 |
 | leetcode | Easy | [1295-find-numbers-with-even-number-of-digits](./leetcode/Easy/1295-find-numbers-with-even-number-of-digits/) | C++,Python | 2025-04-30 |
