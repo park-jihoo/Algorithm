@@ -6,7 +6,6 @@
 
 <p>Return the<em> minimum possible score </em>that you can achieve with some<em> </em><strong>triangulation</strong><em> </em>of the polygon.</p>
 
-
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 

@@ -367,6 +367,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [1081-smallest-subsequence-of-distinct-characters](./leetcode/Medium/1081-smallest-subsequence-of-distinct-characters/) | Python | 2024-09-14 |
 | leetcode | Medium | [1432-max-difference-you-can-get-from-changing-an-integer](./leetcode/Medium/1432-max-difference-you-can-get-from-changing-an-integer/) | Python | 2025-06-15 |
 | leetcode | Medium | [0081-search-in-rotated-sorted-array-ii](./leetcode/Medium/0081-search-in-rotated-sorted-array-ii/) | C,C++,Python | 2023-08-14 |
+| leetcode | Medium | [1039-minimum-score-triangulation-of-polygon](./leetcode/Medium/1039-minimum-score-triangulation-of-polygon/) | Python | 2025-09-29 |
 | leetcode | Medium | [2661-first-completely-painted-row-or-column](./leetcode/Medium/2661-first-completely-painted-row-or-column/) | Python | 2025-01-20 |
 | leetcode | Medium | [1545-find-kth-bit-in-nth-binary-string](./leetcode/Medium/1545-find-kth-bit-in-nth-binary-string/) | Python | 2024-10-19 |
 | leetcode | Medium | [0652-find-duplicate-subtrees](./leetcode/Medium/0652-find-duplicate-subtrees/) | Python | 2024-09-14 |
