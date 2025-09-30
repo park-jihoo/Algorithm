@@ -464,6 +464,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [2028-find-missing-observations](./leetcode/Medium/2028-find-missing-observations/) | Python | 2024-09-05 |
 | leetcode | Medium | [2064-minimized-maximum-of-products-distributed-to-any-store](./leetcode/Medium/2064-minimized-maximum-of-products-distributed-to-any-store/) | Python | 2024-11-14 |
 | leetcode | Medium | [2181-merge-nodes-in-between-zeros](./leetcode/Medium/2181-merge-nodes-in-between-zeros/) | Python | 2024-07-04 |
+| leetcode | Medium | [2221-find-triangular-sum-of-an-array](./leetcode/Medium/2221-find-triangular-sum-of-an-array/) | Python | 2025-09-30 |
 | leetcode | Medium | [0525-contiguous-array](./leetcode/Medium/0525-contiguous-array/) | Python | 2024-03-16 |
 | leetcode | Medium | [0150-evaluate-reverse-polish-notation](./leetcode/Medium/0150-evaluate-reverse-polish-notation/) | Python | 2024-01-30 |
 | leetcode | Medium | [3443-maximum-manhattan-distance-after-k-changes](./leetcode/Medium/3443-maximum-manhattan-distance-after-k-changes/) | Python | 2025-06-20 |
