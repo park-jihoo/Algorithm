@@ -376,6 +376,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [3163-string-compression-iii](./leetcode/Medium/3163-string-compression-iii/) | Python | 2024-11-05 |
 | leetcode | Medium | [1161-maximum-level-sum-of-a-binary-tree](./leetcode/Medium/1161-maximum-level-sum-of-a-binary-tree/) | Python | 2023-08-14 |
 | leetcode | Medium | [3335-total-characters-in-string-after-transformations-i](./leetcode/Medium/3335-total-characters-in-string-after-transformations-i/) | Python | 2025-05-13 |
+| leetcode | Medium | [3100-water-bottles-ii](./leetcode/Medium/3100-water-bottles-ii/) | Unknown | 2025-10-02 |
 | leetcode | Medium | [2033-minimum-operations-to-make-a-uni-value-grid](./leetcode/Medium/2033-minimum-operations-to-make-a-uni-value-grid/) | Python | 2025-03-26 |
 | leetcode | Medium | [2101-detonate-the-maximum-bombs](./leetcode/Medium/2101-detonate-the-maximum-bombs/) | Python | 2023-08-14 |
 | leetcode | Medium | [1248-count-number-of-nice-subarrays](./leetcode/Medium/1248-count-number-of-nice-subarrays/) | Python | 2024-06-22 |
@@ -807,7 +808,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Hard | [1106-parsing-a-boolean-expression](./leetcode/Hard/1106-parsing-a-boolean-expression/) | Python | 2024-10-20 |
 | leetcode | Hard | [2179-count-good-triplets-in-an-array](./leetcode/Hard/2179-count-good-triplets-in-an-array/) | Python | 2025-04-15 |
 | leetcode | Hard | [3445-maximum-difference-between-even-and-odd-frequency-ii](./leetcode/Hard/3445-maximum-difference-between-even-and-odd-frequency-ii/) | Python | 2025-06-12 |
-| leetcode | Hard | [0407-trapping-rain-water-ii](./leetcode/Hard/0407-trapping-rain-water-ii/) | Python | 2025-01-19 |
+| leetcode | Hard | [0407-trapping-rain-water-ii](./leetcode/Hard/0407-trapping-rain-water-ii/) | Python | 2025-10-03 |
 | leetcode | Hard | [2751-robot-collisions](./leetcode/Hard/2751-robot-collisions/) | Python | 2024-07-13 |
 | leetcode | Hard | [0085-maximal-rectangle](./leetcode/Hard/0085-maximal-rectangle/) | Python | 2024-04-13 |
 | leetcode | Hard | [3343-count-number-of-balanced-permutations](./leetcode/Hard/3343-count-number-of-balanced-permutations/) | Python | 2025-05-09 |

@@ -2978,6 +2978,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "3100-water-bottles-ii",
+    "languages": "Unknown",
+    "last_commit_date": "2025-10-02",
+    "slug": "leetcode/Medium/3100-water-bottles-ii"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "2033-minimum-operations-to-make-a-uni-value-grid",
     "languages": "Python",
     "last_commit_date": "2025-03-26",
@@ -6428,7 +6436,7 @@
     "difficulty": "Hard",
     "problem_name": "0407-trapping-rain-water-ii",
     "languages": "Python",
-    "last_commit_date": "2025-01-19",
+    "last_commit_date": "2025-10-03",
     "slug": "leetcode/Hard/0407-trapping-rain-water-ii"
   },
   {
