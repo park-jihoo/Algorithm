@@ -670,6 +670,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [2429-minimize-xor](./leetcode/Medium/2429-minimize-xor/) | Python | 2025-01-15 |
 | leetcode | Medium | [1405-longest-happy-string](./leetcode/Medium/1405-longest-happy-string/) | Python | 2024-10-16 |
 | leetcode | Medium | [0451-sort-characters-by-frequency](./leetcode/Medium/0451-sort-characters-by-frequency/) | Python | 2024-02-07 |
+| leetcode | Medium | [0011-container-with-most-water](./leetcode/Medium/0011-container-with-most-water/) | Python | 2025-10-04 |
 | leetcode | Medium | [0086-partition-list](./leetcode/Medium/0086-partition-list/) | Python | 2023-08-15 |
 | leetcode | Medium | [0988-smallest-string-starting-from-leaf](./leetcode/Medium/0988-smallest-string-starting-from-leaf/) | Python | 2024-04-17 |
 | leetcode | Medium | [2779-maximum-beauty-of-an-array-after-applying-operation](./leetcode/Medium/2779-maximum-beauty-of-an-array-after-applying-operation/) | Python | 2024-12-11 |
