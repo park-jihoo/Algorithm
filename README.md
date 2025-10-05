@@ -625,6 +625,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](./leetcode/Medium/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k/) | Python | 2024-04-29 |
 | leetcode | Medium | [1105-filling-bookcase-shelves](./leetcode/Medium/1105-filling-bookcase-shelves/) | Python | 2024-07-31 |
 | leetcode | Medium | [2294-partition-array-such-that-maximum-difference-is-k](./leetcode/Medium/2294-partition-array-such-that-maximum-difference-is-k/) | Python | 2025-06-19 |
+| leetcode | Medium | [0417-pacific-atlantic-water-flow](./leetcode/Medium/0417-pacific-atlantic-water-flow/) | Python | 2025-10-05 |
 | leetcode | Medium | [0951-flip-equivalent-binary-trees](./leetcode/Medium/0951-flip-equivalent-binary-trees/) | Python | 2024-10-24 |
 | leetcode | Medium | [2762-continuous-subarrays](./leetcode/Medium/2762-continuous-subarrays/) | Python | 2024-12-14 |
 | leetcode | Medium | [0373-find-k-pairs-with-smallest-sums](./leetcode/Medium/0373-find-k-pairs-with-smallest-sums/) | Python | 2023-08-14 |

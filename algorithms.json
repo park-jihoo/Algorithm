@@ -4970,6 +4970,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "0417-pacific-atlantic-water-flow",
+    "languages": "Python",
+    "last_commit_date": "2025-10-05",
+    "slug": "leetcode/Medium/0417-pacific-atlantic-water-flow"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "0951-flip-equivalent-binary-trees",
     "languages": "Python",
     "last_commit_date": "2024-10-24",
