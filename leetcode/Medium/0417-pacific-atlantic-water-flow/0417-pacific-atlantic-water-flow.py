@@ -1,6 +1,5 @@
 class Solution:
     def pacificAtlantic(self, heights: List[List[int]]) -> List[List[int]]:
-        graph = defaultdict(list)
         m, n = len(heights[0]), len(heights)
         pacific, atlantic = set(), set()
 
@@ -23,4 +22,4 @@ class Solution:
             bfs(i, m-1, atlantic)
         for i in range(m):
             bfs(n-1, i, atlantic)
-        return [list(x) for x in atlantic & pacific]
+        return list(map(list, atlantic & pacific))
