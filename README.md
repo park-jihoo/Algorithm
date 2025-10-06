@@ -891,6 +891,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Hard | [1416-restore-the-array](./leetcode/Hard/1416-restore-the-array/) | Python | 2024-09-14 |
 | leetcode | Hard | [1402-reducing-dishes](./leetcode/Hard/1402-reducing-dishes/) | Python | 2024-09-14 |
 | leetcode | Hard | [3027-find-the-number-of-ways-to-place-people-ii](./leetcode/Hard/3027-find-the-number-of-ways-to-place-people-ii/) | Unknown | 2025-09-03 |
+| leetcode | Hard | [0778-swim-in-rising-water](./leetcode/Hard/0778-swim-in-rising-water/) | Python | 2025-10-06 |
 | leetcode | Hard | [3203-find-minimum-diameter-after-merging-two-trees](./leetcode/Hard/3203-find-minimum-diameter-after-merging-two-trees/) | Python | 2024-12-24 |
 | leetcode | Hard | [2081-sum-of-k-mirror-numbers](./leetcode/Hard/2081-sum-of-k-mirror-numbers/) | Python | 2025-06-23 |
 | leetcode | Hard | [2092-find-all-people-with-secret](./leetcode/Hard/2092-find-all-people-with-secret/) | Python | 2024-02-24 |

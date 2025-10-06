@@ -7098,6 +7098,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Hard",
+    "problem_name": "0778-swim-in-rising-water",
+    "languages": "Python",
+    "last_commit_date": "2025-10-06",
+    "slug": "leetcode/Hard/0778-swim-in-rising-water"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Hard",
     "problem_name": "3203-find-minimum-diameter-after-merging-two-trees",
     "languages": "Python",
     "last_commit_date": "2024-12-24",

@@ -7,12 +7,16 @@ class Solution:
         while q:
             h, r, c = heapq.heappop(q)
             ans = max(ans, h)
-            if r == (n-1) and c == (n-1):
+            if r == (n - 1) and c == (n - 1):
                 return ans
             if (r, c) in visited:
                 continue
             visited.add((r, c))
             for dr, dc in d:
-                if 0<=r+dr<n and 0<=c+dc<n and (r+dr, c+dc) not in visited:
-                    heapq.heappush(q, (grid[r+dr][c+dc], r+dr, c+dc))
+                if (
+                    0 <= r + dr < n
+                    and 0 <= c + dc < n
+                    and (r + dr, c + dc) not in visited
+                ):
+                    heapq.heappush(q, (grid[r + dr][c + dc], r + dr, c + dc))
         return ans
