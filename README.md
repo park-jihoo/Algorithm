@@ -573,6 +573,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [1155-number-of-dice-rolls-with-target-sum](./leetcode/Medium/1155-number-of-dice-rolls-with-target-sum/) | Python | 2023-12-26 |
 | leetcode | Medium | [0209-minimum-size-subarray-sum](./leetcode/Medium/0209-minimum-size-subarray-sum/) | Python | 2024-09-14 |
 | leetcode | Medium | [0097-interleaving-string](./leetcode/Medium/0097-interleaving-string/) | Python | 2023-08-25 |
+| leetcode | Medium | [1488-avoid-flood-in-the-city](./leetcode/Medium/1488-avoid-flood-in-the-city/) | Python | 2025-10-07 |
 | leetcode | Medium | [2554-maximum-number-of-integers-to-choose-from-a-range-i](./leetcode/Medium/2554-maximum-number-of-integers-to-choose-from-a-range-i/) | Python | 2024-12-06 |
 | leetcode | Medium | [1615-maximal-network-rank](./leetcode/Medium/1615-maximal-network-rank/) | Python | 2023-08-18 |
 | leetcode | Medium | [0948-bag-of-tokens](./leetcode/Medium/0948-bag-of-tokens/) | Python | 2024-03-04 |

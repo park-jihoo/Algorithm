@@ -4554,6 +4554,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "1488-avoid-flood-in-the-city",
+    "languages": "Python",
+    "last_commit_date": "2025-10-07",
+    "slug": "leetcode/Medium/1488-avoid-flood-in-the-city"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "2554-maximum-number-of-integers-to-choose-from-a-range-i",
     "languages": "Python",
     "last_commit_date": "2024-12-06",

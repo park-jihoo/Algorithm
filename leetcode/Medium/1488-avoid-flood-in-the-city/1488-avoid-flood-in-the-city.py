@@ -17,5 +17,5 @@ class Solution:
                 full[lake] = idx
         for d in z:
             ans[d] = 1
-        
+
         return ans
