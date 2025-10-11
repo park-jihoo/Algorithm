@@ -5,7 +5,7 @@ class Solution:
         for k in sorted(cnt.keys()):
             v.append((k, cnt[k]))
         n = len(v)
-        dp, x, j = [0]*n, 0, 1
+        dp, x, j = [0] * n, 0, 1
         for i in range(1, n):
             while j < i and v[j][0] < v[i][0] - 2:
                 x = max(x, dp[j])

@@ -3346,6 +3346,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "3186-maximum-total-damage-with-spell-casting",
+    "languages": "Python",
+    "last_commit_date": "2025-10-11",
+    "slug": "leetcode/Medium/3186-maximum-total-damage-with-spell-casting"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "1765-map-of-highest-peak",
     "languages": "Python",
     "last_commit_date": "2025-01-22",
@@ -3846,6 +3854,14 @@
     "languages": "Python",
     "last_commit_date": "2024-05-31",
     "slug": "leetcode/Medium/0260-single-number-iii"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
+    "problem_name": "3147-taking-maximum-energy-from-the-mystic-dungeon",
+    "languages": "Python",
+    "last_commit_date": "2025-10-10",
+    "slug": "leetcode/Medium/3147-taking-maximum-energy-from-the-mystic-dungeon"
   },
   {
     "platform": "leetcode",

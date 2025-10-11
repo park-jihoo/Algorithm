@@ -422,6 +422,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [1462-course-schedule-iv](./leetcode/Medium/1462-course-schedule-iv/) | Python | 2025-01-27 |
 | leetcode | Medium | [1631-path-with-minimum-effort](./leetcode/Medium/1631-path-with-minimum-effort/) | Python | 2024-09-14 |
 | leetcode | Medium | [0200-number-of-islands](./leetcode/Medium/0200-number-of-islands/) | Python | 2024-04-19 |
+| leetcode | Medium | [3186-maximum-total-damage-with-spell-casting](./leetcode/Medium/3186-maximum-total-damage-with-spell-casting/) | Python | 2025-10-11 |
 | leetcode | Medium | [1765-map-of-highest-peak](./leetcode/Medium/1765-map-of-highest-peak/) | Python | 2025-01-22 |
 | leetcode | Medium | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](./leetcode/Medium/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color/) | Python | 2023-10-02 |
 | leetcode | Medium | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](./leetcode/Medium/1574-shortest-subarray-to-be-removed-to-make-array-sorted/) | Python | 2024-11-15 |
@@ -485,6 +486,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [2482-difference-between-ones-and-zeros-in-row-and-column](./leetcode/Medium/2482-difference-between-ones-and-zeros-in-row-and-column/) | Python | 2023-12-17 |
 | leetcode | Medium | [2461-maximum-sum-of-distinct-subarrays-with-length-k](./leetcode/Medium/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Python | 2024-11-19 |
 | leetcode | Medium | [0260-single-number-iii](./leetcode/Medium/0260-single-number-iii/) | Python | 2024-05-31 |
+| leetcode | Medium | [3147-taking-maximum-energy-from-the-mystic-dungeon](./leetcode/Medium/3147-taking-maximum-energy-from-the-mystic-dungeon/) | Python | 2025-10-10 |
 | leetcode | Medium | [0916-word-subsets](./leetcode/Medium/0916-word-subsets/) | Python | 2025-01-11 |
 | leetcode | Medium | [1760-minimum-limit-of-balls-in-a-bag](./leetcode/Medium/1760-minimum-limit-of-balls-in-a-bag/) | Python | 2024-12-07 |
 | leetcode | Medium | [2807-insert-greatest-common-divisors-in-linked-list](./leetcode/Medium/2807-insert-greatest-common-divisors-in-linked-list/) | Python | 2024-09-10 |
