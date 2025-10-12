@@ -3860,7 +3860,7 @@
     "difficulty": "Medium",
     "problem_name": "3147-taking-maximum-energy-from-the-mystic-dungeon",
     "languages": "Python",
-    "last_commit_date": "2025-10-10",
+    "last_commit_date": "2025-10-11",
     "slug": "leetcode/Medium/3147-taking-maximum-energy-from-the-mystic-dungeon"
   },
   {
@@ -6574,6 +6574,14 @@
     "languages": "Python",
     "last_commit_date": "2024-07-14",
     "slug": "leetcode/Hard/0726-number-of-atoms"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Hard",
+    "problem_name": "3539-find-sum-of-array-product-of-magical-sequences",
+    "languages": "Python",
+    "last_commit_date": "2025-10-12",
+    "slug": "leetcode/Hard/3539-find-sum-of-array-product-of-magical-sequences"
   },
   {
     "platform": "leetcode",

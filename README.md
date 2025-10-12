@@ -486,7 +486,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [2482-difference-between-ones-and-zeros-in-row-and-column](./leetcode/Medium/2482-difference-between-ones-and-zeros-in-row-and-column/) | Python | 2023-12-17 |
 | leetcode | Medium | [2461-maximum-sum-of-distinct-subarrays-with-length-k](./leetcode/Medium/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Python | 2024-11-19 |
 | leetcode | Medium | [0260-single-number-iii](./leetcode/Medium/0260-single-number-iii/) | Python | 2024-05-31 |
-| leetcode | Medium | [3147-taking-maximum-energy-from-the-mystic-dungeon](./leetcode/Medium/3147-taking-maximum-energy-from-the-mystic-dungeon/) | Python | 2025-10-10 |
+| leetcode | Medium | [3147-taking-maximum-energy-from-the-mystic-dungeon](./leetcode/Medium/3147-taking-maximum-energy-from-the-mystic-dungeon/) | Python | 2025-10-11 |
 | leetcode | Medium | [0916-word-subsets](./leetcode/Medium/0916-word-subsets/) | Python | 2025-01-11 |
 | leetcode | Medium | [1760-minimum-limit-of-balls-in-a-bag](./leetcode/Medium/1760-minimum-limit-of-balls-in-a-bag/) | Python | 2024-12-07 |
 | leetcode | Medium | [2807-insert-greatest-common-divisors-in-linked-list](./leetcode/Medium/2807-insert-greatest-common-divisors-in-linked-list/) | Python | 2024-09-10 |
@@ -826,6 +826,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Hard | [0332-reconstruct-itinerary](./leetcode/Hard/0332-reconstruct-itinerary/) | Python | 2023-09-14 |
 | leetcode | Hard | [2302-count-subarrays-with-score-less-than-k](./leetcode/Hard/2302-count-subarrays-with-score-less-than-k/) | Python | 2025-04-28 |
 | leetcode | Hard | [0726-number-of-atoms](./leetcode/Hard/0726-number-of-atoms/) | Python | 2024-07-14 |
+| leetcode | Hard | [3539-find-sum-of-array-product-of-magical-sequences](./leetcode/Hard/3539-find-sum-of-array-product-of-magical-sequences/) | Python | 2025-10-12 |
 | leetcode | Hard | [1531-string-compression-ii](./leetcode/Hard/1531-string-compression-ii/) | Python | 2023-12-28 |
 | leetcode | Hard | [2272-substring-with-largest-variance](./leetcode/Hard/2272-substring-with-largest-variance/) | C,C++,Python | 2023-08-14 |
 | leetcode | Hard | [2050-parallel-courses-iii](./leetcode/Hard/2050-parallel-courses-iii/) | Python | 2023-12-21 |
