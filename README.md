@@ -233,6 +233,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [0605-can-place-flowers](./leetcode/Easy/0605-can-place-flowers/) | Python | 2024-09-14 |
 | leetcode | Easy | [2200-find-all-k-distant-indices-in-an-array](./leetcode/Easy/2200-find-all-k-distant-indices-in-an-array/) | Python | 2025-06-24 |
 | leetcode | Easy | [1122-relative-sort-array](./leetcode/Easy/1122-relative-sort-array/) | Python | 2024-06-11 |
+| leetcode | Easy | [2273-find-resultant-array-after-removing-anagrams](./leetcode/Easy/2273-find-resultant-array-after-removing-anagrams/) | Python | 2025-10-13 |
 | leetcode | Easy | [2331-evaluate-boolean-binary-tree](./leetcode/Easy/2331-evaluate-boolean-binary-tree/) | Python | 2024-05-16 |
 | leetcode | Easy | [0572-subtree-of-another-tree](./leetcode/Easy/0572-subtree-of-another-tree/) | Python | 2024-09-14 |
 | leetcode | Easy | [0118-pascals-triangle](./leetcode/Easy/0118-pascals-triangle/) | C++,Python | 2025-08-01 |

@@ -1834,6 +1834,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Easy",
+    "problem_name": "2273-find-resultant-array-after-removing-anagrams",
+    "languages": "Python",
+    "last_commit_date": "2025-10-13",
+    "slug": "leetcode/Easy/2273-find-resultant-array-after-removing-anagrams"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Easy",
     "problem_name": "2331-evaluate-boolean-binary-tree",
     "languages": "Python",
     "last_commit_date": "2024-05-16",
