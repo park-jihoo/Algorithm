@@ -1554,6 +1554,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Easy",
+    "problem_name": "3349-adjacent-increasing-subarrays-detection-i",
+    "languages": "Python",
+    "last_commit_date": "2025-10-14",
+    "slug": "leetcode/Easy/3349-adjacent-increasing-subarrays-detection-i"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Easy",
     "problem_name": "1863-sum-of-all-subset-xor-totals",
     "languages": "Python",
     "last_commit_date": "2024-05-20",

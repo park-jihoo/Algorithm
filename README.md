@@ -198,6 +198,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [0884-uncommon-words-from-two-sentences](./leetcode/Easy/0884-uncommon-words-from-two-sentences/) | Python | 2024-09-17 |
 | leetcode | Easy | [3024-type-of-triangle](./leetcode/Easy/3024-type-of-triangle/) | Python | 2025-05-19 |
 | leetcode | Easy | [1897-redistribute-characters-to-make-all-strings-equal](./leetcode/Easy/1897-redistribute-characters-to-make-all-strings-equal/) | Python | 2023-12-30 |
+| leetcode | Easy | [3349-adjacent-increasing-subarrays-detection-i](./leetcode/Easy/3349-adjacent-increasing-subarrays-detection-i/) | Python | 2025-10-14 |
 | leetcode | Easy | [1863-sum-of-all-subset-xor-totals](./leetcode/Easy/1863-sum-of-all-subset-xor-totals/) | Python | 2024-05-20 |
 | leetcode | Easy | [2706-buy-two-chocolates](./leetcode/Easy/2706-buy-two-chocolates/) | Python | 2023-12-20 |
 | leetcode | Easy | [3264-final-array-state-after-k-multiplication-operations-i](./leetcode/Easy/3264-final-array-state-after-k-multiplication-operations-i/) | Python | 2024-12-16 |
