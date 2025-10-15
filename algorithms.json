@@ -3210,6 +3210,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "3350-adjacent-increasing-subarrays-detection-ii",
+    "languages": "Python",
+    "last_commit_date": "2025-10-15",
+    "slug": "leetcode/Medium/3350-adjacent-increasing-subarrays-detection-ii"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "2054-two-best-non-overlapping-events",
     "languages": "Python",
     "last_commit_date": "2024-12-08",
