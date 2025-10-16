@@ -2210,6 +2210,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "2598-smallest-missing-non-negative-integer-after-operations",
+    "languages": "Python",
+    "last_commit_date": "2025-10-16",
+    "slug": "leetcode/Medium/2598-smallest-missing-non-negative-integer-after-operations"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "2017-grid-game",
     "languages": "Python",
     "last_commit_date": "2025-01-21",

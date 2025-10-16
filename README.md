@@ -280,6 +280,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [2780-minimum-index-of-a-valid-split](./leetcode/Medium/2780-minimum-index-of-a-valid-split/) | Python | 2025-03-28 |
 | leetcode | Medium | [1218-longest-arithmetic-subsequence-of-given-difference](./leetcode/Medium/1218-longest-arithmetic-subsequence-of-given-difference/) | Python | 2023-08-14 |
 | leetcode | Medium | [1905-count-sub-islands](./leetcode/Medium/1905-count-sub-islands/) | Python | 2024-08-28 |
+| leetcode | Medium | [2598-smallest-missing-non-negative-integer-after-operations](./leetcode/Medium/2598-smallest-missing-non-negative-integer-after-operations/) | Python | 2025-10-16 |
 | leetcode | Medium | [2017-grid-game](./leetcode/Medium/2017-grid-game/) | Python | 2025-01-21 |
 | leetcode | Medium | [1372-longest-zigzag-path-in-a-binary-tree](./leetcode/Medium/1372-longest-zigzag-path-in-a-binary-tree/) | Python | 2024-09-14 |
 | leetcode | Medium | [3043-find-the-length-of-the-longest-common-prefix](./leetcode/Medium/3043-find-the-length-of-the-longest-common-prefix/) | Python | 2024-09-24 |
