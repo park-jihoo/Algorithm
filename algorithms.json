@@ -6890,6 +6890,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Hard",
+    "problem_name": "3003-maximize-the-number-of-partitions-after-operations",
+    "languages": "Python",
+    "last_commit_date": "2025-10-18",
+    "slug": "leetcode/Hard/3003-maximize-the-number-of-partitions-after-operations"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Hard",
     "problem_name": "0458-poor-pigs",
     "languages": "Python",
     "last_commit_date": "2023-10-29",

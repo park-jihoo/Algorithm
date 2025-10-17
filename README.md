@@ -865,6 +865,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Hard | [3108-minimum-cost-walk-in-weighted-graph](./leetcode/Hard/3108-minimum-cost-walk-in-weighted-graph/) | Python | 2025-03-20 |
 | leetcode | Hard | [2251-number-of-flowers-in-full-bloom](./leetcode/Hard/2251-number-of-flowers-in-full-bloom/) | Python | 2023-12-21 |
 | leetcode | Hard | [2818-apply-operations-to-maximize-score](./leetcode/Hard/2818-apply-operations-to-maximize-score/) | Python | 2025-03-29 |
+| leetcode | Hard | [3003-maximize-the-number-of-partitions-after-operations](./leetcode/Hard/3003-maximize-the-number-of-partitions-after-operations/) | Python | 2025-10-18 |
 | leetcode | Hard | [0458-poor-pigs](./leetcode/Hard/0458-poor-pigs/) | Python | 2023-10-29 |
 | leetcode | Hard | [0403-frog-jump](./leetcode/Hard/0403-frog-jump/) | Python | 2023-08-27 |
 | leetcode | Hard | [3495-minimum-operations-to-make-array-elements-zero](./leetcode/Hard/3495-minimum-operations-to-make-array-elements-zero/) | Python | 2025-09-06 |
