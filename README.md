@@ -6,6 +6,7 @@ This project contains the following subfolders (up to 3 levels deep):
 |------------|------------|--------------|-----------|------------------|
 | leetcode | Medium | [1590-make-sum-divisible-by-p](./leetcode/Medium/1590-make-sum-divisible-by-p/) | Python | 2024-10-03 |
 | leetcode | Medium | [2364-count-number-of-bad-pairs](./leetcode/Medium/2364-count-number-of-bad-pairs/) | Python | 2025-02-09 |
+| leetcode | Medium | [1625-lexicographically-smallest-string-after-applying-operations](./leetcode/Medium/1625-lexicographically-smallest-string-after-applying-operations/) | Python | 2025-10-19 |
 | leetcode | Medium | [2221-find-triangular-sum-of-an-array](./leetcode/Medium/2221-find-triangular-sum-of-an-array/) | Python | 2025-09-30 |
 | leetcode | Medium | [3276-minimum-number-of-pushes-to-type-word-ii](./leetcode/Medium/3276-minimum-number-of-pushes-to-type-word-ii/) | Python | 2024-08-06 |
 | leetcode | Medium | [0678-valid-parenthesis-string](./leetcode/Medium/0678-valid-parenthesis-string/) | Python | 2024-04-07 |
