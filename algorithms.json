@@ -5554,6 +5554,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Easy",
+    "problem_name": "2011-final-value-of-variable-after-performing-operations",
+    "languages": "Python",
+    "last_commit_date": "2025-10-20",
+    "slug": "leetcode/Easy/2011-final-value-of-variable-after-performing-operations"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Easy",
     "problem_name": "1122-relative-sort-array",
     "languages": "Python",
     "last_commit_date": "2024-06-11",

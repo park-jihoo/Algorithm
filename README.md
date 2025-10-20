@@ -698,6 +698,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [1128-number-of-equivalent-domino-pairs](./leetcode/Easy/1128-number-of-equivalent-domino-pairs/) | Python | 2025-05-04 |
 | leetcode | Easy | [0705-design-hashset](./leetcode/Easy/0705-design-hashset/) | Python | 2023-08-14 |
 | leetcode | Easy | [3442-maximum-difference-between-even-and-odd-frequency-i](./leetcode/Easy/3442-maximum-difference-between-even-and-odd-frequency-i/) | Python | 2025-06-10 |
+| leetcode | Easy | [2011-final-value-of-variable-after-performing-operations](./leetcode/Easy/2011-final-value-of-variable-after-performing-operations/) | Python | 2025-10-20 |
 | leetcode | Easy | [1122-relative-sort-array](./leetcode/Easy/1122-relative-sort-array/) | Python | 2024-06-11 |
 | leetcode | Easy | [0342-power-of-four](./leetcode/Easy/0342-power-of-four/) | Python | 2025-08-15 |
 | leetcode | Easy | [0706-design-hashmap](./leetcode/Easy/0706-design-hashmap/) | Python | 2023-10-04 |
