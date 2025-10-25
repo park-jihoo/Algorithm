@@ -643,6 +643,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [3195-find-the-minimum-area-to-cover-all-ones-i](./leetcode/Medium/3195-find-the-minimum-area-to-cover-all-ones-i/) | Python | 2025-08-23 |
 | leetcode | Medium | [0869-reordered-power-of-2](./leetcode/Medium/0869-reordered-power-of-2/) | Python | 2025-08-10 |
 | leetcode | Medium | [1007-minimum-domino-rotations-for-equal-row](./leetcode/Medium/1007-minimum-domino-rotations-for-equal-row/) | Python | 2025-05-03 |
+| leetcode | Medium | [2048-next-greater-numerically-balanced-number](./leetcode/Medium/2048-next-greater-numerically-balanced-number/) | Python | 2025-10-25 |
 | leetcode | Medium | [1514-path-with-maximum-probability](./leetcode/Medium/1514-path-with-maximum-probability/) | Python | 2023-08-14 |
 | leetcode | Medium | [2871-double-a-number-represented-as-a-linked-list](./leetcode/Medium/2871-double-a-number-represented-as-a-linked-list/) | Python | 2024-05-07 |
 | leetcode | Medium | [0034-find-first-and-last-position-of-element-in-sorted-array](./leetcode/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Python | 2023-10-09 |

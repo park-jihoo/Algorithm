@@ -5114,6 +5114,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "2048-next-greater-numerically-balanced-number",
+    "languages": "Python",
+    "last_commit_date": "2025-10-25",
+    "slug": "leetcode/Medium/2048-next-greater-numerically-balanced-number"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "1514-path-with-maximum-probability",
     "languages": "Python",
     "last_commit_date": "2023-08-14",
