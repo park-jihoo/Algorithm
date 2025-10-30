@@ -1706,6 +1706,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Easy",
+    "problem_name": "3354-make-array-elements-equal-to-zero",
+    "languages": "Unknown",
+    "last_commit_date": "2025-10-28",
+    "slug": "leetcode/Easy/3354-make-array-elements-equal-to-zero"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Easy",
     "problem_name": "2441-largest-positive-integer-that-exists-with-its-negative",
     "languages": "Python",
     "last_commit_date": "2024-05-02",
@@ -6574,6 +6582,14 @@
     "languages": "Python",
     "last_commit_date": "2024-04-13",
     "slug": "leetcode/Hard/0085-maximal-rectangle"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Hard",
+    "problem_name": "1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array",
+    "languages": "Python",
+    "last_commit_date": "2025-10-30",
+    "slug": "leetcode/Hard/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array"
   },
   {
     "platform": "leetcode",

@@ -217,6 +217,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [0181-employees-earning-more-than-their-managers](./leetcode/Easy/0181-employees-earning-more-than-their-managers/) | SQL | 2023-09-15 |
 | leetcode | Easy | [1518-water-bottles](./leetcode/Easy/1518-water-bottles/) | Python | 2024-07-07 |
 | leetcode | Easy | [1422-maximum-score-after-splitting-a-string](./leetcode/Easy/1422-maximum-score-after-splitting-a-string/) | Python | 2025-01-01 |
+| leetcode | Easy | [3354-make-array-elements-equal-to-zero](./leetcode/Easy/3354-make-array-elements-equal-to-zero/) | Unknown | 2025-10-28 |
 | leetcode | Easy | [2441-largest-positive-integer-that-exists-with-its-negative](./leetcode/Easy/2441-largest-positive-integer-that-exists-with-its-negative/) | Python | 2024-05-02 |
 | leetcode | Easy | [2485-find-the-pivot-integer](./leetcode/Easy/2485-find-the-pivot-integer/) | Python | 2024-03-13 |
 | leetcode | Easy | [2220-minimum-bit-flips-to-convert-number](./leetcode/Easy/2220-minimum-bit-flips-to-convert-number/) | Python | 2024-09-12 |
@@ -826,6 +827,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Hard | [0407-trapping-rain-water-ii](./leetcode/Hard/0407-trapping-rain-water-ii/) | Python | 2025-10-03 |
 | leetcode | Hard | [2751-robot-collisions](./leetcode/Hard/2751-robot-collisions/) | Python | 2024-07-13 |
 | leetcode | Hard | [0085-maximal-rectangle](./leetcode/Hard/0085-maximal-rectangle/) | Python | 2024-04-13 |
+| leetcode | Hard | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](./leetcode/Hard/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Python | 2025-10-30 |
 | leetcode | Hard | [3343-count-number-of-balanced-permutations](./leetcode/Hard/3343-count-number-of-balanced-permutations/) | Python | 2025-05-09 |
 | leetcode | Hard | [1463-cherry-pickup-ii](./leetcode/Hard/1463-cherry-pickup-ii/) | Python | 2024-02-11 |
 | leetcode | Hard | [1964-find-the-longest-valid-obstacle-course-at-each-position](./leetcode/Hard/1964-find-the-longest-valid-obstacle-course-at-each-position/) | Python | 2023-08-14 |
