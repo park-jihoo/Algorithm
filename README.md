@@ -217,7 +217,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [0181-employees-earning-more-than-their-managers](./leetcode/Easy/0181-employees-earning-more-than-their-managers/) | SQL | 2023-09-15 |
 | leetcode | Easy | [1518-water-bottles](./leetcode/Easy/1518-water-bottles/) | Python | 2024-07-07 |
 | leetcode | Easy | [1422-maximum-score-after-splitting-a-string](./leetcode/Easy/1422-maximum-score-after-splitting-a-string/) | Python | 2025-01-01 |
-| leetcode | Easy | [3354-make-array-elements-equal-to-zero](./leetcode/Easy/3354-make-array-elements-equal-to-zero/) | Unknown | 2025-10-28 |
+| leetcode | Easy | [3354-make-array-elements-equal-to-zero](./leetcode/Easy/3354-make-array-elements-equal-to-zero/) | Unknown | 2025-10-30 |
 | leetcode | Easy | [2441-largest-positive-integer-that-exists-with-its-negative](./leetcode/Easy/2441-largest-positive-integer-that-exists-with-its-negative/) | Python | 2024-05-02 |
 | leetcode | Easy | [2485-find-the-pivot-integer](./leetcode/Easy/2485-find-the-pivot-integer/) | Python | 2024-03-13 |
 | leetcode | Easy | [2220-minimum-bit-flips-to-convert-number](./leetcode/Easy/2220-minimum-bit-flips-to-convert-number/) | Python | 2024-09-12 |
@@ -240,6 +240,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [2273-find-resultant-array-after-removing-anagrams](./leetcode/Easy/2273-find-resultant-array-after-removing-anagrams/) | Python | 2025-10-13 |
 | leetcode | Easy | [2331-evaluate-boolean-binary-tree](./leetcode/Easy/2331-evaluate-boolean-binary-tree/) | Python | 2024-05-16 |
 | leetcode | Easy | [0572-subtree-of-another-tree](./leetcode/Easy/0572-subtree-of-another-tree/) | Python | 2024-09-14 |
+| leetcode | Easy | [3289-the-two-sneaky-numbers-of-digitville](./leetcode/Easy/3289-the-two-sneaky-numbers-of-digitville/) | Python | 2025-10-31 |
 | leetcode | Easy | [0118-pascals-triangle](./leetcode/Easy/0118-pascals-triangle/) | C++,Python | 2025-08-01 |
 | leetcode | Easy | [1534-count-good-triplets](./leetcode/Easy/1534-count-good-triplets/) | Python | 2025-04-14 |
 | leetcode | Easy | [0682-baseball-game](./leetcode/Easy/0682-baseball-game/) | Python | 2024-09-14 |

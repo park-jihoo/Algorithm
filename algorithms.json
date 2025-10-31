@@ -1708,7 +1708,7 @@
     "difficulty": "Easy",
     "problem_name": "3354-make-array-elements-equal-to-zero",
     "languages": "Unknown",
-    "last_commit_date": "2025-10-28",
+    "last_commit_date": "2025-10-30",
     "slug": "leetcode/Easy/3354-make-array-elements-equal-to-zero"
   },
   {
@@ -1886,6 +1886,14 @@
     "languages": "Python",
     "last_commit_date": "2024-09-14",
     "slug": "leetcode/Easy/0572-subtree-of-another-tree"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Easy",
+    "problem_name": "3289-the-two-sneaky-numbers-of-digitville",
+    "languages": "Python",
+    "last_commit_date": "2025-10-31",
+    "slug": "leetcode/Easy/3289-the-two-sneaky-numbers-of-digitville"
   },
   {
     "platform": "leetcode",
