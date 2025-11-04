@@ -253,6 +253,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [1957-delete-characters-to-make-fancy-string](./leetcode/Easy/1957-delete-characters-to-make-fancy-string/) | Python | 2024-11-01 |
 | leetcode | Easy | [0350-intersection-of-two-arrays-ii](./leetcode/Easy/0350-intersection-of-two-arrays-ii/) | Python | 2024-07-02 |
 | leetcode | Easy | [1716-calculate-money-in-leetcode-bank](./leetcode/Easy/1716-calculate-money-in-leetcode-bank/) | Python | 2023-12-12 |
+| leetcode | Easy | [3318-find-x-sum-of-all-k-long-subarrays-i](./leetcode/Easy/3318-find-x-sum-of-all-k-long-subarrays-i/) | Python | 2025-11-04 |
 | leetcode | Easy | [0463-island-perimeter](./leetcode/Easy/0463-island-perimeter/) | Python | 2024-04-18 |
 | leetcode | Easy | [0704-binary-search](./leetcode/Easy/0704-binary-search/) | Python | 2024-09-14 |
 | leetcode | Easy | [1351-count-negative-numbers-in-a-sorted-matrix](./leetcode/Easy/1351-count-negative-numbers-in-a-sorted-matrix/) | Python | 2024-09-14 |

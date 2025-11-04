@@ -1994,6 +1994,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Easy",
+    "problem_name": "3318-find-x-sum-of-all-k-long-subarrays-i",
+    "languages": "Python",
+    "last_commit_date": "2025-11-04",
+    "slug": "leetcode/Easy/3318-find-x-sum-of-all-k-long-subarrays-i"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Easy",
     "problem_name": "0463-island-perimeter",
     "languages": "Python",
     "last_commit_date": "2024-04-18",
