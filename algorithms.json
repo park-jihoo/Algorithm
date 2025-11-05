@@ -7194,6 +7194,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Hard",
+    "problem_name": "3321-find-x-sum-of-all-k-long-subarrays-ii",
+    "languages": "Python",
+    "last_commit_date": "2025-11-05",
+    "slug": "leetcode/Hard/3321-find-x-sum-of-all-k-long-subarrays-ii"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Hard",
     "problem_name": "0262-trips-and-users",
     "languages": "SQL",
     "last_commit_date": "2024-09-14",

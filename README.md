@@ -903,6 +903,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Hard | [2392-build-a-matrix-with-conditions](./leetcode/Hard/2392-build-a-matrix-with-conditions/) | Python | 2024-07-21 |
 | leetcode | Hard | [2872-maximum-number-of-k-divisible-components](./leetcode/Hard/2872-maximum-number-of-k-divisible-components/) | Python | 2024-12-21 |
 | leetcode | Hard | [1255-maximum-score-words-formed-by-letters](./leetcode/Hard/1255-maximum-score-words-formed-by-letters/) | Python | 2024-05-24 |
+| leetcode | Hard | [3321-find-x-sum-of-all-k-long-subarrays-ii](./leetcode/Hard/3321-find-x-sum-of-all-k-long-subarrays-ii/) | Python | 2025-11-05 |
 | leetcode | Hard | [0262-trips-and-users](./leetcode/Hard/0262-trips-and-users/) | SQL | 2024-09-14 |
 | leetcode | Hard | [3347-maximum-frequency-of-an-element-after-performing-operations-ii](./leetcode/Hard/3347-maximum-frequency-of-an-element-after-performing-operations-ii/) | Python | 2025-10-22 |
 | leetcode | Hard | [0072-edit-distance](./leetcode/Hard/0072-edit-distance/) | Python | 2024-09-14 |
