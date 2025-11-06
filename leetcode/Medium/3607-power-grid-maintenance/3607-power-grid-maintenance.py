@@ -19,8 +19,11 @@ class UnionFind:
                 self.parent[py] = px
                 self.rank[px] += 1
 
+
 class Solution:
-    def processQueries(self, c: int, connections: List[List[int]], queries: List[List[int]]) -> List[int]:
+    def processQueries(
+        self, c: int, connections: List[List[int]], queries: List[List[int]]
+    ) -> List[int]:
         # connected component를 만들어서, online 중 가장 작은 값을 찾아내라
         uf = UnionFind(c)
         for a, b in connections:
@@ -42,7 +45,7 @@ class Solution:
                     continue
 
                 heap = groups[root]
-                while heap and heap[0] in offline:  
+                while heap and heap[0] in offline:
                     heapq.heappop(heap)
 
                 if not heap:

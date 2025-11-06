@@ -3762,6 +3762,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "3607-power-grid-maintenance",
+    "languages": "Python",
+    "last_commit_date": "2025-11-06",
+    "slug": "leetcode/Medium/3607-power-grid-maintenance"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "2064-minimized-maximum-of-products-distributed-to-any-store",
     "languages": "Python",
     "last_commit_date": "2024-11-14",
