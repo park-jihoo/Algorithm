@@ -227,6 +227,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [0069-sqrtx](./leetcode/Easy/0069-sqrtx/) | Python | 2023-12-21 |
 | leetcode | Easy | [0349-intersection-of-two-arrays](./leetcode/Easy/0349-intersection-of-two-arrays/) | Python | 2024-03-10 |
 | leetcode | Easy | [1913-maximum-product-difference-between-two-pairs](./leetcode/Easy/1913-maximum-product-difference-between-two-pairs/) | Python | 2024-09-14 |
+| leetcode | Easy | [2169-count-operations-to-obtain-zero](./leetcode/Easy/2169-count-operations-to-obtain-zero/) | Python | 2025-11-09 |
 | leetcode | Easy | [1331-rank-transform-of-an-array](./leetcode/Easy/1331-rank-transform-of-an-array/) | Python | 2024-10-02 |
 | leetcode | Easy | [1822-sign-of-the-product-of-an-array](./leetcode/Easy/1822-sign-of-the-product-of-an-array/) | C++,Python | 2024-09-14 |
 | leetcode | Easy | [2206-divide-array-into-equal-pairs](./leetcode/Easy/2206-divide-array-into-equal-pairs/) | Python | 2025-03-17 |
@@ -895,6 +896,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Hard | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](./leetcode/Hard/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/) | Python | 2023-08-19 |
 | leetcode | Hard | [1074-number-of-submatrices-that-sum-to-target](./leetcode/Hard/1074-number-of-submatrices-that-sum-to-target/) | Python | 2024-01-28 |
 | leetcode | Hard | [1444-number-of-ways-of-cutting-a-pizza](./leetcode/Hard/1444-number-of-ways-of-cutting-a-pizza/) | Python | 2024-09-14 |
+| leetcode | Hard | [2528-maximize-the-minimum-powered-city](./leetcode/Hard/2528-maximize-the-minimum-powered-city/) | Unknown | 2025-11-08 |
 | leetcode | Hard | [3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii](./leetcode/Hard/3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii/) | Python | 2025-05-29 |
 | leetcode | Hard | [2551-put-marbles-in-bags](./leetcode/Hard/2551-put-marbles-in-bags/) | Python | 2025-03-31 |
 | leetcode | Hard | [0330-patching-array](./leetcode/Hard/0330-patching-array/) | Python | 2024-06-16 |
