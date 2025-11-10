@@ -2578,6 +2578,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "3542-minimum-operations-to-convert-all-elements-to-zero",
+    "languages": "Python",
+    "last_commit_date": "2025-11-10",
+    "slug": "leetcode/Medium/3542-minimum-operations-to-convert-all-elements-to-zero"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "3152-special-array-ii",
     "languages": "Python",
     "last_commit_date": "2024-12-09",

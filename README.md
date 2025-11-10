@@ -326,6 +326,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [0539-minimum-time-difference](./leetcode/Medium/0539-minimum-time-difference/) | Python | 2024-09-16 |
 | leetcode | Medium | [1143-longest-common-subsequence](./leetcode/Medium/1143-longest-common-subsequence/) | Python | 2024-01-25 |
 | leetcode | Medium | [2411-smallest-subarrays-with-maximum-bitwise-or](./leetcode/Medium/2411-smallest-subarrays-with-maximum-bitwise-or/) | Python | 2025-07-29 |
+| leetcode | Medium | [3542-minimum-operations-to-convert-all-elements-to-zero](./leetcode/Medium/3542-minimum-operations-to-convert-all-elements-to-zero/) | Python | 2025-11-10 |
 | leetcode | Medium | [3152-special-array-ii](./leetcode/Medium/3152-special-array-ii/) | Python | 2024-12-09 |
 | leetcode | Medium | [0399-evaluate-division](./leetcode/Medium/0399-evaluate-division/) | Python | 2023-08-14 |
 | leetcode | Medium | [1318-minimum-flips-to-make-a-or-b-equal-to-c](./leetcode/Medium/1318-minimum-flips-to-make-a-or-b-equal-to-c/) | Python | 2024-09-14 |
