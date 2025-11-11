@@ -5626,6 +5626,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "0474-ones-and-zeroes",
+    "languages": "Python",
+    "last_commit_date": "2025-11-11",
+    "slug": "leetcode/Medium/0474-ones-and-zeroes"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "3408-design-task-manager",
     "languages": "Python",
     "last_commit_date": "2025-09-18",

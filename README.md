@@ -707,6 +707,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [0064-minimum-path-sum](./leetcode/Medium/0064-minimum-path-sum/) | Python | 2024-09-14 |
 | leetcode | Medium | [1319-number-of-operations-to-make-network-connected](./leetcode/Medium/1319-number-of-operations-to-make-network-connected/) | Python | 2024-09-14 |
 | leetcode | Medium | [2226-maximum-candies-allocated-to-k-children](./leetcode/Medium/2226-maximum-candies-allocated-to-k-children/) | Python | 2025-03-14 |
+| leetcode | Medium | [0474-ones-and-zeroes](./leetcode/Medium/0474-ones-and-zeroes/) | Python | 2025-11-11 |
 | leetcode | Medium | [3408-design-task-manager](./leetcode/Medium/3408-design-task-manager/) | Python | 2025-09-18 |
 | leetcode | Medium | [0131-palindrome-partitioning](./leetcode/Medium/0131-palindrome-partitioning/) | Python | 2024-05-22 |
 | leetcode | Medium | [0036-valid-sudoku](./leetcode/Medium/0036-valid-sudoku/) | Python | 2025-08-30 |
