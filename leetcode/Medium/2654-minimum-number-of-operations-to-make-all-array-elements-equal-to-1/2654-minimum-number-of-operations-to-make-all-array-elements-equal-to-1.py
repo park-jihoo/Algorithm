@@ -1,6 +1,6 @@
 class Solution:
     def minOperations(self, nums: List[int]) -> int:
-        n,num1,g = len(nums),0,0
+        n, num1, g = len(nums), 0, 0
 
         for x in nums:
             if x == 1:
