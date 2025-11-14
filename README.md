@@ -546,6 +546,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [0623-add-one-row-to-tree](./leetcode/Medium/0623-add-one-row-to-tree/) | Python | 2024-04-16 |
 | leetcode | Medium | [3208-alternating-groups-ii](./leetcode/Medium/3208-alternating-groups-ii/) | Python | 2025-03-09 |
 | leetcode | Medium | [0443-string-compression](./leetcode/Medium/0443-string-compression/) | Python | 2024-09-14 |
+| leetcode | Medium | [2536-increment-submatrices-by-one](./leetcode/Medium/2536-increment-submatrices-by-one/) | Python | 2025-11-14 |
 | leetcode | Medium | [0790-domino-and-tromino-tiling](./leetcode/Medium/0790-domino-and-tromino-tiling/) | Unknown | 2025-05-05 |
 | leetcode | Medium | [2375-construct-smallest-number-from-di-string](./leetcode/Medium/2375-construct-smallest-number-from-di-string/) | Python | 2025-02-18 |
 | leetcode | Medium | [2433-find-the-original-array-of-prefix-xor](./leetcode/Medium/2433-find-the-original-array-of-prefix-xor/) | Python | 2023-10-31 |
@@ -674,6 +675,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [2958-length-of-longest-subarray-with-at-most-k-frequency](./leetcode/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Python | 2024-03-28 |
 | leetcode | Medium | [2467-most-profitable-path-in-a-tree](./leetcode/Medium/2467-most-profitable-path-in-a-tree/) | Python | 2025-02-24 |
 | leetcode | Medium | [1110-delete-nodes-and-return-forest](./leetcode/Medium/1110-delete-nodes-and-return-forest/) | Python | 2024-07-17 |
+| leetcode | Medium | [3228-maximum-number-of-operations-to-move-ones-to-the-end](./leetcode/Medium/3228-maximum-number-of-operations-to-move-ones-to-the-end/) | Unknown | 2025-11-13 |
 | leetcode | Medium | [0078-subsets](./leetcode/Medium/0078-subsets/) | Python | 2024-05-21 |
 | leetcode | Medium | [2419-longest-subarray-with-maximum-bitwise-and](./leetcode/Medium/2419-longest-subarray-with-maximum-bitwise-and/) | Python | 2025-07-30 |
 | leetcode | Medium | [2044-count-number-of-maximum-bitwise-or-subsets](./leetcode/Medium/2044-count-number-of-maximum-bitwise-or-subsets/) | Python | 2024-10-18 |

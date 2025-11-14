@@ -4338,6 +4338,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "2536-increment-submatrices-by-one",
+    "languages": "Python",
+    "last_commit_date": "2025-11-14",
+    "slug": "leetcode/Medium/2536-increment-submatrices-by-one"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "0790-domino-and-tromino-tiling",
     "languages": "Unknown",
     "last_commit_date": "2025-05-05",
@@ -5358,6 +5366,14 @@
     "languages": "Python",
     "last_commit_date": "2024-07-17",
     "slug": "leetcode/Medium/1110-delete-nodes-and-return-forest"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
+    "problem_name": "3228-maximum-number-of-operations-to-move-ones-to-the-end",
+    "languages": "Unknown",
+    "last_commit_date": "2025-11-13",
+    "slug": "leetcode/Medium/3228-maximum-number-of-operations-to-move-ones-to-the-end"
   },
   {
     "platform": "leetcode",
