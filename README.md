@@ -324,6 +324,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [0624-maximum-distance-in-arrays](./leetcode/Medium/0624-maximum-distance-in-arrays/) | Python | 2024-09-14 |
 | leetcode | Medium | [2116-check-if-a-parentheses-string-can-be-valid](./leetcode/Medium/2116-check-if-a-parentheses-string-can-be-valid/) | Python | 2025-01-12 |
 | leetcode | Medium | [0539-minimum-time-difference](./leetcode/Medium/0539-minimum-time-difference/) | Python | 2024-09-16 |
+| leetcode | Medium | [1513-number-of-substrings-with-only-1s](./leetcode/Medium/1513-number-of-substrings-with-only-1s/) | Python | 2025-11-16 |
 | leetcode | Medium | [1143-longest-common-subsequence](./leetcode/Medium/1143-longest-common-subsequence/) | Python | 2024-01-25 |
 | leetcode | Medium | [2411-smallest-subarrays-with-maximum-bitwise-or](./leetcode/Medium/2411-smallest-subarrays-with-maximum-bitwise-or/) | Python | 2025-07-29 |
 | leetcode | Medium | [3542-minimum-operations-to-convert-all-elements-to-zero](./leetcode/Medium/3542-minimum-operations-to-convert-all-elements-to-zero/) | Python | 2025-11-10 |

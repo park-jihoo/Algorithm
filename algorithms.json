@@ -2562,6 +2562,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "1513-number-of-substrings-with-only-1s",
+    "languages": "Python",
+    "last_commit_date": "2025-11-16",
+    "slug": "leetcode/Medium/1513-number-of-substrings-with-only-1s"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "1143-longest-common-subsequence",
     "languages": "Python",
     "last_commit_date": "2024-01-25",
