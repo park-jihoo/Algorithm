@@ -183,6 +183,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [0094-binary-tree-inorder-traversal](./leetcode/Easy/0094-binary-tree-inorder-traversal/) | Python | 2024-09-14 |
 | leetcode | Easy | [1046-last-stone-weight](./leetcode/Easy/1046-last-stone-weight/) | Python | 2024-09-14 |
 | leetcode | Easy | [0501-find-mode-in-binary-search-tree](./leetcode/Easy/0501-find-mode-in-binary-search-tree/) | Python | 2024-09-14 |
+| leetcode | Easy | [1437-check-if-all-1s-are-at-least-length-k-places-away](./leetcode/Easy/1437-check-if-all-1s-are-at-least-length-k-places-away/) | Python | 2025-11-17 |
 | leetcode | Easy | [0530-minimum-absolute-difference-in-bst](./leetcode/Easy/0530-minimum-absolute-difference-in-bst/) | Python | 2023-08-14 |
 | leetcode | Easy | [0021-merge-two-sorted-lists](./leetcode/Easy/0021-merge-two-sorted-lists/) | C,C++ | 2023-08-27 |
 | leetcode | Easy | [1768-merge-strings-alternately](./leetcode/Easy/1768-merge-strings-alternately/) | Python | 2024-09-14 |
