@@ -270,6 +270,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [2540-minimum-common-value](./leetcode/Easy/2540-minimum-common-value/) | Python | 2024-03-09 |
 | leetcode | Easy | [3392-count-subarrays-of-length-three-with-a-condition](./leetcode/Easy/3392-count-subarrays-of-length-three-with-a-condition/) | Python | 2025-04-27 |
 | leetcode | Easy | [2558-take-gifts-from-the-richest-pile](./leetcode/Easy/2558-take-gifts-from-the-richest-pile/) | Python | 2024-12-14 |
+| leetcode | Easy | [0717-1-bit-and-2-bit-characters](./leetcode/Easy/0717-1-bit-and-2-bit-characters/) | Python | 2025-11-18 |
 | leetcode | Easy | [2210-count-hills-and-valleys-in-an-array](./leetcode/Easy/2210-count-hills-and-valleys-in-an-array/) | Python | 2025-07-27 |
 | leetcode | Easy | [1502-can-make-arithmetic-progression-from-sequence](./leetcode/Easy/1502-can-make-arithmetic-progression-from-sequence/) | Python | 2023-08-14 |
 | leetcode | Easy | [0557-reverse-words-in-a-string-iii](./leetcode/Easy/0557-reverse-words-in-a-string-iii/) | Python | 2023-10-01 |
