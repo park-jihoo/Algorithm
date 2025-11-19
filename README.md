@@ -65,7 +65,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [2490-circular-sentence](./leetcode/Easy/2490-circular-sentence/) | Python | 2024-11-02 |
 | leetcode | Easy | [0326-power-of-three](./leetcode/Easy/0326-power-of-three/) | Python | 2025-08-13 |
 | leetcode | Easy | [0997-find-the-town-judge](./leetcode/Easy/0997-find-the-town-judge/) | Python | 2024-02-22 |
-| leetcode | Easy | [2154-keep-multiplying-found-values-by-two](./leetcode/Easy/2154-keep-multiplying-found-values-by-two/) | Python | 2023-12-21 |
+| leetcode | Easy | [2154-keep-multiplying-found-values-by-two](./leetcode/Easy/2154-keep-multiplying-found-values-by-two/) | Python | 2025-11-19 |
 | leetcode | Easy | [0744-find-smallest-letter-greater-than-target](./leetcode/Easy/0744-find-smallest-letter-greater-than-target/) | Python | 2023-08-14 |
 | leetcode | Easy | [1598-crawler-log-folder](./leetcode/Easy/1598-crawler-log-folder/) | Python | 2024-07-10 |
 | leetcode | Easy | [1128-number-of-equivalent-domino-pairs](./leetcode/Easy/1128-number-of-equivalent-domino-pairs/) | Python | 2025-05-04 |
