@@ -301,7 +301,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [0846-hand-of-straights](./leetcode/Medium/0846-hand-of-straights/) | Python | 2024-06-06 |
 | leetcode | Medium | [3508-implement-router](./leetcode/Medium/3508-implement-router/) | Python | 2025-09-20 |
 | leetcode | Medium | [2492-minimum-score-of-a-path-between-two-cities](./leetcode/Medium/2492-minimum-score-of-a-path-between-two-cities/) | Python | 2024-09-14 |
-| leetcode | Medium | [1930-unique-length-3-palindromic-subsequences](./leetcode/Medium/1930-unique-length-3-palindromic-subsequences/) | Python | 2025-01-04 |
+| leetcode | Medium | [1930-unique-length-3-palindromic-subsequences](./leetcode/Medium/1930-unique-length-3-palindromic-subsequences/) | Python | 2025-11-21 |
 | leetcode | Medium | [3394-check-if-grid-can-be-cut-into-sections](./leetcode/Medium/3394-check-if-grid-can-be-cut-into-sections/) | Python | 2025-03-25 |
 | leetcode | Medium | [3021-alice-and-bob-playing-flower-game](./leetcode/Medium/3021-alice-and-bob-playing-flower-game/) | Python | 2025-08-29 |
 | leetcode | Medium | [0166-fraction-to-recurring-decimal](./leetcode/Medium/0166-fraction-to-recurring-decimal/) | Python | 2025-09-24 |
