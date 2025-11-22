@@ -1642,6 +1642,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Easy",
+    "problem_name": "3190-find-minimum-operations-to-make-all-elements-divisible-by-three",
+    "languages": "Python",
+    "last_commit_date": "2025-11-22",
+    "slug": "leetcode/Easy/3190-find-minimum-operations-to-make-all-elements-divisible-by-three"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Easy",
     "problem_name": "3042-count-prefix-and-suffix-pairs-i",
     "languages": "Python",
     "last_commit_date": "2025-01-08",

@@ -209,6 +209,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [0338-counting-bits](./leetcode/Easy/0338-counting-bits/) | Python | 2023-09-01 |
 | leetcode | Easy | [0455-assign-cookies](./leetcode/Easy/0455-assign-cookies/) | Python | 2024-01-01 |
 | leetcode | Easy | [0872-leaf-similar-trees](./leetcode/Easy/0872-leaf-similar-trees/) | Python | 2024-01-09 |
+| leetcode | Easy | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](./leetcode/Easy/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Python | 2025-11-22 |
 | leetcode | Easy | [3042-count-prefix-and-suffix-pairs-i](./leetcode/Easy/3042-count-prefix-and-suffix-pairs-i/) | Python | 2025-01-08 |
 | leetcode | Easy | [1903-largest-odd-number-in-string](./leetcode/Easy/1903-largest-odd-number-in-string/) | Python | 2023-12-21 |
 | leetcode | Easy | [0977-squares-of-a-sorted-array](./leetcode/Easy/0977-squares-of-a-sorted-array/) | Python | 2024-09-14 |
