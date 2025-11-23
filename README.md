@@ -449,6 +449,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [0983-minimum-cost-for-tickets](./leetcode/Medium/0983-minimum-cost-for-tickets/) | Python | 2024-12-31 |
 | leetcode | Medium | [0208-implement-trie-prefix-tree](./leetcode/Medium/0208-implement-trie-prefix-tree/) | Python | 2023-08-14 |
 | leetcode | Medium | [0688-knight-probability-in-chessboard](./leetcode/Medium/0688-knight-probability-in-chessboard/) | Python | 2023-08-14 |
+| leetcode | Medium | [1262-greatest-sum-divisible-by-three](./leetcode/Medium/1262-greatest-sum-divisible-by-three/) | Python | 2025-11-23 |
 | leetcode | Medium | [2658-maximum-number-of-fish-in-a-grid](./leetcode/Medium/2658-maximum-number-of-fish-in-a-grid/) | Python | 2025-01-28 |
 | leetcode | Medium | [1829-maximum-xor-for-each-query](./leetcode/Medium/1829-maximum-xor-for-each-query/) | Python | 2024-11-08 |
 | leetcode | Medium | [0852-peak-index-in-a-mountain-array](./leetcode/Medium/0852-peak-index-in-a-mountain-array/) | C++,Java,Python | 2023-08-14 |

@@ -3562,6 +3562,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "1262-greatest-sum-divisible-by-three",
+    "languages": "Python",
+    "last_commit_date": "2025-11-23",
+    "slug": "leetcode/Medium/1262-greatest-sum-divisible-by-three"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "2658-maximum-number-of-fish-in-a-grid",
     "languages": "Python",
     "last_commit_date": "2025-01-28",
