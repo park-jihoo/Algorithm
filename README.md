@@ -153,6 +153,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [2460-apply-operations-to-an-array](./leetcode/Easy/2460-apply-operations-to-an-array/) | Python | 2025-03-01 |
 | leetcode | Easy | [0387-first-unique-character-in-a-string](./leetcode/Easy/0387-first-unique-character-in-a-string/) | Python | 2024-02-05 |
 | leetcode | Easy | [0896-monotonic-array](./leetcode/Easy/0896-monotonic-array/) | Python | 2023-09-29 |
+| leetcode | Easy | [1018-binary-prefix-divisible-by-5](./leetcode/Easy/1018-binary-prefix-divisible-by-5/) | Python | 2025-11-24 |
 | leetcode | Easy | [0111-minimum-depth-of-binary-tree](./leetcode/Easy/0111-minimum-depth-of-binary-tree/) | C,C++,Java,Python | 2024-09-14 |
 | leetcode | Easy | [1431-kids-with-the-greatest-number-of-candies](./leetcode/Easy/1431-kids-with-the-greatest-number-of-candies/) | Python | 2024-09-14 |
 | leetcode | Easy | [1700-number-of-students-unable-to-eat-lunch](./leetcode/Easy/1700-number-of-students-unable-to-eat-lunch/) | Python | 2024-04-08 |

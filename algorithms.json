@@ -1194,6 +1194,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Easy",
+    "problem_name": "1018-binary-prefix-divisible-by-5",
+    "languages": "Python",
+    "last_commit_date": "2025-11-24",
+    "slug": "leetcode/Easy/1018-binary-prefix-divisible-by-5"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Easy",
     "problem_name": "0111-minimum-depth-of-binary-tree",
     "languages": "C,C++,Java,Python",
     "last_commit_date": "2024-09-14",
