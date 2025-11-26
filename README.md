@@ -832,6 +832,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Hard | [0185-department-top-three-salaries](./leetcode/Hard/0185-department-top-three-salaries/) | SQL | 2024-09-14 |
 | leetcode | Hard | [1335-minimum-difficulty-of-a-job-schedule](./leetcode/Hard/1335-minimum-difficulty-of-a-job-schedule/) | Python | 2023-12-29 |
 | leetcode | Hard | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](./leetcode/Hard/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Python | 2025-01-18 |
+| leetcode | Hard | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](./leetcode/Hard/2435-paths-in-matrix-whose-sum-is-divisible-by-k/) | Python | 2025-11-26 |
 | leetcode | Hard | [0432-all-oone-data-structure](./leetcode/Hard/0432-all-oone-data-structure/) | Python | 2024-09-29 |
 | leetcode | Hard | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](./leetcode/Hard/1639-number-of-ways-to-form-a-target-string-given-a-dictionary/) | Python | 2024-12-29 |
 | leetcode | Hard | [0076-minimum-window-substring](./leetcode/Hard/0076-minimum-window-substring/) | Python | 2024-09-14 |

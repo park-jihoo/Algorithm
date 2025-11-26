@@ -6626,6 +6626,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Hard",
+    "problem_name": "2435-paths-in-matrix-whose-sum-is-divisible-by-k",
+    "languages": "Python",
+    "last_commit_date": "2025-11-26",
+    "slug": "leetcode/Hard/2435-paths-in-matrix-whose-sum-is-divisible-by-k"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Hard",
     "problem_name": "0432-all-oone-data-structure",
     "languages": "Python",
     "last_commit_date": "2024-09-29",
