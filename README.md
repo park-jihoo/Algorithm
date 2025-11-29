@@ -129,6 +129,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [1684-count-the-number-of-consistent-strings](./leetcode/Easy/1684-count-the-number-of-consistent-strings/) | Python | 2024-09-12 |
 | leetcode | Easy | [2696-minimum-string-length-after-removing-substrings](./leetcode/Easy/2696-minimum-string-length-after-removing-substrings/) | Python | 2024-10-07 |
 | leetcode | Easy | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](./leetcode/Easy/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Python | 2024-12-02 |
+| leetcode | Easy | [3512-minimum-operations-to-make-array-sum-divisible-by-k](./leetcode/Easy/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Python | 2025-11-29 |
 | leetcode | Easy | [0070-climbing-stairs](./leetcode/Easy/0070-climbing-stairs/) | Python | 2024-09-14 |
 | leetcode | Easy | [1662-check-if-two-string-arrays-are-equivalent](./leetcode/Easy/1662-check-if-two-string-arrays-are-equivalent/) | Python | 2023-12-12 |
 | leetcode | Easy | [2864-maximum-odd-binary-number](./leetcode/Easy/2864-maximum-odd-binary-number/) | Python | 2024-03-01 |
@@ -742,6 +743,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [1759-count-number-of-homogenous-substrings](./leetcode/Medium/1759-count-number-of-homogenous-substrings/) | Python | 2024-09-14 |
 | leetcode | Medium | [1371-find-the-longest-substring-containing-vowels-in-even-counts](./leetcode/Medium/1371-find-the-longest-substring-containing-vowels-in-even-counts/) | Python | 2024-09-15 |
 | leetcode | Medium | [0494-target-sum](./leetcode/Medium/0494-target-sum/) | Python | 2024-12-26 |
+| leetcode | Medium | [3381-maximum-subarray-sum-with-length-divisible-by-k](./leetcode/Medium/3381-maximum-subarray-sum-with-length-divisible-by-k/) | Unknown | 2025-11-27 |
 | leetcode | Medium | [1915-number-of-wonderful-substrings](./leetcode/Medium/1915-number-of-wonderful-substrings/) | Python | 2024-09-14 |
 | leetcode | Medium | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](./leetcode/Medium/2342-max-sum-of-a-pair-with-equal-sum-of-digits/) | Python | 2025-02-14 |
 | leetcode | Medium | [0053-maximum-subarray](./leetcode/Medium/0053-maximum-subarray/) | Python | 2024-07-07 |
