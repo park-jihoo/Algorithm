@@ -469,6 +469,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [1921-eliminate-maximum-number-of-monsters](./leetcode/Medium/1921-eliminate-maximum-number-of-monsters/) | Python | 2023-11-07 |
 | leetcode | Medium | [2348-number-of-zero-filled-subarrays](./leetcode/Medium/2348-number-of-zero-filled-subarrays/) | Python | 2024-09-14 |
 | leetcode | Medium | [0823-binary-trees-with-factors](./leetcode/Medium/0823-binary-trees-with-factors/) | Python | 2023-10-26 |
+| leetcode | Medium | [3623-count-number-of-trapezoids-i](./leetcode/Medium/3623-count-number-of-trapezoids-i/) | Python | 2025-12-02 |
 | leetcode | Medium | [0229-majority-element-ii](./leetcode/Medium/0229-majority-element-ii/) | Python | 2023-10-05 |
 | leetcode | Medium | [0518-coin-change-ii](./leetcode/Medium/0518-coin-change-ii/) | C,C++,Python | 2023-08-14 |
 | leetcode | Medium | [1845-seat-reservation-manager](./leetcode/Medium/1845-seat-reservation-manager/) | Python | 2023-11-06 |
