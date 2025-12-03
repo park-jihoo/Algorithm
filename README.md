@@ -935,6 +935,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Hard | [2081-sum-of-k-mirror-numbers](./leetcode/Hard/2081-sum-of-k-mirror-numbers/) | Python | 2025-06-23 |
 | leetcode | Hard | [2092-find-all-people-with-secret](./leetcode/Hard/2092-find-all-people-with-secret/) | Python | 2024-02-24 |
 | leetcode | Hard | [1671-minimum-number-of-removals-to-make-mountain-array](./leetcode/Hard/1671-minimum-number-of-removals-to-make-mountain-array/) | Python | 2024-10-30 |
+| leetcode | Hard | [3625-count-number-of-trapezoids-ii](./leetcode/Hard/3625-count-number-of-trapezoids-ii/) | Python | 2025-12-03 |
 | leetcode | Hard | [2458-height-of-binary-tree-after-subtree-removal-queries](./leetcode/Hard/2458-height-of-binary-tree-after-subtree-removal-queries/) | Python | 2024-10-26 |
 | leetcode | Hard | [3272-find-the-count-of-good-integers](./leetcode/Hard/3272-find-the-count-of-good-integers/) | Unknown | 2025-04-12 |
 | leetcode | Hard | [0446-arithmetic-slices-ii-subsequence](./leetcode/Hard/0446-arithmetic-slices-ii-subsequence/) | Python | 2024-01-07 |

@@ -7450,6 +7450,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Hard",
+    "problem_name": "3625-count-number-of-trapezoids-ii",
+    "languages": "Python",
+    "last_commit_date": "2025-12-03",
+    "slug": "leetcode/Hard/3625-count-number-of-trapezoids-ii"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Hard",
     "problem_name": "2458-height-of-binary-tree-after-subtree-removal-queries",
     "languages": "Python",
     "last_commit_date": "2024-10-26",
