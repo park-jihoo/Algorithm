@@ -58,6 +58,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [0876-middle-of-the-linked-list](./leetcode/Easy/0876-middle-of-the-linked-list/) | Python | 2024-03-07 |
 | leetcode | Easy | [3516-find-closest-person](./leetcode/Easy/3516-find-closest-person/) | Python | 2025-09-04 |
 | leetcode | Easy | [1337-the-k-weakest-rows-in-a-matrix](./leetcode/Easy/1337-the-k-weakest-rows-in-a-matrix/) | Python | 2023-09-18 |
+| leetcode | Easy | [3432-count-partitions-with-even-sum-difference](./leetcode/Easy/3432-count-partitions-with-even-sum-difference/) | Python | 2025-12-05 |
 | leetcode | Easy | [0101-symmetric-tree](./leetcode/Easy/0101-symmetric-tree/) | Python | 2024-09-14 |
 | leetcode | Easy | [1704-determine-if-string-halves-are-alike](./leetcode/Easy/1704-determine-if-string-halves-are-alike/) | Python | 2024-01-12 |
 | leetcode | Easy | [0796-rotate-string](./leetcode/Easy/0796-rotate-string/) | Python | 2024-11-03 |
@@ -796,6 +797,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [0456-132-pattern](./leetcode/Medium/0456-132-pattern/) | Python | 2024-09-14 |
 | leetcode | Medium | [1123-lowest-common-ancestor-of-deepest-leaves](./leetcode/Medium/1123-lowest-common-ancestor-of-deepest-leaves/) | Python | 2025-04-04 |
 | leetcode | Medium | [1146-snapshot-array](./leetcode/Medium/1146-snapshot-array/) | Python | 2023-08-14 |
+| leetcode | Medium | [2211-count-collisions-on-a-road](./leetcode/Medium/2211-count-collisions-on-a-road/) | Unknown | 2025-12-04 |
 | leetcode | Medium | [0808-soup-servings](./leetcode/Medium/0808-soup-servings/) | Python | 2023-08-14 |
 | leetcode | Hard | [2642-design-graph-with-shortest-path-calculator](./leetcode/Hard/2642-design-graph-with-shortest-path-calculator/) | Python | 2024-09-14 |
 | leetcode | Hard | [3337-total-characters-in-string-after-transformations-ii](./leetcode/Hard/3337-total-characters-in-string-after-transformations-ii/) | Python | 2025-05-14 |
