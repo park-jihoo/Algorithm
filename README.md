@@ -405,6 +405,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [1590-make-sum-divisible-by-p](./leetcode/Medium/1590-make-sum-divisible-by-p/) | Python | 2024-10-03 |
 | leetcode | Medium | [1481-least-number-of-unique-integers-after-k-removals](./leetcode/Medium/1481-least-number-of-unique-integers-after-k-removals/) | Python | 2024-09-14 |
 | leetcode | Medium | [2966-divide-array-into-arrays-with-max-difference](./leetcode/Medium/2966-divide-array-into-arrays-with-max-difference/) | Python | 2024-02-01 |
+| leetcode | Medium | [3578-count-partitions-with-max-min-difference-at-most-k](./leetcode/Medium/3578-count-partitions-with-max-min-difference-at-most-k/) | Python | 2025-12-06 |
 | leetcode | Medium | [2353-design-a-food-rating-system](./leetcode/Medium/2353-design-a-food-rating-system/) | Python | 2025-09-17 |
 | leetcode | Medium | [0147-insertion-sort-list](./leetcode/Medium/0147-insertion-sort-list/) | Java | 2024-09-14 |
 | leetcode | Medium | [0033-search-in-rotated-sorted-array](./leetcode/Medium/0033-search-in-rotated-sorted-array/) | C,C++,Python | 2023-08-14 |

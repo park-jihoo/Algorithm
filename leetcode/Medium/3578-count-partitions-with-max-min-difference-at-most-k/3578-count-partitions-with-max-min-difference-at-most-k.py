@@ -12,7 +12,7 @@ class Solution:
         j = 0
         for i in range(n):
             cnt.add(nums[i])
-            
+
             while j <= i and cnt[-1] - cnt[0] > k:
                 cnt.remove(nums[j])
                 j += 1
