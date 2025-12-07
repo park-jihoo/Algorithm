@@ -181,6 +181,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [2108-find-first-palindromic-string-in-the-array](./leetcode/Easy/2108-find-first-palindromic-string-in-the-array/) | Python | 2024-02-13 |
 | leetcode | Easy | [0175-combine-two-tables](./leetcode/Easy/0175-combine-two-tables/) | SQL | 2024-09-14 |
 | leetcode | Easy | [0812-largest-triangle-area](./leetcode/Easy/0812-largest-triangle-area/) | Python | 2025-09-27 |
+| leetcode | Easy | [1523-count-odd-numbers-in-an-interval-range](./leetcode/Easy/1523-count-odd-numbers-in-an-interval-range/) | Python | 2025-12-07 |
 | leetcode | Easy | [0183-customers-who-never-order](./leetcode/Easy/0183-customers-who-never-order/) | SQL | 2023-12-15 |
 | leetcode | Easy | [2094-finding-3-digit-even-numbers](./leetcode/Easy/2094-finding-3-digit-even-numbers/) | Python | 2025-05-12 |
 | leetcode | Easy | [0094-binary-tree-inorder-traversal](./leetcode/Easy/0094-binary-tree-inorder-traversal/) | Python | 2024-09-14 |

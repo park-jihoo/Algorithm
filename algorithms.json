@@ -1418,6 +1418,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Easy",
+    "problem_name": "1523-count-odd-numbers-in-an-interval-range",
+    "languages": "Python",
+    "last_commit_date": "2025-12-07",
+    "slug": "leetcode/Easy/1523-count-odd-numbers-in-an-interval-range"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Easy",
     "problem_name": "0183-customers-who-never-order",
     "languages": "SQL",
     "last_commit_date": "2023-12-15",
