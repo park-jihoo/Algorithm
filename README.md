@@ -174,6 +174,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [1464-maximum-product-of-two-elements-in-an-array](./leetcode/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Python | 2023-12-12 |
 | leetcode | Easy | [2011-final-value-of-variable-after-performing-operations](./leetcode/Easy/2011-final-value-of-variable-after-performing-operations/) | Python | 2025-10-20 |
 | leetcode | Easy | [0258-add-digits](./leetcode/Easy/0258-add-digits/) | Python | 2024-09-14 |
+| leetcode | Easy | [1925-count-square-sum-triples](./leetcode/Easy/1925-count-square-sum-triples/) | Python | 2025-12-08 |
 | leetcode | Easy | [3477-fruits-into-baskets-ii](./leetcode/Easy/3477-fruits-into-baskets-ii/) | Python | 2025-08-05 |
 | leetcode | Easy | [1614-maximum-nesting-depth-of-the-parentheses](./leetcode/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Python | 2024-04-04 |
 | leetcode | Easy | [1380-lucky-numbers-in-a-matrix](./leetcode/Easy/1380-lucky-numbers-in-a-matrix/) | Python | 2024-07-19 |

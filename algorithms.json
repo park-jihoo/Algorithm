@@ -1362,6 +1362,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Easy",
+    "problem_name": "1925-count-square-sum-triples",
+    "languages": "Python",
+    "last_commit_date": "2025-12-08",
+    "slug": "leetcode/Easy/1925-count-square-sum-triples"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Easy",
     "problem_name": "3477-fruits-into-baskets-ii",
     "languages": "Python",
     "last_commit_date": "2025-08-05",
