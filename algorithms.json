@@ -3810,6 +3810,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "3583-count-special-triplets",
+    "languages": "Unknown",
+    "last_commit_date": "2025-12-09",
+    "slug": "leetcode/Medium/3583-count-special-triplets"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "0215-kth-largest-element-in-an-array",
     "languages": "Python",
     "last_commit_date": "2023-08-14",
@@ -4454,6 +4462,14 @@
     "languages": "Python",
     "last_commit_date": "2025-02-18",
     "slug": "leetcode/Medium/2375-construct-smallest-number-from-di-string"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
+    "problem_name": "3577-count-the-number-of-computer-unlocking-permutations",
+    "languages": "Python",
+    "last_commit_date": "2025-12-10",
+    "slug": "leetcode/Medium/3577-count-the-number-of-computer-unlocking-permutations"
   },
   {
     "platform": "leetcode",

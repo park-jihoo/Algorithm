@@ -480,6 +480,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [0498-diagonal-traverse](./leetcode/Medium/0498-diagonal-traverse/) | Python | 2025-08-25 |
 | leetcode | Medium | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](./leetcode/Medium/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Python | 2024-05-30 |
 | leetcode | Medium | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](./leetcode/Medium/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Python | 2023-08-14 |
+| leetcode | Medium | [3583-count-special-triplets](./leetcode/Medium/3583-count-special-triplets/) | Unknown | 2025-12-09 |
 | leetcode | Medium | [0215-kth-largest-element-in-an-array](./leetcode/Medium/0215-kth-largest-element-in-an-array/) | Python | 2023-08-14 |
 | leetcode | Medium | [0781-rabbits-in-forest](./leetcode/Medium/0781-rabbits-in-forest/) | Python | 2025-04-20 |
 | leetcode | Medium | [0073-set-matrix-zeroes](./leetcode/Medium/0073-set-matrix-zeroes/) | Python | 2025-05-21 |
@@ -561,6 +562,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [2536-increment-submatrices-by-one](./leetcode/Medium/2536-increment-submatrices-by-one/) | Python | 2025-11-14 |
 | leetcode | Medium | [0790-domino-and-tromino-tiling](./leetcode/Medium/0790-domino-and-tromino-tiling/) | Unknown | 2025-05-05 |
 | leetcode | Medium | [2375-construct-smallest-number-from-di-string](./leetcode/Medium/2375-construct-smallest-number-from-di-string/) | Python | 2025-02-18 |
+| leetcode | Medium | [3577-count-the-number-of-computer-unlocking-permutations](./leetcode/Medium/3577-count-the-number-of-computer-unlocking-permutations/) | Python | 2025-12-10 |
 | leetcode | Medium | [2433-find-the-original-array-of-prefix-xor](./leetcode/Medium/2433-find-the-original-array-of-prefix-xor/) | Python | 2023-10-31 |
 | leetcode | Medium | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](./leetcode/Medium/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Python | 2025-01-06 |
 | leetcode | Medium | [2563-count-the-number-of-fair-pairs](./leetcode/Medium/2563-count-the-number-of-fair-pairs/) | Python | 2025-04-19 |
