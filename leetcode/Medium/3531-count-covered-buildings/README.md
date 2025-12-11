@@ -19,14 +19,15 @@
 <ul>
 	<li>Only building <code>[2,2]</code> is covered as it has at least one building:
 
-	<ul>
-		<li>above (<code>[1,2]</code>)</li>
-		<li>below (<code>[3,2]</code>)</li>
-		<li>left (<code>[2,1]</code>)</li>
-		<li>right (<code>[2,3]</code>)</li>
-	</ul>
-	</li>
-	<li>Thus, the count of covered buildings is 1.</li>
+    <ul>
+    	<li>above (<code>[1,2]</code>)</li>
+    	<li>below (<code>[3,2]</code>)</li>
+    	<li>left (<code>[2,1]</code>)</li>
+    	<li>right (<code>[2,3]</code>)</li>
+    </ul>
+    </li>
+    <li>Thus, the count of covered buildings is 1.</li>
+
 </ul>
 </div>
 
@@ -60,14 +61,15 @@
 <ul>
 	<li>Only building <code>[3,3]</code> is covered as it has at least one building:
 
-	<ul>
-		<li>above (<code>[1,3]</code>)</li>
-		<li>below (<code>[5,3]</code>)</li>
-		<li>left (<code>[3,2]</code>)</li>
-		<li>right (<code>[3,5]</code>)</li>
-	</ul>
-	</li>
-	<li>Thus, the count of covered buildings is 1.</li>
+    <ul>
+    	<li>above (<code>[1,3]</code>)</li>
+    	<li>below (<code>[5,3]</code>)</li>
+    	<li>left (<code>[3,2]</code>)</li>
+    	<li>right (<code>[3,5]</code>)</li>
+    </ul>
+    </li>
+    <li>Thus, the count of covered buildings is 1.</li>
+
 </ul>
 </div>
 

@@ -480,7 +480,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [0498-diagonal-traverse](./leetcode/Medium/0498-diagonal-traverse/) | Python | 2025-08-25 |
 | leetcode | Medium | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](./leetcode/Medium/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Python | 2024-05-30 |
 | leetcode | Medium | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](./leetcode/Medium/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Python | 2023-08-14 |
-| leetcode | Medium | [3583-count-special-triplets](./leetcode/Medium/3583-count-special-triplets/) | Unknown | 2025-12-09 |
+| leetcode | Medium | [3583-count-special-triplets](./leetcode/Medium/3583-count-special-triplets/) | Unknown | 2025-12-10 |
 | leetcode | Medium | [0215-kth-largest-element-in-an-array](./leetcode/Medium/0215-kth-largest-element-in-an-array/) | Python | 2023-08-14 |
 | leetcode | Medium | [0781-rabbits-in-forest](./leetcode/Medium/0781-rabbits-in-forest/) | Python | 2025-04-20 |
 | leetcode | Medium | [0073-set-matrix-zeroes](./leetcode/Medium/0073-set-matrix-zeroes/) | Python | 2025-05-21 |
@@ -554,6 +554,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [2657-find-the-prefix-common-array-of-two-arrays](./leetcode/Medium/2657-find-the-prefix-common-array-of-two-arrays/) | Python | 2025-01-14 |
 | leetcode | Medium | [1457-pseudo-palindromic-paths-in-a-binary-tree](./leetcode/Medium/1457-pseudo-palindromic-paths-in-a-binary-tree/) | Python | 2024-01-24 |
 | leetcode | Medium | [1472-design-browser-history](./leetcode/Medium/1472-design-browser-history/) | Python | 2024-09-14 |
+| leetcode | Medium | [3531-count-covered-buildings](./leetcode/Medium/3531-count-covered-buildings/) | Python | 2025-12-11 |
 | leetcode | Medium | [0452-minimum-number-of-arrows-to-burst-balloons](./leetcode/Medium/0452-minimum-number-of-arrows-to-burst-balloons/) | Python | 2024-03-18 |
 | leetcode | Medium | [1718-construct-the-lexicographically-largest-valid-sequence](./leetcode/Medium/1718-construct-the-lexicographically-largest-valid-sequence/) | Python | 2025-02-16 |
 | leetcode | Medium | [0623-add-one-row-to-tree](./leetcode/Medium/0623-add-one-row-to-tree/) | Python | 2024-04-16 |
