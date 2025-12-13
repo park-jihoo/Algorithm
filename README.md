@@ -256,6 +256,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [0590-n-ary-tree-postorder-traversal](./leetcode/Easy/0590-n-ary-tree-postorder-traversal/) | Python | 2024-08-26 |
 | leetcode | Easy | [1491-average-salary-excluding-the-minimum-and-maximum-salary](./leetcode/Easy/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Python | 2024-09-14 |
 | leetcode | Easy | [0100-same-tree](./leetcode/Easy/0100-same-tree/) | Python | 2024-02-26 |
+| leetcode | Easy | [3606-coupon-code-validator](./leetcode/Easy/3606-coupon-code-validator/) | Python | 2025-12-13 |
 | leetcode | Easy | [0989-add-to-array-form-of-integer](./leetcode/Easy/0989-add-to-array-form-of-integer/) | Python | 2023-08-14 |
 | leetcode | Easy | [1790-check-if-one-string-swap-can-make-strings-equal](./leetcode/Easy/1790-check-if-one-string-swap-can-make-strings-equal/) | Python | 2025-02-05 |
 | leetcode | Easy | [1957-delete-characters-to-make-fancy-string](./leetcode/Easy/1957-delete-characters-to-make-fancy-string/) | Python | 2024-11-01 |

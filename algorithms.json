@@ -2018,6 +2018,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Easy",
+    "problem_name": "3606-coupon-code-validator",
+    "languages": "Python",
+    "last_commit_date": "2025-12-13",
+    "slug": "leetcode/Easy/3606-coupon-code-validator"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Easy",
     "problem_name": "0989-add-to-array-form-of-integer",
     "languages": "Python",
     "last_commit_date": "2023-08-14",
