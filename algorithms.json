@@ -2402,6 +2402,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "2110-number-of-smooth-descent-periods-of-a-stock",
+    "languages": "Python",
+    "last_commit_date": "2025-12-16",
+    "slug": "leetcode/Medium/2110-number-of-smooth-descent-periods-of-a-stock"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "1658-minimum-operations-to-reduce-x-to-zero",
     "languages": "Python",
     "last_commit_date": "2023-09-20",

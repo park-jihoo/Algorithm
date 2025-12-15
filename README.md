@@ -304,6 +304,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [0054-spiral-matrix](./leetcode/Medium/0054-spiral-matrix/) | C++,Python | 2023-08-14 |
 | leetcode | Medium | [1361-validate-binary-tree-nodes](./leetcode/Medium/1361-validate-binary-tree-nodes/) | Python | 2023-10-17 |
 | leetcode | Medium | [1642-furthest-building-you-can-reach](./leetcode/Medium/1642-furthest-building-you-can-reach/) | Python | 2024-02-17 |
+| leetcode | Medium | [2110-number-of-smooth-descent-periods-of-a-stock](./leetcode/Medium/2110-number-of-smooth-descent-periods-of-a-stock/) | Python | 2025-12-16 |
 | leetcode | Medium | [1658-minimum-operations-to-reduce-x-to-zero](./leetcode/Medium/1658-minimum-operations-to-reduce-x-to-zero/) | Python | 2023-09-20 |
 | leetcode | Medium | [0846-hand-of-straights](./leetcode/Medium/0846-hand-of-straights/) | Python | 2024-06-06 |
 | leetcode | Medium | [3508-implement-router](./leetcode/Medium/3508-implement-router/) | Python | 2025-09-20 |
