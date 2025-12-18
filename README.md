@@ -304,7 +304,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [0054-spiral-matrix](./leetcode/Medium/0054-spiral-matrix/) | C++,Python | 2023-08-14 |
 | leetcode | Medium | [1361-validate-binary-tree-nodes](./leetcode/Medium/1361-validate-binary-tree-nodes/) | Python | 2023-10-17 |
 | leetcode | Medium | [1642-furthest-building-you-can-reach](./leetcode/Medium/1642-furthest-building-you-can-reach/) | Python | 2024-02-17 |
-| leetcode | Medium | [2110-number-of-smooth-descent-periods-of-a-stock](./leetcode/Medium/2110-number-of-smooth-descent-periods-of-a-stock/) | Python | 2025-12-16 |
+| leetcode | Medium | [2110-number-of-smooth-descent-periods-of-a-stock](./leetcode/Medium/2110-number-of-smooth-descent-periods-of-a-stock/) | Python | 2025-12-15 |
 | leetcode | Medium | [1658-minimum-operations-to-reduce-x-to-zero](./leetcode/Medium/1658-minimum-operations-to-reduce-x-to-zero/) | Python | 2023-09-20 |
 | leetcode | Medium | [0846-hand-of-straights](./leetcode/Medium/0846-hand-of-straights/) | Python | 2024-06-06 |
 | leetcode | Medium | [3508-implement-router](./leetcode/Medium/3508-implement-router/) | Python | 2025-09-20 |
@@ -329,6 +329,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [2948-make-lexicographically-smallest-array-by-swapping-elements](./leetcode/Medium/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Python | 2025-01-25 |
 | leetcode | Medium | [1331-path-with-maximum-gold](./leetcode/Medium/1331-path-with-maximum-gold/) | Python | 2024-05-14 |
 | leetcode | Medium | [0649-dota2-senate](./leetcode/Medium/0649-dota2-senate/) | Python | 2023-08-14 |
+| leetcode | Medium | [3573-best-time-to-buy-and-sell-stock-v](./leetcode/Medium/3573-best-time-to-buy-and-sell-stock-v/) | Unknown | 2025-12-17 |
 | leetcode | Medium | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](./leetcode/Medium/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Python | 2025-02-23 |
 | leetcode | Medium | [0934-shortest-bridge](./leetcode/Medium/0934-shortest-bridge/) | Python | 2023-08-14 |
 | leetcode | Medium | [0624-maximum-distance-in-arrays](./leetcode/Medium/0624-maximum-distance-in-arrays/) | Python | 2024-09-14 |
@@ -461,6 +462,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [2658-maximum-number-of-fish-in-a-grid](./leetcode/Medium/2658-maximum-number-of-fish-in-a-grid/) | Python | 2025-01-28 |
 | leetcode | Medium | [1829-maximum-xor-for-each-query](./leetcode/Medium/1829-maximum-xor-for-each-query/) | Python | 2024-11-08 |
 | leetcode | Medium | [0852-peak-index-in-a-mountain-array](./leetcode/Medium/0852-peak-index-in-a-mountain-array/) | C++,Java,Python | 2023-08-14 |
+| leetcode | Medium | [3652-best-time-to-buy-and-sell-stock-using-strategy](./leetcode/Medium/3652-best-time-to-buy-and-sell-stock-using-strategy/) | Python | 2025-12-18 |
 | leetcode | Medium | [1802-maximum-value-at-a-given-index-in-a-bounded-array](./leetcode/Medium/1802-maximum-value-at-a-given-index-in-a-bounded-array/) | Python | 2023-08-14 |
 | leetcode | Medium | [1609-even-odd-tree](./leetcode/Medium/1609-even-odd-tree/) | Python | 2024-02-29 |
 | leetcode | Medium | [2406-divide-intervals-into-minimum-number-of-groups](./leetcode/Medium/2406-divide-intervals-into-minimum-number-of-groups/) | Python | 2024-10-12 |
@@ -865,6 +867,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Hard | [0037-sudoku-solver](./leetcode/Hard/0037-sudoku-solver/) | Python | 2025-08-31 |
 | leetcode | Hard | [2493-divide-nodes-into-the-maximum-number-of-groups](./leetcode/Hard/2493-divide-nodes-into-the-maximum-number-of-groups/) | Python | 2025-01-30 |
 | leetcode | Hard | [0332-reconstruct-itinerary](./leetcode/Hard/0332-reconstruct-itinerary/) | Python | 2023-09-14 |
+| leetcode | Hard | [3562-maximum-profit-from-trading-stocks-with-discounts](./leetcode/Hard/3562-maximum-profit-from-trading-stocks-with-discounts/) | Unknown | 2025-12-16 |
 | leetcode | Hard | [2302-count-subarrays-with-score-less-than-k](./leetcode/Hard/2302-count-subarrays-with-score-less-than-k/) | Python | 2025-04-28 |
 | leetcode | Hard | [0726-number-of-atoms](./leetcode/Hard/0726-number-of-atoms/) | Python | 2024-07-14 |
 | leetcode | Hard | [3539-find-sum-of-array-product-of-magical-sequences](./leetcode/Hard/3539-find-sum-of-array-product-of-magical-sequences/) | Python | 2025-10-12 |

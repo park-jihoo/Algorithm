@@ -2404,7 +2404,7 @@
     "difficulty": "Medium",
     "problem_name": "2110-number-of-smooth-descent-periods-of-a-stock",
     "languages": "Python",
-    "last_commit_date": "2025-12-16",
+    "last_commit_date": "2025-12-15",
     "slug": "leetcode/Medium/2110-number-of-smooth-descent-periods-of-a-stock"
   },
   {
@@ -2598,6 +2598,14 @@
     "languages": "Python",
     "last_commit_date": "2023-08-14",
     "slug": "leetcode/Medium/0649-dota2-senate"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
+    "problem_name": "3573-best-time-to-buy-and-sell-stock-v",
+    "languages": "Unknown",
+    "last_commit_date": "2025-12-17",
+    "slug": "leetcode/Medium/3573-best-time-to-buy-and-sell-stock-v"
   },
   {
     "platform": "leetcode",
@@ -3654,6 +3662,14 @@
     "languages": "C++,Java,Python",
     "last_commit_date": "2023-08-14",
     "slug": "leetcode/Medium/0852-peak-index-in-a-mountain-array"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
+    "problem_name": "3652-best-time-to-buy-and-sell-stock-using-strategy",
+    "languages": "Python",
+    "last_commit_date": "2025-12-18",
+    "slug": "leetcode/Medium/3652-best-time-to-buy-and-sell-stock-using-strategy"
   },
   {
     "platform": "leetcode",
@@ -6886,6 +6902,14 @@
     "languages": "Python",
     "last_commit_date": "2023-09-14",
     "slug": "leetcode/Hard/0332-reconstruct-itinerary"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Hard",
+    "problem_name": "3562-maximum-profit-from-trading-stocks-with-discounts",
+    "languages": "Unknown",
+    "last_commit_date": "2025-12-16",
+    "slug": "leetcode/Hard/3562-maximum-profit-from-trading-stocks-with-discounts"
   },
   {
     "platform": "leetcode",
