@@ -209,6 +209,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [1863-sum-of-all-subset-xor-totals](./leetcode/Easy/1863-sum-of-all-subset-xor-totals/) | Python | 2024-05-20 |
 | leetcode | Easy | [2706-buy-two-chocolates](./leetcode/Easy/2706-buy-two-chocolates/) | Python | 2023-12-20 |
 | leetcode | Easy | [3264-final-array-state-after-k-multiplication-operations-i](./leetcode/Easy/3264-final-array-state-after-k-multiplication-operations-i/) | Python | 2024-12-16 |
+| leetcode | Easy | [0944-delete-columns-to-make-sorted](./leetcode/Easy/0944-delete-columns-to-make-sorted/) | Python | 2025-12-20 |
 | leetcode | Easy | [1916-find-center-of-star-graph](./leetcode/Easy/1916-find-center-of-star-graph/) | Python | 2024-06-27 |
 | leetcode | Easy | [1971-find-if-path-exists-in-graph](./leetcode/Easy/1971-find-if-path-exists-in-graph/) | Python | 2024-04-21 |
 | leetcode | Easy | [0338-counting-bits](./leetcode/Easy/0338-counting-bits/) | Python | 2023-09-01 |

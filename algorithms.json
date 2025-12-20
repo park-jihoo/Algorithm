@@ -1642,6 +1642,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Easy",
+    "problem_name": "0944-delete-columns-to-make-sorted",
+    "languages": "Python",
+    "last_commit_date": "2025-12-20",
+    "slug": "leetcode/Easy/0944-delete-columns-to-make-sorted"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Easy",
     "problem_name": "1916-find-center-of-star-graph",
     "languages": "Python",
     "last_commit_date": "2024-06-27",
