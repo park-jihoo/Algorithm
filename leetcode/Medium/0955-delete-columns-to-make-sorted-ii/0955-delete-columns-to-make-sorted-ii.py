@@ -1,10 +1,10 @@
 class Solution:
     def minDeletionSize(self, strs):
         def is_sorted(A):
-            return all(A[i] <= A[i+1] for i in range(len(A) - 1))
+            return all(A[i] <= A[i + 1] for i in range(len(A) - 1))
 
         ans = 0
-        cur = [""] * len(strs)  
+        cur = [""] * len(strs)
 
         for col in zip(*strs):
             cur2 = cur[:]

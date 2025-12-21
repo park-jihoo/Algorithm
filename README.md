@@ -473,6 +473,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [3227-vowels-game-in-a-string](./leetcode/Medium/3227-vowels-game-in-a-string/) | Python | 2025-09-12 |
 | leetcode | Medium | [1376-time-needed-to-inform-all-employees](./leetcode/Medium/1376-time-needed-to-inform-all-employees/) | Python | 2023-08-14 |
 | leetcode | Medium | [0662-maximum-width-of-binary-tree](./leetcode/Medium/0662-maximum-width-of-binary-tree/) | Python | 2024-09-14 |
+| leetcode | Medium | [0955-delete-columns-to-make-sorted-ii](./leetcode/Medium/0955-delete-columns-to-make-sorted-ii/) | Python | 2025-12-21 |
 | leetcode | Medium | [0028-find-the-index-of-the-first-occurrence-in-a-string](./leetcode/Medium/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Python | 2024-09-14 |
 | leetcode | Medium | [0935-knight-dialer](./leetcode/Medium/0935-knight-dialer/) | Python | 2023-11-27 |
 | leetcode | Medium | [1921-eliminate-maximum-number-of-monsters](./leetcode/Medium/1921-eliminate-maximum-number-of-monsters/) | Python | 2023-11-07 |

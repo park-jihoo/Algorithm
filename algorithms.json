@@ -3754,6 +3754,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "0955-delete-columns-to-make-sorted-ii",
+    "languages": "Python",
+    "last_commit_date": "2025-12-21",
+    "slug": "leetcode/Medium/0955-delete-columns-to-make-sorted-ii"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "0028-find-the-index-of-the-first-occurrence-in-a-string",
     "languages": "Python",
     "last_commit_date": "2024-09-14",
