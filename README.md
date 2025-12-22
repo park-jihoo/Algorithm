@@ -941,6 +941,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Hard | [3347-maximum-frequency-of-an-element-after-performing-operations-ii](./leetcode/Hard/3347-maximum-frequency-of-an-element-after-performing-operations-ii/) | Python | 2025-10-22 |
 | leetcode | Hard | [0072-edit-distance](./leetcode/Hard/0072-edit-distance/) | Python | 2024-09-14 |
 | leetcode | Hard | [2328-number-of-increasing-paths-in-a-grid](./leetcode/Hard/2328-number-of-increasing-paths-in-a-grid/) | Python | 2023-08-14 |
+| leetcode | Hard | [0960-delete-columns-to-make-sorted-iii](./leetcode/Hard/0960-delete-columns-to-make-sorted-iii/) | Python | 2025-12-22 |
 | leetcode | Hard | [0992-subarrays-with-k-different-integers](./leetcode/Hard/0992-subarrays-with-k-different-integers/) | Python | 2024-03-30 |
 | leetcode | Hard | [1416-restore-the-array](./leetcode/Hard/1416-restore-the-array/) | Python | 2024-09-14 |
 | leetcode | Hard | [1402-reducing-dishes](./leetcode/Hard/1402-reducing-dishes/) | Python | 2024-09-14 |

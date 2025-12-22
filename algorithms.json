@@ -7498,6 +7498,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Hard",
+    "problem_name": "0960-delete-columns-to-make-sorted-iii",
+    "languages": "Python",
+    "last_commit_date": "2025-12-22",
+    "slug": "leetcode/Hard/0960-delete-columns-to-make-sorted-iii"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Hard",
     "problem_name": "0992-subarrays-with-k-different-integers",
     "languages": "Python",
     "last_commit_date": "2024-03-30",
