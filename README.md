@@ -429,7 +429,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [0024-swap-nodes-in-pairs](./leetcode/Medium/0024-swap-nodes-in-pairs/) | Python | 2023-08-14 |
 | leetcode | Medium | [2573-remove-nodes-from-linked-list](./leetcode/Medium/2573-remove-nodes-from-linked-list/) | Python | 2024-05-06 |
 | leetcode | Medium | [3350-adjacent-increasing-subarrays-detection-ii](./leetcode/Medium/3350-adjacent-increasing-subarrays-detection-ii/) | Python | 2025-10-15 |
-| leetcode | Medium | [2054-two-best-non-overlapping-events](./leetcode/Medium/2054-two-best-non-overlapping-events/) | Python | 2024-12-08 |
+| leetcode | Medium | [2054-two-best-non-overlapping-events](./leetcode/Medium/2054-two-best-non-overlapping-events/) | Python | 2025-12-23 |
 | leetcode | Medium | [3133-minimum-array-end](./leetcode/Medium/3133-minimum-array-end/) | Python | 2024-11-09 |
 | leetcode | Medium | [2326-spiral-matrix-iv](./leetcode/Medium/2326-spiral-matrix-iv/) | Python | 2024-09-09 |
 | leetcode | Medium | [0279-perfect-squares](./leetcode/Medium/0279-perfect-squares/) | Python | 2024-02-08 |
