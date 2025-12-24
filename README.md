@@ -167,6 +167,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [0268-missing-number](./leetcode/Easy/0268-missing-number/) | Python | 2024-02-20 |
 | leetcode | Easy | [3005-count-elements-with-maximum-frequency](./leetcode/Easy/3005-count-elements-with-maximum-frequency/) | Python | 2025-09-22 |
 | leetcode | Easy | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](./leetcode/Easy/1317-convert-integer-to-the-sum-of-two-no-zero-integers/) | Python | 2025-09-08 |
+| leetcode | Easy | [3074-apple-redistribution-into-boxes](./leetcode/Easy/3074-apple-redistribution-into-boxes/) | Python | 2025-12-24 |
 | leetcode | Easy | [3304-find-the-k-th-character-in-string-game-i](./leetcode/Easy/3304-find-the-k-th-character-in-string-game-i/) | Python | 2025-07-03 |
 | leetcode | Easy | [1108-defanging-an-ip-address](./leetcode/Easy/1108-defanging-an-ip-address/) | Python | 2024-09-14 |
 | leetcode | Easy | [0703-kth-largest-element-in-a-stream](./leetcode/Easy/0703-kth-largest-element-in-a-stream/) | Python | 2023-08-14 |

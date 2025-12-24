@@ -1306,6 +1306,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Easy",
+    "problem_name": "3074-apple-redistribution-into-boxes",
+    "languages": "Python",
+    "last_commit_date": "2025-12-24",
+    "slug": "leetcode/Easy/3074-apple-redistribution-into-boxes"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Easy",
     "problem_name": "3304-find-the-k-th-character-in-string-game-i",
     "languages": "Python",
     "last_commit_date": "2025-07-03",
