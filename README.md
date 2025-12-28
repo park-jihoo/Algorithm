@@ -267,7 +267,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [3318-find-x-sum-of-all-k-long-subarrays-i](./leetcode/Easy/3318-find-x-sum-of-all-k-long-subarrays-i/) | Python | 2025-11-04 |
 | leetcode | Easy | [0463-island-perimeter](./leetcode/Easy/0463-island-perimeter/) | Python | 2024-04-18 |
 | leetcode | Easy | [0704-binary-search](./leetcode/Easy/0704-binary-search/) | Python | 2024-09-14 |
-| leetcode | Easy | [1351-count-negative-numbers-in-a-sorted-matrix](./leetcode/Easy/1351-count-negative-numbers-in-a-sorted-matrix/) | Python | 2024-09-14 |
+| leetcode | Easy | [1351-count-negative-numbers-in-a-sorted-matrix](./leetcode/Easy/1351-count-negative-numbers-in-a-sorted-matrix/) | Python | 2025-12-28 |
 | leetcode | Easy | [0594-longest-harmonious-subsequence](./leetcode/Easy/0594-longest-harmonious-subsequence/) | Python | 2025-06-30 |
 | leetcode | Easy | [0026-remove-duplicates-from-sorted-array](./leetcode/Easy/0026-remove-duplicates-from-sorted-array/) | Python | 2023-09-23 |
 | leetcode | Easy | [2566-maximum-difference-by-remapping-a-digit](./leetcode/Easy/2566-maximum-difference-by-remapping-a-digit/) | Python | 2025-06-14 |
