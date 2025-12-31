@@ -799,6 +799,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [0799-champagne-tower](./leetcode/Medium/0799-champagne-tower/) | Python | 2024-09-14 |
 | leetcode | Medium | [1382-balance-a-binary-search-tree](./leetcode/Medium/1382-balance-a-binary-search-tree/) | Python | 2024-06-26 |
 | leetcode | Medium | [3362-zero-array-transformation-iii](./leetcode/Medium/3362-zero-array-transformation-iii/) | Python | 2025-05-22 |
+| leetcode | Medium | [0756-pyramid-transition-matrix](./leetcode/Medium/0756-pyramid-transition-matrix/) | Unknown | 2025-12-29 |
 | leetcode | Medium | [0515-find-largest-value-in-each-tree-row](./leetcode/Medium/0515-find-largest-value-in-each-tree-row/) | Python | 2024-12-25 |
 | leetcode | Medium | [3440-reschedule-meetings-for-maximum-free-time-ii](./leetcode/Medium/3440-reschedule-meetings-for-maximum-free-time-ii/) | Python | 2025-07-10 |
 | leetcode | Medium | [0779-k-th-symbol-in-grammar](./leetcode/Medium/0779-k-th-symbol-in-grammar/) | Python | 2023-10-25 |
@@ -966,7 +967,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Hard | [1298-maximum-candies-you-can-get-from-boxes](./leetcode/Hard/1298-maximum-candies-you-can-get-from-boxes/) | Python | 2025-06-03 |
 | leetcode | Hard | [0956-tallest-billboard](./leetcode/Hard/0956-tallest-billboard/) | Python | 2023-08-14 |
 | leetcode | Hard | [0632-smallest-range-covering-elements-from-k-lists](./leetcode/Hard/0632-smallest-range-covering-elements-from-k-lists/) | Python | 2024-10-13 |
-| leetcode | Hard | [1970-last-day-where-you-can-still-cross](./leetcode/Hard/1970-last-day-where-you-can-still-cross/) | Python | 2023-08-14 |
+| leetcode | Hard | [1970-last-day-where-you-can-still-cross](./leetcode/Hard/1970-last-day-where-you-can-still-cross/) | Python | 2025-12-31 |
 | leetcode | Hard | [1092-shortest-common-supersequence](./leetcode/Hard/1092-shortest-common-supersequence/) | Python | 2025-02-28 |
 | leetcode | Hard | [2999-count-the-number-of-powerful-integers](./leetcode/Hard/2999-count-the-number-of-powerful-integers/) | Python | 2025-04-10 |
 | 백준 | Gold | [2252. 줄 세우기](./백준/Gold/2252. 줄 세우기/) | C++ | 2024-09-14 |
