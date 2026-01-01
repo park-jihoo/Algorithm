@@ -1450,6 +1450,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Easy",
+    "problem_name": "0066-plus-one",
+    "languages": "Python",
+    "last_commit_date": "2026-01-01",
+    "slug": "leetcode/Easy/0066-plus-one"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Easy",
     "problem_name": "2094-finding-3-digit-even-numbers",
     "languages": "Python",
     "last_commit_date": "2025-05-12",
