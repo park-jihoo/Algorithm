@@ -823,6 +823,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Hard | [2940-find-building-where-alice-and-bob-can-meet](./leetcode/Hard/2940-find-building-where-alice-and-bob-can-meet/) | Python | 2024-12-22 |
 | leetcode | Hard | [1799-maximize-score-after-n-operations](./leetcode/Hard/1799-maximize-score-after-n-operations/) | Python | 2023-08-14 |
 | leetcode | Hard | [0879-profitable-schemes](./leetcode/Hard/0879-profitable-schemes/) | Python | 2024-09-14 |
+| leetcode | Hard | [1411-number-of-ways-to-paint-n-3-grid](./leetcode/Hard/1411-number-of-ways-to-paint-n-3-grid/) | Python | 2026-01-03 |
 | leetcode | Hard | [2141-maximum-running-time-of-n-computers](./leetcode/Hard/2141-maximum-running-time-of-n-computers/) | Python | 2023-08-14 |
 | leetcode | Hard | [3197-find-the-minimum-area-to-cover-all-ones-ii](./leetcode/Hard/3197-find-the-minimum-area-to-cover-all-ones-ii/) | Python | 2025-08-23 |
 | leetcode | Hard | [0087-scramble-string](./leetcode/Hard/0087-scramble-string/) | Python | 2024-09-14 |
