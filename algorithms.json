@@ -6146,6 +6146,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "1390-four-divisors",
+    "languages": "Python",
+    "last_commit_date": "2026-01-04",
+    "slug": "leetcode/Medium/1390-four-divisors"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "0179-largest-number",
     "languages": "Python",
     "last_commit_date": "2024-09-18",

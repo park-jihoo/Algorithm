@@ -772,6 +772,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](./leetcode/Medium/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Python | 2023-08-14 |
 | leetcode | Medium | [1208-get-equal-substrings-within-budget](./leetcode/Medium/1208-get-equal-substrings-within-budget/) | Python | 2024-05-28 |
 | leetcode | Medium | [2149-rearrange-array-elements-by-sign](./leetcode/Medium/2149-rearrange-array-elements-by-sign/) | Python | 2024-02-14 |
+| leetcode | Medium | [1390-four-divisors](./leetcode/Medium/1390-four-divisors/) | Python | 2026-01-04 |
 | leetcode | Medium | [0179-largest-number](./leetcode/Medium/0179-largest-number/) | Python | 2024-09-18 |
 | leetcode | Medium | [0542-01-matrix](./leetcode/Medium/0542-01-matrix/) | Python | 2023-08-17 |
 | leetcode | Medium | [1011-capacity-to-ship-packages-within-d-days](./leetcode/Medium/1011-capacity-to-ship-packages-within-d-days/) | Python | 2024-09-14 |
