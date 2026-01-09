@@ -5,6 +5,7 @@
 #         self.left = left
 #         self.right = right
 
+
 class Solution:
     def dfs(self, root):
         if not root:
@@ -12,10 +13,10 @@ class Solution:
         l1, l2 = self.dfs(root.left)
         r1, r2 = self.dfs(root.right)
         if l1 > r1:
-            return l1+1, l2
+            return l1 + 1, l2
         elif l1 < r1:
-            return r1+1, r2
-        return l1+1, root
+            return r1 + 1, r2
+        return l1 + 1, root
 
     def subtreeWithAllDeepest(self, root: Optional[TreeNode]) -> Optional[TreeNode]:
         return self.dfs(root)[1]

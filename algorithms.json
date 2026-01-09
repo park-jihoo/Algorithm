@@ -4914,6 +4914,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "0865-smallest-subtree-with-all-the-deepest-nodes",
+    "languages": "Python",
+    "last_commit_date": "2026-01-09",
+    "slug": "leetcode/Medium/0865-smallest-subtree-with-all-the-deepest-nodes"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "2683-neighboring-bitwise-xor",
     "languages": "Python",
     "last_commit_date": "2025-01-17",

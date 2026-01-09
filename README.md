@@ -618,6 +618,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [1615-maximal-network-rank](./leetcode/Medium/1615-maximal-network-rank/) | Python | 2023-08-18 |
 | leetcode | Medium | [0948-bag-of-tokens](./leetcode/Medium/0948-bag-of-tokens/) | Python | 2024-03-04 |
 | leetcode | Medium | [2924-find-champion-ii](./leetcode/Medium/2924-find-champion-ii/) | Python | 2024-11-26 |
+| leetcode | Medium | [0865-smallest-subtree-with-all-the-deepest-nodes](./leetcode/Medium/0865-smallest-subtree-with-all-the-deepest-nodes/) | Python | 2026-01-09 |
 | leetcode | Medium | [2683-neighboring-bitwise-xor](./leetcode/Medium/2683-neighboring-bitwise-xor/) | Python | 2025-01-17 |
 | leetcode | Medium | [1976-number-of-ways-to-arrive-at-destination](./leetcode/Medium/1976-number-of-ways-to-arrive-at-destination/) | Python | 2025-03-24 |
 | leetcode | Medium | [3346-maximum-frequency-of-an-element-after-performing-operations-i](./leetcode/Medium/3346-maximum-frequency-of-an-element-after-performing-operations-i/) | Unknown | 2025-10-21 |
