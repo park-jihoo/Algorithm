@@ -865,7 +865,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Hard | [3445-maximum-difference-between-even-and-odd-frequency-ii](./leetcode/Hard/3445-maximum-difference-between-even-and-odd-frequency-ii/) | Python | 2025-06-12 |
 | leetcode | Hard | [0407-trapping-rain-water-ii](./leetcode/Hard/0407-trapping-rain-water-ii/) | Python | 2025-10-03 |
 | leetcode | Hard | [2751-robot-collisions](./leetcode/Hard/2751-robot-collisions/) | Python | 2024-07-13 |
-| leetcode | Hard | [0085-maximal-rectangle](./leetcode/Hard/0085-maximal-rectangle/) | Python | 2024-04-13 |
+| leetcode | Hard | [0085-maximal-rectangle](./leetcode/Hard/0085-maximal-rectangle/) | Python | 2026-01-11 |
 | leetcode | Hard | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](./leetcode/Hard/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Python | 2025-10-30 |
 | leetcode | Hard | [3343-count-number-of-balanced-permutations](./leetcode/Hard/3343-count-number-of-balanced-permutations/) | Python | 2025-05-09 |
 | leetcode | Hard | [1463-cherry-pickup-ii](./leetcode/Hard/1463-cherry-pickup-ii/) | Python | 2024-02-11 |
