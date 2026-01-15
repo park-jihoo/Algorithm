@@ -437,6 +437,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [0279-perfect-squares](./leetcode/Medium/0279-perfect-squares/) | Python | 2024-02-08 |
 | leetcode | Medium | [3223-minimum-length-of-string-after-operations](./leetcode/Medium/3223-minimum-length-of-string-after-operations/) | Python | 2025-01-13 |
 | leetcode | Medium | [1048-longest-string-chain](./leetcode/Medium/1048-longest-string-chain/) | Python | 2023-09-23 |
+| leetcode | Medium | [2943-maximize-area-of-square-hole-in-grid](./leetcode/Medium/2943-maximize-area-of-square-hole-in-grid/) | Python | 2026-01-15 |
 | leetcode | Medium | [2390-removing-stars-from-a-string](./leetcode/Medium/2390-removing-stars-from-a-string/) | Python | 2024-09-14 |
 | leetcode | Medium | [3025-find-the-number-of-ways-to-place-people-i](./leetcode/Medium/3025-find-the-number-of-ways-to-place-people-i/) | Python | 2025-09-02 |
 | leetcode | Medium | [0146-lru-cache](./leetcode/Medium/0146-lru-cache/) | Java,Python | 2023-08-14 |
@@ -456,6 +457,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](./leetcode/Medium/1574-shortest-subarray-to-be-removed-to-make-array-sorted/) | Python | 2024-11-15 |
 | leetcode | Medium | [0176-second-highest-salary](./leetcode/Medium/0176-second-highest-salary/) | SQL | 2024-09-14 |
 | leetcode | Medium | [0077-combinations](./leetcode/Medium/0077-combinations/) | Python | 2023-08-14 |
+| leetcode | Medium | [3453-separate-squares-i](./leetcode/Medium/3453-separate-squares-i/) | Unknown | 2026-01-13 |
 | leetcode | Medium | [1282-group-the-people-given-the-group-size-they-belong-to](./leetcode/Medium/1282-group-the-people-given-the-group-size-they-belong-to/) | Python | 2023-09-11 |
 | leetcode | Medium | [0837-new-21-game](./leetcode/Medium/0837-new-21-game/) | Python | 2023-08-14 |
 | leetcode | Medium | [0983-minimum-cost-for-tickets](./leetcode/Medium/0983-minimum-cost-for-tickets/) | Python | 2024-12-31 |

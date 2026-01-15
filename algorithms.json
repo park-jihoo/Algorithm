@@ -3466,6 +3466,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "2943-maximize-area-of-square-hole-in-grid",
+    "languages": "Python",
+    "last_commit_date": "2026-01-15",
+    "slug": "leetcode/Medium/2943-maximize-area-of-square-hole-in-grid"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "2390-removing-stars-from-a-string",
     "languages": "Python",
     "last_commit_date": "2024-09-14",
@@ -3614,6 +3622,14 @@
     "languages": "Python",
     "last_commit_date": "2023-08-14",
     "slug": "leetcode/Medium/0077-combinations"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
+    "problem_name": "3453-separate-squares-i",
+    "languages": "Unknown",
+    "last_commit_date": "2026-01-13",
+    "slug": "leetcode/Medium/3453-separate-squares-i"
   },
   {
     "platform": "leetcode",
