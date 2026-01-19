@@ -507,6 +507,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [0150-evaluate-reverse-polish-notation](./leetcode/Medium/0150-evaluate-reverse-polish-notation/) | Python | 2024-01-30 |
 | leetcode | Medium | [3443-maximum-manhattan-distance-after-k-changes](./leetcode/Medium/3443-maximum-manhattan-distance-after-k-changes/) | Python | 2025-06-20 |
 | leetcode | Medium | [2537-count-the-number-of-good-subarrays](./leetcode/Medium/2537-count-the-number-of-good-subarrays/) | Python | 2025-04-16 |
+| leetcode | Medium | [2975-maximum-square-area-by-removing-fences-from-a-field](./leetcode/Medium/2975-maximum-square-area-by-removing-fences-from-a-field/) | Unknown | 2026-01-16 |
 | leetcode | Medium | [0523-continuous-subarray-sum](./leetcode/Medium/0523-continuous-subarray-sum/) | Python | 2024-06-08 |
 | leetcode | Medium | [0040-combination-sum-ii](./leetcode/Medium/0040-combination-sum-ii/) | Python | 2024-08-13 |
 | leetcode | Medium | [0880-decoded-string-at-index](./leetcode/Medium/0880-decoded-string-at-index/) | Python | 2023-09-27 |
@@ -694,6 +695,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [1605-find-valid-matrix-given-row-and-column-sums](./leetcode/Medium/1605-find-valid-matrix-given-row-and-column-sums/) | Python | 2024-07-20 |
 | leetcode | Medium | [1482-minimum-number-of-days-to-make-m-bouquets](./leetcode/Medium/1482-minimum-number-of-days-to-make-m-bouquets/) | Python | 2024-06-19 |
 | leetcode | Medium | [3170-lexicographically-minimum-string-after-removing-stars](./leetcode/Medium/3170-lexicographically-minimum-string-after-removing-stars/) | Python | 2025-06-07 |
+| leetcode | Medium | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](./leetcode/Medium/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/) | Python | 2026-01-19 |
 | leetcode | Medium | [0007-reverse-integer](./leetcode/Medium/0007-reverse-integer/) | Python | 2023-09-18 |
 | leetcode | Medium | [3011-find-if-array-can-be-sorted](./leetcode/Medium/3011-find-if-array-can-be-sorted/) | Python | 2024-11-06 |
 | leetcode | Medium | [3217-delete-nodes-from-linked-list-present-in-array](./leetcode/Medium/3217-delete-nodes-from-linked-list-present-in-array/) | Python | 2024-09-06 |

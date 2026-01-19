@@ -5,11 +5,13 @@ class Solution:
         pref = [list(accumulate(x)) for x in mat]
 
         def check(side):
-            for i in range(0, m-side+1):
+            for i in range(0, m - side + 1):
                 for j in range(0, n - side + 1):
                     tmp = 0
                     for row in range(side):
-                        tmp += pref[row+i][j+side-1] - (pref[row+i][j-1] if j else 0)
+                        tmp += pref[row + i][j + side - 1] - (
+                            pref[row + i][j - 1] if j else 0
+                        )
                     if tmp <= threshold:
                         return True
             return False

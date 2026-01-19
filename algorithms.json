@@ -4026,6 +4026,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "2975-maximum-square-area-by-removing-fences-from-a-field",
+    "languages": "Unknown",
+    "last_commit_date": "2026-01-16",
+    "slug": "leetcode/Medium/2975-maximum-square-area-by-removing-fences-from-a-field"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "0523-continuous-subarray-sum",
     "languages": "Python",
     "last_commit_date": "2024-06-08",
@@ -5518,6 +5526,14 @@
     "languages": "Python",
     "last_commit_date": "2025-06-07",
     "slug": "leetcode/Medium/3170-lexicographically-minimum-string-after-removing-stars"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
+    "problem_name": "1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold",
+    "languages": "Python",
+    "last_commit_date": "2026-01-19",
+    "slug": "leetcode/Medium/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold"
   },
   {
     "platform": "leetcode",
