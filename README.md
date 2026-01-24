@@ -203,6 +203,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [2418-sort-the-people](./leetcode/Easy/2418-sort-the-people/) | Python | 2024-07-22 |
 | leetcode | Easy | [2037-minimum-number-of-moves-to-seat-everyone](./leetcode/Easy/2037-minimum-number-of-moves-to-seat-everyone/) | Python | 2024-06-13 |
 | leetcode | Easy | [0342-power-of-four](./leetcode/Easy/0342-power-of-four/) | Python | 2025-08-15 |
+| leetcode | Easy | [3314-construct-the-minimum-bitwise-array-i](./leetcode/Easy/3314-construct-the-minimum-bitwise-array-i/) | Unknown | 2026-01-20 |
 | leetcode | Easy | [2942-find-words-containing-character](./leetcode/Easy/2942-find-words-containing-character/) | Python | 2025-05-24 |
 | leetcode | Easy | [0884-uncommon-words-from-two-sentences](./leetcode/Easy/0884-uncommon-words-from-two-sentences/) | Python | 2024-09-17 |
 | leetcode | Easy | [3024-type-of-triangle](./leetcode/Easy/3024-type-of-triangle/) | Python | 2025-05-19 |
@@ -235,6 +236,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [2016-maximum-difference-between-increasing-elements](./leetcode/Easy/2016-maximum-difference-between-increasing-elements/) | Python | 2025-06-16 |
 | leetcode | Easy | [2073-time-needed-to-buy-tickets](./leetcode/Easy/2073-time-needed-to-buy-tickets/) | Python | 2024-04-09 |
 | leetcode | Easy | [0069-sqrtx](./leetcode/Easy/0069-sqrtx/) | Python | 2023-12-21 |
+| leetcode | Easy | [3507-minimum-pair-removal-to-sort-array-i](./leetcode/Easy/3507-minimum-pair-removal-to-sort-array-i/) | Unknown | 2026-01-22 |
 | leetcode | Easy | [0349-intersection-of-two-arrays](./leetcode/Easy/0349-intersection-of-two-arrays/) | Python | 2024-03-10 |
 | leetcode | Easy | [1913-maximum-product-difference-between-two-pairs](./leetcode/Easy/1913-maximum-product-difference-between-two-pairs/) | Python | 2024-09-14 |
 | leetcode | Easy | [2169-count-operations-to-obtain-zero](./leetcode/Easy/2169-count-operations-to-obtain-zero/) | Python | 2025-11-09 |
@@ -683,7 +685,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [2871-double-a-number-represented-as-a-linked-list](./leetcode/Medium/2871-double-a-number-represented-as-a-linked-list/) | Python | 2024-05-07 |
 | leetcode | Medium | [0034-find-first-and-last-position-of-element-in-sorted-array](./leetcode/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Python | 2023-10-09 |
 | leetcode | Medium | [2501-longest-square-streak-in-an-array](./leetcode/Medium/2501-longest-square-streak-in-an-array/) | Python | 2024-10-28 |
-| leetcode | Medium | [1877-minimize-maximum-pair-sum-in-array](./leetcode/Medium/1877-minimize-maximum-pair-sum-in-array/) | Python | 2024-09-14 |
+| leetcode | Medium | [1877-minimize-maximum-pair-sum-in-array](./leetcode/Medium/1877-minimize-maximum-pair-sum-in-array/) | Python | 2026-01-24 |
 | leetcode | Medium | [0999-regions-cut-by-slashes](./leetcode/Medium/0999-regions-cut-by-slashes/) | Python | 2024-08-10 |
 | leetcode | Medium | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](./leetcode/Medium/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Python | 2024-07-26 |
 | leetcode | Medium | [0946-validate-stack-sequences](./leetcode/Medium/0946-validate-stack-sequences/) | Python | 2024-09-14 |
@@ -937,6 +939,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Hard | [1074-number-of-submatrices-that-sum-to-target](./leetcode/Hard/1074-number-of-submatrices-that-sum-to-target/) | Python | 2024-01-28 |
 | leetcode | Hard | [1444-number-of-ways-of-cutting-a-pizza](./leetcode/Hard/1444-number-of-ways-of-cutting-a-pizza/) | Python | 2024-09-14 |
 | leetcode | Hard | [2528-maximize-the-minimum-powered-city](./leetcode/Hard/2528-maximize-the-minimum-powered-city/) | Unknown | 2025-11-08 |
+| leetcode | Hard | [3510-minimum-pair-removal-to-sort-array-ii](./leetcode/Hard/3510-minimum-pair-removal-to-sort-array-ii/) | Python | 2026-01-24 |
 | leetcode | Hard | [3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii](./leetcode/Hard/3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii/) | Python | 2025-05-29 |
 | leetcode | Hard | [2551-put-marbles-in-bags](./leetcode/Hard/2551-put-marbles-in-bags/) | Python | 2025-03-31 |
 | leetcode | Hard | [0330-patching-array](./leetcode/Hard/0330-patching-array/) | Python | 2024-06-16 |
@@ -993,7 +996,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | 백준 | Gold | [20055. 컨베이어 벨트 위의 로봇](./백준/Gold/20055. 컨베이어 벨트 위의 로봇/) | Python | 2024-09-14 |
 | 백준 | Gold | [1916. 최소비용 구하기](./백준/Gold/1916. 최소비용 구하기/) | Python | 2024-09-14 |
 | 백준 | Gold | [22860. 폴더 정리 （small）](./백준/Gold/22860. 폴더 정리 （small）/) | Python | 2024-09-14 |
-| 백준 | Gold | [21608. 상어 초등학교](./백준/Gold/21608. 상어 초등학교/) | Python | 2024-09-14 |
+| 백준 | Gold | [21608. 상어 초등학교](./백준/Gold/21608. 상어 초등학교/) | Python | 2026-01-19 |
 | 백준 | Gold | [15684. 사다리 조작](./백준/Gold/15684. 사다리 조작/) | C++ | 2024-09-14 |
 | 백준 | Gold | [11657. 타임머신](./백준/Gold/11657. 타임머신/) | C++ | 2024-09-14 |
 | 백준 | Gold | [9663. N－Queen](./백준/Gold/9663. N－Queen/) | C++ | 2024-09-14 |

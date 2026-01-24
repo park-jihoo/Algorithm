@@ -1594,6 +1594,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Easy",
+    "problem_name": "3314-construct-the-minimum-bitwise-array-i",
+    "languages": "Unknown",
+    "last_commit_date": "2026-01-20",
+    "slug": "leetcode/Easy/3314-construct-the-minimum-bitwise-array-i"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Easy",
     "problem_name": "2942-find-words-containing-character",
     "languages": "Python",
     "last_commit_date": "2025-05-24",
@@ -1846,6 +1854,14 @@
     "languages": "Python",
     "last_commit_date": "2023-12-21",
     "slug": "leetcode/Easy/0069-sqrtx"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Easy",
+    "problem_name": "3507-minimum-pair-removal-to-sort-array-i",
+    "languages": "Unknown",
+    "last_commit_date": "2026-01-22",
+    "slug": "leetcode/Easy/3507-minimum-pair-removal-to-sort-array-i"
   },
   {
     "platform": "leetcode",
@@ -5436,7 +5452,7 @@
     "difficulty": "Medium",
     "problem_name": "1877-minimize-maximum-pair-sum-in-array",
     "languages": "Python",
-    "last_commit_date": "2024-09-14",
+    "last_commit_date": "2026-01-24",
     "slug": "leetcode/Medium/1877-minimize-maximum-pair-sum-in-array"
   },
   {
@@ -7466,6 +7482,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Hard",
+    "problem_name": "3510-minimum-pair-removal-to-sort-array-ii",
+    "languages": "Python",
+    "last_commit_date": "2026-01-24",
+    "slug": "leetcode/Hard/3510-minimum-pair-removal-to-sort-array-ii"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Hard",
     "problem_name": "3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii",
     "languages": "Python",
     "last_commit_date": "2025-05-29",
@@ -7916,7 +7940,7 @@
     "difficulty": "Gold",
     "problem_name": "21608. 상어 초등학교",
     "languages": "Python",
-    "last_commit_date": "2024-09-14",
+    "last_commit_date": "2026-01-19",
     "slug": "백준/Gold/21608. 상어 초등학교"
   },
   {
