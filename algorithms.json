@@ -1634,6 +1634,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Easy",
+    "problem_name": "1984-minimum-difference-between-highest-and-lowest-of-k-scores",
+    "languages": "Python",
+    "last_commit_date": "2026-01-25",
+    "slug": "leetcode/Easy/1984-minimum-difference-between-highest-and-lowest-of-k-scores"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Easy",
     "problem_name": "3349-adjacent-increasing-subarrays-detection-i",
     "languages": "Python",
     "last_commit_date": "2025-10-14",
