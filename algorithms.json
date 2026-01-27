@@ -786,6 +786,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Easy",
+    "problem_name": "1200-minimum-absolute-difference",
+    "languages": "Unknown",
+    "last_commit_date": "2026-01-26",
+    "slug": "leetcode/Easy/1200-minimum-absolute-difference"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Easy",
     "problem_name": "0242-valid-anagram",
     "languages": "C++,Python",
     "last_commit_date": "2023-12-17",
@@ -4374,6 +4382,14 @@
     "languages": "Python",
     "last_commit_date": "2024-10-09",
     "slug": "leetcode/Medium/0921-minimum-add-to-make-parentheses-valid"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
+    "problem_name": "3650-minimum-cost-path-with-edge-reversals",
+    "languages": "Python",
+    "last_commit_date": "2026-01-27",
+    "slug": "leetcode/Medium/3650-minimum-cost-path-with-edge-reversals"
   },
   {
     "platform": "leetcode",

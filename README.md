@@ -102,6 +102,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [1572-matrix-diagonal-sum](./leetcode/Easy/1572-matrix-diagonal-sum/) | JavaScript,Python | 2023-08-14 |
 | leetcode | Easy | [1304-find-n-unique-integers-sum-up-to-zero](./leetcode/Easy/1304-find-n-unique-integers-sum-up-to-zero/) | Python | 2025-09-07 |
 | leetcode | Easy | [2582-pass-the-pillow](./leetcode/Easy/2582-pass-the-pillow/) | Python | 2024-07-06 |
+| leetcode | Easy | [1200-minimum-absolute-difference](./leetcode/Easy/1200-minimum-absolute-difference/) | Unknown | 2026-01-26 |
 | leetcode | Easy | [0242-valid-anagram](./leetcode/Easy/0242-valid-anagram/) | C++,Python | 2023-12-17 |
 | leetcode | Easy | [1460-make-two-arrays-equal-by-reversing-subarrays](./leetcode/Easy/1460-make-two-arrays-equal-by-reversing-subarrays/) | Python | 2024-08-03 |
 | leetcode | Easy | [1512-number-of-good-pairs](./leetcode/Easy/1512-number-of-good-pairs/) | Python | 2023-10-03 |
@@ -551,6 +552,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [3202-find-the-maximum-length-of-valid-subsequence-ii](./leetcode/Medium/3202-find-the-maximum-length-of-valid-subsequence-ii/) | Python | 2025-07-17 |
 | leetcode | Medium | [2257-count-unguarded-cells-in-the-grid](./leetcode/Medium/2257-count-unguarded-cells-in-the-grid/) | Python | 2024-11-21 |
 | leetcode | Medium | [0921-minimum-add-to-make-parentheses-valid](./leetcode/Medium/0921-minimum-add-to-make-parentheses-valid/) | Python | 2024-10-09 |
+| leetcode | Medium | [3650-minimum-cost-path-with-edge-reversals](./leetcode/Medium/3650-minimum-cost-path-with-edge-reversals/) | Python | 2026-01-27 |
 | leetcode | Medium | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](./leetcode/Medium/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1/) | Python | 2025-11-12 |
 | leetcode | Medium | [0109-convert-sorted-list-to-binary-search-tree](./leetcode/Medium/0109-convert-sorted-list-to-binary-search-tree/) | Python | 2024-09-14 |
 | leetcode | Medium | [1593-split-a-string-into-the-max-number-of-unique-substrings](./leetcode/Medium/1593-split-a-string-into-the-max-number-of-unique-substrings/) | Python | 2024-10-21 |
