@@ -6722,6 +6722,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Hard",
+    "problem_name": "2977-minimum-cost-to-convert-string-ii",
+    "languages": "Python",
+    "last_commit_date": "2026-01-30",
+    "slug": "leetcode/Hard/2977-minimum-cost-to-convert-string-ii"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Hard",
     "problem_name": "1203-sort-items-by-groups-respecting-dependencies",
     "languages": "Python",
     "last_commit_date": "2023-08-20",

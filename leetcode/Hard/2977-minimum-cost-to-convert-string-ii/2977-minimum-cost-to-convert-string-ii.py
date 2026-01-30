@@ -1,7 +1,8 @@
 class TrieNode:
     def __init__(self):
         self.children = {}
-        self.to = {} 
+        self.to = {}
+
 
 class Solution:
     def build_trie(self, min_cost):
@@ -10,7 +11,7 @@ class Solution:
             node = root
             for ch in s:
                 node = node.children.setdefault(ch, TrieNode())
-            node.to[t] = min(node.to.get(t, float('inf')), c)
+            node.to[t] = min(node.to.get(t, float("inf")), c)
         return root
 
     def build_min_cost(self, original, changed, cost):
@@ -18,7 +19,7 @@ class Solution:
         for o, c, w in zip(original, changed, cost):
             by_len[len(o)].append((o, c, w))
 
-        min_cost = dict() 
+        min_cost = dict()
         for L, rules in by_len.items():
             graph = defaultdict(list)
             nodes = set()
@@ -43,14 +44,18 @@ class Solution:
                             heapq.heappush(pq, (nd, v))
 
                 for t, d in dist.items():
-                    min_cost[(s, t)] = min(
-                        min_cost.get((s, t), inf),
-                        d
-                    )
+                    min_cost[(s, t)] = min(min_cost.get((s, t), inf), d)
 
         return min_cost
 
-    def minimumCost(self, source: str, target: str, original: List[str], changed: List[str], cost: List[int]) -> int:
+    def minimumCost(
+        self,
+        source: str,
+        target: str,
+        original: List[str],
+        changed: List[str],
+        cost: List[int],
+    ) -> int:
         n = len(source)
         min_cost = self.build_min_cost(original, changed, cost)
         trie = self.build_trie(min_cost)
@@ -70,11 +75,8 @@ class Solution:
                     break
                 node = node.children[ch]
 
-                t_sub = target[i:j + 1]
+                t_sub = target[i : j + 1]
                 if t_sub in node.to:
-                    dp[j + 1] = min(
-                        dp[j + 1],
-                        dp[i] + node.to[t_sub]
-                    )
+                    dp[j + 1] = min(dp[j + 1], dp[i] + node.to[t_sub])
 
         return -1 if dp[n] == inf else dp[n]

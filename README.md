@@ -844,6 +844,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Hard | [0135-candy](./leetcode/Hard/0135-candy/) | Python | 2023-09-13 |
 | leetcode | Hard | [1312-minimum-insertion-steps-to-make-a-string-palindrome](./leetcode/Hard/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Python | 2024-09-14 |
 | leetcode | Hard | [3363-find-the-maximum-number-of-fruits-collected](./leetcode/Hard/3363-find-the-maximum-number-of-fruits-collected/) | Python | 2025-08-07 |
+| leetcode | Hard | [2977-minimum-cost-to-convert-string-ii](./leetcode/Hard/2977-minimum-cost-to-convert-string-ii/) | Python | 2026-01-30 |
 | leetcode | Hard | [1203-sort-items-by-groups-respecting-dependencies](./leetcode/Hard/1203-sort-items-by-groups-respecting-dependencies/) | Python | 2023-08-20 |
 | leetcode | Hard | [1900-the-earliest-and-latest-rounds-where-players-compete](./leetcode/Hard/1900-the-earliest-and-latest-rounds-where-players-compete/) | Python | 2025-07-12 |
 | leetcode | Hard | [0273-integer-to-english-words](./leetcode/Hard/0273-integer-to-english-words/) | Python | 2024-08-07 |
