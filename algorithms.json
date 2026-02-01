@@ -1362,6 +1362,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Easy",
+    "problem_name": "3010-divide-an-array-into-subarrays-with-minimum-cost-i",
+    "languages": "Python",
+    "last_commit_date": "2026-02-01",
+    "slug": "leetcode/Easy/3010-divide-an-array-into-subarrays-with-minimum-cost-i"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Easy",
     "problem_name": "2011-final-value-of-variable-after-performing-operations",
     "languages": "Python",
     "last_commit_date": "2025-10-20",

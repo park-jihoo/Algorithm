@@ -174,6 +174,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [0703-kth-largest-element-in-a-stream](./leetcode/Easy/0703-kth-largest-element-in-a-stream/) | Python | 2023-08-14 |
 | leetcode | Easy | [1935-maximum-number-of-words-you-can-type](./leetcode/Easy/1935-maximum-number-of-words-you-can-type/) | Python | 2025-09-15 |
 | leetcode | Easy | [1464-maximum-product-of-two-elements-in-an-array](./leetcode/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Python | 2023-12-12 |
+| leetcode | Easy | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](./leetcode/Easy/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Python | 2026-02-01 |
 | leetcode | Easy | [2011-final-value-of-variable-after-performing-operations](./leetcode/Easy/2011-final-value-of-variable-after-performing-operations/) | Python | 2025-10-20 |
 | leetcode | Easy | [0258-add-digits](./leetcode/Easy/0258-add-digits/) | Python | 2024-09-14 |
 | leetcode | Easy | [1925-count-square-sum-triples](./leetcode/Easy/1925-count-square-sum-triples/) | Python | 2025-12-08 |
