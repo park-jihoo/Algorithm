@@ -474,6 +474,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Easy",
+    "problem_name": "3637-trionic-array-i",
+    "languages": "Python",
+    "last_commit_date": "2026-02-03",
+    "slug": "leetcode/Easy/3637-trionic-array-i"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Easy",
     "problem_name": "2490-circular-sentence",
     "languages": "Python",
     "last_commit_date": "2024-11-02",

@@ -63,6 +63,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [1704-determine-if-string-halves-are-alike](./leetcode/Easy/1704-determine-if-string-halves-are-alike/) | Python | 2024-01-12 |
 | leetcode | Easy | [0796-rotate-string](./leetcode/Easy/0796-rotate-string/) | Python | 2024-11-03 |
 | leetcode | Easy | [0459-repeated-substring-pattern](./leetcode/Easy/0459-repeated-substring-pattern/) | C++,Python | 2023-08-21 |
+| leetcode | Easy | [3637-trionic-array-i](./leetcode/Easy/3637-trionic-array-i/) | Python | 2026-02-03 |
 | leetcode | Easy | [2490-circular-sentence](./leetcode/Easy/2490-circular-sentence/) | Python | 2024-11-02 |
 | leetcode | Easy | [0326-power-of-three](./leetcode/Easy/0326-power-of-three/) | Python | 2025-08-13 |
 | leetcode | Easy | [0997-find-the-town-judge](./leetcode/Easy/0997-find-the-town-judge/) | Python | 2024-02-22 |
