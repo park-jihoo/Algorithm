@@ -6986,6 +6986,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Hard",
+    "problem_name": "3640-trionic-array-ii",
+    "languages": "Python",
+    "last_commit_date": "2026-02-04",
+    "slug": "leetcode/Hard/3640-trionic-array-ii"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Hard",
     "problem_name": "0085-maximal-rectangle",
     "languages": "Python",
     "last_commit_date": "2026-01-11",
