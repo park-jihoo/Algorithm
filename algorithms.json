@@ -1802,6 +1802,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Easy",
+    "problem_name": "3379-transformed-array",
+    "languages": "Python",
+    "last_commit_date": "2026-02-05",
+    "slug": "leetcode/Easy/3379-transformed-array"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Easy",
     "problem_name": "0181-employees-earning-more-than-their-managers",
     "languages": "SQL",
     "last_commit_date": "2023-09-15",

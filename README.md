@@ -229,6 +229,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [3110-score-of-a-string](./leetcode/Easy/3110-score-of-a-string/) | Python | 2024-06-01 |
 | leetcode | Easy | [3274-check-if-two-chessboard-squares-have-the-same-color](./leetcode/Easy/3274-check-if-two-chessboard-squares-have-the-same-color/) | Python | 2024-09-03 |
 | leetcode | Easy | [1207-unique-number-of-occurrences](./leetcode/Easy/1207-unique-number-of-occurrences/) | Python | 2024-01-17 |
+| leetcode | Easy | [3379-transformed-array](./leetcode/Easy/3379-transformed-array/) | Python | 2026-02-05 |
 | leetcode | Easy | [0181-employees-earning-more-than-their-managers](./leetcode/Easy/0181-employees-earning-more-than-their-managers/) | SQL | 2023-09-15 |
 | leetcode | Easy | [1518-water-bottles](./leetcode/Easy/1518-water-bottles/) | Python | 2024-07-07 |
 | leetcode | Easy | [1422-maximum-score-after-splitting-a-string](./leetcode/Easy/1422-maximum-score-after-splitting-a-string/) | Python | 2025-01-01 |
