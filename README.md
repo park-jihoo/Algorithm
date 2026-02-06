@@ -628,6 +628,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [2554-maximum-number-of-integers-to-choose-from-a-range-i](./leetcode/Medium/2554-maximum-number-of-integers-to-choose-from-a-range-i/) | Python | 2024-12-06 |
 | leetcode | Medium | [1615-maximal-network-rank](./leetcode/Medium/1615-maximal-network-rank/) | Python | 2023-08-18 |
 | leetcode | Medium | [0948-bag-of-tokens](./leetcode/Medium/0948-bag-of-tokens/) | Python | 2024-03-04 |
+| leetcode | Medium | [3634-minimum-removals-to-balance-array](./leetcode/Medium/3634-minimum-removals-to-balance-array/) | Python | 2026-02-06 |
 | leetcode | Medium | [2924-find-champion-ii](./leetcode/Medium/2924-find-champion-ii/) | Python | 2024-11-26 |
 | leetcode | Medium | [0865-smallest-subtree-with-all-the-deepest-nodes](./leetcode/Medium/0865-smallest-subtree-with-all-the-deepest-nodes/) | Python | 2026-01-09 |
 | leetcode | Medium | [2683-neighboring-bitwise-xor](./leetcode/Medium/2683-neighboring-bitwise-xor/) | Python | 2025-01-17 |

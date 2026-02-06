@@ -4994,6 +4994,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "3634-minimum-removals-to-balance-array",
+    "languages": "Python",
+    "last_commit_date": "2026-02-06",
+    "slug": "leetcode/Medium/3634-minimum-removals-to-balance-array"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "2924-find-champion-ii",
     "languages": "Python",
     "last_commit_date": "2024-11-26",
