@@ -71,6 +71,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [0744-find-smallest-letter-greater-than-target](./leetcode/Easy/0744-find-smallest-letter-greater-than-target/) | Python | 2023-08-14 |
 | leetcode | Easy | [1598-crawler-log-folder](./leetcode/Easy/1598-crawler-log-folder/) | Python | 2024-07-10 |
 | leetcode | Easy | [1128-number-of-equivalent-domino-pairs](./leetcode/Easy/1128-number-of-equivalent-domino-pairs/) | Python | 2025-05-04 |
+| leetcode | Easy | [0110-balanced-binary-tree](./leetcode/Easy/0110-balanced-binary-tree/) | Python | 2026-02-08 |
 | leetcode | Easy | [0058-length-of-last-word](./leetcode/Easy/0058-length-of-last-word/) | Python | 2024-04-01 |
 | leetcode | Easy | [1002-find-common-characters](./leetcode/Easy/1002-find-common-characters/) | Python | 2024-06-05 |
 | leetcode | Easy | [2138-divide-a-string-into-groups-of-size-k](./leetcode/Easy/2138-divide-a-string-into-groups-of-size-k/) | Python | 2025-06-22 |

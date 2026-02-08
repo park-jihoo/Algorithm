@@ -11,10 +11,9 @@ class Solution:
         left, right = self.height(node.left), self.height(node.right)
         if left == -1 or right == -1:
             return -1
-        if abs(left-right) > 1:
+        if abs(left - right) > 1:
             return -1
         return max(left, right) + 1
 
     def isBalanced(self, root: Optional[TreeNode]) -> bool:
         return self.height(root) != -1
-        

@@ -538,6 +538,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Easy",
+    "problem_name": "0110-balanced-binary-tree",
+    "languages": "Python",
+    "last_commit_date": "2026-02-08",
+    "slug": "leetcode/Easy/0110-balanced-binary-tree"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Easy",
     "problem_name": "0058-length-of-last-word",
     "languages": "Python",
     "last_commit_date": "2024-04-01",
