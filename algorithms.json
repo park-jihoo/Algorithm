@@ -2642,6 +2642,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "3713-longest-balanced-substring-i",
+    "languages": "Python",
+    "last_commit_date": "2026-02-12",
+    "slug": "leetcode/Medium/3713-longest-balanced-substring-i"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "0142-linked-list-cycle-ii",
     "languages": "Python",
     "last_commit_date": "2024-09-14",
@@ -4710,6 +4718,14 @@
     "languages": "C++",
     "last_commit_date": "2024-09-14",
     "slug": "leetcode/Medium/2095-delete-the-middle-node-of-a-linked-list"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
+    "problem_name": "3719-longest-balanced-subarray-i",
+    "languages": "Unknown",
+    "last_commit_date": "2026-02-10",
+    "slug": "leetcode/Medium/3719-longest-balanced-subarray-i"
   },
   {
     "platform": "leetcode",

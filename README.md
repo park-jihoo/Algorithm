@@ -334,6 +334,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [0786-k-th-smallest-prime-fraction](./leetcode/Medium/0786-k-th-smallest-prime-fraction/) | Python | 2024-09-14 |
 | leetcode | Medium | [0898-bitwise-ors-of-subarrays](./leetcode/Medium/0898-bitwise-ors-of-subarrays/) | Python | 2025-07-31 |
 | leetcode | Medium | [1557-minimum-number-of-vertices-to-reach-all-nodes](./leetcode/Medium/1557-minimum-number-of-vertices-to-reach-all-nodes/) | Python | 2024-09-14 |
+| leetcode | Medium | [3713-longest-balanced-substring-i](./leetcode/Medium/3713-longest-balanced-substring-i/) | Python | 2026-02-12 |
 | leetcode | Medium | [0142-linked-list-cycle-ii](./leetcode/Medium/0142-linked-list-cycle-ii/) | Python | 2024-09-14 |
 | leetcode | Medium | [2901-longest-unequal-adjacent-groups-subsequence-ii](./leetcode/Medium/2901-longest-unequal-adjacent-groups-subsequence-ii/) | Python | 2025-05-16 |
 | leetcode | Medium | [2410-maximum-matching-of-players-with-trainers](./leetcode/Medium/2410-maximum-matching-of-players-with-trainers/) | Python | 2025-07-13 |
@@ -593,6 +594,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [3446-sort-matrix-by-diagonals](./leetcode/Medium/3446-sort-matrix-by-diagonals/) | Python | 2025-08-28 |
 | leetcode | Medium | [2359-find-closest-node-to-given-two-nodes](./leetcode/Medium/2359-find-closest-node-to-given-two-nodes/) | Python | 2025-05-30 |
 | leetcode | Medium | [2095-delete-the-middle-node-of-a-linked-list](./leetcode/Medium/2095-delete-the-middle-node-of-a-linked-list/) | C++ | 2024-09-14 |
+| leetcode | Medium | [3719-longest-balanced-subarray-i](./leetcode/Medium/3719-longest-balanced-subarray-i/) | Unknown | 2026-02-10 |
 | leetcode | Medium | [2191-sort-the-jumbled-numbers](./leetcode/Medium/2191-sort-the-jumbled-numbers/) | Python | 2024-07-24 |
 | leetcode | Medium | [2385-amount-of-time-for-binary-tree-to-be-infected](./leetcode/Medium/2385-amount-of-time-for-binary-tree-to-be-infected/) | Python | 2024-01-10 |
 | leetcode | Medium | [2483-minimum-penalty-for-a-shop](./leetcode/Medium/2483-minimum-penalty-for-a-shop/) | Python | 2023-08-29 |
