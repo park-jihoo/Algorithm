@@ -1,6 +1,6 @@
 class Solution:
     def champagneTower(self, poured: int, query_row: int, query_glass: int) -> float:
-        tower = [[0] * (i + 1) for i in range(query_row + 1)]
+        tower = [[0]*(i+1) for i in range(query_row + 1)]
         tower[0][0] = poured
 
         for row in range(query_row):
