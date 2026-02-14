@@ -165,7 +165,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [0823-binary-trees-with-factors](./leetcode/Medium/0823-binary-trees-with-factors/) | Python | 2023-10-26 |
 | leetcode | Medium | [3201-find-the-maximum-length-of-valid-subsequence-i](./leetcode/Medium/3201-find-the-maximum-length-of-valid-subsequence-i/) | Python | 2025-07-16 |
 | leetcode | Medium | [1248-count-number-of-nice-subarrays](./leetcode/Medium/1248-count-number-of-nice-subarrays/) | Python | 2024-06-22 |
-| leetcode | Medium | [0799-champagne-tower](./leetcode/Medium/0799-champagne-tower/) | Python | 2024-09-14 |
+| leetcode | Medium | [0799-champagne-tower](./leetcode/Medium/0799-champagne-tower/) | Python | 2026-02-14 |
 | leetcode | Medium | [0200-number-of-islands](./leetcode/Medium/0200-number-of-islands/) | Python | 2024-04-19 |
 | leetcode | Medium | [3186-maximum-total-damage-with-spell-casting](./leetcode/Medium/3186-maximum-total-damage-with-spell-casting/) | Python | 2025-10-11 |
 | leetcode | Medium | [0684-redundant-connection](./leetcode/Medium/0684-redundant-connection/) | Python | 2025-01-29 |
