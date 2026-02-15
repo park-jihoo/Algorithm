@@ -5842,6 +5842,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Easy",
+    "problem_name": "0067-add-binary",
+    "languages": "Python",
+    "last_commit_date": "2026-02-15",
+    "slug": "leetcode/Easy/0067-add-binary"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Easy",
     "problem_name": "0455-assign-cookies",
     "languages": "Python",
     "last_commit_date": "2024-01-01",

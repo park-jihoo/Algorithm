@@ -12,7 +12,7 @@ class Solution:
             if up & ba & bb:
                 up = 1
                 ans.append("1")
-            elif ba&bb or up&ba or up&bb:
+            elif ba & bb or up & ba or up & bb:
                 up = 1
                 ans.append("0")
             elif ba or bb or up:
