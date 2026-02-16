@@ -1,5 +1,12 @@
 class Solution:
     def reverseBits(self, n: int) -> int:
+        ans = 0
+        for _ in range(32):
+            ans = (ans << 1) | (n & 1)
+            n >>= 1
+        return ans
+
+    def reverseBits2(self, n: int) -> int:
         bits = []
         for i in range(32):
             bits.append(n&1)
