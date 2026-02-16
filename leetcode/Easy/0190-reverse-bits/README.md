@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/reverse-bits">190. Reverse Bits</a></h2><h3>Easy</h3><hr><p>Reverse bits of a given 32 bits signed integer.</p>
+<h2><a href="https://leetcode.com/problems/reverse-bits/?envType=daily-question&envId=2026-02-16">190. Reverse Bits</a></h2><h3>Easy</h3><hr><p>Reverse bits of a given 32 bits signed integer.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
