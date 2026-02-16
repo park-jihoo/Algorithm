@@ -735,6 +735,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [1945-sum-of-digits-of-string-after-convert](./leetcode/Easy/1945-sum-of-digits-of-string-after-convert/) | Python | 2024-09-03 |
 | leetcode | Easy | [3314-construct-the-minimum-bitwise-array-i](./leetcode/Easy/3314-construct-the-minimum-bitwise-array-i/) | Unknown | 2026-01-20 |
 | leetcode | Easy | [0067-add-binary](./leetcode/Easy/0067-add-binary/) | Python | 2026-02-15 |
+| leetcode | Easy | [0190-reverse-bits](./leetcode/Easy/0190-reverse-bits/) | Python | 2026-02-16 |
 | leetcode | Easy | [0455-assign-cookies](./leetcode/Easy/0455-assign-cookies/) | Python | 2024-01-01 |
 | leetcode | Easy | [0338-counting-bits](./leetcode/Easy/0338-counting-bits/) | Python | 2023-09-01 |
 | leetcode | Easy | [3541-find-most-frequent-vowel-and-consonant](./leetcode/Easy/3541-find-most-frequent-vowel-and-consonant/) | Python | 2025-09-13 |

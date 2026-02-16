@@ -5850,6 +5850,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Easy",
+    "problem_name": "0190-reverse-bits",
+    "languages": "Python",
+    "last_commit_date": "2026-02-16",
+    "slug": "leetcode/Easy/0190-reverse-bits"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Easy",
     "problem_name": "0455-assign-cookies",
     "languages": "Python",
     "last_commit_date": "2024-01-01",
