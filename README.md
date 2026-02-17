@@ -836,6 +836,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [2942-find-words-containing-character](./leetcode/Easy/2942-find-words-containing-character/) | Python | 2025-05-24 |
 | leetcode | Easy | [0530-minimum-absolute-difference-in-bst](./leetcode/Easy/0530-minimum-absolute-difference-in-bst/) | Python | 2023-08-14 |
 | leetcode | Easy | [2200-find-all-k-distant-indices-in-an-array](./leetcode/Easy/2200-find-all-k-distant-indices-in-an-array/) | Python | 2025-06-24 |
+| leetcode | Easy | [0401-binary-watch](./leetcode/Easy/0401-binary-watch/) | Python | 2026-02-17 |
 | leetcode | Easy | [2373-largest-local-values-in-a-matrix](./leetcode/Easy/2373-largest-local-values-in-a-matrix/) | Python | 2024-05-12 |
 | leetcode | Easy | [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](./leetcode/Easy/3396-minimum-number-of-operations-to-make-elements-in-array-distinct/) | Python | 2025-04-08 |
 | leetcode | Easy | [0342-power-of-four](./leetcode/Easy/0342-power-of-four/) | Python | 2025-08-15 |
