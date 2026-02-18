@@ -825,6 +825,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [3442-maximum-difference-between-even-and-odd-frequency-i](./leetcode/Easy/3442-maximum-difference-between-even-and-odd-frequency-i/) | Python | 2025-06-10 |
 | leetcode | Easy | [1603-design-parking-system](./leetcode/Easy/1603-design-parking-system/) | C++,Python | 2023-08-14 |
 | leetcode | Easy | [1475-final-prices-with-a-special-discount-in-a-shop](./leetcode/Easy/1475-final-prices-with-a-special-discount-in-a-shop/) | Python | 2024-12-18 |
+| leetcode | Easy | [0693-binary-number-with-alternating-bits](./leetcode/Easy/0693-binary-number-with-alternating-bits/) | Python | 2026-02-18 |
 | leetcode | Easy | [3042-count-prefix-and-suffix-pairs-i](./leetcode/Easy/3042-count-prefix-and-suffix-pairs-i/) | Python | 2025-01-08 |
 | leetcode | Easy | [1732-find-the-highest-altitude](./leetcode/Easy/1732-find-the-highest-altitude/) | Python | 2023-08-14 |
 | leetcode | Easy | [2138-divide-a-string-into-groups-of-size-k](./leetcode/Easy/2138-divide-a-string-into-groups-of-size-k/) | Python | 2025-06-22 |
