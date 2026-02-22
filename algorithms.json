@@ -850,6 +850,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Easy",
+    "problem_name": "0868-binary-gap",
+    "languages": "Python",
+    "last_commit_date": "2026-02-22",
+    "slug": "leetcode/Easy/0868-binary-gap"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Easy",
     "problem_name": "3105-longest-strictly-increasing-or-strictly-decreasing-subarray",
     "languages": "Python",
     "last_commit_date": "2025-02-03",

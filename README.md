@@ -110,6 +110,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [1460-make-two-arrays-equal-by-reversing-subarrays](./leetcode/Easy/1460-make-two-arrays-equal-by-reversing-subarrays/) | Python | 2024-08-03 |
 | leetcode | Easy | [1512-number-of-good-pairs](./leetcode/Easy/1512-number-of-good-pairs/) | Python | 2023-10-03 |
 | leetcode | Easy | [1758-minimum-changes-to-make-alternating-binary-string](./leetcode/Easy/1758-minimum-changes-to-make-alternating-binary-string/) | Python | 2023-12-24 |
+| leetcode | Easy | [0868-binary-gap](./leetcode/Easy/0868-binary-gap/) | Python | 2026-02-22 |
 | leetcode | Easy | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](./leetcode/Easy/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Python | 2025-02-03 |
 | leetcode | Easy | [1608-special-array-with-x-elements-greater-than-or-equal-x](./leetcode/Easy/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Python | 2024-05-27 |
 | leetcode | Easy | [3541-find-most-frequent-vowel-and-consonant](./leetcode/Easy/3541-find-most-frequent-vowel-and-consonant/) | Python | 2025-09-13 |
