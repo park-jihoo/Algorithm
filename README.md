@@ -624,6 +624,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [1347-minimum-number-of-steps-to-make-two-strings-anagram](./leetcode/Medium/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Python | 2024-01-13 |
 | leetcode | Medium | [1980-find-unique-binary-string](./leetcode/Medium/1980-find-unique-binary-string/) | Python | 2023-12-21 |
 | leetcode | Medium | [2929-distribute-candies-among-children-ii](./leetcode/Medium/2929-distribute-candies-among-children-ii/) | Python | 2025-06-02 |
+| leetcode | Medium | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](./leetcode/Medium/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Python | 2026-02-23 |
 | leetcode | Medium | [2466-count-ways-to-build-good-strings](./leetcode/Medium/2466-count-ways-to-build-good-strings/) | Python | 2024-12-30 |
 | leetcode | Medium | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](./leetcode/Medium/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Python | 2024-06-23 |
 | leetcode | Medium | [0729-my-calendar-i](./leetcode/Medium/0729-my-calendar-i/) | Python | 2024-09-26 |

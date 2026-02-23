@@ -4962,6 +4962,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "1461-check-if-a-string-contains-all-binary-codes-of-size-k",
+    "languages": "Python",
+    "last_commit_date": "2026-02-23",
+    "slug": "leetcode/Medium/1461-check-if-a-string-contains-all-binary-codes-of-size-k"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "2466-count-ways-to-build-good-strings",
     "languages": "Python",
     "last_commit_date": "2024-12-30",
