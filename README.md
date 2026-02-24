@@ -178,6 +178,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [3304-find-the-k-th-character-in-string-game-i](./leetcode/Easy/3304-find-the-k-th-character-in-string-game-i/) | Python | 2025-07-03 |
 | leetcode | Easy | [1108-defanging-an-ip-address](./leetcode/Easy/1108-defanging-an-ip-address/) | Python | 2024-09-14 |
 | leetcode | Easy | [0703-kth-largest-element-in-a-stream](./leetcode/Easy/0703-kth-largest-element-in-a-stream/) | Python | 2023-08-14 |
+| leetcode | Easy | [1022-sum-of-root-to-leaf-binary-numbers](./leetcode/Easy/1022-sum-of-root-to-leaf-binary-numbers/) | Python | 2026-02-24 |
 | leetcode | Easy | [1935-maximum-number-of-words-you-can-type](./leetcode/Easy/1935-maximum-number-of-words-you-can-type/) | Python | 2025-09-15 |
 | leetcode | Easy | [1464-maximum-product-of-two-elements-in-an-array](./leetcode/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Python | 2023-12-12 |
 | leetcode | Easy | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](./leetcode/Easy/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Python | 2026-02-01 |

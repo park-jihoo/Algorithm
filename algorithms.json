@@ -1394,6 +1394,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Easy",
+    "problem_name": "1022-sum-of-root-to-leaf-binary-numbers",
+    "languages": "Python",
+    "last_commit_date": "2026-02-24",
+    "slug": "leetcode/Easy/1022-sum-of-root-to-leaf-binary-numbers"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Easy",
     "problem_name": "1935-maximum-number-of-words-you-can-type",
     "languages": "Python",
     "last_commit_date": "2025-09-15",
