@@ -494,6 +494,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [3719-longest-balanced-subarray-i](./leetcode/Medium/3719-longest-balanced-subarray-i/) | Unknown | 2026-02-10 |
 | leetcode | Medium | [2181-merge-nodes-in-between-zeros](./leetcode/Medium/2181-merge-nodes-in-between-zeros/) | Python | 2024-07-04 |
 | leetcode | Medium | [2285-maximum-total-importance-of-roads](./leetcode/Medium/2285-maximum-total-importance-of-roads/) | Python | 2024-06-28 |
+| leetcode | Medium | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](./leetcode/Medium/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Python | 2026-03-01 |
 | leetcode | Medium | [0786-k-th-smallest-prime-fraction](./leetcode/Medium/0786-k-th-smallest-prime-fraction/) | Python | 2024-09-14 |
 | leetcode | Medium | [2825-make-string-a-subsequence-using-cyclic-increments](./leetcode/Medium/2825-make-string-a-subsequence-using-cyclic-increments/) | Python | 2024-12-04 |
 | leetcode | Medium | [2799-count-complete-subarrays-in-an-array](./leetcode/Medium/2799-count-complete-subarrays-in-an-array/) | Python | 2025-04-24 |
