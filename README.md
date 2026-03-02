@@ -168,6 +168,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [1248-count-number-of-nice-subarrays](./leetcode/Medium/1248-count-number-of-nice-subarrays/) | Python | 2024-06-22 |
 | leetcode | Medium | [0799-champagne-tower](./leetcode/Medium/0799-champagne-tower/) | Python | 2026-02-14 |
 | leetcode | Medium | [0200-number-of-islands](./leetcode/Medium/0200-number-of-islands/) | Python | 2024-04-19 |
+| leetcode | Medium | [1536-minimum-swaps-to-arrange-a-binary-grid](./leetcode/Medium/1536-minimum-swaps-to-arrange-a-binary-grid/) | Python | 2026-03-02 |
 | leetcode | Medium | [3186-maximum-total-damage-with-spell-casting](./leetcode/Medium/3186-maximum-total-damage-with-spell-casting/) | Python | 2025-10-11 |
 | leetcode | Medium | [0684-redundant-connection](./leetcode/Medium/0684-redundant-connection/) | Python | 2025-01-29 |
 | leetcode | Medium | [0930-binary-subarrays-with-sum](./leetcode/Medium/0930-binary-subarrays-with-sum/) | Python | 2024-09-14 |
