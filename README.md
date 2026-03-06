@@ -759,6 +759,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [1768-merge-strings-alternately](./leetcode/Easy/1768-merge-strings-alternately/) | Python | 2024-09-14 |
 | leetcode | Easy | [3516-find-closest-person](./leetcode/Easy/3516-find-closest-person/) | Python | 2025-09-04 |
 | leetcode | Easy | [1408-string-matching-in-an-array](./leetcode/Easy/1408-string-matching-in-an-array/) | Python | 2025-01-07 |
+| leetcode | Easy | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](./leetcode/Easy/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Python | 2026-03-06 |
 | leetcode | Easy | [0868-binary-gap](./leetcode/Easy/0868-binary-gap/) | Python | 2026-02-22 |
 | leetcode | Easy | [0938-range-sum-of-bst](./leetcode/Easy/0938-range-sum-of-bst/) | Python | 2024-01-08 |
 | leetcode | Easy | [0026-remove-duplicates-from-sorted-array](./leetcode/Easy/0026-remove-duplicates-from-sorted-array/) | Python | 2023-09-23 |
