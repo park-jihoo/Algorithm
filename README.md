@@ -101,6 +101,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [2779-maximum-beauty-of-an-array-after-applying-operation](./leetcode/Medium/2779-maximum-beauty-of-an-array-after-applying-operation/) | Python | 2024-12-11 |
 | leetcode | Medium | [0808-soup-servings](./leetcode/Medium/0808-soup-servings/) | Python | 2023-08-14 |
 | leetcode | Medium | [0399-evaluate-division](./leetcode/Medium/0399-evaluate-division/) | Python | 2023-08-14 |
+| leetcode | Medium | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](./leetcode/Medium/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Python | 2026-03-07 |
 | leetcode | Medium | [1726-tuple-with-same-product](./leetcode/Medium/1726-tuple-with-same-product/) | Python | 2025-02-06 |
 | leetcode | Medium | [2975-maximum-square-area-by-removing-fences-from-a-field](./leetcode/Medium/2975-maximum-square-area-by-removing-fences-from-a-field/) | Unknown | 2026-01-16 |
 | leetcode | Medium | [0040-combination-sum-ii](./leetcode/Medium/0040-combination-sum-ii/) | Python | 2024-08-13 |
