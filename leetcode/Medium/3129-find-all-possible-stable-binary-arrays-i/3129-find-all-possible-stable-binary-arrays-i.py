@@ -10,18 +10,14 @@ class Solution:
             for j in range(1, one + 1):
                 if i > limit:
                     dp[i][j][0] = (
-                        dp[i - 1][j][0]
-                        + dp[i - 1][j][1]
-                        - dp[i - limit - 1][j][1]
+                        dp[i - 1][j][0] + dp[i - 1][j][1] - dp[i - limit - 1][j][1]
                     )
                 else:
                     dp[i][j][0] = dp[i - 1][j][0] + dp[i - 1][j][1]
                 dp[i][j][0] = (dp[i][j][0] % mod + mod) % mod
                 if j > limit:
                     dp[i][j][1] = (
-                        dp[i][j - 1][1]
-                        + dp[i][j - 1][0]
-                        - dp[i][j - limit - 1][0]
+                        dp[i][j - 1][1] + dp[i][j - 1][0] - dp[i][j - limit - 1][0]
                     )
                 else:
                     dp[i][j][1] = dp[i][j - 1][1] + dp[i][j - 1][0]

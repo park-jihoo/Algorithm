@@ -1906,6 +1906,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "3129-find-all-possible-stable-binary-arrays-i",
+    "languages": "Python",
+    "last_commit_date": "2026-03-09",
+    "slug": "leetcode/Medium/3129-find-all-possible-stable-binary-arrays-i"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "0238-product-of-array-except-self",
     "languages": "Python",
     "last_commit_date": "2024-03-15",
@@ -1996,7 +2004,7 @@
     "difficulty": "Medium",
     "problem_name": "1980-find-unique-binary-string",
     "languages": "Python",
-    "last_commit_date": "2023-12-21",
+    "last_commit_date": "2026-03-08",
     "slug": "leetcode/Medium/1980-find-unique-binary-string"
   },
   {

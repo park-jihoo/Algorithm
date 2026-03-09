@@ -242,6 +242,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [3342-find-minimum-time-to-reach-last-room-ii](./leetcode/Medium/3342-find-minimum-time-to-reach-last-room-ii/) | Python | 2025-05-08 |
 | leetcode | Medium | [1625-lexicographically-smallest-string-after-applying-operations](./leetcode/Medium/1625-lexicographically-smallest-string-after-applying-operations/) | Python | 2025-10-19 |
 | leetcode | Medium | [0028-find-the-index-of-the-first-occurrence-in-a-string](./leetcode/Medium/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Python | 2024-09-14 |
+| leetcode | Medium | [3129-find-all-possible-stable-binary-arrays-i](./leetcode/Medium/3129-find-all-possible-stable-binary-arrays-i/) | Python | 2026-03-09 |
 | leetcode | Medium | [0238-product-of-array-except-self](./leetcode/Medium/0238-product-of-array-except-self/) | Python | 2024-03-15 |
 | leetcode | Medium | [3362-zero-array-transformation-iii](./leetcode/Medium/3362-zero-array-transformation-iii/) | Python | 2025-05-22 |
 | leetcode | Medium | [1105-filling-bookcase-shelves](./leetcode/Medium/1105-filling-bookcase-shelves/) | Python | 2024-07-31 |
@@ -253,7 +254,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [1038-binary-search-tree-to-greater-sum-tree](./leetcode/Medium/1038-binary-search-tree-to-greater-sum-tree/) | Python | 2024-06-25 |
 | leetcode | Medium | [0907-sum-of-subarray-minimums](./leetcode/Medium/0907-sum-of-subarray-minimums/) | Python | 2024-01-20 |
 | leetcode | Medium | [0215-kth-largest-element-in-an-array](./leetcode/Medium/0215-kth-largest-element-in-an-array/) | Python | 2023-08-14 |
-| leetcode | Medium | [1980-find-unique-binary-string](./leetcode/Medium/1980-find-unique-binary-string/) | Python | 2023-12-21 |
+| leetcode | Medium | [1980-find-unique-binary-string](./leetcode/Medium/1980-find-unique-binary-string/) | Python | 2026-03-08 |
 | leetcode | Medium | [1504-count-submatrices-with-all-ones](./leetcode/Medium/1504-count-submatrices-with-all-ones/) | Python | 2025-08-21 |
 | leetcode | Medium | [3583-count-special-triplets](./leetcode/Medium/3583-count-special-triplets/) | Unknown | 2025-12-10 |
 | leetcode | Medium | [0343-integer-break](./leetcode/Medium/0343-integer-break/) | C,C++,Java,JavaScript,Python | 2023-10-06 |
