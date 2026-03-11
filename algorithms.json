@@ -2004,7 +2004,7 @@
     "difficulty": "Medium",
     "problem_name": "1980-find-unique-binary-string",
     "languages": "Python",
-    "last_commit_date": "2026-03-08",
+    "last_commit_date": "2026-03-09",
     "slug": "leetcode/Medium/1980-find-unique-binary-string"
   },
   {
@@ -5350,6 +5350,14 @@
     "languages": "Python",
     "last_commit_date": "2025-09-27",
     "slug": "leetcode/Easy/0812-largest-triangle-area"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Easy",
+    "problem_name": "1009-complement-of-base-10-integer",
+    "languages": "Python",
+    "last_commit_date": "2026-03-11",
+    "slug": "leetcode/Easy/1009-complement-of-base-10-integer"
   },
   {
     "platform": "leetcode",

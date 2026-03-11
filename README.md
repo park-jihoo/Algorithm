@@ -254,7 +254,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [1038-binary-search-tree-to-greater-sum-tree](./leetcode/Medium/1038-binary-search-tree-to-greater-sum-tree/) | Python | 2024-06-25 |
 | leetcode | Medium | [0907-sum-of-subarray-minimums](./leetcode/Medium/0907-sum-of-subarray-minimums/) | Python | 2024-01-20 |
 | leetcode | Medium | [0215-kth-largest-element-in-an-array](./leetcode/Medium/0215-kth-largest-element-in-an-array/) | Python | 2023-08-14 |
-| leetcode | Medium | [1980-find-unique-binary-string](./leetcode/Medium/1980-find-unique-binary-string/) | Python | 2026-03-08 |
+| leetcode | Medium | [1980-find-unique-binary-string](./leetcode/Medium/1980-find-unique-binary-string/) | Python | 2026-03-09 |
 | leetcode | Medium | [1504-count-submatrices-with-all-ones](./leetcode/Medium/1504-count-submatrices-with-all-ones/) | Python | 2025-08-21 |
 | leetcode | Medium | [3583-count-special-triplets](./leetcode/Medium/3583-count-special-triplets/) | Unknown | 2025-12-10 |
 | leetcode | Medium | [0343-integer-break](./leetcode/Medium/0343-integer-break/) | C,C++,Java,JavaScript,Python | 2023-10-06 |
@@ -673,6 +673,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [0557-reverse-words-in-a-string-iii](./leetcode/Easy/0557-reverse-words-in-a-string-iii/) | Python | 2023-10-01 |
 | leetcode | Easy | [1544-make-the-string-great](./leetcode/Easy/1544-make-the-string-great/) | Python | 2024-04-05 |
 | leetcode | Easy | [0812-largest-triangle-area](./leetcode/Easy/0812-largest-triangle-area/) | Python | 2025-09-27 |
+| leetcode | Easy | [1009-complement-of-base-10-integer](./leetcode/Easy/1009-complement-of-base-10-integer/) | Python | 2026-03-11 |
 | leetcode | Easy | [2022-convert-1d-array-into-2d-array](./leetcode/Easy/2022-convert-1d-array-into-2d-array/) | Python | 2024-09-01 |
 | leetcode | Easy | [0594-longest-harmonious-subsequence](./leetcode/Easy/0594-longest-harmonious-subsequence/) | Python | 2025-06-30 |
 | leetcode | Easy | [0389-find-the-difference](./leetcode/Easy/0389-find-the-difference/) | Python | 2023-09-25 |
