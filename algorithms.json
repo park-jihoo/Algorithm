@@ -6970,6 +6970,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Hard",
+    "problem_name": "3600-maximize-spanning-tree-stability-with-upgrades",
+    "languages": "Python",
+    "last_commit_date": "2026-03-12",
+    "slug": "leetcode/Hard/3600-maximize-spanning-tree-stability-with-upgrades"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Hard",
     "problem_name": "1444-number-of-ways-of-cutting-a-pizza",
     "languages": "Python",
     "last_commit_date": "2024-09-14",

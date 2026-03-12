@@ -12,7 +12,8 @@ class Solution:
             a = find(a)
             b = find(b)
 
-            if a == b: return False
+            if a == b:
+                return False
 
             if rank[a] < rank[b]:
                 root[a] = b
@@ -21,7 +22,7 @@ class Solution:
             else:
                 root[b] = a
                 rank[a] += 1
-            
+
             return True
 
         required = []
@@ -38,15 +39,15 @@ class Solution:
                 return -1
             strength = min(strength, s)
             n -= 1
-            
+
         optional.sort(key=lambda e: -e[2])
-        
+
         for u, v, s, _ in optional:
             if union(u, v):
                 n -= 1
-                if n <= k: 
+                if n <= k:
                     strength = min(strength, 2 * s)
                 else:
                     strength = min(strength, s)
-        
-        return strength if n == 1 else - 1
+
+        return strength if n == 1 else -1

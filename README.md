@@ -875,6 +875,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [1431-kids-with-the-greatest-number-of-candies](./leetcode/Easy/1431-kids-with-the-greatest-number-of-candies/) | Python | 2024-09-14 |
 | leetcode | Easy | [2843-count-symmetric-integers](./leetcode/Easy/2843-count-symmetric-integers/) | Python | 2025-04-11 |
 | leetcode | Hard | [3347-maximum-frequency-of-an-element-after-performing-operations-ii](./leetcode/Hard/3347-maximum-frequency-of-an-element-after-performing-operations-ii/) | Python | 2025-10-22 |
+| leetcode | Hard | [3600-maximize-spanning-tree-stability-with-upgrades](./leetcode/Hard/3600-maximize-spanning-tree-stability-with-upgrades/) | Python | 2026-03-12 |
 | leetcode | Hard | [1444-number-of-ways-of-cutting-a-pizza](./leetcode/Hard/1444-number-of-ways-of-cutting-a-pizza/) | Python | 2024-09-14 |
 | leetcode | Hard | [1531-string-compression-ii](./leetcode/Hard/1531-string-compression-ii/) | Python | 2023-12-28 |
 | leetcode | Hard | [2251-number-of-flowers-in-full-bloom](./leetcode/Hard/2251-number-of-flowers-in-full-bloom/) | Python | 2023-12-21 |
