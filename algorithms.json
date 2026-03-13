@@ -3498,6 +3498,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "3296-minimum-number-of-seconds-to-make-mountain-height-zero",
+    "languages": "Python",
+    "last_commit_date": "2026-03-13",
+    "slug": "leetcode/Medium/3296-minimum-number-of-seconds-to-make-mountain-height-zero"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "1048-longest-string-chain",
     "languages": "Python",
     "last_commit_date": "2023-09-23",

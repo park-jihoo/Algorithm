@@ -441,6 +441,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [1829-maximum-xor-for-each-query](./leetcode/Medium/1829-maximum-xor-for-each-query/) | Python | 2024-11-08 |
 | leetcode | Medium | [2391-minimum-amount-of-time-to-collect-garbage](./leetcode/Medium/2391-minimum-amount-of-time-to-collect-garbage/) | Python | 2023-12-21 |
 | leetcode | Medium | [0840-magic-squares-in-grid](./leetcode/Medium/0840-magic-squares-in-grid/) | Python | 2024-08-09 |
+| leetcode | Medium | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](./leetcode/Medium/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Python | 2026-03-13 |
 | leetcode | Medium | [1048-longest-string-chain](./leetcode/Medium/1048-longest-string-chain/) | Python | 2023-09-23 |
 | leetcode | Medium | [0787-cheapest-flights-within-k-stops](./leetcode/Medium/0787-cheapest-flights-within-k-stops/) | Python | 2024-09-14 |
 | leetcode | Medium | [2849-determine-if-a-cell-is-reachable-at-a-given-time](./leetcode/Medium/2849-determine-if-a-cell-is-reachable-at-a-given-time/) | Python | 2023-11-10 |

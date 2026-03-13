@@ -7,11 +7,12 @@
 <ul>
 	<li>To decrease the mountain&#39;s height by <code>x</code>, it takes <code>workerTimes[i] + workerTimes[i] * 2 + ... + workerTimes[i] * x</code> seconds. For example:
 
-	<ul>
-		<li>To reduce the height of the mountain by 1, it takes <code>workerTimes[i]</code> seconds.</li>
-		<li>To reduce the height of the mountain by 2, it takes <code>workerTimes[i] + workerTimes[i] * 2</code> seconds, and so on.</li>
-	</ul>
-	</li>
+    <ul>
+    	<li>To reduce the height of the mountain by 1, it takes <code>workerTimes[i]</code> seconds.</li>
+    	<li>To reduce the height of the mountain by 2, it takes <code>workerTimes[i] + workerTimes[i] * 2</code> seconds, and so on.</li>
+    </ul>
+    </li>
+
 </ul>
 
 <p>Return an integer representing the <strong>minimum</strong> number of seconds required for the workers to make the height of the mountain 0.</p>
