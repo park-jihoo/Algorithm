@@ -7466,6 +7466,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Hard",
+    "problem_name": "1622-fancy-sequence",
+    "languages": "Python",
+    "last_commit_date": "2026-03-15",
+    "slug": "leetcode/Hard/1622-fancy-sequence"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Hard",
     "problem_name": "0432-all-oone-data-structure",
     "languages": "Python",
     "last_commit_date": "2024-09-29",

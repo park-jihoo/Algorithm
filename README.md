@@ -937,6 +937,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Hard | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](./leetcode/Hard/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons/) | Python | 2023-10-07 |
 | leetcode | Hard | [1547-minimum-cost-to-cut-a-stick](./leetcode/Hard/1547-minimum-cost-to-cut-a-stick/) | Python | 2023-08-14 |
 | leetcode | Hard | [2014-longest-subsequence-repeated-k-times](./leetcode/Hard/2014-longest-subsequence-repeated-k-times/) | Python | 2025-06-27 |
+| leetcode | Hard | [1622-fancy-sequence](./leetcode/Hard/1622-fancy-sequence/) | Python | 2026-03-15 |
 | leetcode | Hard | [0432-all-oone-data-structure](./leetcode/Hard/0432-all-oone-data-structure/) | Python | 2024-09-29 |
 | leetcode | Hard | [1425-constrained-subsequence-sum](./leetcode/Hard/1425-constrained-subsequence-sum/) | Python | 2023-10-21 |
 | leetcode | Hard | [3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii](./leetcode/Hard/3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii/) | Python | 2025-05-29 |
