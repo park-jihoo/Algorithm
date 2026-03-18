@@ -4234,6 +4234,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "1878-get-biggest-three-rhombus-sums-in-a-grid",
+    "languages": "Unknown",
+    "last_commit_date": "2026-03-16",
+    "slug": "leetcode/Medium/1878-get-biggest-three-rhombus-sums-in-a-grid"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "3578-count-partitions-with-max-min-difference-at-most-k",
     "languages": "Python",
     "last_commit_date": "2025-12-06",
@@ -4494,6 +4502,14 @@
     "languages": "Python",
     "last_commit_date": "2025-02-21",
     "slug": "leetcode/Medium/1261-find-elements-in-a-contaminated-binary-tree"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
+    "problem_name": "3070-count-submatrices-with-top-left-element-and-sum-less-than-k",
+    "languages": "Python",
+    "last_commit_date": "2026-03-18",
+    "slug": "leetcode/Medium/3070-count-submatrices-with-top-left-element-and-sum-less-than-k"
   },
   {
     "platform": "leetcode",
