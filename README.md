@@ -320,6 +320,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [1975-maximum-matrix-sum](./leetcode/Medium/1975-maximum-matrix-sum/) | Python | 2024-11-24 |
 | leetcode | Medium | [3011-find-if-array-can-be-sorted](./leetcode/Medium/3011-find-if-array-can-be-sorted/) | Python | 2024-11-06 |
 | leetcode | Medium | [1318-minimum-flips-to-make-a-or-b-equal-to-c](./leetcode/Medium/1318-minimum-flips-to-make-a-or-b-equal-to-c/) | Python | 2024-09-14 |
+| leetcode | Medium | [3567-minimum-absolute-difference-in-sliding-submatrix](./leetcode/Medium/3567-minimum-absolute-difference-in-sliding-submatrix/) | Unknown | 2026-03-20 |
 | leetcode | Medium | [2461-maximum-sum-of-distinct-subarrays-with-length-k](./leetcode/Medium/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Python | 2024-11-19 |
 | leetcode | Medium | [0208-implement-trie-prefix-tree](./leetcode/Medium/0208-implement-trie-prefix-tree/) | Python | 2023-08-14 |
 | leetcode | Medium | [1637-widest-vertical-area-between-two-points-containing-no-points](./leetcode/Medium/1637-widest-vertical-area-between-two-points-containing-no-points/) | Python | 2023-12-21 |
@@ -658,6 +659,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [0704-binary-search](./leetcode/Easy/0704-binary-search/) | Python | 2024-09-14 |
 | leetcode | Easy | [0989-add-to-array-form-of-integer](./leetcode/Easy/0989-add-to-array-form-of-integer/) | Python | 2023-08-14 |
 | leetcode | Easy | [2460-apply-operations-to-an-array](./leetcode/Easy/2460-apply-operations-to-an-array/) | Python | 2025-03-01 |
+| leetcode | Easy | [3643-flip-square-submatrix-vertically](./leetcode/Easy/3643-flip-square-submatrix-vertically/) | Python | 2026-03-21 |
 | leetcode | Easy | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](./leetcode/Easy/3423-maximum-difference-between-adjacent-elements-in-a-circular-array/) | Python | 2025-06-12 |
 | leetcode | Easy | [0234-palindrome-linked-list](./leetcode/Easy/0234-palindrome-linked-list/) | Python | 2024-09-14 |
 | leetcode | Easy | [2965-find-missing-and-repeated-values](./leetcode/Easy/2965-find-missing-and-repeated-values/) | Python | 2025-03-06 |

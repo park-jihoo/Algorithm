@@ -50,23 +50,24 @@ A submatrix <code>(x1, y1, x2, y2)</code> is a matrix that is formed by choosing
 <ul>
 	<li>There are two possible <code>k &times; k</code> submatrix:
 
-	<ul>
-		<li>Starting at <code>(0, 0)</code>: <code>[[1, -2], [2, 3]]</code>.
+    <ul>
+    	<li>Starting at <code>(0, 0)</code>: <code>[[1, -2], [2, 3]]</code>.
 
-		<ul>
-			<li>Distinct values in the submatrix are <code>[1, -2, 2, 3]</code>.</li>
-			<li>The minimum absolute difference in the submatrix is <code>|1 - 2| = 1</code>.</li>
-		</ul>
-		</li>
-		<li>Starting at <code>(0, 1)</code>: <code>[[-2, 3], [3, 5]]</code>.
-		<ul>
-			<li>Distinct values in the submatrix are <code>[-2, 3, 5]</code>.</li>
-			<li>The minimum absolute difference in the submatrix is <code>|3 - 5| = 2</code>.</li>
-		</ul>
-		</li>
-	</ul>
-	</li>
-	<li>Thus, the answer is <code>[[1, 2]]</code>.</li>
+    	<ul>
+    		<li>Distinct values in the submatrix are <code>[1, -2, 2, 3]</code>.</li>
+    		<li>The minimum absolute difference in the submatrix is <code>|1 - 2| = 1</code>.</li>
+    	</ul>
+    	</li>
+    	<li>Starting at <code>(0, 1)</code>: <code>[[-2, 3], [3, 5]]</code>.
+    	<ul>
+    		<li>Distinct values in the submatrix are <code>[-2, 3, 5]</code>.</li>
+    		<li>The minimum absolute difference in the submatrix is <code>|3 - 5| = 2</code>.</li>
+    	</ul>
+    	</li>
+    </ul>
+    </li>
+    <li>Thus, the answer is <code>[[1, 2]]</code>.</li>
+
 </ul>
 </div>
 

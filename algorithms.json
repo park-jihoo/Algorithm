@@ -2530,6 +2530,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "3567-minimum-absolute-difference-in-sliding-submatrix",
+    "languages": "Unknown",
+    "last_commit_date": "2026-03-20",
+    "slug": "leetcode/Medium/3567-minimum-absolute-difference-in-sliding-submatrix"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "2461-maximum-sum-of-distinct-subarrays-with-length-k",
     "languages": "Python",
     "last_commit_date": "2024-11-19",
@@ -5230,6 +5238,14 @@
     "languages": "Python",
     "last_commit_date": "2025-03-01",
     "slug": "leetcode/Easy/2460-apply-operations-to-an-array"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Easy",
+    "problem_name": "3643-flip-square-submatrix-vertically",
+    "languages": "Python",
+    "last_commit_date": "2026-03-21",
+    "slug": "leetcode/Easy/3643-flip-square-submatrix-vertically"
   },
   {
     "platform": "leetcode",
