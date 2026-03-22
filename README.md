@@ -320,7 +320,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [1975-maximum-matrix-sum](./leetcode/Medium/1975-maximum-matrix-sum/) | Python | 2024-11-24 |
 | leetcode | Medium | [3011-find-if-array-can-be-sorted](./leetcode/Medium/3011-find-if-array-can-be-sorted/) | Python | 2024-11-06 |
 | leetcode | Medium | [1318-minimum-flips-to-make-a-or-b-equal-to-c](./leetcode/Medium/1318-minimum-flips-to-make-a-or-b-equal-to-c/) | Python | 2024-09-14 |
-| leetcode | Medium | [3567-minimum-absolute-difference-in-sliding-submatrix](./leetcode/Medium/3567-minimum-absolute-difference-in-sliding-submatrix/) | Unknown | 2026-03-20 |
+| leetcode | Medium | [3567-minimum-absolute-difference-in-sliding-submatrix](./leetcode/Medium/3567-minimum-absolute-difference-in-sliding-submatrix/) | Unknown | 2026-03-21 |
 | leetcode | Medium | [2461-maximum-sum-of-distinct-subarrays-with-length-k](./leetcode/Medium/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Python | 2024-11-19 |
 | leetcode | Medium | [0208-implement-trie-prefix-tree](./leetcode/Medium/0208-implement-trie-prefix-tree/) | Python | 2023-08-14 |
 | leetcode | Medium | [1637-widest-vertical-area-between-two-points-containing-no-points](./leetcode/Medium/1637-widest-vertical-area-between-two-points-containing-no-points/) | Python | 2023-12-21 |
@@ -870,6 +870,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [3349-adjacent-increasing-subarrays-detection-i](./leetcode/Easy/3349-adjacent-increasing-subarrays-detection-i/) | Python | 2025-10-14 |
 | leetcode | Easy | [2264-largest-3-same-digit-number-in-string](./leetcode/Easy/2264-largest-3-same-digit-number-in-string/) | Python | 2025-08-14 |
 | leetcode | Easy | [1822-sign-of-the-product-of-an-array](./leetcode/Easy/1822-sign-of-the-product-of-an-array/) | C++,Python | 2024-09-14 |
+| leetcode | Easy | [1886-determine-whether-matrix-can-be-obtained-by-rotation](./leetcode/Easy/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Python | 2026-03-22 |
 | leetcode | Easy | [2154-keep-multiplying-found-values-by-two](./leetcode/Easy/2154-keep-multiplying-found-values-by-two/) | Python | 2025-11-19 |
 | leetcode | Easy | [1752-check-if-array-is-sorted-and-rotated](./leetcode/Easy/1752-check-if-array-is-sorted-and-rotated/) | Python | 2025-02-02 |
 | leetcode | Easy | [1897-redistribute-characters-to-make-all-strings-equal](./leetcode/Easy/1897-redistribute-characters-to-make-all-strings-equal/) | Python | 2023-12-30 |

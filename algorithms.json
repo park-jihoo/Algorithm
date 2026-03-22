@@ -2532,7 +2532,7 @@
     "difficulty": "Medium",
     "problem_name": "3567-minimum-absolute-difference-in-sliding-submatrix",
     "languages": "Unknown",
-    "last_commit_date": "2026-03-20",
+    "last_commit_date": "2026-03-21",
     "slug": "leetcode/Medium/3567-minimum-absolute-difference-in-sliding-submatrix"
   },
   {
@@ -6926,6 +6926,14 @@
     "languages": "C++,Python",
     "last_commit_date": "2024-09-14",
     "slug": "leetcode/Easy/1822-sign-of-the-product-of-an-array"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Easy",
+    "problem_name": "1886-determine-whether-matrix-can-be-obtained-by-rotation",
+    "languages": "Python",
+    "last_commit_date": "2026-03-22",
+    "slug": "leetcode/Easy/1886-determine-whether-matrix-can-be-obtained-by-rotation"
   },
   {
     "platform": "leetcode",
