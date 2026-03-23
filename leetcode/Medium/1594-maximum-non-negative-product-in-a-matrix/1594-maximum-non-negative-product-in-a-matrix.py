@@ -16,10 +16,10 @@ class Solution:
             for j in range(1, n):
                 x = grid[i][j]
 
-                a = mx[j] * x      
-                b = mn[j] * x      
-                c = mx[j - 1] * x  
-                d = mn[j - 1] * x 
+                a = mx[j] * x
+                b = mn[j] * x
+                c = mx[j - 1] * x
+                d = mn[j - 1] * x
 
                 mx[j] = max(a, b, c, d)
                 mn[j] = min(a, b, c, d)

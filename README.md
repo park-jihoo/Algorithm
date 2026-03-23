@@ -298,6 +298,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [0086-partition-list](./leetcode/Medium/0086-partition-list/) | Python | 2023-08-15 |
 | leetcode | Medium | [2211-count-collisions-on-a-road](./leetcode/Medium/2211-count-collisions-on-a-road/) | Unknown | 2025-12-04 |
 | leetcode | Medium | [2871-double-a-number-represented-as-a-linked-list](./leetcode/Medium/2871-double-a-number-represented-as-a-linked-list/) | Python | 2024-05-07 |
+| leetcode | Medium | [1594-maximum-non-negative-product-in-a-matrix](./leetcode/Medium/1594-maximum-non-negative-product-in-a-matrix/) | Python | 2026-03-23 |
 | leetcode | Medium | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](./leetcode/Medium/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/) | Python | 2026-01-19 |
 | leetcode | Medium | [1915-number-of-wonderful-substrings](./leetcode/Medium/1915-number-of-wonderful-substrings/) | Python | 2024-09-14 |
 | leetcode | Medium | [0999-regions-cut-by-slashes](./leetcode/Medium/0999-regions-cut-by-slashes/) | Python | 2024-08-10 |

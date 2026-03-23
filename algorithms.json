@@ -2354,6 +2354,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "1594-maximum-non-negative-product-in-a-matrix",
+    "languages": "Python",
+    "last_commit_date": "2026-03-23",
+    "slug": "leetcode/Medium/1594-maximum-non-negative-product-in-a-matrix"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold",
     "languages": "Python",
     "last_commit_date": "2026-01-19",
