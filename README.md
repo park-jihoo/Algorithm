@@ -79,6 +79,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | 백준 | Gold | [1208. 부분수열의 합 2](./백준/Gold/1208. 부분수열의 합 2/) | Python | 2024-09-14 |
 | 백준 | Gold | [11404. 플로이드](./백준/Gold/11404. 플로이드/) | C++ | 2024-09-14 |
 | 백준 | Platinum | [2150. Strongly Connected Component](./백준/Platinum/2150. Strongly Connected Component/) | C++,Python | 2024-09-14 |
+| leetcode | Medium | [2906-construct-product-matrix](./leetcode/Medium/2906-construct-product-matrix/) | Python | 2026-03-24 |
 | leetcode | Medium | [1061-lexicographically-smallest-equivalent-string](./leetcode/Medium/1061-lexicographically-smallest-equivalent-string/) | Python | 2025-06-05 |
 | leetcode | Medium | [3341-find-minimum-time-to-reach-last-room-i](./leetcode/Medium/3341-find-minimum-time-to-reach-last-room-i/) | Python | 2025-05-08 |
 | leetcode | Medium | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](./leetcode/Medium/1239-maximum-length-of-a-concatenated-string-with-unique-characters/) | Python | 2024-01-23 |

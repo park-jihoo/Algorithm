@@ -602,6 +602,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "2906-construct-product-matrix",
+    "languages": "Python",
+    "last_commit_date": "2026-03-24",
+    "slug": "leetcode/Medium/2906-construct-product-matrix"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "1061-lexicographically-smallest-equivalent-string",
     "languages": "Python",
     "last_commit_date": "2025-06-05",
