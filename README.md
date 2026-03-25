@@ -459,6 +459,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [2410-maximum-matching-of-players-with-trainers](./leetcode/Medium/2410-maximum-matching-of-players-with-trainers/) | Python | 2025-07-13 |
 | leetcode | Medium | [2095-delete-the-middle-node-of-a-linked-list](./leetcode/Medium/2095-delete-the-middle-node-of-a-linked-list/) | C++ | 2024-09-14 |
 | leetcode | Medium | [2044-count-number-of-maximum-bitwise-or-subsets](./leetcode/Medium/2044-count-number-of-maximum-bitwise-or-subsets/) | Python | 2024-10-18 |
+| leetcode | Medium | [3546-equal-sum-grid-partition-i](./leetcode/Medium/3546-equal-sum-grid-partition-i/) | Python | 2026-03-25 |
 | leetcode | Medium | [3607-power-grid-maintenance](./leetcode/Medium/3607-power-grid-maintenance/) | Python | 2025-11-06 |
 | leetcode | Medium | [2115-find-all-possible-recipes-from-given-supplies](./leetcode/Medium/2115-find-all-possible-recipes-from-given-supplies/) | Python | 2025-03-21 |
 | leetcode | Medium | [2337-move-pieces-to-obtain-a-string](./leetcode/Medium/2337-move-pieces-to-obtain-a-string/) | Python | 2024-12-05 |
