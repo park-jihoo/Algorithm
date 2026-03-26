@@ -904,6 +904,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Hard | [3562-maximum-profit-from-trading-stocks-with-discounts](./leetcode/Hard/3562-maximum-profit-from-trading-stocks-with-discounts/) | Unknown | 2025-12-16 |
 | leetcode | Hard | [3640-trionic-array-ii](./leetcode/Hard/3640-trionic-array-ii/) | Python | 2026-02-04 |
 | leetcode | Hard | [0689-maximum-sum-of-3-non-overlapping-subarrays](./leetcode/Hard/0689-maximum-sum-of-3-non-overlapping-subarrays/) | Python | 2024-12-28 |
+| leetcode | Hard | [3548-equal-sum-grid-partition-ii](./leetcode/Hard/3548-equal-sum-grid-partition-ii/) | Python | 2026-03-26 |
 | leetcode | Hard | [1345-jump-game-iv](./leetcode/Hard/1345-jump-game-iv/) | Python | 2024-09-14 |
 | leetcode | Hard | [1799-maximize-score-after-n-operations](./leetcode/Hard/1799-maximize-score-after-n-operations/) | Python | 2023-08-14 |
 | leetcode | Hard | [1106-parsing-a-boolean-expression](./leetcode/Hard/1106-parsing-a-boolean-expression/) | Python | 2024-10-20 |
