@@ -378,6 +378,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [0121-best-time-to-buy-and-sell-stock](./leetcode/Easy/0121-best-time-to-buy-and-sell-stock/) | Python | 2023-08-14 |
 | leetcode | Easy | [2864-maximum-odd-binary-number](./leetcode/Easy/2864-maximum-odd-binary-number/) | Python | 2024-03-01 |
 | leetcode | Easy | [0070-climbing-stairs](./leetcode/Easy/0070-climbing-stairs/) | Python | 2024-09-14 |
+| leetcode | Easy | [2839-check-if-strings-can-be-made-equal-with-operations-i](./leetcode/Easy/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Python | 2026-03-29 |
 | leetcode | Easy | [0703-kth-largest-element-in-a-stream](./leetcode/Easy/0703-kth-largest-element-in-a-stream/) | Python | 2023-08-14 |
 | leetcode | Easy | [1346-check-if-n-and-its-double-exist](./leetcode/Easy/1346-check-if-n-and-its-double-exist/) | Python | 2024-12-01 |
 | leetcode | Easy | [1523-count-odd-numbers-in-an-interval-range](./leetcode/Easy/1523-count-odd-numbers-in-an-interval-range/) | Python | 2025-12-07 |
