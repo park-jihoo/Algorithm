@@ -724,6 +724,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [2370-longest-ideal-subsequence](./leetcode/Medium/2370-longest-ideal-subsequence/) | Python | 2024-04-25 |
 | leetcode | Medium | [0622-design-circular-queue](./leetcode/Medium/0622-design-circular-queue/) | C++ | 2024-09-14 |
 | leetcode | Medium | [0077-combinations](./leetcode/Medium/0077-combinations/) | Python | 2023-08-14 |
+| leetcode | Medium | [2840-check-if-strings-can-be-made-equal-with-operations-ii](./leetcode/Medium/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Python | 2026-03-30 |
 | leetcode | Medium | [2349-design-a-number-container-system](./leetcode/Medium/2349-design-a-number-container-system/) | Python | 2025-02-08 |
 | leetcode | Medium | [1642-furthest-building-you-can-reach](./leetcode/Medium/1642-furthest-building-you-can-reach/) | Python | 2024-02-17 |
 | leetcode | Medium | [0036-valid-sudoku](./leetcode/Medium/0036-valid-sudoku/) | Python | 2025-08-30 |

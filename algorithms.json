@@ -5762,6 +5762,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "2840-check-if-strings-can-be-made-equal-with-operations-ii",
+    "languages": "Python",
+    "last_commit_date": "2026-03-30",
+    "slug": "leetcode/Medium/2840-check-if-strings-can-be-made-equal-with-operations-ii"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "2349-design-a-number-container-system",
     "languages": "Python",
     "last_commit_date": "2025-02-08",
