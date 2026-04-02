@@ -8666,6 +8666,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "3418-maximum-amount-of-money-robot-can-earn",
+    "languages": "Python",
+    "last_commit_date": "2026-04-02",
+    "slug": "leetcode/Medium/3418-maximum-amount-of-money-robot-can-earn"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "0129-sum-root-to-leaf-numbers",
     "languages": "Python",
     "last_commit_date": "2024-04-15",

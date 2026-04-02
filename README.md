@@ -1087,6 +1087,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [3607-power-grid-maintenance](./leetcode/Medium/3607-power-grid-maintenance/) | Python | 2025-11-06 |
 | leetcode | Medium | [3652-best-time-to-buy-and-sell-stock-using-strategy](./leetcode/Medium/3652-best-time-to-buy-and-sell-stock-using-strategy/) | Python | 2025-12-18 |
 | leetcode | Medium | [2115-find-all-possible-recipes-from-given-supplies](./leetcode/Medium/2115-find-all-possible-recipes-from-given-supplies/) | Python | 2025-03-21 |
+| leetcode | Medium | [3418-maximum-amount-of-money-robot-can-earn](./leetcode/Medium/3418-maximum-amount-of-money-robot-can-earn/) | Python | 2026-04-02 |
 | leetcode | Medium | [0129-sum-root-to-leaf-numbers](./leetcode/Medium/0129-sum-root-to-leaf-numbers/) | Python | 2024-04-15 |
 | leetcode | Medium | [1792-maximum-average-pass-ratio](./leetcode/Medium/1792-maximum-average-pass-ratio/) | Python | 2024-12-15 |
 | leetcode | Medium | [1325-delete-leaves-with-a-given-value](./leetcode/Medium/1325-delete-leaves-with-a-given-value/) | Python | 2024-05-17 |
