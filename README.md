@@ -410,6 +410,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Hard | [0458-poor-pigs](./leetcode/Hard/0458-poor-pigs/) | Python | 2023-10-29 |
 | leetcode | Hard | [0332-reconstruct-itinerary](./leetcode/Hard/0332-reconstruct-itinerary/) | Python | 2023-09-14 |
 | leetcode | Hard | [0239-sliding-window-maximum](./leetcode/Hard/0239-sliding-window-maximum/) | C,C++,Python | 2023-08-16 |
+| leetcode | Hard | [3661-maximum-walls-destroyed-by-robots](./leetcode/Hard/3661-maximum-walls-destroyed-by-robots/) | Python | 2026-04-03 |
 | leetcode | Hard | [0076-minimum-window-substring](./leetcode/Hard/0076-minimum-window-substring/) | Python | 2024-09-14 |
 | leetcode | Hard | [2818-apply-operations-to-maximize-score](./leetcode/Hard/2818-apply-operations-to-maximize-score/) | Python | 2025-03-29 |
 | leetcode | Hard | [0956-tallest-billboard](./leetcode/Hard/0956-tallest-billboard/) | Python | 2023-08-14 |

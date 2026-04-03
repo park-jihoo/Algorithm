@@ -18,7 +18,7 @@ class Solution:
 
             l1, r1 = l + 1, min(l + dl, r - 1)
             l2, r2 = max(r - dr, l + 1), r - 1
-            
+
             left = count(l1, r1)
             right = count(l2, r2)
             both = left + right - count(max(l1, l2), min(r1, r2))
@@ -27,6 +27,6 @@ class Solution:
             nused = max(avail + both, used + right)
             avail, used = navail, nused
 
-        for x in set(x for x,_ in A):
+        for x in set(x for x, _ in A):
             used += count(x, x)
         return used
