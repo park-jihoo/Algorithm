@@ -7746,6 +7746,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "2075-decode-the-slanted-ciphertext",
+    "languages": "Python",
+    "last_commit_date": "2026-04-04",
+    "slug": "leetcode/Medium/2075-decode-the-slanted-ciphertext"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "2337-move-pieces-to-obtain-a-string",
     "languages": "Python",
     "last_commit_date": "2024-12-05",

@@ -972,6 +972,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [2762-continuous-subarrays](./leetcode/Medium/2762-continuous-subarrays/) | Python | 2024-12-14 |
 | leetcode | Medium | [2311-longest-binary-subsequence-less-than-or-equal-to-k](./leetcode/Medium/2311-longest-binary-subsequence-less-than-or-equal-to-k/) | Python | 2025-06-26 |
 | leetcode | Medium | [0999-regions-cut-by-slashes](./leetcode/Medium/0999-regions-cut-by-slashes/) | Python | 2024-08-10 |
+| leetcode | Medium | [2075-decode-the-slanted-ciphertext](./leetcode/Medium/2075-decode-the-slanted-ciphertext/) | Python | 2026-04-04 |
 | leetcode | Medium | [2337-move-pieces-to-obtain-a-string](./leetcode/Medium/2337-move-pieces-to-obtain-a-string/) | Python | 2024-12-05 |
 | leetcode | Medium | [0523-continuous-subarray-sum](./leetcode/Medium/0523-continuous-subarray-sum/) | Python | 2024-06-08 |
 | leetcode | Medium | [2191-sort-the-jumbled-numbers](./leetcode/Medium/2191-sort-the-jumbled-numbers/) | Python | 2024-07-24 |
