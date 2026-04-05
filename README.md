@@ -304,6 +304,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [2273-find-resultant-array-after-removing-anagrams](./leetcode/Easy/2273-find-resultant-array-after-removing-anagrams/) | Python | 2025-10-13 |
 | leetcode | Easy | [1122-relative-sort-array](./leetcode/Easy/1122-relative-sort-array/) | Python | 2024-06-11 |
 | leetcode | Easy | [0168-excel-sheet-column-title](./leetcode/Easy/0168-excel-sheet-column-title/) | Python | 2023-08-22 |
+| leetcode | Easy | [0657-robot-return-to-origin](./leetcode/Easy/0657-robot-return-to-origin/) | Python | 2026-04-05 |
 | leetcode | Easy | [1475-final-prices-with-a-special-discount-in-a-shop](./leetcode/Easy/1475-final-prices-with-a-special-discount-in-a-shop/) | Python | 2024-12-18 |
 | leetcode | Easy | [0860-lemonade-change](./leetcode/Easy/0860-lemonade-change/) | Python | 2024-08-15 |
 | leetcode | Easy | [1108-defanging-an-ip-address](./leetcode/Easy/1108-defanging-an-ip-address/) | Python | 2024-09-14 |

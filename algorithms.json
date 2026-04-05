@@ -2402,6 +2402,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Easy",
+    "problem_name": "0657-robot-return-to-origin",
+    "languages": "Python",
+    "last_commit_date": "2026-04-05",
+    "slug": "leetcode/Easy/0657-robot-return-to-origin"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Easy",
     "problem_name": "1475-final-prices-with-a-special-discount-in-a-shop",
     "languages": "Python",
     "last_commit_date": "2024-12-18",
