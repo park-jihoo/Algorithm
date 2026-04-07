@@ -16,7 +16,7 @@ class Robot:
 
         if num == 0:
             if self.x == 0 and self.y == 0:
-                self.dir = 3 
+                self.dir = 3
             return
 
         while num > 0:
@@ -27,7 +27,7 @@ class Robot:
                 if num > 0:
                     self.dir = 1
 
-            elif self.dir == 1: 
+            elif self.dir == 1:
                 move = min(num, self.h - 1 - self.y)
                 self.y += move
                 num -= move
@@ -59,7 +59,7 @@ class Robot:
         elif self.dir == 2:
             return "West"
         else:
-            return "South"      
+            return "South"
 
 
 # Your Robot object will be instantiated and called as such:

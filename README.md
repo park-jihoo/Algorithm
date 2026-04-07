@@ -747,6 +747,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [3634-minimum-removals-to-balance-array](./leetcode/Medium/3634-minimum-removals-to-balance-array/) | Python | 2026-02-06 |
 | leetcode | Medium | [0865-smallest-subtree-with-all-the-deepest-nodes](./leetcode/Medium/0865-smallest-subtree-with-all-the-deepest-nodes/) | Python | 2026-01-09 |
 | leetcode | Medium | [1488-avoid-flood-in-the-city](./leetcode/Medium/1488-avoid-flood-in-the-city/) | Python | 2025-10-07 |
+| leetcode | Medium | [2069-walking-robot-simulation-ii](./leetcode/Medium/2069-walking-robot-simulation-ii/) | Python | 2026-04-07 |
 | leetcode | Medium | [0515-find-largest-value-in-each-tree-row](./leetcode/Medium/0515-find-largest-value-in-each-tree-row/) | Python | 2024-12-25 |
 | leetcode | Medium | [0808-soup-servings](./leetcode/Medium/0808-soup-servings/) | Python | 2023-08-14 |
 | leetcode | Medium | [0005-longest-palindromic-substring](./leetcode/Medium/0005-longest-palindromic-substring/) | Python | 2023-10-27 |

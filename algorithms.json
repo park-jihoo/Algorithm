@@ -5946,6 +5946,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "2069-walking-robot-simulation-ii",
+    "languages": "Python",
+    "last_commit_date": "2026-04-07",
+    "slug": "leetcode/Medium/2069-walking-robot-simulation-ii"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "0515-find-largest-value-in-each-tree-row",
     "languages": "Python",
     "last_commit_date": "2024-12-25",
