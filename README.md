@@ -927,6 +927,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [1249-minimum-remove-to-make-valid-parentheses](./leetcode/Medium/1249-minimum-remove-to-make-valid-parentheses/) | Python | 2024-04-06 |
 | leetcode | Medium | [2401-longest-nice-subarray](./leetcode/Medium/2401-longest-nice-subarray/) | Python | 2025-03-18 |
 | leetcode | Medium | [1376-time-needed-to-inform-all-employees](./leetcode/Medium/1376-time-needed-to-inform-all-employees/) | Python | 2023-08-14 |
+| leetcode | Medium | [3653-xor-after-range-multiplication-queries-i](./leetcode/Medium/3653-xor-after-range-multiplication-queries-i/) | Python | 2026-04-08 |
 | leetcode | Medium | [1503-last-moment-before-all-ants-fall-out-of-a-plank](./leetcode/Medium/1503-last-moment-before-all-ants-fall-out-of-a-plank/) | Python | 2023-11-04 |
 | leetcode | Medium | [0343-integer-break](./leetcode/Medium/0343-integer-break/) | C,C++,Java,JavaScript,Python | 2023-10-06 |
 | leetcode | Medium | [2657-find-the-prefix-common-array-of-two-arrays](./leetcode/Medium/2657-find-the-prefix-common-array-of-two-arrays/) | Python | 2025-01-14 |
