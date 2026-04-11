@@ -3,9 +3,9 @@ class Solution:
         elems = defaultdict(list)
         for idx, val in enumerate(nums):
             elems[val].append(idx)
-        ans = float('inf')
+        ans = float("inf")
         for key, val in elems.items():
             if len(val) >= 3:
-                distance = 2 * min(val[i+2] - val[i] for i in range(len(val)-2))
+                distance = 2 * min(val[i + 2] - val[i] for i in range(len(val) - 2))
                 ans = min(ans, distance)
-        return ans if ans != float('inf') else -1
+        return ans if ans != float("inf") else -1
