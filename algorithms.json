@@ -1506,6 +1506,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Hard",
+    "problem_name": "1320-minimum-distance-to-type-a-word-using-two-fingers",
+    "languages": "Python",
+    "last_commit_date": "2026-04-12",
+    "slug": "leetcode/Hard/1320-minimum-distance-to-type-a-word-using-two-fingers"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Hard",
     "problem_name": "0332-reconstruct-itinerary",
     "languages": "Python",
     "last_commit_date": "2023-09-14",

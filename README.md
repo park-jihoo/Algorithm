@@ -192,6 +192,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Hard | [3003-maximize-the-number-of-partitions-after-operations](./leetcode/Hard/3003-maximize-the-number-of-partitions-after-operations/) | Python | 2025-10-17 |
 | leetcode | Hard | [0629-k-inverse-pairs-array](./leetcode/Hard/0629-k-inverse-pairs-array/) | Python | 2024-01-27 |
 | leetcode | Hard | [0004-median-of-two-sorted-arrays](./leetcode/Hard/0004-median-of-two-sorted-arrays/) | Python | 2023-09-21 |
+| leetcode | Hard | [1320-minimum-distance-to-type-a-word-using-two-fingers](./leetcode/Hard/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Python | 2026-04-12 |
 | leetcode | Hard | [0332-reconstruct-itinerary](./leetcode/Hard/0332-reconstruct-itinerary/) | Python | 2023-09-14 |
 | leetcode | Hard | [2463-minimum-total-distance-traveled](./leetcode/Hard/2463-minimum-total-distance-traveled/) | Python | 2024-10-31 |
 | leetcode | Hard | [3203-find-minimum-diameter-after-merging-two-trees](./leetcode/Hard/3203-find-minimum-diameter-after-merging-two-trees/) | Python | 2024-12-24 |
