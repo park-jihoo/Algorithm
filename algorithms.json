@@ -2226,6 +2226,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Easy",
+    "problem_name": "2515-shortest-distance-to-target-string-in-a-circular-array",
+    "languages": "Python",
+    "last_commit_date": "2026-04-15",
+    "slug": "leetcode/Easy/2515-shortest-distance-to-target-string-in-a-circular-array"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Easy",
     "problem_name": "2169-count-operations-to-obtain-zero",
     "languages": "Python",
     "last_commit_date": "2025-11-09",

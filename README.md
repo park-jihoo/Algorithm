@@ -282,6 +282,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [0067-add-binary](./leetcode/Easy/0067-add-binary/) | Python | 2026-02-15 |
 | leetcode | Easy | [2696-minimum-string-length-after-removing-substrings](./leetcode/Easy/2696-minimum-string-length-after-removing-substrings/) | Python | 2024-10-07 |
 | leetcode | Easy | [1913-maximum-product-difference-between-two-pairs](./leetcode/Easy/1913-maximum-product-difference-between-two-pairs/) | Python | 2024-09-14 |
+| leetcode | Easy | [2515-shortest-distance-to-target-string-in-a-circular-array](./leetcode/Easy/2515-shortest-distance-to-target-string-in-a-circular-array/) | Python | 2026-04-15 |
 | leetcode | Easy | [2169-count-operations-to-obtain-zero](./leetcode/Easy/2169-count-operations-to-obtain-zero/) | Python | 2025-11-09 |
 | leetcode | Easy | [1232-check-if-it-is-a-straight-line](./leetcode/Easy/1232-check-if-it-is-a-straight-line/) | Python | 2024-09-14 |
 | leetcode | Easy | [1108-defanging-an-ip-address](./leetcode/Easy/1108-defanging-an-ip-address/) | Python | 2024-09-14 |
