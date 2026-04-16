@@ -895,6 +895,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [0498-diagonal-traverse](./leetcode/Medium/0498-diagonal-traverse/) | Python | 2025-08-25 |
 | leetcode | Medium | [1877-minimize-maximum-pair-sum-in-array](./leetcode/Medium/1877-minimize-maximum-pair-sum-in-array/) | Python | 2026-01-24 |
 | leetcode | Medium | [3201-find-the-maximum-length-of-valid-subsequence-i](./leetcode/Medium/3201-find-the-maximum-length-of-valid-subsequence-i/) | Python | 2025-07-16 |
+| leetcode | Medium | [3488-closest-equal-element-queries](./leetcode/Medium/3488-closest-equal-element-queries/) | Python | 2026-04-16 |
 | leetcode | Medium | [0808-soup-servings](./leetcode/Medium/0808-soup-servings/) | Python | 2023-08-14 |
 | leetcode | Medium | [0875-koko-eating-bananas](./leetcode/Medium/0875-koko-eating-bananas/) | Python | 2024-09-14 |
 | leetcode | Medium | [2024-maximize-the-confusion-of-an-exam](./leetcode/Medium/2024-maximize-the-confusion-of-an-exam/) | C,Python | 2023-08-14 |

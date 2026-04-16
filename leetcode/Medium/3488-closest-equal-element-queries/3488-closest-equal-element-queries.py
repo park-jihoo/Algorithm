@@ -12,5 +12,10 @@ class Solution:
                 ans.append(-1)
             else:
                 idx = bisect_left(lst, q)
-                ans.append(min((lst[idx] - lst[(idx-1)%n])%m, (lst[(idx+1)%n]-lst[idx])%m))
+                ans.append(
+                    min(
+                        (lst[idx] - lst[(idx - 1) % n]) % m,
+                        (lst[(idx + 1) % n] - lst[idx]) % m,
+                    )
+                )
         return ans
