@@ -5994,6 +5994,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "3761-minimum-absolute-distance-between-mirror-pairs",
+    "languages": "Python",
+    "last_commit_date": "2026-04-17",
+    "slug": "leetcode/Medium/3761-minimum-absolute-distance-between-mirror-pairs"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "1846-maximum-element-after-decreasing-and-rearranging",
     "languages": "Python",
     "last_commit_date": "2023-12-21",

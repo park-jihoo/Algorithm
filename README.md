@@ -753,6 +753,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [2110-number-of-smooth-descent-periods-of-a-stock](./leetcode/Medium/2110-number-of-smooth-descent-periods-of-a-stock/) | Python | 2025-12-15 |
 | leetcode | Medium | [1020-number-of-enclaves](./leetcode/Medium/1020-number-of-enclaves/) | Python | 2024-09-14 |
 | leetcode | Medium | [0678-valid-parenthesis-string](./leetcode/Medium/0678-valid-parenthesis-string/) | Python | 2024-04-07 |
+| leetcode | Medium | [3761-minimum-absolute-distance-between-mirror-pairs](./leetcode/Medium/3761-minimum-absolute-distance-between-mirror-pairs/) | Python | 2026-04-17 |
 | leetcode | Medium | [1846-maximum-element-after-decreasing-and-rearranging](./leetcode/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Python | 2023-12-21 |
 | leetcode | Medium | [2125-number-of-laser-beams-in-a-bank](./leetcode/Medium/2125-number-of-laser-beams-in-a-bank/) | Python | 2024-01-03 |
 | leetcode | Medium | [0176-second-highest-salary](./leetcode/Medium/0176-second-highest-salary/) | SQL | 2024-09-14 |
