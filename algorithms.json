@@ -2370,6 +2370,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Easy",
+    "problem_name": "3783-mirror-distance-of-an-integer",
+    "languages": "Python",
+    "last_commit_date": "2026-04-18",
+    "slug": "leetcode/Easy/3783-mirror-distance-of-an-integer"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Easy",
     "problem_name": "0035-search-insert-position",
     "languages": "C,C++,Java,Python",
     "last_commit_date": "2024-09-14",

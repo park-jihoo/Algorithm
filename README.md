@@ -300,6 +300,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [3541-find-most-frequent-vowel-and-consonant](./leetcode/Easy/3541-find-most-frequent-vowel-and-consonant/) | Python | 2025-09-13 |
 | leetcode | Easy | [0704-binary-search](./leetcode/Easy/0704-binary-search/) | Python | 2024-09-14 |
 | leetcode | Easy | [3024-type-of-triangle](./leetcode/Easy/3024-type-of-triangle/) | Python | 2025-05-19 |
+| leetcode | Easy | [3783-mirror-distance-of-an-integer](./leetcode/Easy/3783-mirror-distance-of-an-integer/) | Python | 2026-04-18 |
 | leetcode | Easy | [0035-search-insert-position](./leetcode/Easy/0035-search-insert-position/) | C,C++,Java,Python | 2024-09-14 |
 | leetcode | Easy | [3516-find-closest-person](./leetcode/Easy/3516-find-closest-person/) | Python | 2025-09-04 |
 | leetcode | Easy | [0389-find-the-difference](./leetcode/Easy/0389-find-the-difference/) | Python | 2023-09-25 |
