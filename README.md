@@ -256,6 +256,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Hard | [2392-build-a-matrix-with-conditions](./leetcode/Hard/2392-build-a-matrix-with-conditions/) | Python | 2024-07-21 |
 | leetcode | Hard | [0514-freedom-trail](./leetcode/Hard/0514-freedom-trail/) | Python | 2024-04-27 |
 | leetcode | Hard | [3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii](./leetcode/Hard/3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii/) | Python | 2025-05-29 |
+| leetcode | Easy | [2078-two-furthest-houses-with-different-colors](./leetcode/Easy/2078-two-furthest-houses-with-different-colors/) | Python | 2026-04-20 |
 | leetcode | Easy | [1572-matrix-diagonal-sum](./leetcode/Easy/1572-matrix-diagonal-sum/) | JavaScript,Python | 2023-08-14 |
 | leetcode | Easy | [1287-element-appearing-more-than-25-in-sorted-array](./leetcode/Easy/1287-element-appearing-more-than-25-in-sorted-array/) | Python | 2023-12-11 |
 | leetcode | Easy | [0989-add-to-array-form-of-integer](./leetcode/Easy/0989-add-to-array-form-of-integer/) | Python | 2023-08-14 |
