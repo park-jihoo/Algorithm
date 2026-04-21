@@ -562,6 +562,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [2948-make-lexicographically-smallest-array-by-swapping-elements](./leetcode/Medium/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Python | 2025-01-25 |
 | leetcode | Medium | [1497-check-if-array-pairs-are-divisible-by-k](./leetcode/Medium/1497-check-if-array-pairs-are-divisible-by-k/) | Python | 2024-10-01 |
 | leetcode | Medium | [0869-reordered-power-of-2](./leetcode/Medium/0869-reordered-power-of-2/) | Python | 2025-08-10 |
+| leetcode | Medium | [1722-minimize-hamming-distance-after-swap-operations](./leetcode/Medium/1722-minimize-hamming-distance-after-swap-operations/) | Python | 2026-04-21 |
 | leetcode | Medium | [3228-maximum-number-of-operations-to-move-ones-to-the-end](./leetcode/Medium/3228-maximum-number-of-operations-to-move-ones-to-the-end/) | Unknown | 2025-11-13 |
 | leetcode | Medium | [1493-longest-subarray-of-1s-after-deleting-one-element](./leetcode/Medium/1493-longest-subarray-of-1s-after-deleting-one-element/) | Python | 2025-08-24 |
 | leetcode | Medium | [0898-bitwise-ors-of-subarrays](./leetcode/Medium/0898-bitwise-ors-of-subarrays/) | Python | 2025-07-31 |

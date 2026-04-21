@@ -4466,6 +4466,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "1722-minimize-hamming-distance-after-swap-operations",
+    "languages": "Python",
+    "last_commit_date": "2026-04-21",
+    "slug": "leetcode/Medium/1722-minimize-hamming-distance-after-swap-operations"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "3228-maximum-number-of-operations-to-move-ones-to-the-end",
     "languages": "Unknown",
     "last_commit_date": "2025-11-13",
