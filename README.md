@@ -1073,6 +1073,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [3021-alice-and-bob-playing-flower-game](./leetcode/Medium/3021-alice-and-bob-playing-flower-game/) | Python | 2025-08-29 |
 | leetcode | Medium | [0525-contiguous-array](./leetcode/Medium/0525-contiguous-array/) | Python | 2024-03-16 |
 | leetcode | Medium | [2849-determine-if-a-cell-is-reachable-at-a-given-time](./leetcode/Medium/2849-determine-if-a-cell-is-reachable-at-a-given-time/) | Python | 2023-11-10 |
+| leetcode | Medium | [2452-words-within-two-edits-of-dictionary](./leetcode/Medium/2452-words-within-two-edits-of-dictionary/) | Python | 2026-04-22 |
 | leetcode | Medium | [1669-merge-in-between-linked-lists](./leetcode/Medium/1669-merge-in-between-linked-lists/) | Python | 2024-03-20 |
 | leetcode | Medium | [0086-partition-list](./leetcode/Medium/0086-partition-list/) | Python | 2023-08-15 |
 | 프로그래머스 | lv2 | [42890. 후보키](./프로그래머스/lv2/42890. 후보키/) | Python | 2024-09-14 |

@@ -8554,6 +8554,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "2452-words-within-two-edits-of-dictionary",
+    "languages": "Python",
+    "last_commit_date": "2026-04-22",
+    "slug": "leetcode/Medium/2452-words-within-two-edits-of-dictionary"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "1669-merge-in-between-linked-lists",
     "languages": "Python",
     "last_commit_date": "2024-03-20",
