@@ -405,6 +405,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [2264-largest-3-same-digit-number-in-string](./leetcode/Easy/2264-largest-3-same-digit-number-in-string/) | Python | 2025-08-14 |
 | leetcode | Easy | [2016-maximum-difference-between-increasing-elements](./leetcode/Easy/2016-maximum-difference-between-increasing-elements/) | Python | 2025-06-16 |
 | leetcode | Easy | [0070-climbing-stairs](./leetcode/Easy/0070-climbing-stairs/) | Python | 2024-09-14 |
+| leetcode | Easy | [2833-furthest-point-from-origin](./leetcode/Easy/2833-furthest-point-from-origin/) | Python | 2026-04-24 |
 | leetcode | Easy | [0219-contains-duplicate-ii](./leetcode/Easy/0219-contains-duplicate-ii/) | Python | 2024-09-14 |
 | leetcode | Easy | [2022-convert-1d-array-into-2d-array](./leetcode/Easy/2022-convert-1d-array-into-2d-array/) | Python | 2024-09-01 |
 | leetcode | Easy | [0463-island-perimeter](./leetcode/Easy/0463-island-perimeter/) | Python | 2024-04-18 |
