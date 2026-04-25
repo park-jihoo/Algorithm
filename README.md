@@ -175,6 +175,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Hard | [0085-maximal-rectangle](./leetcode/Hard/0085-maximal-rectangle/) | Python | 2026-01-11 |
 | leetcode | Hard | [2940-find-building-where-alice-and-bob-can-meet](./leetcode/Hard/2940-find-building-where-alice-and-bob-can-meet/) | Python | 2024-12-22 |
 | leetcode | Hard | [3027-find-the-number-of-ways-to-place-people-ii](./leetcode/Hard/3027-find-the-number-of-ways-to-place-people-ii/) | Unknown | 2025-09-03 |
+| leetcode | Hard | [3464-maximize-the-distance-between-points-on-a-square](./leetcode/Hard/3464-maximize-the-distance-between-points-on-a-square/) | Python | 2026-04-25 |
 | leetcode | Hard | [1416-restore-the-array](./leetcode/Hard/1416-restore-the-array/) | Python | 2024-09-14 |
 | leetcode | Hard | [2999-count-the-number-of-powerful-integers](./leetcode/Hard/2999-count-the-number-of-powerful-integers/) | Python | 2025-04-10 |
 | leetcode | Hard | [2444-count-subarrays-with-fixed-bounds](./leetcode/Hard/2444-count-subarrays-with-fixed-bounds/) | Python | 2025-04-26 |

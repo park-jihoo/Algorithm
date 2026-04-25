@@ -1370,6 +1370,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Hard",
+    "problem_name": "3464-maximize-the-distance-between-points-on-a-square",
+    "languages": "Python",
+    "last_commit_date": "2026-04-25",
+    "slug": "leetcode/Hard/3464-maximize-the-distance-between-points-on-a-square"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Hard",
     "problem_name": "1416-restore-the-array",
     "languages": "Python",
     "last_commit_date": "2024-09-14",

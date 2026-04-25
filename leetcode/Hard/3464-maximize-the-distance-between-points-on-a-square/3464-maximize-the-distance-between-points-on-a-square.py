@@ -3,18 +3,19 @@ class Solution:
         pts = [[], [], [], []]
         for x, y in points:
             if x == 0 and y != 0:
-                pts[0].append((x,y))
+                pts[0].append((x, y))
             elif x != 0 and y == side:
-                pts[1].append((x,y))
+                pts[1].append((x, y))
             elif x == side and y != side:
-                pts[2].append((x,y))
+                pts[2].append((x, y))
             else:
-                pts[3].append((x,y))
+                pts[3].append((x, y))
         pts[0].sort()
         pts[1].sort()
         pts[2].sort(reverse=True)
         pts[3].sort(reverse=True)
         points = [p for line in pts for p in line]
+
         def check(d):
             dq = deque([(points[0][0], points[0][1], points[0][0], points[0][1], 1)])
             best = 1
