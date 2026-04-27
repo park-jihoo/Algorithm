@@ -4322,6 +4322,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "1391-check-if-there-is-a-valid-path-in-a-grid",
+    "languages": "Python",
+    "last_commit_date": "2026-04-27",
+    "slug": "leetcode/Medium/1391-check-if-there-is-a-valid-path-in-a-grid"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "3346-maximum-frequency-of-an-element-after-performing-operations-i",
     "languages": "Unknown",
     "last_commit_date": "2025-10-21",

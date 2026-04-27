@@ -544,6 +544,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [1140-stone-game-ii](./leetcode/Medium/1140-stone-game-ii/) | Python | 2023-08-14 |
 | leetcode | Medium | [1081-smallest-subsequence-of-distinct-characters](./leetcode/Medium/1081-smallest-subsequence-of-distinct-characters/) | Python | 2024-09-14 |
 | leetcode | Medium | [2684-maximum-number-of-moves-in-a-grid](./leetcode/Medium/2684-maximum-number-of-moves-in-a-grid/) | Python | 2024-10-29 |
+| leetcode | Medium | [1391-check-if-there-is-a-valid-path-in-a-grid](./leetcode/Medium/1391-check-if-there-is-a-valid-path-in-a-grid/) | Python | 2026-04-27 |
 | leetcode | Medium | [3346-maximum-frequency-of-an-element-after-performing-operations-i](./leetcode/Medium/3346-maximum-frequency-of-an-element-after-performing-operations-i/) | Unknown | 2025-10-21 |
 | leetcode | Medium | [0049-group-anagrams](./leetcode/Medium/0049-group-anagrams/) | C++,Python | 2024-02-06 |
 | leetcode | Medium | [0138-copy-list-with-random-pointer](./leetcode/Medium/0138-copy-list-with-random-pointer/) | Python | 2023-09-05 |
