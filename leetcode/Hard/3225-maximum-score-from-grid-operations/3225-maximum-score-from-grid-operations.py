@@ -23,9 +23,7 @@ class Solution:
                             prev_suffix_max[prev_h][0] + extra_score,
                         )
                     else:
-                        extra_score = (
-                            col_sum[i - 1][curr_h] - col_sum[i - 1][prev_h]
-                        )
+                        extra_score = col_sum[i - 1][curr_h] - col_sum[i - 1][prev_h]
                         dp[i][curr_h][prev_h] = max(
                             dp[i][curr_h][prev_h],
                             prev_suffix_max[prev_h][curr_h],

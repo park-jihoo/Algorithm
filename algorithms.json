@@ -1506,6 +1506,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Hard",
+    "problem_name": "3225-maximum-score-from-grid-operations",
+    "languages": "Python",
+    "last_commit_date": "2026-04-29",
+    "slug": "leetcode/Hard/3225-maximum-score-from-grid-operations"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Hard",
     "problem_name": "0004-median-of-two-sorted-arrays",
     "languages": "Python",
     "last_commit_date": "2023-09-21",
