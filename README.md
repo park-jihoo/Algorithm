@@ -672,6 +672,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [3335-total-characters-in-string-after-transformations-i](./leetcode/Medium/3335-total-characters-in-string-after-transformations-i/) | Python | 2025-05-13 |
 | leetcode | Medium | [1035-uncrossed-lines](./leetcode/Medium/1035-uncrossed-lines/) | Python | 2023-08-14 |
 | leetcode | Medium | [2641-cousins-in-binary-tree-ii](./leetcode/Medium/2641-cousins-in-binary-tree-ii/) | Python | 2024-10-23 |
+| leetcode | Medium | [0396-rotate-function](./leetcode/Medium/0396-rotate-function/) | Python | 2026-05-01 |
 | leetcode | Medium | [0633-sum-of-square-numbers](./leetcode/Medium/0633-sum-of-square-numbers/) | Python | 2024-06-17 |
 | leetcode | Medium | [0019-remove-nth-node-from-end-of-list](./leetcode/Medium/0019-remove-nth-node-from-end-of-list/) | Python | 2024-03-03 |
 | leetcode | Medium | [2521-distinct-prime-factors-of-product-of-array](./leetcode/Medium/2521-distinct-prime-factors-of-product-of-array/) | Python | 2024-09-14 |
