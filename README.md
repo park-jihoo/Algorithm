@@ -723,6 +723,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [2149-rearrange-array-elements-by-sign](./leetcode/Medium/2149-rearrange-array-elements-by-sign/) | Python | 2024-02-14 |
 | leetcode | Medium | [2466-count-ways-to-build-good-strings](./leetcode/Medium/2466-count-ways-to-build-good-strings/) | Python | 2024-12-30 |
 | leetcode | Medium | [0373-find-k-pairs-with-smallest-sums](./leetcode/Medium/0373-find-k-pairs-with-smallest-sums/) | Python | 2023-08-14 |
+| leetcode | Medium | [0788-rotated-digits](./leetcode/Medium/0788-rotated-digits/) | Python | 2026-05-02 |
 | leetcode | Medium | [3573-best-time-to-buy-and-sell-stock-v](./leetcode/Medium/3573-best-time-to-buy-and-sell-stock-v/) | Unknown | 2025-12-17 |
 | leetcode | Medium | [2364-count-number-of-bad-pairs](./leetcode/Medium/2364-count-number-of-bad-pairs/) | Python | 2025-02-09 |
 | leetcode | Medium | [1535-find-the-winner-of-an-array-game](./leetcode/Medium/1535-find-the-winner-of-an-array-game/) | Python | 2023-11-05 |
