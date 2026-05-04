@@ -7466,6 +7466,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "0048-rotate-image",
+    "languages": "Python",
+    "last_commit_date": "2026-05-04",
+    "slug": "leetcode/Medium/0048-rotate-image"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "0054-spiral-matrix",
     "languages": "C++,Python",
     "last_commit_date": "2023-08-14",

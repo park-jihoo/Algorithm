@@ -937,6 +937,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [1233-remove-sub-folders-from-the-filesystem](./leetcode/Medium/1233-remove-sub-folders-from-the-filesystem/) | Python | 2024-10-25 |
 | leetcode | Medium | [0377-combination-sum-iv](./leetcode/Medium/0377-combination-sum-iv/) | Python | 2023-09-09 |
 | leetcode | Medium | [0287-find-the-duplicate-number](./leetcode/Medium/0287-find-the-duplicate-number/) | Python | 2023-09-19 |
+| leetcode | Medium | [0048-rotate-image](./leetcode/Medium/0048-rotate-image/) | Python | 2026-05-04 |
 | leetcode | Medium | [0054-spiral-matrix](./leetcode/Medium/0054-spiral-matrix/) | C++,Python | 2023-08-14 |
 | leetcode | Medium | [2115-find-all-possible-recipes-from-given-supplies](./leetcode/Medium/2115-find-all-possible-recipes-from-given-supplies/) | Python | 2025-03-21 |
 | leetcode | Medium | [0147-insertion-sort-list](./leetcode/Medium/0147-insertion-sort-list/) | Java | 2024-09-14 |

@@ -8,4 +8,3 @@ class Solution:
         # reverse row
         for idx, row in enumerate(transposed):
             matrix[idx] = row[::-1]
-
