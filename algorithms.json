@@ -6906,6 +6906,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "0061-rotate-list",
+    "languages": "Python",
+    "last_commit_date": "2026-05-05",
+    "slug": "leetcode/Medium/0061-rotate-list"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "0712-minimum-ascii-delete-sum-for-two-strings",
     "languages": "Python",
     "last_commit_date": "2023-08-14",

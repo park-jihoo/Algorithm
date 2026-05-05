@@ -867,6 +867,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [1905-count-sub-islands](./leetcode/Medium/1905-count-sub-islands/) | Python | 2024-08-28 |
 | leetcode | Medium | [0129-sum-root-to-leaf-numbers](./leetcode/Medium/0129-sum-root-to-leaf-numbers/) | Python | 2024-04-15 |
 | leetcode | Medium | [0523-continuous-subarray-sum](./leetcode/Medium/0523-continuous-subarray-sum/) | Python | 2024-06-08 |
+| leetcode | Medium | [0061-rotate-list](./leetcode/Medium/0061-rotate-list/) | Python | 2026-05-05 |
 | leetcode | Medium | [0712-minimum-ascii-delete-sum-for-two-strings](./leetcode/Medium/0712-minimum-ascii-delete-sum-for-two-strings/) | Python | 2023-08-14 |
 | leetcode | Medium | [1594-maximum-non-negative-product-in-a-matrix](./leetcode/Medium/1594-maximum-non-negative-product-in-a-matrix/) | Python | 2026-03-23 |
 | leetcode | Medium | [3531-count-covered-buildings](./leetcode/Medium/3531-count-covered-buildings/) | Python | 2025-12-11 |
