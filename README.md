@@ -910,6 +910,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [0808-soup-servings](./leetcode/Medium/0808-soup-servings/) | Python | 2023-08-14 |
 | leetcode | Medium | [0875-koko-eating-bananas](./leetcode/Medium/0875-koko-eating-bananas/) | Python | 2024-09-14 |
 | leetcode | Medium | [2024-maximize-the-confusion-of-an-exam](./leetcode/Medium/2024-maximize-the-confusion-of-an-exam/) | C,Python | 2023-08-14 |
+| leetcode | Medium | [3660-jump-game-ix](./leetcode/Medium/3660-jump-game-ix/) | Python | 2026-05-07 |
 | leetcode | Medium | [2943-maximize-area-of-square-hole-in-grid](./leetcode/Medium/2943-maximize-area-of-square-hole-in-grid/) | Python | 2026-01-15 |
 | leetcode | Medium | [2536-increment-submatrices-by-one](./leetcode/Medium/2536-increment-submatrices-by-one/) | Python | 2025-11-14 |
 | leetcode | Medium | [3025-find-the-number-of-ways-to-place-people-i](./leetcode/Medium/3025-find-the-number-of-ways-to-place-people-i/) | Python | 2025-09-02 |

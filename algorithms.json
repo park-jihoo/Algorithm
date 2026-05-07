@@ -7250,6 +7250,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "3660-jump-game-ix",
+    "languages": "Python",
+    "last_commit_date": "2026-05-07",
+    "slug": "leetcode/Medium/3660-jump-game-ix"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "2943-maximize-area-of-square-hole-in-grid",
     "languages": "Python",
     "last_commit_date": "2026-01-15",
