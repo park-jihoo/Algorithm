@@ -4578,6 +4578,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "2770-maximum-number-of-jumps-to-reach-the-last-index",
+    "languages": "Python",
+    "last_commit_date": "2026-05-10",
+    "slug": "leetcode/Medium/2770-maximum-number-of-jumps-to-reach-the-last-index"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros",
     "languages": "Unknown",
     "last_commit_date": "2025-05-10",
@@ -6830,6 +6838,14 @@
     "languages": "Python",
     "last_commit_date": "2024-03-28",
     "slug": "leetcode/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
+    "problem_name": "1914-cyclically-rotating-a-grid",
+    "languages": "Unknown",
+    "last_commit_date": "2026-05-10",
+    "slug": "leetcode/Medium/1914-cyclically-rotating-a-grid"
   },
   {
     "platform": "leetcode",

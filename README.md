@@ -576,6 +576,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [0150-evaluate-reverse-polish-notation](./leetcode/Medium/0150-evaluate-reverse-polish-notation/) | Python | 2024-01-30 |
 | leetcode | Medium | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](./leetcode/Medium/1239-maximum-length-of-a-concatenated-string-with-unique-characters/) | Python | 2024-01-23 |
 | leetcode | Medium | [0443-string-compression](./leetcode/Medium/0443-string-compression/) | Python | 2024-09-14 |
+| leetcode | Medium | [2770-maximum-number-of-jumps-to-reach-the-last-index](./leetcode/Medium/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Python | 2026-05-10 |
 | leetcode | Medium | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](./leetcode/Medium/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros/) | Unknown | 2025-05-10 |
 | leetcode | Medium | [3202-find-the-maximum-length-of-valid-subsequence-ii](./leetcode/Medium/3202-find-the-maximum-length-of-valid-subsequence-ii/) | Python | 2025-07-17 |
 | leetcode | Medium | [3567-minimum-absolute-difference-in-sliding-submatrix](./leetcode/Medium/3567-minimum-absolute-difference-in-sliding-submatrix/) | Unknown | 2026-03-21 |
@@ -858,6 +859,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [2523-closest-prime-numbers-in-range](./leetcode/Medium/2523-closest-prime-numbers-in-range/) | Python | 2025-03-07 |
 | leetcode | Medium | [1061-lexicographically-smallest-equivalent-string](./leetcode/Medium/1061-lexicographically-smallest-equivalent-string/) | Python | 2025-06-05 |
 | leetcode | Medium | [2958-length-of-longest-subarray-with-at-most-k-frequency](./leetcode/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Python | 2024-03-28 |
+| leetcode | Medium | [1914-cyclically-rotating-a-grid](./leetcode/Medium/1914-cyclically-rotating-a-grid/) | Unknown | 2026-05-10 |
 | leetcode | Medium | [2429-minimize-xor](./leetcode/Medium/2429-minimize-xor/) | Python | 2025-01-15 |
 | leetcode | Medium | [2579-count-total-number-of-colored-cells](./leetcode/Medium/2579-count-total-number-of-colored-cells/) | Python | 2025-03-05 |
 | leetcode | Medium | [1884-egg-drop-with-2-eggs-and-n-floors](./leetcode/Medium/1884-egg-drop-with-2-eggs-and-n-floors/) | Python | 2023-09-18 |
