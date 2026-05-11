@@ -2610,6 +2610,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Easy",
+    "problem_name": "2553-separate-the-digits-in-an-array",
+    "languages": "Python",
+    "last_commit_date": "2026-05-11",
+    "slug": "leetcode/Easy/2553-separate-the-digits-in-an-array"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Easy",
     "problem_name": "1317-convert-integer-to-the-sum-of-two-no-zero-integers",
     "languages": "Python",
     "last_commit_date": "2025-09-08",

@@ -330,6 +330,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [3392-count-subarrays-of-length-three-with-a-condition](./leetcode/Easy/3392-count-subarrays-of-length-three-with-a-condition/) | Python | 2025-04-27 |
 | leetcode | Easy | [2200-find-all-k-distant-indices-in-an-array](./leetcode/Easy/2200-find-all-k-distant-indices-in-an-array/) | Python | 2025-06-24 |
 | leetcode | Easy | [0387-first-unique-character-in-a-string](./leetcode/Easy/0387-first-unique-character-in-a-string/) | Python | 2024-02-05 |
+| leetcode | Easy | [2553-separate-the-digits-in-an-array](./leetcode/Easy/2553-separate-the-digits-in-an-array/) | Python | 2026-05-11 |
 | leetcode | Easy | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](./leetcode/Easy/1317-convert-integer-to-the-sum-of-two-no-zero-integers/) | Python | 2025-09-08 |
 | leetcode | Easy | [2206-divide-array-into-equal-pairs](./leetcode/Easy/2206-divide-array-into-equal-pairs/) | Python | 2025-03-17 |
 | leetcode | Easy | [0977-squares-of-a-sorted-array](./leetcode/Easy/0977-squares-of-a-sorted-array/) | Python | 2024-09-14 |
