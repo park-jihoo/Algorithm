@@ -185,6 +185,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Hard | [3562-maximum-profit-from-trading-stocks-with-discounts](./leetcode/Hard/3562-maximum-profit-from-trading-stocks-with-discounts/) | Unknown | 2025-12-16 |
 | leetcode | Hard | [1547-minimum-cost-to-cut-a-stick](./leetcode/Hard/1547-minimum-cost-to-cut-a-stick/) | Python | 2023-08-14 |
 | leetcode | Hard | [0827-making-a-large-island](./leetcode/Hard/0827-making-a-large-island/) | Python | 2025-01-31 |
+| leetcode | Hard | [1665-minimum-initial-energy-to-finish-tasks](./leetcode/Hard/1665-minimum-initial-energy-to-finish-tasks/) | Python | 2026-05-12 |
 | leetcode | Hard | [3625-count-number-of-trapezoids-ii](./leetcode/Hard/3625-count-number-of-trapezoids-ii/) | Python | 2025-12-03 |
 | leetcode | Hard | [3539-find-sum-of-array-product-of-magical-sequences](./leetcode/Hard/3539-find-sum-of-array-product-of-magical-sequences/) | Python | 2025-10-12 |
 | leetcode | Hard | [1074-number-of-submatrices-that-sum-to-target](./leetcode/Hard/1074-number-of-submatrices-that-sum-to-target/) | Python | 2024-01-28 |
