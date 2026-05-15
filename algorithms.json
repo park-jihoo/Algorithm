@@ -5474,6 +5474,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "0153-find-minimum-in-rotated-sorted-array",
+    "languages": "Python",
+    "last_commit_date": "2026-05-15",
+    "slug": "leetcode/Medium/0153-find-minimum-in-rotated-sorted-array"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "0869-reordered-power-of-2",
     "languages": "Python",
     "last_commit_date": "2025-08-10",

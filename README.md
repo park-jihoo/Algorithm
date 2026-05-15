@@ -688,6 +688,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [1535-find-the-winner-of-an-array-game](./leetcode/Medium/1535-find-the-winner-of-an-array-game/) | Python | 2023-11-05 |
 | leetcode | Medium | [0592-fraction-addition-and-subtraction](./leetcode/Medium/0592-fraction-addition-and-subtraction/) | Python | 2024-08-23 |
 | leetcode | Medium | [1930-unique-length-3-palindromic-subsequences](./leetcode/Medium/1930-unique-length-3-palindromic-subsequences/) | Python | 2025-11-21 |
+| leetcode | Medium | [0153-find-minimum-in-rotated-sorted-array](./leetcode/Medium/0153-find-minimum-in-rotated-sorted-array/) | Python | 2026-05-15 |
 | leetcode | Medium | [0869-reordered-power-of-2](./leetcode/Medium/0869-reordered-power-of-2/) | Python | 2025-08-10 |
 | leetcode | Medium | [2657-find-the-prefix-common-array-of-two-arrays](./leetcode/Medium/2657-find-the-prefix-common-array-of-two-arrays/) | Python | 2025-01-14 |
 | leetcode | Medium | [2924-find-champion-ii](./leetcode/Medium/2924-find-champion-ii/) | Python | 2024-11-26 |

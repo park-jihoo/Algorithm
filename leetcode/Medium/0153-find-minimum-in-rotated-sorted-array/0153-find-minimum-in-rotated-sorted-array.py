@@ -3,10 +3,10 @@ class Solution:
         left, right = 0, len(nums) - 1
         ans = nums[0]
         while left <= right:
-            mid = (left+right)//2
+            mid = (left + right) // 2
             if nums[mid] < ans:
                 ans = nums[mid]
-                right = mid-1
+                right = mid - 1
             else:
-                left = mid+1
+                left = mid + 1
         return ans
