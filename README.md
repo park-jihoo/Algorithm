@@ -199,6 +199,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Hard | [2392-build-a-matrix-with-conditions](./leetcode/Hard/2392-build-a-matrix-with-conditions/) | Python | 2024-07-21 |
 | leetcode | Hard | [2179-count-good-triplets-in-an-array](./leetcode/Hard/2179-count-good-triplets-in-an-array/) | Python | 2025-04-15 |
 | leetcode | Hard | [0087-scramble-string](./leetcode/Hard/0087-scramble-string/) | Python | 2024-09-14 |
+| leetcode | Hard | [0154-find-minimum-in-rotated-sorted-array-ii](./leetcode/Hard/0154-find-minimum-in-rotated-sorted-array-ii/) | Python | 2026-05-16 |
 | leetcode | Hard | [2444-count-subarrays-with-fixed-bounds](./leetcode/Hard/2444-count-subarrays-with-fixed-bounds/) | Python | 2025-04-26 |
 | leetcode | Hard | [0407-trapping-rain-water-ii](./leetcode/Hard/0407-trapping-rain-water-ii/) | Python | 2025-10-03 |
 | leetcode | Hard | [3197-find-the-minimum-area-to-cover-all-ones-ii](./leetcode/Hard/3197-find-the-minimum-area-to-cover-all-ones-ii/) | Python | 2025-08-23 |

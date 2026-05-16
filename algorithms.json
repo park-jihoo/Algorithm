@@ -1562,6 +1562,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Hard",
+    "problem_name": "0154-find-minimum-in-rotated-sorted-array-ii",
+    "languages": "Python",
+    "last_commit_date": "2026-05-16",
+    "slug": "leetcode/Hard/0154-find-minimum-in-rotated-sorted-array-ii"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Hard",
     "problem_name": "2444-count-subarrays-with-fixed-bounds",
     "languages": "Python",
     "last_commit_date": "2025-04-26",
