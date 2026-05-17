@@ -666,6 +666,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [0873-length-of-longest-fibonacci-subsequence](./leetcode/Medium/0873-length-of-longest-fibonacci-subsequence/) | Python | 2025-02-27 |
 | leetcode | Medium | [3208-alternating-groups-ii](./leetcode/Medium/3208-alternating-groups-ii/) | Python | 2025-03-09 |
 | leetcode | Medium | [0053-maximum-subarray](./leetcode/Medium/0053-maximum-subarray/) | Python | 2024-07-07 |
+| leetcode | Medium | [1306-jump-game-iii](./leetcode/Medium/1306-jump-game-iii/) | Python | 2026-05-17 |
 | leetcode | Medium | [0662-maximum-width-of-binary-tree](./leetcode/Medium/0662-maximum-width-of-binary-tree/) | Python | 2024-09-14 |
 | leetcode | Medium | [2536-increment-submatrices-by-one](./leetcode/Medium/2536-increment-submatrices-by-one/) | Python | 2025-11-14 |
 | leetcode | Medium | [1887-reduction-operations-to-make-the-array-elements-equal](./leetcode/Medium/1887-reduction-operations-to-make-the-array-elements-equal/) | Python | 2023-12-21 |

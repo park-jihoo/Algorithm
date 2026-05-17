@@ -5298,6 +5298,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "1306-jump-game-iii",
+    "languages": "Python",
+    "last_commit_date": "2026-05-17",
+    "slug": "leetcode/Medium/1306-jump-game-iii"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "0662-maximum-width-of-binary-tree",
     "languages": "Python",
     "last_commit_date": "2024-09-14",

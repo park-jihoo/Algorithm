@@ -3,7 +3,7 @@ class Solution:
         visited, q = set([start]), deque([start])
         while q:
             node = q.popleft()
-            if arr[node]==0:
+            if arr[node] == 0:
                 return True
             plus, minus = node + arr[node], node - arr[node]
             if 0 <= plus < len(arr) and plus not in visited:
