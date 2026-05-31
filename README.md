@@ -829,6 +829,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [0912-sort-an-array](./leetcode/Medium/0912-sort-an-array/) | Python | 2024-09-14 |
 | leetcode | Medium | [2906-construct-product-matrix](./leetcode/Medium/2906-construct-product-matrix/) | Python | 2026-03-24 |
 | leetcode | Medium | [0962-maximum-width-ramp](./leetcode/Medium/0962-maximum-width-ramp/) | Python | 2024-10-10 |
+| leetcode | Medium | [2126-destroying-asteroids](./leetcode/Medium/2126-destroying-asteroids/) | Python | 2026-05-31 |
 | leetcode | Medium | [1248-count-number-of-nice-subarrays](./leetcode/Medium/1248-count-number-of-nice-subarrays/) | Python | 2024-06-22 |
 | leetcode | Medium | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](./leetcode/Medium/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves/) | Python | 2024-07-03 |
 | leetcode | Medium | [2542-maximum-subsequence-score](./leetcode/Medium/2542-maximum-subsequence-score/) | Python | 2023-08-14 |

@@ -6602,6 +6602,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "2126-destroying-asteroids",
+    "languages": "Python",
+    "last_commit_date": "2026-05-31",
+    "slug": "leetcode/Medium/2126-destroying-asteroids"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "1248-count-number-of-nice-subarrays",
     "languages": "Python",
     "last_commit_date": "2024-06-22",
