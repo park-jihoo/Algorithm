@@ -252,6 +252,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](./leetcode/Easy/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Python | 2025-02-03 |
 | leetcode | Easy | [1832-check-if-the-sentence-is-pangram](./leetcode/Easy/1832-check-if-the-sentence-is-pangram/) | Python | 2024-09-14 |
 | leetcode | Easy | [0119-pascals-triangle-ii](./leetcode/Easy/0119-pascals-triangle-ii/) | Python | 2023-10-16 |
+| leetcode | Easy | [2144-minimum-cost-of-buying-candies-with-discount](./leetcode/Easy/2144-minimum-cost-of-buying-candies-with-discount/) | Python | 2026-06-01 |
 | leetcode | Easy | [1356-sort-integers-by-the-number-of-1-bits](./leetcode/Easy/1356-sort-integers-by-the-number-of-1-bits/) | Python | 2023-10-30 |
 | leetcode | Easy | [0657-robot-return-to-origin](./leetcode/Easy/0657-robot-return-to-origin/) | Python | 2026-04-05 |
 | leetcode | Easy | [2273-find-resultant-array-after-removing-anagrams](./leetcode/Easy/2273-find-resultant-array-after-removing-anagrams/) | Python | 2025-10-13 |

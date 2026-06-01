@@ -1986,6 +1986,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Easy",
+    "problem_name": "2144-minimum-cost-of-buying-candies-with-discount",
+    "languages": "Python",
+    "last_commit_date": "2026-06-01",
+    "slug": "leetcode/Easy/2144-minimum-cost-of-buying-candies-with-discount"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Easy",
     "problem_name": "1356-sort-integers-by-the-number-of-1-bits",
     "languages": "Python",
     "last_commit_date": "2023-10-30",
