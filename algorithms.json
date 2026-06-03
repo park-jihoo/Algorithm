@@ -7210,6 +7210,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "3635-earliest-finish-time-for-land-and-water-rides-ii",
+    "languages": "Python",
+    "last_commit_date": "2026-06-03",
+    "slug": "leetcode/Medium/3635-earliest-finish-time-for-land-and-water-rides-ii"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "0788-rotated-digits",
     "languages": "Python",
     "last_commit_date": "2026-05-02",

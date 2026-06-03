@@ -905,6 +905,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [0077-combinations](./leetcode/Medium/0077-combinations/) | Python | 2023-08-14 |
 | leetcode | Medium | [2375-construct-smallest-number-from-di-string](./leetcode/Medium/2375-construct-smallest-number-from-di-string/) | Python | 2025-02-18 |
 | leetcode | Medium | [3350-adjacent-increasing-subarrays-detection-ii](./leetcode/Medium/3350-adjacent-increasing-subarrays-detection-ii/) | Python | 2025-10-15 |
+| leetcode | Medium | [3635-earliest-finish-time-for-land-and-water-rides-ii](./leetcode/Medium/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Python | 2026-06-03 |
 | leetcode | Medium | [0788-rotated-digits](./leetcode/Medium/0788-rotated-digits/) | Python | 2026-05-02 |
 | leetcode | Medium | [1838-frequency-of-the-most-frequent-element](./leetcode/Medium/1838-frequency-of-the-most-frequent-element/) | Python | 2023-12-21 |
 | leetcode | Medium | [1061-lexicographically-smallest-equivalent-string](./leetcode/Medium/1061-lexicographically-smallest-equivalent-string/) | Python | 2025-06-05 |
