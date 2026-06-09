@@ -687,6 +687,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [3488-closest-equal-element-queries](./leetcode/Medium/3488-closest-equal-element-queries/) | Python | 2026-04-16 |
 | leetcode | Medium | [0053-maximum-subarray](./leetcode/Medium/0053-maximum-subarray/) | Python | 2024-07-07 |
 | leetcode | Medium | [3652-best-time-to-buy-and-sell-stock-using-strategy](./leetcode/Medium/3652-best-time-to-buy-and-sell-stock-using-strategy/) | Python | 2025-12-18 |
+| leetcode | Medium | [3689-maximum-total-subarray-value-i](./leetcode/Medium/3689-maximum-total-subarray-value-i/) | Python | 2026-06-09 |
 | leetcode | Medium | [1155-number-of-dice-rolls-with-target-sum](./leetcode/Medium/1155-number-of-dice-rolls-with-target-sum/) | Python | 2023-12-26 |
 | leetcode | Medium | [0019-remove-nth-node-from-end-of-list](./leetcode/Medium/0019-remove-nth-node-from-end-of-list/) | Python | 2024-03-03 |
 | leetcode | Medium | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](./leetcode/Medium/1239-maximum-length-of-a-concatenated-string-with-unique-characters/) | Python | 2024-01-23 |
@@ -814,6 +815,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [1353-maximum-number-of-events-that-can-be-attended](./leetcode/Medium/1353-maximum-number-of-events-that-can-be-attended/) | Python | 2025-07-07 |
 | leetcode | Medium | [2090-k-radius-subarray-averages](./leetcode/Medium/2090-k-radius-subarray-averages/) | Python | 2023-08-14 |
 | leetcode | Medium | [1233-remove-sub-folders-from-the-filesystem](./leetcode/Medium/1233-remove-sub-folders-from-the-filesystem/) | Python | 2024-10-25 |
+| leetcode | Medium | [3751-total-waviness-of-numbers-in-range-i](./leetcode/Medium/3751-total-waviness-of-numbers-in-range-i/) | Unknown | 2026-06-04 |
 | leetcode | Medium | [1861-rotating-the-box](./leetcode/Medium/1861-rotating-the-box/) | Python | 2024-11-23 |
 | leetcode | Medium | [3439-reschedule-meetings-for-maximum-free-time-i](./leetcode/Medium/3439-reschedule-meetings-for-maximum-free-time-i/) | Python | 2025-07-09 |
 | leetcode | Medium | [0142-linked-list-cycle-ii](./leetcode/Medium/0142-linked-list-cycle-ii/) | Python | 2024-09-14 |

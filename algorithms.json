@@ -5466,6 +5466,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "3689-maximum-total-subarray-value-i",
+    "languages": "Python",
+    "last_commit_date": "2026-06-09",
+    "slug": "leetcode/Medium/3689-maximum-total-subarray-value-i"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "1155-number-of-dice-rolls-with-target-sum",
     "languages": "Python",
     "last_commit_date": "2023-12-26",
@@ -6478,6 +6486,14 @@
     "languages": "Python",
     "last_commit_date": "2024-10-25",
     "slug": "leetcode/Medium/1233-remove-sub-folders-from-the-filesystem"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
+    "problem_name": "3751-total-waviness-of-numbers-in-range-i",
+    "languages": "Unknown",
+    "last_commit_date": "2026-06-04",
+    "slug": "leetcode/Medium/3751-total-waviness-of-numbers-in-range-i"
   },
   {
     "platform": "leetcode",
