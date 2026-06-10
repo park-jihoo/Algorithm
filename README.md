@@ -1015,6 +1015,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Hard | [1751-maximum-number-of-events-that-can-be-attended-ii](./leetcode/Hard/1751-maximum-number-of-events-that-can-be-attended-ii/) | Python | 2023-08-14 |
 | leetcode | Hard | [2092-find-all-people-with-secret](./leetcode/Hard/2092-find-all-people-with-secret/) | Python | 2025-12-19 |
 | leetcode | Hard | [2444-count-subarrays-with-fixed-bounds](./leetcode/Hard/2444-count-subarrays-with-fixed-bounds/) | Python | 2025-04-26 |
+| leetcode | Hard | [3691-maximum-total-subarray-value-ii](./leetcode/Hard/3691-maximum-total-subarray-value-ii/) | Python | 2026-06-10 |
 | leetcode | Hard | [3480-maximize-subarrays-after-removing-one-conflicting-pair](./leetcode/Hard/3480-maximize-subarrays-after-removing-one-conflicting-pair/) | Python | 2025-07-26 |
 | leetcode | Hard | [0076-minimum-window-substring](./leetcode/Hard/0076-minimum-window-substring/) | Python | 2024-09-14 |
 | leetcode | Hard | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](./leetcode/Hard/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Python | 2025-10-30 |

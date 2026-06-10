@@ -20,10 +20,7 @@ class Solution:
             j = (r - l + 1).bit_length() - 1
             return min(stMin[l][j], stMin[r - (1 << j) + 1][j])
 
-        pq = [
-            (-(queryMax(l, n - 1) - queryMin(l, n - 1)), l, n - 1)
-            for l in range(n)
-        ]
+        pq = [(-(queryMax(l, n - 1) - queryMin(l, n - 1)), l, n - 1) for l in range(n)]
         heapq.heapify(pq)
         ans = 0
         while k:

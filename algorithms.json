@@ -8090,6 +8090,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Hard",
+    "problem_name": "3691-maximum-total-subarray-value-ii",
+    "languages": "Python",
+    "last_commit_date": "2026-06-10",
+    "slug": "leetcode/Hard/3691-maximum-total-subarray-value-ii"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Hard",
     "problem_name": "3480-maximize-subarrays-after-removing-one-conflicting-pair",
     "languages": "Python",
     "last_commit_date": "2025-07-26",
