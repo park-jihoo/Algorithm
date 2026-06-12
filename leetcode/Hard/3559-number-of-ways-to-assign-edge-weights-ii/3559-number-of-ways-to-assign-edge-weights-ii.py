@@ -56,10 +56,14 @@ class LCA:
         c = self.lca(a, b)
         return self.depth[a] + self.depth[b] - 2 * self.depth[c]
 
+
 MOD = 10**9 + 7
 
+
 class Solution:
-    def assignEdgeWeights(self, edges: List[List[int]], queries: List[List[int]]) -> List[int]:
+    def assignEdgeWeights(
+        self, edges: List[List[int]], queries: List[List[int]]
+    ) -> List[int]:
         lca = LCA(edges)
         ans = []
         for x, y in queries:
@@ -69,4 +73,3 @@ class Solution:
             dist = lca.distance(x, y)
             ans.append(pow(2, dist - 1, MOD))
         return ans
-        

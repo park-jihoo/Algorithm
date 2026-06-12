@@ -969,6 +969,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Hard | [2179-count-good-triplets-in-an-array](./leetcode/Hard/2179-count-good-triplets-in-an-array/) | Python | 2025-04-15 |
 | leetcode | Hard | [0552-student-attendance-record-ii](./leetcode/Hard/0552-student-attendance-record-ii/) | Python | 2024-05-26 |
 | leetcode | Hard | [0857-minimum-cost-to-hire-k-workers](./leetcode/Hard/0857-minimum-cost-to-hire-k-workers/) | Python | 2024-05-11 |
+| leetcode | Hard | [3559-number-of-ways-to-assign-edge-weights-ii](./leetcode/Hard/3559-number-of-ways-to-assign-edge-weights-ii/) | Python | 2026-06-12 |
 | leetcode | Hard | [1326-minimum-number-of-taps-to-open-to-water-a-garden](./leetcode/Hard/1326-minimum-number-of-taps-to-open-to-water-a-garden/) | Python | 2023-08-31 |
 | leetcode | Hard | [1298-maximum-candies-you-can-get-from-boxes](./leetcode/Hard/1298-maximum-candies-you-can-get-from-boxes/) | Python | 2025-06-03 |
 | leetcode | Hard | [2302-count-subarrays-with-score-less-than-k](./leetcode/Hard/2302-count-subarrays-with-score-less-than-k/) | Python | 2025-04-28 |
