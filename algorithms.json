@@ -6666,6 +6666,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Easy",
+    "problem_name": "3838-weighted-word-mapping",
+    "languages": "Python",
+    "last_commit_date": "2026-06-13",
+    "slug": "leetcode/Easy/3838-weighted-word-mapping"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Easy",
     "problem_name": "1317-convert-integer-to-the-sum-of-two-no-zero-integers",
     "languages": "Python",
     "last_commit_date": "2025-09-08",

@@ -837,6 +837,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [0175-combine-two-tables](./leetcode/Easy/0175-combine-two-tables/) | SQL | 2024-09-14 |
 | leetcode | Easy | [1913-maximum-product-difference-between-two-pairs](./leetcode/Easy/1913-maximum-product-difference-between-two-pairs/) | Python | 2024-09-14 |
 | leetcode | Easy | [0717-1-bit-and-2-bit-characters](./leetcode/Easy/0717-1-bit-and-2-bit-characters/) | Python | 2025-11-18 |
+| leetcode | Easy | [3838-weighted-word-mapping](./leetcode/Easy/3838-weighted-word-mapping/) | Python | 2026-06-13 |
 | leetcode | Easy | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](./leetcode/Easy/1317-convert-integer-to-the-sum-of-two-no-zero-integers/) | Python | 2025-09-08 |
 | leetcode | Easy | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](./leetcode/Easy/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Python | 2026-01-25 |
 | leetcode | Easy | [2833-furthest-point-from-origin](./leetcode/Easy/2833-furthest-point-from-origin/) | Python | 2026-04-24 |
