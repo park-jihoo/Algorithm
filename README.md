@@ -301,6 +301,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [1110-delete-nodes-and-return-forest](./leetcode/Medium/1110-delete-nodes-and-return-forest/) | Python | 2024-07-17 |
 | leetcode | Medium | [2095-delete-the-middle-node-of-a-linked-list](./leetcode/Medium/2095-delete-the-middle-node-of-a-linked-list/) | C++ | 2024-09-14 |
 | leetcode | Medium | [2090-k-radius-subarray-averages](./leetcode/Medium/2090-k-radius-subarray-averages/) | Python | 2023-08-14 |
+| leetcode | Medium | [3612-process-string-with-special-operations-i](./leetcode/Medium/3612-process-string-with-special-operations-i/) | Python | 2026-06-16 |
 | leetcode | Medium | [2462-total-cost-to-hire-k-workers](./leetcode/Medium/2462-total-cost-to-hire-k-workers/) | Python | 2023-08-14 |
 | leetcode | Medium | [0176-second-highest-salary](./leetcode/Medium/0176-second-highest-salary/) | SQL | 2024-09-14 |
 | leetcode | Medium | [2116-check-if-a-parentheses-string-can-be-valid](./leetcode/Medium/2116-check-if-a-parentheses-string-can-be-valid/) | Python | 2025-01-12 |

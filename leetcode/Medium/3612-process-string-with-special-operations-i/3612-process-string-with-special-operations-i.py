@@ -2,9 +2,9 @@ class Solution:
     def processStr(self, s: str) -> str:
         ans = ""
         for c in s:
-            if c == '#':
+            if c == "#":
                 ans += ans
-            elif c == '%':
+            elif c == "%":
                 ans = ans[::-1]
             elif c == "*":
                 if len(ans) != 0:
