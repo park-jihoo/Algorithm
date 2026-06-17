@@ -6826,6 +6826,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Hard",
+    "problem_name": "3614-process-string-with-special-operations-ii",
+    "languages": "Python",
+    "last_commit_date": "2026-06-17",
+    "slug": "leetcode/Hard/3614-process-string-with-special-operations-ii"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Hard",
     "problem_name": "0847-shortest-path-visiting-all-nodes",
     "languages": "Python",
     "last_commit_date": "2023-09-17",

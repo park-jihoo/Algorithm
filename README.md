@@ -857,6 +857,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Hard | [2092-find-all-people-with-secret](./leetcode/Hard/2092-find-all-people-with-secret/) | Python | 2025-12-19 |
 | leetcode | Hard | [2561-rearranging-fruits](./leetcode/Hard/2561-rearranging-fruits/) | Python | 2025-08-02 |
 | leetcode | Hard | [1220-count-vowels-permutation](./leetcode/Hard/1220-count-vowels-permutation/) | Python | 2023-10-28 |
+| leetcode | Hard | [3614-process-string-with-special-operations-ii](./leetcode/Hard/3614-process-string-with-special-operations-ii/) | Python | 2026-06-17 |
 | leetcode | Hard | [0847-shortest-path-visiting-all-nodes](./leetcode/Hard/0847-shortest-path-visiting-all-nodes/) | Python | 2023-09-17 |
 | leetcode | Hard | [2392-build-a-matrix-with-conditions](./leetcode/Hard/2392-build-a-matrix-with-conditions/) | Python | 2024-07-21 |
 | leetcode | Hard | [0834-sum-of-distances-in-tree](./leetcode/Hard/0834-sum-of-distances-in-tree/) | Python | 2024-04-28 |
