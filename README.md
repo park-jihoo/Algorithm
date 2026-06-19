@@ -677,7 +677,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [1945-sum-of-digits-of-string-after-convert](./leetcode/Easy/1945-sum-of-digits-of-string-after-convert/) | Python | 2024-09-03 |
 | leetcode | Easy | [0101-symmetric-tree](./leetcode/Easy/0101-symmetric-tree/) | Python | 2024-09-14 |
 | leetcode | Easy | [1916-find-center-of-star-graph](./leetcode/Easy/1916-find-center-of-star-graph/) | Python | 2024-06-27 |
-| leetcode | Easy | [1732-find-the-highest-altitude](./leetcode/Easy/1732-find-the-highest-altitude/) | Python | 2023-08-14 |
+| leetcode | Easy | [1732-find-the-highest-altitude](./leetcode/Easy/1732-find-the-highest-altitude/) | Python | 2026-06-19 |
 | leetcode | Easy | [2078-two-furthest-houses-with-different-colors](./leetcode/Easy/2078-two-furthest-houses-with-different-colors/) | Python | 2026-04-20 |
 | leetcode | Easy | [2418-sort-the-people](./leetcode/Easy/2418-sort-the-people/) | Python | 2024-07-22 |
 | leetcode | Easy | [2441-largest-positive-integer-that-exists-with-its-negative](./leetcode/Easy/2441-largest-positive-integer-that-exists-with-its-negative/) | Python | 2024-05-02 |
