@@ -979,6 +979,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Hard | [0502-ipo](./leetcode/Hard/0502-ipo/) | Python | 2024-06-15 |
 | leetcode | Hard | [1964-find-the-longest-valid-obstacle-course-at-each-position](./leetcode/Hard/1964-find-the-longest-valid-obstacle-course-at-each-position/) | Python | 2023-08-14 |
 | leetcode | Hard | [3691-maximum-total-subarray-value-ii](./leetcode/Hard/3691-maximum-total-subarray-value-ii/) | Python | 2026-06-10 |
+| leetcode | Hard | [1840-maximum-building-height](./leetcode/Hard/1840-maximum-building-height/) | Python | 2026-06-20 |
 | leetcode | Hard | [0085-maximal-rectangle](./leetcode/Hard/0085-maximal-rectangle/) | Python | 2026-01-11 |
 | leetcode | Hard | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](./leetcode/Hard/2435-paths-in-matrix-whose-sum-is-divisible-by-k/) | Python | 2025-11-26 |
 | leetcode | Hard | [1402-reducing-dishes](./leetcode/Hard/1402-reducing-dishes/) | Python | 2024-09-14 |

@@ -9,7 +9,7 @@ class Solution:
 
         def yPeak(x1, y1, x2, y2):
             return (y1 + y2 + x2 - x1) >> 1
-        
+
         for i in range(1, l):
             restrictions[i][1] = yCap(*restrictions[i - 1], *restrictions[i])
 
