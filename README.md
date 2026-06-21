@@ -96,6 +96,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [1155-number-of-dice-rolls-with-target-sum](./leetcode/Medium/1155-number-of-dice-rolls-with-target-sum/) | Python | 2023-12-26 |
 | leetcode | Medium | [1400-construct-k-palindrome-strings](./leetcode/Medium/1400-construct-k-palindrome-strings/) | Python | 2025-01-11 |
 | leetcode | Medium | [0673-number-of-longest-increasing-subsequence](./leetcode/Medium/0673-number-of-longest-increasing-subsequence/) | Python | 2023-08-14 |
+| leetcode | Medium | [1833-maximum-ice-cream-bars](./leetcode/Medium/1833-maximum-ice-cream-bars/) | Python | 2026-06-21 |
 | leetcode | Medium | [0038-count-and-say](./leetcode/Medium/0038-count-and-say/) | Python | 2024-09-14 |
 | leetcode | Medium | [1208-get-equal-substrings-within-budget](./leetcode/Medium/1208-get-equal-substrings-within-budget/) | Python | 2024-05-28 |
 | leetcode | Medium | [0399-evaluate-division](./leetcode/Medium/0399-evaluate-division/) | Python | 2023-08-14 |

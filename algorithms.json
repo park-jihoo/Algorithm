@@ -738,6 +738,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "1833-maximum-ice-cream-bars",
+    "languages": "Python",
+    "last_commit_date": "2026-06-21",
+    "slug": "leetcode/Medium/1833-maximum-ice-cream-bars"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "0038-count-and-say",
     "languages": "Python",
     "last_commit_date": "2024-09-14",
