@@ -5122,6 +5122,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Easy",
+    "problem_name": "1189-maximum-number-of-balloons",
+    "languages": "Python",
+    "last_commit_date": "2026-06-22",
+    "slug": "leetcode/Easy/1189-maximum-number-of-balloons"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Easy",
     "problem_name": "1832-check-if-the-sentence-is-pangram",
     "languages": "Python",
     "last_commit_date": "2024-09-14",

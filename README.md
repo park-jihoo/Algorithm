@@ -644,6 +644,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [1935-maximum-number-of-words-you-can-type](./leetcode/Easy/1935-maximum-number-of-words-you-can-type/) | Python | 2025-09-15 |
 | leetcode | Easy | [1544-make-the-string-great](./leetcode/Easy/1544-make-the-string-great/) | Python | 2024-04-05 |
 | leetcode | Easy | [3507-minimum-pair-removal-to-sort-array-i](./leetcode/Easy/3507-minimum-pair-removal-to-sort-array-i/) | Unknown | 2026-01-22 |
+| leetcode | Easy | [1189-maximum-number-of-balloons](./leetcode/Easy/1189-maximum-number-of-balloons/) | Python | 2026-06-22 |
 | leetcode | Easy | [1832-check-if-the-sentence-is-pangram](./leetcode/Easy/1832-check-if-the-sentence-is-pangram/) | Python | 2024-09-14 |
 | leetcode | Easy | [0744-find-smallest-letter-greater-than-target](./leetcode/Easy/0744-find-smallest-letter-greater-than-target/) | Python | 2023-08-14 |
 | leetcode | Easy | [1408-string-matching-in-an-array](./leetcode/Easy/1408-string-matching-in-an-array/) | Python | 2025-01-07 |
