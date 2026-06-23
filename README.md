@@ -907,6 +907,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Hard | [2463-minimum-total-distance-traveled](./leetcode/Hard/2463-minimum-total-distance-traveled/) | Python | 2024-10-31 |
 | leetcode | Hard | [0920-number-of-music-playlists](./leetcode/Hard/0920-number-of-music-playlists/) | Python | 2023-08-14 |
 | leetcode | Hard | [2050-parallel-courses-iii](./leetcode/Hard/2050-parallel-courses-iii/) | Python | 2023-12-21 |
+| leetcode | Hard | [3699-number-of-zigzag-arrays-i](./leetcode/Hard/3699-number-of-zigzag-arrays-i/) | Python | 2026-06-23 |
 | leetcode | Hard | [3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii](./leetcode/Hard/3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii/) | Python | 2025-05-29 |
 | leetcode | Hard | [3405-count-the-number-of-arrays-with-k-matching-adjacent-elements](./leetcode/Hard/3405-count-the-number-of-arrays-with-k-matching-adjacent-elements/) | Unknown | 2025-06-17 |
 | leetcode | Hard | [3510-minimum-pair-removal-to-sort-array-ii](./leetcode/Hard/3510-minimum-pair-removal-to-sort-array-ii/) | Python | 2026-01-24 |

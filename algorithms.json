@@ -7226,6 +7226,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Hard",
+    "problem_name": "3699-number-of-zigzag-arrays-i",
+    "languages": "Python",
+    "last_commit_date": "2026-06-23",
+    "slug": "leetcode/Hard/3699-number-of-zigzag-arrays-i"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Hard",
     "problem_name": "3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii",
     "languages": "Python",
     "last_commit_date": "2025-05-29",
