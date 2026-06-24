@@ -7218,6 +7218,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Hard",
+    "problem_name": "3700-number-of-zigzag-arrays-ii",
+    "languages": "Python",
+    "last_commit_date": "2026-06-24",
+    "slug": "leetcode/Hard/3700-number-of-zigzag-arrays-ii"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Hard",
     "problem_name": "2050-parallel-courses-iii",
     "languages": "Python",
     "last_commit_date": "2023-12-21",

@@ -906,6 +906,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Hard | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](./leetcode/Hard/1639-number-of-ways-to-form-a-target-string-given-a-dictionary/) | Python | 2024-12-29 |
 | leetcode | Hard | [2463-minimum-total-distance-traveled](./leetcode/Hard/2463-minimum-total-distance-traveled/) | Python | 2024-10-31 |
 | leetcode | Hard | [0920-number-of-music-playlists](./leetcode/Hard/0920-number-of-music-playlists/) | Python | 2023-08-14 |
+| leetcode | Hard | [3700-number-of-zigzag-arrays-ii](./leetcode/Hard/3700-number-of-zigzag-arrays-ii/) | Python | 2026-06-24 |
 | leetcode | Hard | [2050-parallel-courses-iii](./leetcode/Hard/2050-parallel-courses-iii/) | Python | 2023-12-21 |
 | leetcode | Hard | [3699-number-of-zigzag-arrays-i](./leetcode/Hard/3699-number-of-zigzag-arrays-i/) | Python | 2026-06-23 |
 | leetcode | Hard | [3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii](./leetcode/Hard/3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii/) | Python | 2025-05-29 |

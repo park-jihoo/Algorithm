@@ -5,17 +5,18 @@ class Solution:
 
         up = list(range(m))
 
-        T = [[0]*m for _ in range(m)]
+        T = [[0] * m for _ in range(m)]
         for i in range(1, m):
             for k in range(m - i, m):
                 T[i][k] = 1
 
         def matmul(A, B):
             sz = len(A)
-            C = [[0]*sz for _ in range(sz)]
+            C = [[0] * sz for _ in range(sz)]
             for i in range(sz):
                 for k in range(sz):
-                    if not A[i][k]: continue
+                    if not A[i][k]:
+                        continue
                     for j in range(sz):
                         C[i][j] = (C[i][j] + A[i][k] * B[k][j]) % MOD
             return C
@@ -24,7 +25,8 @@ class Solution:
             sz = len(M)
             res = [[int(i == j) for j in range(sz)] for i in range(sz)]
             while p:
-                if p & 1: res = matmul(res, M)
+                if p & 1:
+                    res = matmul(res, M)
                 M = matmul(M, M)
                 p >>= 1
             return res
