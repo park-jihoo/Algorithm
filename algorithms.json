@@ -2274,6 +2274,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "3737-count-subarrays-with-majority-element-i",
+    "languages": "Python",
+    "last_commit_date": "2026-06-25",
+    "slug": "leetcode/Medium/3737-count-subarrays-with-majority-element-i"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "0343-integer-break",
     "languages": "C,C++,Java,JavaScript,Python",
     "last_commit_date": "2023-10-06",

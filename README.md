@@ -288,6 +288,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [0955-delete-columns-to-make-sorted-ii](./leetcode/Medium/0955-delete-columns-to-make-sorted-ii/) | Python | 2025-12-21 |
 | leetcode | Medium | [0129-sum-root-to-leaf-numbers](./leetcode/Medium/0129-sum-root-to-leaf-numbers/) | Python | 2024-04-15 |
 | leetcode | Medium | [2598-smallest-missing-non-negative-integer-after-operations](./leetcode/Medium/2598-smallest-missing-non-negative-integer-after-operations/) | Python | 2025-10-16 |
+| leetcode | Medium | [3737-count-subarrays-with-majority-element-i](./leetcode/Medium/3737-count-subarrays-with-majority-element-i/) | Python | 2026-06-25 |
 | leetcode | Medium | [0343-integer-break](./leetcode/Medium/0343-integer-break/) | C,C++,Java,JavaScript,Python | 2023-10-06 |
 | leetcode | Medium | [2840-check-if-strings-can-be-made-equal-with-operations-ii](./leetcode/Medium/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Python | 2026-03-30 |
 | leetcode | Medium | [2369-check-if-there-is-a-valid-partition-for-the-array](./leetcode/Medium/2369-check-if-there-is-a-valid-partition-for-the-array/) | Python | 2023-08-14 |
