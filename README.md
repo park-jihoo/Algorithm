@@ -1001,6 +1001,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Hard | [1900-the-earliest-and-latest-rounds-where-players-compete](./leetcode/Hard/1900-the-earliest-and-latest-rounds-where-players-compete/) | Python | 2025-07-12 |
 | leetcode | Hard | [0458-poor-pigs](./leetcode/Hard/0458-poor-pigs/) | Python | 2023-10-29 |
 | leetcode | Hard | [2444-count-subarrays-with-fixed-bounds](./leetcode/Hard/2444-count-subarrays-with-fixed-bounds/) | Python | 2025-04-26 |
+| leetcode | Hard | [3739-count-subarrays-with-majority-element-ii](./leetcode/Hard/3739-count-subarrays-with-majority-element-ii/) | Python | 2026-06-26 |
 | leetcode | Hard | [0864-shortest-path-to-get-all-keys](./leetcode/Hard/0864-shortest-path-to-get-all-keys/) | Python | 2023-08-14 |
 | leetcode | Hard | [0004-median-of-two-sorted-arrays](./leetcode/Hard/0004-median-of-two-sorted-arrays/) | Python | 2023-09-21 |
 | leetcode | Hard | [0042-trapping-rain-water](./leetcode/Hard/0042-trapping-rain-water/) | Python | 2024-04-12 |
