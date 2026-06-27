@@ -3874,6 +3874,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "3020-find-the-maximum-number-of-elements-in-subset",
+    "languages": "Python",
+    "last_commit_date": "2026-06-27",
+    "slug": "leetcode/Medium/3020-find-the-maximum-number-of-elements-in-subset"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "1574-shortest-subarray-to-be-removed-to-make-array-sorted",
     "languages": "Python",
     "last_commit_date": "2024-11-15",

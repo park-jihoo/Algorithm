@@ -488,6 +488,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [1503-last-moment-before-all-ants-fall-out-of-a-plank](./leetcode/Medium/1503-last-moment-before-all-ants-fall-out-of-a-plank/) | Python | 2023-11-04 |
 | leetcode | Medium | [2542-maximum-subsequence-score](./leetcode/Medium/2542-maximum-subsequence-score/) | Python | 2023-08-14 |
 | leetcode | Medium | [0048-rotate-image](./leetcode/Medium/0048-rotate-image/) | Python | 2026-05-04 |
+| leetcode | Medium | [3020-find-the-maximum-number-of-elements-in-subset](./leetcode/Medium/3020-find-the-maximum-number-of-elements-in-subset/) | Python | 2026-06-27 |
 | leetcode | Medium | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](./leetcode/Medium/1574-shortest-subarray-to-be-removed-to-make-array-sorted/) | Python | 2024-11-15 |
 | leetcode | Medium | [1578-minimum-time-to-make-rope-colorful](./leetcode/Medium/1578-minimum-time-to-make-rope-colorful/) | Python | 2023-12-27 |
 | leetcode | Medium | [1605-find-valid-matrix-given-row-and-column-sums](./leetcode/Medium/1605-find-valid-matrix-given-row-and-column-sums/) | Python | 2024-07-20 |
