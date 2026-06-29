@@ -724,6 +724,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [3304-find-the-k-th-character-in-string-game-i](./leetcode/Easy/3304-find-the-k-th-character-in-string-game-i/) | Python | 2025-07-03 |
 | leetcode | Easy | [1903-largest-odd-number-in-string](./leetcode/Easy/1903-largest-odd-number-in-string/) | Python | 2023-12-21 |
 | leetcode | Easy | [0035-search-insert-position](./leetcode/Easy/0035-search-insert-position/) | C,C++,Java,Python | 2024-09-14 |
+| leetcode | Easy | [1967-number-of-strings-that-appear-as-substrings-in-word](./leetcode/Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) | Python | 2026-06-29 |
 | leetcode | Easy | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](./leetcode/Easy/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Python | 2026-02-01 |
 | leetcode | Easy | [2460-apply-operations-to-an-array](./leetcode/Easy/2460-apply-operations-to-an-array/) | Python | 2025-03-01 |
 | leetcode | Easy | [2566-maximum-difference-by-remapping-a-digit](./leetcode/Easy/2566-maximum-difference-by-remapping-a-digit/) | Python | 2025-06-14 |

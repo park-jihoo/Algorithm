@@ -5762,6 +5762,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Easy",
+    "problem_name": "1967-number-of-strings-that-appear-as-substrings-in-word",
+    "languages": "Python",
+    "last_commit_date": "2026-06-29",
+    "slug": "leetcode/Easy/1967-number-of-strings-that-appear-as-substrings-in-word"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Easy",
     "problem_name": "3010-divide-an-array-into-subarrays-with-minimum-cost-i",
     "languages": "Python",
     "last_commit_date": "2026-02-01",
