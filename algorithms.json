@@ -4194,6 +4194,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "3286-find-a-safe-walk-through-a-grid",
+    "languages": "Python",
+    "last_commit_date": "2026-07-02",
+    "slug": "leetcode/Medium/3286-find-a-safe-walk-through-a-grid"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "3160-find-the-number-of-distinct-colors-among-the-balls",
     "languages": "Python",
     "last_commit_date": "2025-02-07",

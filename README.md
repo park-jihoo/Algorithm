@@ -528,6 +528,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [3558-number-of-ways-to-assign-edge-weights-i](./leetcode/Medium/3558-number-of-ways-to-assign-edge-weights-i/) | Python | 2026-06-11 |
 | leetcode | Medium | [3488-closest-equal-element-queries](./leetcode/Medium/3488-closest-equal-element-queries/) | Python | 2026-04-16 |
 | leetcode | Medium | [2948-make-lexicographically-smallest-array-by-swapping-elements](./leetcode/Medium/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Python | 2025-01-25 |
+| leetcode | Medium | [3286-find-a-safe-walk-through-a-grid](./leetcode/Medium/3286-find-a-safe-walk-through-a-grid/) | Python | 2026-07-02 |
 | leetcode | Medium | [3160-find-the-number-of-distinct-colors-among-the-balls](./leetcode/Medium/3160-find-the-number-of-distinct-colors-among-the-balls/) | Python | 2025-02-07 |
 | leetcode | Medium | [1105-filling-bookcase-shelves](./leetcode/Medium/1105-filling-bookcase-shelves/) | Python | 2024-07-31 |
 | leetcode | Medium | [2559-count-vowel-strings-in-ranges](./leetcode/Medium/2559-count-vowel-strings-in-ranges/) | Python | 2025-01-02 |
