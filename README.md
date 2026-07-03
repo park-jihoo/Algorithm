@@ -973,6 +973,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Hard | [0432-all-oone-data-structure](./leetcode/Hard/0432-all-oone-data-structure/) | Python | 2024-09-29 |
 | leetcode | Hard | [2014-longest-subsequence-repeated-k-times](./leetcode/Hard/2014-longest-subsequence-repeated-k-times/) | Python | 2025-06-27 |
 | leetcode | Hard | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](./leetcode/Hard/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Python | 2025-01-18 |
+| leetcode | Hard | [3620-network-recovery-pathways](./leetcode/Hard/3620-network-recovery-pathways/) | Python | 2026-07-03 |
 | leetcode | Hard | [1671-minimum-number-of-removals-to-make-mountain-array](./leetcode/Hard/1671-minimum-number-of-removals-to-make-mountain-array/) | Python | 2024-10-30 |
 | leetcode | Hard | [3003-maximize-the-number-of-partitions-after-operations](./leetcode/Hard/3003-maximize-the-number-of-partitions-after-operations/) | Python | 2025-10-17 |
 | leetcode | Hard | [0629-k-inverse-pairs-array](./leetcode/Hard/0629-k-inverse-pairs-array/) | Python | 2024-01-27 |
