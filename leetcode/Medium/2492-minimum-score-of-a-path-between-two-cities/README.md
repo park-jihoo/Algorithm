@@ -1,39 +1,45 @@
-<h2><a href="https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/">2492. Minimum Score of a Path Between Two Cities</a></h2><h3>Medium</h3><hr>Can you solve this real interview question? Minimum Score of a Path Between Two Cities - You are given a positive integer n representing n cities numbered from 1 to n. You are also given a 2D array roads where roads[i] = [ai, bi, distancei] indicates that there is a bidirectional road between cities ai and bi with a distance equal to distancei. The cities graph is not necessarily connected.
+<h2><a href="https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities">2492. Minimum Score of a Path Between Two Cities</a></h2><h3>Medium</h3><hr><p>You are given a positive integer <code>n</code> representing <code>n</code> cities numbered from <code>1</code> to <code>n</code>. You are also given a <strong>2D</strong> array <code>roads</code> where <code>roads[i] = [a<sub>i</sub>, b<sub>i</sub>, distance<sub>i</sub>]</code> indicates that there is a <strong>bidirectional </strong>road between cities <code>a<sub>i</sub></code> and <code>b<sub>i</sub></code> with a distance equal to <code>distance<sub>i</sub></code>. The cities graph is not necessarily connected.</p>
 
-The score of a path between two cities is defined as the minimum distance of a road in this path.
+<p>The <strong>score</strong> of a path between two cities is defined as the <strong>minimum </strong>distance of a road in this path.</p>
 
-Return the minimum possible score of a path between cities 1 and n.
+<p>Return <em>the <strong>minimum </strong>possible score of a path between cities </em><code>1</code><em> and </em><code>n</code>.</p>
 
-Note:
+<p><strong>Note</strong>:</p>
 
-- A path is a sequence of roads between two cities.
-- It is allowed for a path to contain the same road multiple times, and you can visit cities 1 and n multiple times along the path.
-- The test cases are generated such that there is at least one path between 1 and n.
+<ul>
+	<li>A path is a sequence of roads between two cities.</li>
+	<li>It is allowed for a path to contain the same road <strong>multiple</strong> times, and you can visit cities <code>1</code> and <code>n</code> multiple times along the path.</li>
+	<li>The test cases are generated such that there is <strong>at least</strong> one path between <code>1</code> and <code>n</code>.</li>
+</ul>
 
-Example 1:
-
-[https://assets.leetcode.com/uploads/2022/10/12/graph11.png]
-
-Input: n = 4, roads = [[1,2,9],[2,3,6],[2,4,5],[1,4,7]]
-Output: 5
-Explanation: The path from city 1 to 4 with the minimum score is: 1 -> 2 -> 4. The score of this path is min(9,5) = 5.
+<p>&nbsp;</p>
+<p><strong class="example">Example 1:</strong></p>
+<img alt="" src="https://assets.leetcode.com/uploads/2022/10/12/graph11.png" style="width: 190px; height: 231px;" />
+<pre>
+<strong>Input:</strong> n = 4, roads = [[1,2,9],[2,3,6],[2,4,5],[1,4,7]]
+<strong>Output:</strong> 5
+<strong>Explanation:</strong> The path from city 1 to 4 with the minimum score is: 1 -&gt; 2 -&gt; 4. The score of this path is min(9,5) = 5.
 It can be shown that no other path has less score.
+</pre>
 
-Example 2:
+<p><strong class="example">Example 2:</strong></p>
+<img alt="" src="https://assets.leetcode.com/uploads/2022/10/12/graph22.png" style="width: 190px; height: 231px;" />
+<pre>
+<strong>Input:</strong> n = 4, roads = [[1,2,2],[1,3,4],[3,4,7]]
+<strong>Output:</strong> 2
+<strong>Explanation:</strong> The path from city 1 to 4 with the minimum score is: 1 -&gt; 2 -&gt; 1 -&gt; 3 -&gt; 4. The score of this path is min(2,2,4,7) = 2.
+</pre>
 
-[https://assets.leetcode.com/uploads/2022/10/12/graph22.png]
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
 
-Input: n = 4, roads = [[1,2,2],[1,3,4],[3,4,7]]
-Output: 2
-Explanation: The path from city 1 to 4 with the minimum score is: 1 -> 2 -> 1 -> 3 -> 4. The score of this path is min(2,2,4,7) = 2.
-
-Constraints:
-
-- 2 <= n <= 105
-- 1 <= roads.length <= 105
-- roads[i].length == 3
-- 1 <= ai, bi <= n
-- ai != bi
-- 1 <= distancei <= 104
-- There are no repeated edges.
-- There is at least one path between 1 and n.
+<ul>
+	<li><code>2 &lt;= n &lt;= 10<sup>5</sup></code></li>
+	<li><code>1 &lt;= roads.length &lt;= 10<sup>5</sup></code></li>
+	<li><code>roads[i].length == 3</code></li>
+	<li><code>1 &lt;= a<sub>i</sub>, b<sub>i</sub> &lt;= n</code></li>
+	<li><code>a<sub>i</sub> != b<sub>i</sub></code></li>
+	<li><code>1 &lt;= distance<sub>i</sub> &lt;= 10<sup>4</sup></code></li>
+	<li>There are no repeated edges.</li>
+	<li>There is at least one path between <code>1</code> and <code>n</code>.</li>
+</ul>
