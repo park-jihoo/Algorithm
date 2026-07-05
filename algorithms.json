@@ -4100,7 +4100,7 @@
     "difficulty": "Medium",
     "problem_name": "2492-minimum-score-of-a-path-between-two-cities",
     "languages": "Python",
-    "last_commit_date": "2024-09-14",
+    "last_commit_date": "2026-07-04",
     "slug": "leetcode/Medium/2492-minimum-score-of-a-path-between-two-cities"
   },
   {
@@ -7630,6 +7630,14 @@
     "languages": "Python",
     "last_commit_date": "2025-11-05",
     "slug": "leetcode/Hard/3321-find-x-sum-of-all-k-long-subarrays-ii"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Hard",
+    "problem_name": "1301-number-of-paths-with-max-score",
+    "languages": "Python",
+    "last_commit_date": "2026-07-05",
+    "slug": "leetcode/Hard/1301-number-of-paths-with-max-score"
   },
   {
     "platform": "leetcode",

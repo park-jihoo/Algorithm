@@ -22,8 +22,4 @@ class Solution:
                         dp[i][j][0] += (
                             0 if board[i][j] == "E" else ord(board[i][j]) - 48
                         )
-        return (
-            [dp[0][0][0], dp[0][0][1] % (10**9 + 7)]
-            if dp[0][0][0] != -1
-            else [0, 0]
-        )
+        return [dp[0][0][0], dp[0][0][1] % (10**9 + 7)] if dp[0][0][0] != -1 else [0, 0]

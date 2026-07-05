@@ -516,7 +516,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [0869-reordered-power-of-2](./leetcode/Medium/0869-reordered-power-of-2/) | Python | 2025-08-10 |
 | leetcode | Medium | [2981-find-longest-special-substring-that-occurs-thrice-i](./leetcode/Medium/2981-find-longest-special-substring-that-occurs-thrice-i/) | Python | 2024-12-10 |
 | leetcode | Medium | [3453-separate-squares-i](./leetcode/Medium/3453-separate-squares-i/) | Unknown | 2026-01-13 |
-| leetcode | Medium | [2492-minimum-score-of-a-path-between-two-cities](./leetcode/Medium/2492-minimum-score-of-a-path-between-two-cities/) | Python | 2024-09-14 |
+| leetcode | Medium | [2492-minimum-score-of-a-path-between-two-cities](./leetcode/Medium/2492-minimum-score-of-a-path-between-two-cities/) | Python | 2026-07-04 |
 | leetcode | Medium | [0641-design-circular-deque](./leetcode/Medium/0641-design-circular-deque/) | C++,Java | 2024-09-29 |
 | leetcode | Medium | [3254-find-the-power-of-k-size-subarrays-i](./leetcode/Medium/3254-find-the-power-of-k-size-subarrays-i/) | Python | 2024-11-16 |
 | leetcode | Medium | [3202-find-the-maximum-length-of-valid-subsequence-ii](./leetcode/Medium/3202-find-the-maximum-length-of-valid-subsequence-ii/) | Python | 2025-07-17 |
@@ -958,6 +958,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Hard | [1269-number-of-ways-to-stay-in-the-same-place-after-some-steps](./leetcode/Hard/1269-number-of-ways-to-stay-in-the-same-place-after-some-steps/) | Python | 2023-10-15 |
 | leetcode | Hard | [2416-sum-of-prefix-scores-of-strings](./leetcode/Hard/2416-sum-of-prefix-scores-of-strings/) | Python | 2024-09-25 |
 | leetcode | Hard | [3321-find-x-sum-of-all-k-long-subarrays-ii](./leetcode/Hard/3321-find-x-sum-of-all-k-long-subarrays-ii/) | Python | 2025-11-05 |
+| leetcode | Hard | [1301-number-of-paths-with-max-score](./leetcode/Hard/1301-number-of-paths-with-max-score/) | Python | 2026-07-05 |
 | leetcode | Hard | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](./leetcode/Hard/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons/) | Python | 2023-10-07 |
 | leetcode | Hard | [1463-cherry-pickup-ii](./leetcode/Hard/1463-cherry-pickup-ii/) | Python | 2024-02-11 |
 | leetcode | Hard | [0154-find-minimum-in-rotated-sorted-array-ii](./leetcode/Hard/0154-find-minimum-in-rotated-sorted-array-ii/) | Python | 2026-05-16 |
