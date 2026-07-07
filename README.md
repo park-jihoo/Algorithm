@@ -712,6 +712,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [0501-find-mode-in-binary-search-tree](./leetcode/Easy/0501-find-mode-in-binary-search-tree/) | Python | 2024-09-14 |
 | leetcode | Easy | [1539-kth-missing-positive-number](./leetcode/Easy/1539-kth-missing-positive-number/) | Python | 2024-09-14 |
 | leetcode | Easy | [0181-employees-earning-more-than-their-managers](./leetcode/Easy/0181-employees-earning-more-than-their-managers/) | SQL | 2023-09-15 |
+| leetcode | Easy | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](./leetcode/Easy/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Python | 2026-07-07 |
 | leetcode | Easy | [2220-minimum-bit-flips-to-convert-number](./leetcode/Easy/2220-minimum-bit-flips-to-convert-number/) | Python | 2024-09-12 |
 | leetcode | Easy | [1608-special-array-with-x-elements-greater-than-or-equal-x](./leetcode/Easy/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Python | 2024-05-27 |
 | leetcode | Easy | [1331-rank-transform-of-an-array](./leetcode/Easy/1331-rank-transform-of-an-array/) | Python | 2024-10-02 |

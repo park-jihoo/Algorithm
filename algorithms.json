@@ -5666,6 +5666,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Easy",
+    "problem_name": "3754-concatenate-non-zero-digits-and-multiply-by-sum-i",
+    "languages": "Python",
+    "last_commit_date": "2026-07-07",
+    "slug": "leetcode/Easy/3754-concatenate-non-zero-digits-and-multiply-by-sum-i"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Easy",
     "problem_name": "2220-minimum-bit-flips-to-convert-number",
     "languages": "Python",
     "last_commit_date": "2024-09-12",
