@@ -4482,6 +4482,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "3756-concatenate-non-zero-digits-and-multiply-by-sum-ii",
+    "languages": "Python",
+    "last_commit_date": "2026-07-08",
+    "slug": "leetcode/Medium/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "0652-find-duplicate-subtrees",
     "languages": "Python",
     "last_commit_date": "2024-09-14",

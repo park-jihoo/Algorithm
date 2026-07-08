@@ -564,6 +564,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [3362-zero-array-transformation-iii](./leetcode/Medium/3362-zero-array-transformation-iii/) | Python | 2025-05-22 |
 | leetcode | Medium | [0623-add-one-row-to-tree](./leetcode/Medium/0623-add-one-row-to-tree/) | Python | 2024-04-16 |
 | leetcode | Medium | [3243-shortest-distance-after-road-addition-queries-i](./leetcode/Medium/3243-shortest-distance-after-road-addition-queries-i/) | Python | 2024-11-27 |
+| leetcode | Medium | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](./leetcode/Medium/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Python | 2026-07-08 |
 | leetcode | Medium | [0652-find-duplicate-subtrees](./leetcode/Medium/0652-find-duplicate-subtrees/) | Python | 2024-09-14 |
 | leetcode | Medium | [2825-make-string-a-subsequence-using-cyclic-increments](./leetcode/Medium/2825-make-string-a-subsequence-using-cyclic-increments/) | Python | 2024-12-04 |
 | leetcode | Medium | [1625-lexicographically-smallest-string-after-applying-operations](./leetcode/Medium/1625-lexicographically-smallest-string-after-applying-operations/) | Python | 2025-10-19 |

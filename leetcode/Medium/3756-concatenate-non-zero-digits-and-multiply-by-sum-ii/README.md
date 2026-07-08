@@ -24,26 +24,27 @@
 <ul>
 	<li><code>s[0..7] = &quot;10203004&quot;</code>
 
-	<ul>
-		<li><code>x = 1234</code></li>
-		<li><code>sum = 1 + 2 + 3 + 4 = 10</code></li>
-		<li>Therefore, answer is <code>1234 * 10 = 12340</code>.</li>
-	</ul>
-	</li>
-	<li><code>s[1..3] = &quot;020&quot;</code>
-	<ul>
-		<li><code>x = 2</code></li>
-		<li><code>sum = 2</code></li>
-		<li>Therefore, the answer is <code>2 * 2 = 4</code>.</li>
-	</ul>
-	</li>
-	<li><code>s[4..6] = &quot;300&quot;</code>
-	<ul>
-		<li><code>x = 3</code></li>
-		<li><code>sum = 3</code></li>
-		<li>Therefore, the answer is <code>3 * 3 = 9</code>.</li>
-	</ul>
-	</li>
+    <ul>
+    	<li><code>x = 1234</code></li>
+    	<li><code>sum = 1 + 2 + 3 + 4 = 10</code></li>
+    	<li>Therefore, answer is <code>1234 * 10 = 12340</code>.</li>
+    </ul>
+    </li>
+    <li><code>s[1..3] = &quot;020&quot;</code>
+    <ul>
+    	<li><code>x = 2</code></li>
+    	<li><code>sum = 2</code></li>
+    	<li>Therefore, the answer is <code>2 * 2 = 4</code>.</li>
+    </ul>
+    </li>
+    <li><code>s[4..6] = &quot;300&quot;</code>
+    <ul>
+    	<li><code>x = 3</code></li>
+    	<li><code>sum = 3</code></li>
+    	<li>Therefore, the answer is <code>3 * 3 = 9</code>.</li>
+    </ul>
+    </li>
+
 </ul>
 </div>
 
@@ -59,19 +60,20 @@
 <ul>
 	<li><code>s[0..3] = &quot;1000&quot;</code>
 
-	<ul>
-		<li><code>x = 1</code></li>
-		<li><code>sum = 1</code></li>
-		<li>Therefore, the answer is <code>1 * 1 = 1</code>.</li>
-	</ul>
-	</li>
-	<li><code>s[1..1] = &quot;0&quot;</code>
-	<ul>
-		<li><code>x = 0</code></li>
-		<li><code>sum = 0</code></li>
-		<li>Therefore, the answer is <code>0 * 0 = 0</code>.</li>
-	</ul>
-	</li>
+    <ul>
+    	<li><code>x = 1</code></li>
+    	<li><code>sum = 1</code></li>
+    	<li>Therefore, the answer is <code>1 * 1 = 1</code>.</li>
+    </ul>
+    </li>
+    <li><code>s[1..1] = &quot;0&quot;</code>
+    <ul>
+    	<li><code>x = 0</code></li>
+    	<li><code>sum = 0</code></li>
+    	<li>Therefore, the answer is <code>0 * 0 = 0</code>.</li>
+    </ul>
+    </li>
+
 </ul>
 </div>
 
@@ -87,13 +89,14 @@
 <ul>
 	<li><code>s[0..9] = &quot;9876543210&quot;</code>
 
-	<ul>
-		<li><code>x = 987654321</code></li>
-		<li><code>sum = 9 + 8 + 7 + 6 + 5 + 4 + 3 + 2 + 1 = 45</code></li>
-		<li>Therefore, the answer is <code>987654321 * 45 = 44444444445</code>.</li>
-		<li>We return <code>44444444445 modulo (10<sup>9</sup> + 7) = 444444137</code>.</li>
-	</ul>
-	</li>
+    <ul>
+    	<li><code>x = 987654321</code></li>
+    	<li><code>sum = 9 + 8 + 7 + 6 + 5 + 4 + 3 + 2 + 1 = 45</code></li>
+    	<li>Therefore, the answer is <code>987654321 * 45 = 44444444445</code>.</li>
+    	<li>We return <code>44444444445 modulo (10<sup>9</sup> + 7) = 444444137</code>.</li>
+    </ul>
+    </li>
+
 </ul>
 </div>
 
