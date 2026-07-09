@@ -355,6 +355,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [1615-maximal-network-rank](./leetcode/Medium/1615-maximal-network-rank/) | Python | 2023-08-18 |
 | leetcode | Medium | [2523-closest-prime-numbers-in-range](./leetcode/Medium/2523-closest-prime-numbers-in-range/) | Python | 2025-03-07 |
 | leetcode | Medium | [2521-distinct-prime-factors-of-product-of-array](./leetcode/Medium/2521-distinct-prime-factors-of-product-of-array/) | Python | 2024-09-14 |
+| leetcode | Medium | [3532-path-existence-queries-in-a-graph-i](./leetcode/Medium/3532-path-existence-queries-in-a-graph-i/) | Python | 2026-07-09 |
 | leetcode | Medium | [1861-rotating-the-box](./leetcode/Medium/1861-rotating-the-box/) | Python | 2024-11-23 |
 | leetcode | Medium | [3443-maximum-manhattan-distance-after-k-changes](./leetcode/Medium/3443-maximum-manhattan-distance-after-k-changes/) | Python | 2025-06-20 |
 | leetcode | Medium | [0852-peak-index-in-a-mountain-array](./leetcode/Medium/0852-peak-index-in-a-mountain-array/) | C++,Java,Python | 2023-08-14 |

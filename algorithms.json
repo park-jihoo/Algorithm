@@ -2810,6 +2810,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "3532-path-existence-queries-in-a-graph-i",
+    "languages": "Python",
+    "last_commit_date": "2026-07-09",
+    "slug": "leetcode/Medium/3532-path-existence-queries-in-a-graph-i"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "1861-rotating-the-box",
     "languages": "Python",
     "last_commit_date": "2024-11-23",
