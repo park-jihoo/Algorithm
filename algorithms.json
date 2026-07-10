@@ -7850,6 +7850,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Hard",
+    "problem_name": "3534-path-existence-queries-in-a-graph-ii",
+    "languages": "Python",
+    "last_commit_date": "2026-07-10",
+    "slug": "leetcode/Hard/3534-path-existence-queries-in-a-graph-ii"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Hard",
     "problem_name": "3559-number-of-ways-to-assign-edge-weights-ii",
     "languages": "Python",
     "last_commit_date": "2026-06-12",

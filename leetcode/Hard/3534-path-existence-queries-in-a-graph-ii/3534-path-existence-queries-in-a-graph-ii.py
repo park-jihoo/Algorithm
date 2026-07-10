@@ -2,8 +2,11 @@ from typing import List
 import bisect
 from math import inf
 
+
 class Solution:
-    def pathExistenceQueries(self, n: int, nums: List[int], maxDiff: int, queries: List[List[int]]) -> List[int]:
+    def pathExistenceQueries(
+        self, n: int, nums: List[int], maxDiff: int, queries: List[List[int]]
+    ) -> List[int]:
 
         values = sorted((v, i) for i, v in enumerate(nums))
         pos = [0] * n
