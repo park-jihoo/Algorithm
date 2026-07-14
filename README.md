@@ -947,6 +947,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Hard | [2940-find-building-where-alice-and-bob-can-meet](./leetcode/Hard/2940-find-building-where-alice-and-bob-can-meet/) | Python | 2024-12-22 |
 | leetcode | Hard | [3661-maximum-walls-destroyed-by-robots](./leetcode/Hard/3661-maximum-walls-destroyed-by-robots/) | Python | 2026-04-03 |
 | leetcode | Hard | [1289-minimum-falling-path-sum-ii](./leetcode/Hard/1289-minimum-falling-path-sum-ii/) | Python | 2024-04-26 |
+| leetcode | Hard | [3336-find-the-number-of-subsequences-with-equal-gcd](./leetcode/Hard/3336-find-the-number-of-subsequences-with-equal-gcd/) | Python | 2026-07-14 |
 | leetcode | Hard | [1799-maximize-score-after-n-operations](./leetcode/Hard/1799-maximize-score-after-n-operations/) | Python | 2023-08-14 |
 | leetcode | Hard | [1458-max-dot-product-of-two-subsequences](./leetcode/Hard/1458-max-dot-product-of-two-subsequences/) | Python | 2023-10-08 |
 | leetcode | Hard | [1335-minimum-difficulty-of-a-job-schedule](./leetcode/Hard/1335-minimum-difficulty-of-a-job-schedule/) | Python | 2023-12-29 |

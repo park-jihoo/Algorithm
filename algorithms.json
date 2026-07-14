@@ -7546,6 +7546,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Hard",
+    "problem_name": "3336-find-the-number-of-subsequences-with-equal-gcd",
+    "languages": "Python",
+    "last_commit_date": "2026-07-14",
+    "slug": "leetcode/Hard/3336-find-the-number-of-subsequences-with-equal-gcd"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Hard",
     "problem_name": "1799-maximize-score-after-n-operations",
     "languages": "Python",
     "last_commit_date": "2023-08-14",
