@@ -753,6 +753,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [0590-n-ary-tree-postorder-traversal](./leetcode/Easy/0590-n-ary-tree-postorder-traversal/) | Python | 2024-08-26 |
 | leetcode | Easy | [0989-add-to-array-form-of-integer](./leetcode/Easy/0989-add-to-array-form-of-integer/) | Python | 2023-08-14 |
 | leetcode | Easy | [3349-adjacent-increasing-subarrays-detection-i](./leetcode/Easy/3349-adjacent-increasing-subarrays-detection-i/) | Python | 2025-10-14 |
+| leetcode | Easy | [3658-gcd-of-odd-and-even-sums](./leetcode/Easy/3658-gcd-of-odd-and-even-sums/) | Python | 2026-07-15 |
 | leetcode | Easy | [3606-coupon-code-validator](./leetcode/Easy/3606-coupon-code-validator/) | Python | 2025-12-13 |
 | leetcode | Easy | [2864-maximum-odd-binary-number](./leetcode/Easy/2864-maximum-odd-binary-number/) | Python | 2024-03-01 |
 | leetcode | Easy | [0401-binary-watch](./leetcode/Easy/0401-binary-watch/) | Python | 2026-02-17 |

@@ -5994,6 +5994,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Easy",
+    "problem_name": "3658-gcd-of-odd-and-even-sums",
+    "languages": "Python",
+    "last_commit_date": "2026-07-15",
+    "slug": "leetcode/Easy/3658-gcd-of-odd-and-even-sums"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Easy",
     "problem_name": "3606-coupon-code-validator",
     "languages": "Python",
     "last_commit_date": "2025-12-13",
