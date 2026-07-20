@@ -104,6 +104,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Hard | [1298-maximum-candies-you-can-get-from-boxes](./leetcode/Hard/1298-maximum-candies-you-can-get-from-boxes/) | Python | 2025-06-03 |
 | leetcode | Hard | [0273-integer-to-english-words](./leetcode/Hard/0273-integer-to-english-words/) | Python | 2024-08-07 |
 | leetcode | Hard | [2977-minimum-cost-to-convert-string-ii](./leetcode/Hard/2977-minimum-cost-to-convert-string-ii/) | Python | 2026-01-30 |
+| leetcode | Hard | [3312-sorted-gcd-pair-queries](./leetcode/Hard/3312-sorted-gcd-pair-queries/) | Python | 2026-07-18 |
 | leetcode | Hard | [3347-maximum-frequency-of-an-element-after-performing-operations-ii](./leetcode/Hard/3347-maximum-frequency-of-an-element-after-performing-operations-ii/) | Python | 2025-10-22 |
 | leetcode | Hard | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](./leetcode/Hard/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable/) | Python | 2024-06-30 |
 | leetcode | Hard | [0552-student-attendance-record-ii](./leetcode/Hard/0552-student-attendance-record-ii/) | Python | 2024-05-26 |
@@ -322,6 +323,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [0342-power-of-four](./leetcode/Easy/0342-power-of-four/) | Python | 2025-08-15 |
 | leetcode | Easy | [1582-special-positions-in-a-binary-matrix](./leetcode/Easy/1582-special-positions-in-a-binary-matrix/) | Python | 2023-12-17 |
 | leetcode | Easy | [2144-minimum-cost-of-buying-candies-with-discount](./leetcode/Easy/2144-minimum-cost-of-buying-candies-with-discount/) | Python | 2026-06-01 |
+| leetcode | Easy | [1260-shift-2d-grid](./leetcode/Easy/1260-shift-2d-grid/) | Python | 2026-07-20 |
 | leetcode | Easy | [1704-determine-if-string-halves-are-alike](./leetcode/Easy/1704-determine-if-string-halves-are-alike/) | Python | 2024-01-12 |
 | leetcode | Easy | [0258-add-digits](./leetcode/Easy/0258-add-digits/) | Python | 2024-09-14 |
 | leetcode | Easy | [0938-range-sum-of-bst](./leetcode/Easy/0938-range-sum-of-bst/) | Python | 2024-01-08 |
@@ -432,6 +434,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [2373-largest-local-values-in-a-matrix](./leetcode/Easy/2373-largest-local-values-in-a-matrix/) | Python | 2024-05-12 |
 | leetcode | Easy | [1916-find-center-of-star-graph](./leetcode/Easy/1916-find-center-of-star-graph/) | Python | 2024-06-27 |
 | leetcode | Easy | [3442-maximum-difference-between-even-and-odd-frequency-i](./leetcode/Easy/3442-maximum-difference-between-even-and-odd-frequency-i/) | Python | 2025-06-10 |
+| leetcode | Easy | [1979-find-greatest-common-divisor-of-array](./leetcode/Easy/1979-find-greatest-common-divisor-of-array/) | Unknown | 2026-07-18 |
 | leetcode | Easy | [0530-minimum-absolute-difference-in-bst](./leetcode/Easy/0530-minimum-absolute-difference-in-bst/) | Python | 2023-08-14 |
 | leetcode | Easy | [1431-kids-with-the-greatest-number-of-candies](./leetcode/Easy/1431-kids-with-the-greatest-number-of-candies/) | Python | 2024-09-14 |
 | leetcode | Easy | [1200-minimum-absolute-difference](./leetcode/Easy/1200-minimum-absolute-difference/) | Unknown | 2026-01-26 |

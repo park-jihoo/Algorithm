@@ -802,6 +802,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Hard",
+    "problem_name": "3312-sorted-gcd-pair-queries",
+    "languages": "Python",
+    "last_commit_date": "2026-07-18",
+    "slug": "leetcode/Hard/3312-sorted-gcd-pair-queries"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Hard",
     "problem_name": "3347-maximum-frequency-of-an-element-after-performing-operations-ii",
     "languages": "Python",
     "last_commit_date": "2025-10-22",
@@ -2546,6 +2554,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Easy",
+    "problem_name": "1260-shift-2d-grid",
+    "languages": "Python",
+    "last_commit_date": "2026-07-20",
+    "slug": "leetcode/Easy/1260-shift-2d-grid"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Easy",
     "problem_name": "1704-determine-if-string-halves-are-alike",
     "languages": "Python",
     "last_commit_date": "2024-01-12",
@@ -3422,6 +3438,14 @@
     "languages": "Python",
     "last_commit_date": "2025-06-10",
     "slug": "leetcode/Easy/3442-maximum-difference-between-even-and-odd-frequency-i"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Easy",
+    "problem_name": "1979-find-greatest-common-divisor-of-array",
+    "languages": "Unknown",
+    "last_commit_date": "2026-07-18",
+    "slug": "leetcode/Easy/1979-find-greatest-common-divisor-of-array"
   },
   {
     "platform": "leetcode",
