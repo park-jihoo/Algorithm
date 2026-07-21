@@ -104,7 +104,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Hard | [1298-maximum-candies-you-can-get-from-boxes](./leetcode/Hard/1298-maximum-candies-you-can-get-from-boxes/) | Python | 2025-06-03 |
 | leetcode | Hard | [0273-integer-to-english-words](./leetcode/Hard/0273-integer-to-english-words/) | Python | 2024-08-07 |
 | leetcode | Hard | [2977-minimum-cost-to-convert-string-ii](./leetcode/Hard/2977-minimum-cost-to-convert-string-ii/) | Python | 2026-01-30 |
-| leetcode | Hard | [3312-sorted-gcd-pair-queries](./leetcode/Hard/3312-sorted-gcd-pair-queries/) | Python | 2026-07-18 |
+| leetcode | Hard | [3312-sorted-gcd-pair-queries](./leetcode/Hard/3312-sorted-gcd-pair-queries/) | Python | 2026-07-20 |
 | leetcode | Hard | [3347-maximum-frequency-of-an-element-after-performing-operations-ii](./leetcode/Hard/3347-maximum-frequency-of-an-element-after-performing-operations-ii/) | Python | 2025-10-22 |
 | leetcode | Hard | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](./leetcode/Hard/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable/) | Python | 2024-06-30 |
 | leetcode | Hard | [0552-student-attendance-record-ii](./leetcode/Hard/0552-student-attendance-record-ii/) | Python | 2024-05-26 |
@@ -458,6 +458,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [0557-reverse-words-in-a-string-iii](./leetcode/Easy/0557-reverse-words-in-a-string-iii/) | Python | 2023-10-01 |
 | leetcode | Medium | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](./leetcode/Medium/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Python | 2024-07-26 |
 | leetcode | Medium | [2090-k-radius-subarray-averages](./leetcode/Medium/2090-k-radius-subarray-averages/) | Python | 2023-08-14 |
+| leetcode | Medium | [3499-maximize-active-section-with-trade-i](./leetcode/Medium/3499-maximize-active-section-with-trade-i/) | Python | 2026-07-21 |
 | leetcode | Medium | [0319-bulb-switcher](./leetcode/Medium/0319-bulb-switcher/) | Python | 2024-09-14 |
 | leetcode | Medium | [3719-longest-balanced-subarray-i](./leetcode/Medium/3719-longest-balanced-subarray-i/) | Unknown | 2026-02-10 |
 | leetcode | Medium | [2401-longest-nice-subarray](./leetcode/Medium/2401-longest-nice-subarray/) | Python | 2025-03-18 |
