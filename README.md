@@ -66,6 +66,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Hard | [0992-subarrays-with-k-different-integers](./leetcode/Hard/0992-subarrays-with-k-different-integers/) | Python | 2024-03-30 |
 | leetcode | Hard | [3510-minimum-pair-removal-to-sort-array-ii](./leetcode/Hard/3510-minimum-pair-removal-to-sort-array-ii/) | Python | 2026-01-24 |
 | leetcode | Hard | [1425-constrained-subsequence-sum](./leetcode/Hard/1425-constrained-subsequence-sum/) | Python | 2023-10-21 |
+| leetcode | Hard | [3501-maximize-active-section-with-trade-ii](./leetcode/Hard/3501-maximize-active-section-with-trade-ii/) | Python | 2026-07-22 |
 | leetcode | Hard | [2818-apply-operations-to-maximize-score](./leetcode/Hard/2818-apply-operations-to-maximize-score/) | Python | 2025-03-29 |
 | leetcode | Hard | [3699-number-of-zigzag-arrays-i](./leetcode/Hard/3699-number-of-zigzag-arrays-i/) | Python | 2026-06-23 |
 | leetcode | Hard | [0726-number-of-atoms](./leetcode/Hard/0726-number-of-atoms/) | Python | 2024-07-14 |

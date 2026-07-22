@@ -4,9 +4,7 @@ class SparseTable:
         i, N = 1, len(self.st[0])
         while 2 * i <= N + 1:
             pre = self.st[-1]
-            self.st.append(
-                [max(pre[j], pre[j + i]) for j in range(N - 2 * i + 1)]
-            )
+            self.st.append([max(pre[j], pre[j + i]) for j in range(N - 2 * i + 1)])
             i <<= 1
 
     def query(self, begin: int, end: int):

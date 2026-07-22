@@ -498,6 +498,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Hard",
+    "problem_name": "3501-maximize-active-section-with-trade-ii",
+    "languages": "Python",
+    "last_commit_date": "2026-07-22",
+    "slug": "leetcode/Hard/3501-maximize-active-section-with-trade-ii"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Hard",
     "problem_name": "2818-apply-operations-to-maximize-score",
     "languages": "Python",
     "last_commit_date": "2025-03-29",
