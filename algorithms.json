@@ -4410,6 +4410,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "3513-number-of-unique-xor-triplets-i",
+    "languages": "Python",
+    "last_commit_date": "2026-07-23",
+    "slug": "leetcode/Medium/3513-number-of-unique-xor-triplets-i"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "1262-greatest-sum-divisible-by-three",
     "languages": "Python",
     "last_commit_date": "2025-11-23",

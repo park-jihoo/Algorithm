@@ -555,6 +555,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [1803-average-waiting-time](./leetcode/Medium/1803-average-waiting-time/) | Python | 2024-07-09 |
 | leetcode | Medium | [2462-total-cost-to-hire-k-workers](./leetcode/Medium/2462-total-cost-to-hire-k-workers/) | Python | 2023-08-14 |
 | leetcode | Medium | [1625-lexicographically-smallest-string-after-applying-operations](./leetcode/Medium/1625-lexicographically-smallest-string-after-applying-operations/) | Python | 2025-10-19 |
+| leetcode | Medium | [3513-number-of-unique-xor-triplets-i](./leetcode/Medium/3513-number-of-unique-xor-triplets-i/) | Python | 2026-07-23 |
 | leetcode | Medium | [1262-greatest-sum-divisible-by-three](./leetcode/Medium/1262-greatest-sum-divisible-by-three/) | Python | 2025-11-23 |
 | leetcode | Medium | [2211-count-collisions-on-a-road](./leetcode/Medium/2211-count-collisions-on-a-road/) | Unknown | 2025-12-04 |
 | leetcode | Medium | [0034-find-first-and-last-position-of-element-in-sorted-array](./leetcode/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Python | 2023-10-09 |
