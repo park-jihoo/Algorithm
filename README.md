@@ -102,6 +102,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [0342-power-of-four](./leetcode/Easy/0342-power-of-four/) | Python | 2025-08-15 |
 | leetcode | Easy | [0326-power-of-three](./leetcode/Easy/0326-power-of-three/) | Python | 2025-08-13 |
 | leetcode | Easy | [0860-lemonade-change](./leetcode/Easy/0860-lemonade-change/) | Python | 2024-08-15 |
+| leetcode | Easy | [3536-maximum-product-of-two-digits](./leetcode/Easy/3536-maximum-product-of-two-digits/) | Python | 2026-07-25 |
 | leetcode | Easy | [0404-sum-of-left-leaves](./leetcode/Easy/0404-sum-of-left-leaves/) | Python | 2024-04-14 |
 | leetcode | Easy | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](./leetcode/Easy/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Python | 2026-01-25 |
 | leetcode | Easy | [1491-average-salary-excluding-the-minimum-and-maximum-salary](./leetcode/Easy/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Python | 2024-09-14 |

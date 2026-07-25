@@ -6,4 +6,4 @@ class Solution:
             heapq.heappush(pq, -d)
         a = heapq.heappop(pq)
         b = heapq.heappop(pq)
-        return a*b
+        return a * b

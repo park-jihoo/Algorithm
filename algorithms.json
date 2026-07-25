@@ -786,6 +786,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Easy",
+    "problem_name": "3536-maximum-product-of-two-digits",
+    "languages": "Python",
+    "last_commit_date": "2026-07-25",
+    "slug": "leetcode/Easy/3536-maximum-product-of-two-digits"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Easy",
     "problem_name": "0404-sum-of-left-leaves",
     "languages": "Python",
     "last_commit_date": "2024-04-14",
