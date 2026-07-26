@@ -119,6 +119,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [3042-count-prefix-and-suffix-pairs-i](./leetcode/Easy/3042-count-prefix-and-suffix-pairs-i/) | Python | 2025-01-08 |
 | leetcode | Easy | [3074-apple-redistribution-into-boxes](./leetcode/Easy/3074-apple-redistribution-into-boxes/) | Python | 2025-12-24 |
 | leetcode | Easy | [1700-number-of-students-unable-to-eat-lunch](./leetcode/Easy/1700-number-of-students-unable-to-eat-lunch/) | Python | 2024-04-08 |
+| leetcode | Easy | [0628-maximum-product-of-three-numbers](./leetcode/Easy/0628-maximum-product-of-three-numbers/) | Python | 2026-07-26 |
 | leetcode | Easy | [2200-find-all-k-distant-indices-in-an-array](./leetcode/Easy/2200-find-all-k-distant-indices-in-an-array/) | Python | 2025-06-24 |
 | leetcode | Easy | [0258-add-digits](./leetcode/Easy/0258-add-digits/) | Python | 2024-09-14 |
 | leetcode | Easy | [0590-n-ary-tree-postorder-traversal](./leetcode/Easy/0590-n-ary-tree-postorder-traversal/) | Python | 2024-08-26 |
