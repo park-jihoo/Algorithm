@@ -33,7 +33,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [2965-find-missing-and-repeated-values](./leetcode/Easy/2965-find-missing-and-repeated-values/) | Python | 2025-03-06 |
 | leetcode | Easy | [0242-valid-anagram](./leetcode/Easy/0242-valid-anagram/) | C++,Python | 2023-12-17 |
 | leetcode | Easy | [0459-repeated-substring-pattern](./leetcode/Easy/0459-repeated-substring-pattern/) | C++,Python | 2023-08-21 |
-| leetcode | Easy | [1464-maximum-product-of-two-elements-in-an-array](./leetcode/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Python | 2023-12-12 |
+| leetcode | Easy | [1464-maximum-product-of-two-elements-in-an-array](./leetcode/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Python | 2026-07-27 |
 | leetcode | Easy | [1534-count-good-triplets](./leetcode/Easy/1534-count-good-triplets/) | Python | 2025-04-14 |
 | leetcode | Easy | [0168-excel-sheet-column-title](./leetcode/Easy/0168-excel-sheet-column-title/) | Python | 2023-08-22 |
 | leetcode | Easy | [2553-separate-the-digits-in-an-array](./leetcode/Easy/2553-separate-the-digits-in-an-array/) | Python | 2026-05-11 |
