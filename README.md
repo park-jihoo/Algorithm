@@ -1031,6 +1031,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [2406-divide-intervals-into-minimum-number-of-groups](./leetcode/Medium/2406-divide-intervals-into-minimum-number-of-groups/) | Python | 2024-10-12 |
 | leetcode | Medium | [0097-interleaving-string](./leetcode/Medium/0097-interleaving-string/) | Python | 2023-08-25 |
 | leetcode | Medium | [1980-find-unique-binary-string](./leetcode/Medium/1980-find-unique-binary-string/) | Python | 2026-03-09 |
+| leetcode | Medium | [3517-smallest-palindromic-rearrangement-i](./leetcode/Medium/3517-smallest-palindromic-rearrangement-i/) | Python | 2026-07-28 |
 | leetcode | Medium | [2523-closest-prime-numbers-in-range](./leetcode/Medium/2523-closest-prime-numbers-in-range/) | Python | 2025-03-07 |
 | leetcode | Medium | [0382-linked-list-random-node](./leetcode/Medium/0382-linked-list-random-node/) | Python | 2024-09-14 |
 | leetcode | Medium | [1254-number-of-closed-islands](./leetcode/Medium/1254-number-of-closed-islands/) | Python | 2024-09-14 |
