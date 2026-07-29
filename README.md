@@ -420,6 +420,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Hard | [3321-find-x-sum-of-all-k-long-subarrays-ii](./leetcode/Hard/3321-find-x-sum-of-all-k-long-subarrays-ii/) | Python | 2025-11-05 |
 | leetcode | Hard | [2448-minimum-cost-to-make-array-equal](./leetcode/Hard/2448-minimum-cost-to-make-array-equal/) | Python | 2023-08-14 |
 | leetcode | Hard | [2742-painting-the-walls](./leetcode/Hard/2742-painting-the-walls/) | Python | 2023-10-14 |
+| leetcode | Hard | [3518-smallest-palindromic-rearrangement-ii](./leetcode/Hard/3518-smallest-palindromic-rearrangement-ii/) | Python | 2026-07-29 |
 | leetcode | Hard | [0407-trapping-rain-water-ii](./leetcode/Hard/0407-trapping-rain-water-ii/) | Python | 2025-10-03 |
 | leetcode | Hard | [1799-maximize-score-after-n-operations](./leetcode/Hard/1799-maximize-score-after-n-operations/) | Python | 2023-08-14 |
 | leetcode | Hard | [3661-maximum-walls-destroyed-by-robots](./leetcode/Hard/3661-maximum-walls-destroyed-by-robots/) | Python | 2026-04-03 |
