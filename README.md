@@ -19,6 +19,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [3264-final-array-state-after-k-multiplication-operations-i](./leetcode/Easy/3264-final-array-state-after-k-multiplication-operations-i/) | Python | 2024-12-16 |
 | leetcode | Easy | [0530-minimum-absolute-difference-in-bst](./leetcode/Easy/0530-minimum-absolute-difference-in-bst/) | Python | 2023-08-14 |
 | leetcode | Easy | [2210-count-hills-and-valleys-in-an-array](./leetcode/Easy/2210-count-hills-and-valleys-in-an-array/) | Python | 2025-07-27 |
+| leetcode | Easy | [3014-minimum-number-of-pushes-to-type-word-i](./leetcode/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Python | 2026-07-30 |
 | leetcode | Easy | [3304-find-the-k-th-character-in-string-game-i](./leetcode/Easy/3304-find-the-k-th-character-in-string-game-i/) | Python | 2025-07-03 |
 | leetcode | Easy | [1752-check-if-array-is-sorted-and-rotated](./leetcode/Easy/1752-check-if-array-is-sorted-and-rotated/) | Python | 2025-02-02 |
 | leetcode | Easy | [2490-circular-sentence](./leetcode/Easy/2490-circular-sentence/) | Python | 2024-11-02 |
