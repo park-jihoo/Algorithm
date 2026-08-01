@@ -556,7 +556,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [0416-partition-equal-subset-sum](./leetcode/Medium/0416-partition-equal-subset-sum/) | Python | 2025-04-07 |
 | leetcode | Medium | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](./leetcode/Medium/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color/) | Python | 2023-10-02 |
 | leetcode | Medium | [0802-find-eventual-safe-states](./leetcode/Medium/0802-find-eventual-safe-states/) | Python | 2025-01-24 |
-| leetcode | Medium | [0486-predict-the-winner](./leetcode/Medium/0486-predict-the-winner/) | Python | 2023-08-14 |
+| leetcode | Medium | [0486-predict-the-winner](./leetcode/Medium/0486-predict-the-winner/) | Python | 2026-08-01 |
 | leetcode | Medium | [0808-soup-servings](./leetcode/Medium/0808-soup-servings/) | Python | 2023-08-14 |
 | leetcode | Medium | [1441-build-an-array-with-stack-operations](./leetcode/Medium/1441-build-an-array-with-stack-operations/) | Python | 2023-11-03 |
 | leetcode | Medium | [0078-subsets](./leetcode/Medium/0078-subsets/) | Python | 2024-05-21 |
