@@ -753,6 +753,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [2270-number-of-ways-to-split-array](./leetcode/Medium/2270-number-of-ways-to-split-array/) | Python | 2025-01-03 |
 | leetcode | Medium | [1727-largest-submatrix-with-rearrangements](./leetcode/Medium/1727-largest-submatrix-with-rearrangements/) | Python | 2023-11-27 |
 | leetcode | Medium | [0176-second-highest-salary](./leetcode/Medium/0176-second-highest-salary/) | SQL | 2024-09-14 |
+| leetcode | Medium | [0877-stone-game](./leetcode/Medium/0877-stone-game/) | Python | 2026-08-02 |
 | leetcode | Medium | [0074-search-a-2d-matrix](./leetcode/Medium/0074-search-a-2d-matrix/) | C++,Python | 2023-08-14 |
 | leetcode | Medium | [0451-sort-characters-by-frequency](./leetcode/Medium/0451-sort-characters-by-frequency/) | Python | 2024-02-07 |
 | leetcode | Medium | [1657-determine-if-two-strings-are-close](./leetcode/Medium/1657-determine-if-two-strings-are-close/) | Python | 2024-09-14 |
