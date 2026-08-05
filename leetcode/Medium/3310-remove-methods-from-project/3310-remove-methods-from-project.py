@@ -1,5 +1,7 @@
 class Solution:
-    def remainingMethods(self, n: int, k: int, invocations: List[List[int]]) -> List[int]:
+    def remainingMethods(
+        self, n: int, k: int, invocations: List[List[int]]
+    ) -> List[int]:
         graph = defaultdict(list)
         for s, e in invocations:
             graph[s].append(e)

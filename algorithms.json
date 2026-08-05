@@ -7194,6 +7194,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "3310-remove-methods-from-project",
+    "languages": "Python",
+    "last_commit_date": "2026-08-05",
+    "slug": "leetcode/Medium/3310-remove-methods-from-project"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "2048-next-greater-numerically-balanced-number",
     "languages": "Python",
     "last_commit_date": "2025-10-25",

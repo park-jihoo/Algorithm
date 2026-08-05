@@ -903,6 +903,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [0237-delete-node-in-a-linked-list](./leetcode/Medium/0237-delete-node-in-a-linked-list/) | C++,Python | 2024-09-14 |
 | leetcode | Medium | [0646-maximum-length-of-pair-chain](./leetcode/Medium/0646-maximum-length-of-pair-chain/) | Python | 2023-08-26 |
 | leetcode | Medium | [0735-asteroid-collision](./leetcode/Medium/0735-asteroid-collision/) | Python | 2023-08-14 |
+| leetcode | Medium | [3310-remove-methods-from-project](./leetcode/Medium/3310-remove-methods-from-project/) | Python | 2026-08-05 |
 | leetcode | Medium | [2048-next-greater-numerically-balanced-number](./leetcode/Medium/2048-next-greater-numerically-balanced-number/) | Python | 2025-10-25 |
 | leetcode | Medium | [0852-peak-index-in-a-mountain-array](./leetcode/Medium/0852-peak-index-in-a-mountain-array/) | C++,Java,Python | 2023-08-14 |
 | leetcode | Medium | [0649-dota2-senate](./leetcode/Medium/0649-dota2-senate/) | Python | 2023-08-14 |
