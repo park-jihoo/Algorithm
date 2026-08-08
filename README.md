@@ -549,6 +549,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [3346-maximum-frequency-of-an-element-after-performing-operations-i](./leetcode/Medium/3346-maximum-frequency-of-an-element-after-performing-operations-i/) | Unknown | 2025-10-21 |
 | leetcode | Medium | [2115-find-all-possible-recipes-from-given-supplies](./leetcode/Medium/2115-find-all-possible-recipes-from-given-supplies/) | Python | 2025-03-21 |
 | leetcode | Medium | [0576-out-of-boundary-paths](./leetcode/Medium/0576-out-of-boundary-paths/) | Python | 2024-01-26 |
+| leetcode | Medium | [3302-find-the-lexicographically-smallest-valid-sequence](./leetcode/Medium/3302-find-the-lexicographically-smallest-valid-sequence/) | Python | 2026-08-08 |
 | leetcode | Medium | [0241-different-ways-to-add-parentheses](./leetcode/Medium/0241-different-ways-to-add-parentheses/) | Python | 2024-09-19 |
 | leetcode | Medium | [0779-k-th-symbol-in-grammar](./leetcode/Medium/0779-k-th-symbol-in-grammar/) | Python | 2023-10-25 |
 | leetcode | Medium | [1081-smallest-subsequence-of-distinct-characters](./leetcode/Medium/1081-smallest-subsequence-of-distinct-characters/) | Python | 2024-09-14 |
