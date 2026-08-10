@@ -431,6 +431,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Hard | [3510-minimum-pair-removal-to-sort-array-ii](./leetcode/Hard/3510-minimum-pair-removal-to-sort-array-ii/) | Python | 2026-01-24 |
 | leetcode | Hard | [1912-design-movie-rental-system](./leetcode/Hard/1912-design-movie-rental-system/) | Python | 2025-09-21 |
 | leetcode | Hard | [2218-maximum-value-of-k-coins-from-piles](./leetcode/Hard/2218-maximum-value-of-k-coins-from-piles/) | Python | 2024-09-14 |
+| leetcode | Hard | [1510-stone-game-iv](./leetcode/Hard/1510-stone-game-iv/) | Python | 2026-08-10 |
 | leetcode | Hard | [1187-make-array-strictly-increasing](./leetcode/Hard/1187-make-array-strictly-increasing/) | Java | 2024-09-14 |
 | leetcode | Hard | [1406-stone-game-iii](./leetcode/Hard/1406-stone-game-iii/) | Python | 2023-08-14 |
 | leetcode | Hard | [1220-count-vowels-permutation](./leetcode/Hard/1220-count-vowels-permutation/) | Python | 2023-10-28 |
