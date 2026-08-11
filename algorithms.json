@@ -338,6 +338,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Easy",
+    "problem_name": "2996-smallest-missing-integer-greater-than-sequential-prefix-sum",
+    "languages": "Python",
+    "last_commit_date": "2026-08-11",
+    "slug": "leetcode/Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Easy",
     "problem_name": "3392-count-subarrays-of-length-three-with-a-condition",
     "languages": "Python",
     "last_commit_date": "2025-04-27",

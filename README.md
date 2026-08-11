@@ -46,6 +46,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [1232-check-if-it-is-a-straight-line](./leetcode/Easy/1232-check-if-it-is-a-straight-line/) | Python | 2024-09-14 |
 | leetcode | Easy | [1971-find-if-path-exists-in-graph](./leetcode/Easy/1971-find-if-path-exists-in-graph/) | Python | 2024-04-21 |
 | leetcode | Easy | [1523-count-odd-numbers-in-an-interval-range](./leetcode/Easy/1523-count-odd-numbers-in-an-interval-range/) | Python | 2025-12-07 |
+| leetcode | Easy | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](./leetcode/Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Python | 2026-08-11 |
 | leetcode | Easy | [3392-count-subarrays-of-length-three-with-a-condition](./leetcode/Easy/3392-count-subarrays-of-length-three-with-a-condition/) | Python | 2025-04-27 |
 | leetcode | Easy | [0594-longest-harmonious-subsequence](./leetcode/Easy/0594-longest-harmonious-subsequence/) | Python | 2025-06-30 |
 | leetcode | Easy | [0645-set-mismatch](./leetcode/Easy/0645-set-mismatch/) | Python | 2024-09-14 |
