@@ -473,7 +473,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [1472-design-browser-history](./leetcode/Medium/1472-design-browser-history/) | Python | 2024-09-14 |
 | leetcode | Medium | [0260-single-number-iii](./leetcode/Medium/0260-single-number-iii/) | Python | 2024-05-31 |
 | leetcode | Medium | [1325-delete-leaves-with-a-given-value](./leetcode/Medium/1325-delete-leaves-with-a-given-value/) | Python | 2024-05-17 |
-| leetcode | Medium | [2958-length-of-longest-subarray-with-at-most-k-frequency](./leetcode/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Python | 2024-03-28 |
+| leetcode | Medium | [2958-length-of-longest-subarray-with-at-most-k-frequency](./leetcode/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Python | 2026-08-12 |
 | leetcode | Medium | [1726-tuple-with-same-product](./leetcode/Medium/1726-tuple-with-same-product/) | Python | 2025-02-06 |
 | leetcode | Medium | [0592-fraction-addition-and-subtraction](./leetcode/Medium/0592-fraction-addition-and-subtraction/) | Python | 2024-08-23 |
 | leetcode | Medium | [3208-alternating-groups-ii](./leetcode/Medium/3208-alternating-groups-ii/) | Python | 2025-03-09 |
