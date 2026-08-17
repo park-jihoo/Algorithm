@@ -97,6 +97,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [0791-custom-sort-string](./leetcode/Medium/0791-custom-sort-string/) | Python | 2024-03-11 |
 | leetcode | Medium | [2070-most-beautiful-item-for-each-query](./leetcode/Medium/2070-most-beautiful-item-for-each-query/) | Python | 2024-11-12 |
 | leetcode | Medium | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](./leetcode/Medium/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Python | 2024-09-14 |
+| leetcode | Medium | [2029-stone-game-ix](./leetcode/Medium/2029-stone-game-ix/) | Python | 2026-08-17 |
 | leetcode | Medium | [1609-even-odd-tree](./leetcode/Medium/1609-even-odd-tree/) | Python | 2024-02-29 |
 | leetcode | Medium | [3043-find-the-length-of-the-longest-common-prefix](./leetcode/Medium/3043-find-the-length-of-the-longest-common-prefix/) | Python | 2024-09-24 |
 | leetcode | Medium | [0673-number-of-longest-increasing-subsequence](./leetcode/Medium/0673-number-of-longest-increasing-subsequence/) | Python | 2023-08-14 |

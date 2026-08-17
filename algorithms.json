@@ -746,6 +746,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "2029-stone-game-ix",
+    "languages": "Python",
+    "last_commit_date": "2026-08-17",
+    "slug": "leetcode/Medium/2029-stone-game-ix"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "1609-even-odd-tree",
     "languages": "Python",
     "last_commit_date": "2024-02-29",
