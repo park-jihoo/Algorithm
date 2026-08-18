@@ -992,6 +992,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [2784-check-if-array-is-good](./leetcode/Easy/2784-check-if-array-is-good/) | Python | 2026-05-14 |
 | leetcode | Easy | [1903-largest-odd-number-in-string](./leetcode/Easy/1903-largest-odd-number-in-string/) | Python | 2023-12-21 |
 | leetcode | Easy | [1979-find-greatest-common-divisor-of-array](./leetcode/Easy/1979-find-greatest-common-divisor-of-array/) | Unknown | 2026-07-18 |
+| leetcode | Easy | [3471-find-the-largest-almost-missing-integer](./leetcode/Easy/3471-find-the-largest-almost-missing-integer/) | Python | 2026-08-18 |
 | leetcode | Easy | [1758-minimum-changes-to-make-alternating-binary-string](./leetcode/Easy/1758-minimum-changes-to-make-alternating-binary-string/) | Python | 2023-12-24 |
 | leetcode | Easy | [1207-unique-number-of-occurrences](./leetcode/Easy/1207-unique-number-of-occurrences/) | Python | 2024-01-17 |
 | leetcode | Easy | [2215-find-the-difference-of-two-arrays](./leetcode/Easy/2215-find-the-difference-of-two-arrays/) | C++,Java,JavaScript,Python | 2024-09-14 |

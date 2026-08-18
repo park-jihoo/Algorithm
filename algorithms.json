@@ -7906,6 +7906,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Easy",
+    "problem_name": "3471-find-the-largest-almost-missing-integer",
+    "languages": "Python",
+    "last_commit_date": "2026-08-18",
+    "slug": "leetcode/Easy/3471-find-the-largest-almost-missing-integer"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Easy",
     "problem_name": "1758-minimum-changes-to-make-alternating-binary-string",
     "languages": "Python",
     "last_commit_date": "2023-12-24",
