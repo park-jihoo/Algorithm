@@ -1522,6 +1522,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "1386-cinema-seat-allocation",
+    "languages": "Python",
+    "last_commit_date": "2026-08-19",
+    "slug": "leetcode/Medium/1386-cinema-seat-allocation"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "1615-range-sum-of-sorted-subarray-sums",
     "languages": "Python",
     "last_commit_date": "2024-08-04",

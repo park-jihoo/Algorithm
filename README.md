@@ -194,6 +194,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [1915-number-of-wonderful-substrings](./leetcode/Medium/1915-number-of-wonderful-substrings/) | Python | 2024-09-14 |
 | leetcode | Medium | [0053-maximum-subarray](./leetcode/Medium/0053-maximum-subarray/) | Python | 2024-07-07 |
 | leetcode | Medium | [0494-target-sum](./leetcode/Medium/0494-target-sum/) | Python | 2024-12-26 |
+| leetcode | Medium | [1386-cinema-seat-allocation](./leetcode/Medium/1386-cinema-seat-allocation/) | Python | 2026-08-19 |
 | leetcode | Medium | [1615-range-sum-of-sorted-subarray-sums](./leetcode/Medium/1615-range-sum-of-sorted-subarray-sums/) | Python | 2024-08-04 |
 | leetcode | Medium | [1759-count-number-of-homogenous-substrings](./leetcode/Medium/1759-count-number-of-homogenous-substrings/) | Python | 2024-09-14 |
 | leetcode | Medium | [1361-validate-binary-tree-nodes](./leetcode/Medium/1361-validate-binary-tree-nodes/) | Python | 2023-10-17 |
