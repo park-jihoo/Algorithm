@@ -1009,6 +1009,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [2073-time-needed-to-buy-tickets](./leetcode/Easy/2073-time-needed-to-buy-tickets/) | Python | 2024-04-09 |
 | leetcode | Easy | [0183-customers-who-never-order](./leetcode/Easy/0183-customers-who-never-order/) | SQL | 2023-12-15 |
 | leetcode | Easy | [2873-maximum-value-of-an-ordered-triplet-i](./leetcode/Easy/2873-maximum-value-of-an-ordered-triplet-i/) | Python | 2025-04-02 |
+| leetcode | Easy | [3069-distribute-elements-into-two-arrays-i](./leetcode/Easy/3069-distribute-elements-into-two-arrays-i/) | Python | 2026-08-20 |
 | leetcode | Easy | [2558-take-gifts-from-the-richest-pile](./leetcode/Easy/2558-take-gifts-from-the-richest-pile/) | Python | 2024-12-14 |
 | leetcode | Easy | [0232-implement-queue-using-stacks](./leetcode/Easy/0232-implement-queue-using-stacks/) | C++,Python | 2024-01-29 |
 | leetcode | Easy | [3151-special-array-i](./leetcode/Easy/3151-special-array-i/) | Python | 2025-02-01 |
