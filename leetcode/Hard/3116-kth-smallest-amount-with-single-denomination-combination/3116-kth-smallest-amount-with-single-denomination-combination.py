@@ -5,14 +5,14 @@ class Solution:
         for i in range(1, n + 1):
             for comb in itertools.combinations(coins, i):
                 dic[len(comb)].append(math.lcm(*comb))
-        
+
         def count(dic, target):
             ans = 0
             for i in range(1, n + 1):
                 for lcm in dic[i]:
                     ans += target // lcm * pow(-1, i + 1)
             return ans
-        
+
         start, end = min(coins), min(coins) * k
         while start + 1 < end:
             mid = (start + end) // 2

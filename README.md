@@ -760,6 +760,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Hard | [2392-build-a-matrix-with-conditions](./leetcode/Hard/2392-build-a-matrix-with-conditions/) | Python | 2024-07-21 |
 | leetcode | Hard | [2197-replace-non-coprime-numbers-in-array](./leetcode/Hard/2197-replace-non-coprime-numbers-in-array/) | Python | 2025-09-16 |
 | leetcode | Hard | [3539-find-sum-of-array-product-of-magical-sequences](./leetcode/Hard/3539-find-sum-of-array-product-of-magical-sequences/) | Python | 2025-10-12 |
+| leetcode | Hard | [3116-kth-smallest-amount-with-single-denomination-combination](./leetcode/Hard/3116-kth-smallest-amount-with-single-denomination-combination/) | Python | 2026-08-21 |
 | leetcode | Hard | [1665-minimum-initial-energy-to-finish-tasks](./leetcode/Hard/1665-minimum-initial-energy-to-finish-tasks/) | Python | 2026-05-12 |
 | leetcode | Hard | [1569-number-of-ways-to-reorder-array-to-get-same-bst](./leetcode/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Java | 2023-08-14 |
 | leetcode | Hard | [3321-find-x-sum-of-all-k-long-subarrays-ii](./leetcode/Hard/3321-find-x-sum-of-all-k-long-subarrays-ii/) | Python | 2025-11-05 |

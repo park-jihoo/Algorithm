@@ -6050,6 +6050,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Hard",
+    "problem_name": "3116-kth-smallest-amount-with-single-denomination-combination",
+    "languages": "Python",
+    "last_commit_date": "2026-08-21",
+    "slug": "leetcode/Hard/3116-kth-smallest-amount-with-single-denomination-combination"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Hard",
     "problem_name": "1665-minimum-initial-energy-to-finish-tasks",
     "languages": "Python",
     "last_commit_date": "2026-05-12",
