@@ -964,6 +964,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [1688-count-of-matches-in-tournament](./leetcode/Easy/1688-count-of-matches-in-tournament/) | Python | 2023-12-12 |
 | leetcode | Easy | [2946-matrix-similarity-after-cyclic-shifts](./leetcode/Easy/2946-matrix-similarity-after-cyclic-shifts/) | Python | 2026-03-27 |
 | leetcode | Easy | [0557-reverse-words-in-a-string-iii](./leetcode/Easy/0557-reverse-words-in-a-string-iii/) | Python | 2023-10-01 |
+| leetcode | Easy | [3622-check-divisibility-by-digit-sum-and-product](./leetcode/Easy/3622-check-divisibility-by-digit-sum-and-product/) | Python | 2026-08-22 |
 | leetcode | Easy | [0744-find-smallest-letter-greater-than-target](./leetcode/Easy/0744-find-smallest-letter-greater-than-target/) | Python | 2023-08-14 |
 | leetcode | Easy | [1704-determine-if-string-halves-are-alike](./leetcode/Easy/1704-determine-if-string-halves-are-alike/) | Python | 2024-01-12 |
 | leetcode | Easy | [0876-middle-of-the-linked-list](./leetcode/Easy/0876-middle-of-the-linked-list/) | Python | 2024-03-07 |
