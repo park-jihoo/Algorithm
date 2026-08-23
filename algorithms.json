@@ -3154,6 +3154,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "1927-sum-game",
+    "languages": "Python",
+    "last_commit_date": "2026-08-23",
+    "slug": "leetcode/Medium/1927-sum-game"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "2415-reverse-odd-levels-of-binary-tree",
     "languages": "Python",
     "last_commit_date": "2024-12-20",

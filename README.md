@@ -398,6 +398,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [1072-flip-columns-for-maximum-number-of-equal-rows](./leetcode/Medium/1072-flip-columns-for-maximum-number-of-equal-rows/) | Python | 2024-11-22 |
 | leetcode | Medium | [2187-minimum-time-to-complete-trips](./leetcode/Medium/2187-minimum-time-to-complete-trips/) | Python | 2024-09-14 |
 | leetcode | Medium | [3443-maximum-manhattan-distance-after-k-changes](./leetcode/Medium/3443-maximum-manhattan-distance-after-k-changes/) | Python | 2025-06-20 |
+| leetcode | Medium | [1927-sum-game](./leetcode/Medium/1927-sum-game/) | Python | 2026-08-23 |
 | leetcode | Medium | [2415-reverse-odd-levels-of-binary-tree](./leetcode/Medium/2415-reverse-odd-levels-of-binary-tree/) | Python | 2024-12-20 |
 | leetcode | Medium | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](./leetcode/Medium/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Python | 2023-08-14 |
 | leetcode | Medium | [3607-power-grid-maintenance](./leetcode/Medium/3607-power-grid-maintenance/) | Python | 2025-11-06 |
