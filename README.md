@@ -844,6 +844,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Hard | [0857-minimum-cost-to-hire-k-workers](./leetcode/Hard/0857-minimum-cost-to-hire-k-workers/) | Python | 2024-05-11 |
 | leetcode | Hard | [2503-maximum-number-of-points-from-grid-queries](./leetcode/Hard/2503-maximum-number-of-points-from-grid-queries/) | Python | 2025-03-28 |
 | leetcode | Hard | [1028-recover-a-tree-from-preorder-traversal](./leetcode/Hard/1028-recover-a-tree-from-preorder-traversal/) | Python | 2025-02-22 |
+| leetcode | Hard | [1872-stone-game-viii](./leetcode/Hard/1872-stone-game-viii/) | Python | 2026-08-24 |
 | leetcode | Hard | [0839-similar-string-groups](./leetcode/Hard/0839-similar-string-groups/) | Python | 2024-09-14 |
 | leetcode | Hard | [1255-maximum-score-words-formed-by-letters](./leetcode/Hard/1255-maximum-score-words-formed-by-letters/) | Python | 2024-05-24 |
 | leetcode | Hard | [0564-find-the-closest-palindrome](./leetcode/Hard/0564-find-the-closest-palindrome/) | Python | 2024-08-24 |
