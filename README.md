@@ -962,6 +962,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [3658-gcd-of-odd-and-even-sums](./leetcode/Easy/3658-gcd-of-odd-and-even-sums/) | Python | 2026-07-15 |
 | leetcode | Easy | [2037-minimum-number-of-moves-to-seat-everyone](./leetcode/Easy/2037-minimum-number-of-moves-to-seat-everyone/) | Python | 2024-06-13 |
 | leetcode | Easy | [2169-count-operations-to-obtain-zero](./leetcode/Easy/2169-count-operations-to-obtain-zero/) | Python | 2025-11-09 |
+| leetcode | Easy | [3718-smallest-missing-multiple-of-k](./leetcode/Easy/3718-smallest-missing-multiple-of-k/) | Python | 2026-08-25 |
 | leetcode | Easy | [1408-string-matching-in-an-array](./leetcode/Easy/1408-string-matching-in-an-array/) | Python | 2025-01-07 |
 | leetcode | Easy | [1688-count-of-matches-in-tournament](./leetcode/Easy/1688-count-of-matches-in-tournament/) | Python | 2023-12-12 |
 | leetcode | Easy | [2946-matrix-similarity-after-cyclic-shifts](./leetcode/Easy/2946-matrix-similarity-after-cyclic-shifts/) | Python | 2026-03-27 |
