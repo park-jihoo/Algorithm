@@ -1290,6 +1290,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "2904-shortest-and-lexicographically-smallest-beautiful-string",
+    "languages": "Python",
+    "last_commit_date": "2026-08-26",
+    "slug": "leetcode/Medium/2904-shortest-and-lexicographically-smallest-beautiful-string"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "1325-delete-leaves-with-a-given-value",
     "languages": "Python",
     "last_commit_date": "2024-05-17",

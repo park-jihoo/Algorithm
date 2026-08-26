@@ -165,6 +165,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [0999-regions-cut-by-slashes](./leetcode/Medium/0999-regions-cut-by-slashes/) | Python | 2024-08-10 |
 | leetcode | Medium | [0547-number-of-provinces](./leetcode/Medium/0547-number-of-provinces/) | Python | 2023-08-14 |
 | leetcode | Medium | [0646-maximum-length-of-pair-chain](./leetcode/Medium/0646-maximum-length-of-pair-chain/) | Python | 2023-08-26 |
+| leetcode | Medium | [2904-shortest-and-lexicographically-smallest-beautiful-string](./leetcode/Medium/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Python | 2026-08-26 |
 | leetcode | Medium | [1325-delete-leaves-with-a-given-value](./leetcode/Medium/1325-delete-leaves-with-a-given-value/) | Python | 2024-05-17 |
 | leetcode | Medium | [1400-construct-k-palindrome-strings](./leetcode/Medium/1400-construct-k-palindrome-strings/) | Python | 2025-01-11 |
 | leetcode | Medium | [0382-linked-list-random-node](./leetcode/Medium/0382-linked-list-random-node/) | Python | 2024-09-14 |
