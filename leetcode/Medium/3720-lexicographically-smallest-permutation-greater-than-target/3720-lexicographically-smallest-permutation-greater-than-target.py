@@ -12,8 +12,10 @@ class Solution:
 
             if bigger:
                 available[bigger] -= 1
-                return target[:i] + bigger + ''.join(
-                    c * available[c] for c in sorted(available)
+                return (
+                    target[:i]
+                    + bigger
+                    + "".join(c * available[c] for c in sorted(available))
                 )
 
         return ""

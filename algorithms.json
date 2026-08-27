@@ -3794,6 +3794,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "3720-lexicographically-smallest-permutation-greater-than-target",
+    "languages": "Python",
+    "last_commit_date": "2026-08-27",
+    "slug": "leetcode/Medium/3720-lexicographically-smallest-permutation-greater-than-target"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "2601-prime-subtraction-operation",
     "languages": "Python",
     "last_commit_date": "2024-11-11",

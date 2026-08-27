@@ -478,6 +478,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [0647-palindromic-substrings](./leetcode/Medium/0647-palindromic-substrings/) | Python | 2024-02-10 |
 | leetcode | Medium | [0498-diagonal-traverse](./leetcode/Medium/0498-diagonal-traverse/) | Python | 2025-08-25 |
 | leetcode | Medium | [2134-minimum-swaps-to-group-all-1s-together-ii](./leetcode/Medium/2134-minimum-swaps-to-group-all-1s-together-ii/) | Python | 2024-08-02 |
+| leetcode | Medium | [3720-lexicographically-smallest-permutation-greater-than-target](./leetcode/Medium/3720-lexicographically-smallest-permutation-greater-than-target/) | Python | 2026-08-27 |
 | leetcode | Medium | [2601-prime-subtraction-operation](./leetcode/Medium/2601-prime-subtraction-operation/) | Python | 2024-11-11 |
 | leetcode | Medium | [0921-minimum-add-to-make-parentheses-valid](./leetcode/Medium/0921-minimum-add-to-make-parentheses-valid/) | Python | 2024-10-09 |
 | leetcode | Medium | [0451-sort-characters-by-frequency](./leetcode/Medium/0451-sort-characters-by-frequency/) | Python | 2024-02-07 |
