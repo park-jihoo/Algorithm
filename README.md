@@ -838,6 +838,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Hard | [1406-stone-game-iii](./leetcode/Hard/1406-stone-game-iii/) | Python | 2023-08-14 |
 | leetcode | Hard | [0719-find-k-th-smallest-pair-distance](./leetcode/Hard/0719-find-k-th-smallest-pair-distance/) | Python | 2024-08-14 |
 | leetcode | Hard | [1203-sort-items-by-groups-respecting-dependencies](./leetcode/Hard/1203-sort-items-by-groups-respecting-dependencies/) | Python | 2023-08-20 |
+| leetcode | Hard | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](./leetcode/Hard/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Python | 2026-08-28 |
 | leetcode | Hard | [2818-apply-operations-to-maximize-score](./leetcode/Hard/2818-apply-operations-to-maximize-score/) | Python | 2025-03-29 |
 | leetcode | Hard | [2251-number-of-flowers-in-full-bloom](./leetcode/Hard/2251-number-of-flowers-in-full-bloom/) | Python | 2023-12-21 |
 | leetcode | Hard | [3203-find-minimum-diameter-after-merging-two-trees](./leetcode/Hard/3203-find-minimum-diameter-after-merging-two-trees/) | Python | 2024-12-24 |

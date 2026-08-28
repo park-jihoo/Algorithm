@@ -1,14 +1,16 @@
 class Solution:
     def lexPalindromicPermutation(self, s: str, target: str) -> str:
         freq = Counter(s)
-        
+
         def check() -> bool:
             return all(v >= 0 for v in freq.values())
 
-        center = ''
+        center = ""
         for x, v in freq.items():
-            if v % 2 == 0: continue
-            if center: return ""
+            if v % 2 == 0:
+                continue
+            if center:
+                return ""
             center = x
             freq[x] -= 1
 
@@ -26,14 +28,16 @@ class Solution:
         for i in range(half - 1, -1, -1):
             w = target[i]
             freq[w] += 2
-            if not check(): continue
+            if not check():
+                continue
 
-            for j in range(ord(w) - ord('a') + 1, 26):
+            for j in range(ord(w) - ord("a") + 1, 26):
                 x = ascii_lowercase[j]
-                if freq[x] == 0: continue
+                if freq[x] == 0:
+                    continue
 
                 freq[x] -= 2
-                result = list(target[:i + 1])
+                result = list(target[: i + 1])
                 result[i] = x
 
                 for x in ascii_lowercase:
@@ -43,6 +47,6 @@ class Solution:
                 result.append(center)
                 result += tail
 
-                return ''.join(result)
+                return "".join(result)
 
-        return ''
+        return ""
