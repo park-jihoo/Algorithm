@@ -1418,6 +1418,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "2091-removing-minimum-and-maximum-from-array",
+    "languages": "Python",
+    "last_commit_date": "2026-08-30",
+    "slug": "leetcode/Medium/2091-removing-minimum-and-maximum-from-array"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "2583-kth-largest-sum-in-a-binary-tree",
     "languages": "Python",
     "last_commit_date": "2024-10-22",

@@ -181,6 +181,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [0049-group-anagrams](./leetcode/Medium/0049-group-anagrams/) | C++,Python | 2024-02-06 |
 | leetcode | Medium | [3335-total-characters-in-string-after-transformations-i](./leetcode/Medium/3335-total-characters-in-string-after-transformations-i/) | Python | 2025-05-13 |
 | leetcode | Medium | [0916-word-subsets](./leetcode/Medium/0916-word-subsets/) | Python | 2025-01-11 |
+| leetcode | Medium | [2091-removing-minimum-and-maximum-from-array](./leetcode/Medium/2091-removing-minimum-and-maximum-from-array/) | Python | 2026-08-30 |
 | leetcode | Medium | [2583-kth-largest-sum-in-a-binary-tree](./leetcode/Medium/2583-kth-largest-sum-in-a-binary-tree/) | Python | 2024-10-22 |
 | leetcode | Medium | [1052-grumpy-bookstore-owner](./leetcode/Medium/1052-grumpy-bookstore-owner/) | Python | 2024-06-21 |
 | leetcode | Medium | [3751-total-waviness-of-numbers-in-range-i](./leetcode/Medium/3751-total-waviness-of-numbers-in-range-i/) | Unknown | 2026-06-04 |
