@@ -580,7 +580,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [2349-design-a-number-container-system](./leetcode/Medium/2349-design-a-number-container-system/) | Python | 2025-02-08 |
 | leetcode | Medium | [0211-design-add-and-search-words-data-structure](./leetcode/Medium/0211-design-add-and-search-words-data-structure/) | Python | 2024-09-14 |
 | leetcode | Medium | [0279-perfect-squares](./leetcode/Medium/0279-perfect-squares/) | Python | 2024-02-08 |
-| leetcode | Medium | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](./leetcode/Medium/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Python | 2024-07-05 |
+| leetcode | Medium | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](./leetcode/Medium/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Python | 2026-08-31 |
 | leetcode | Medium | [1557-minimum-number-of-vertices-to-reach-all-nodes](./leetcode/Medium/1557-minimum-number-of-vertices-to-reach-all-nodes/) | Python | 2024-09-14 |
 | leetcode | Medium | [3201-find-the-maximum-length-of-valid-subsequence-i](./leetcode/Medium/3201-find-the-maximum-length-of-valid-subsequence-i/) | Python | 2025-07-16 |
 | leetcode | Medium | [3100-water-bottles-ii](./leetcode/Medium/3100-water-bottles-ii/) | Unknown | 2025-10-02 |
