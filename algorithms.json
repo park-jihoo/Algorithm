@@ -2642,6 +2642,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "3568-minimum-moves-to-clean-the-classroom",
+    "languages": "Python",
+    "last_commit_date": "2026-09-01",
+    "slug": "leetcode/Medium/3568-minimum-moves-to-clean-the-classroom"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "3660-jump-game-ix",
     "languages": "Python",
     "last_commit_date": "2026-05-07",

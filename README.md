@@ -334,6 +334,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [1877-minimize-maximum-pair-sum-in-array](./leetcode/Medium/1877-minimize-maximum-pair-sum-in-array/) | Python | 2026-01-24 |
 | leetcode | Medium | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](./leetcode/Medium/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level/) | Python | 2024-12-23 |
 | leetcode | Medium | [2311-longest-binary-subsequence-less-than-or-equal-to-k](./leetcode/Medium/2311-longest-binary-subsequence-less-than-or-equal-to-k/) | Python | 2025-06-26 |
+| leetcode | Medium | [3568-minimum-moves-to-clean-the-classroom](./leetcode/Medium/3568-minimum-moves-to-clean-the-classroom/) | Python | 2026-09-01 |
 | leetcode | Medium | [3660-jump-game-ix](./leetcode/Medium/3660-jump-game-ix/) | Python | 2026-05-07 |
 | leetcode | Medium | [3484-design-spreadsheet](./leetcode/Medium/3484-design-spreadsheet/) | Python | 2025-09-19 |
 | leetcode | Medium | [2685-count-the-number-of-complete-components](./leetcode/Medium/2685-count-the-number-of-complete-components/) | Python | 2025-03-22 |
