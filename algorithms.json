@@ -8714,6 +8714,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Easy",
+    "problem_name": "3875-construct-uniform-parity-array-i",
+    "languages": "Python",
+    "last_commit_date": "2026-09-02",
+    "slug": "leetcode/Easy/3875-construct-uniform-parity-array-i"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Easy",
     "problem_name": "1716-calculate-money-in-leetcode-bank",
     "languages": "Python",
     "last_commit_date": "2023-12-12",

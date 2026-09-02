@@ -1093,6 +1093,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [2582-pass-the-pillow](./leetcode/Easy/2582-pass-the-pillow/) | Python | 2024-07-06 |
 | leetcode | Easy | [1572-matrix-diagonal-sum](./leetcode/Easy/1572-matrix-diagonal-sum/) | JavaScript,Python | 2023-08-14 |
 | leetcode | Easy | [1331-rank-transform-of-an-array](./leetcode/Easy/1331-rank-transform-of-an-array/) | Python | 2024-10-02 |
+| leetcode | Easy | [3875-construct-uniform-parity-array-i](./leetcode/Easy/3875-construct-uniform-parity-array-i/) | Python | 2026-09-02 |
 | leetcode | Easy | [1716-calculate-money-in-leetcode-bank](./leetcode/Easy/1716-calculate-money-in-leetcode-bank/) | Python | 2023-12-12 |
 | leetcode | Easy | [2553-separate-the-digits-in-an-array](./leetcode/Easy/2553-separate-the-digits-in-an-array/) | Python | 2026-05-11 |
 | leetcode | Easy | [0717-1-bit-and-2-bit-characters](./leetcode/Easy/0717-1-bit-and-2-bit-characters/) | Python | 2025-11-18 |
