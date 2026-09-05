@@ -408,6 +408,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [0896-monotonic-array](./leetcode/Easy/0896-monotonic-array/) | Python | 2023-09-29 |
 | leetcode | Easy | [0326-power-of-three](./leetcode/Easy/0326-power-of-three/) | Python | 2025-08-13 |
 | leetcode | Easy | [0121-best-time-to-buy-and-sell-stock](./leetcode/Easy/0121-best-time-to-buy-and-sell-stock/) | Python | 2023-08-14 |
+| leetcode | Medium | [3904-smallest-stable-index-ii](./leetcode/Medium/3904-smallest-stable-index-ii/) | Python | 2026-09-06 |
 | leetcode | Medium | [1884-egg-drop-with-2-eggs-and-n-floors](./leetcode/Medium/1884-egg-drop-with-2-eggs-and-n-floors/) | Python | 2023-09-18 |
 | leetcode | Medium | [3499-maximize-active-section-with-trade-i](./leetcode/Medium/3499-maximize-active-section-with-trade-i/) | Python | 2026-07-21 |
 | leetcode | Medium | [0086-partition-list](./leetcode/Medium/0086-partition-list/) | Python | 2023-08-15 |
