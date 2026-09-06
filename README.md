@@ -408,7 +408,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [0896-monotonic-array](./leetcode/Easy/0896-monotonic-array/) | Python | 2023-09-29 |
 | leetcode | Easy | [0326-power-of-three](./leetcode/Easy/0326-power-of-three/) | Python | 2025-08-13 |
 | leetcode | Easy | [0121-best-time-to-buy-and-sell-stock](./leetcode/Easy/0121-best-time-to-buy-and-sell-stock/) | Python | 2023-08-14 |
-| leetcode | Medium | [3904-smallest-stable-index-ii](./leetcode/Medium/3904-smallest-stable-index-ii/) | Python | 2026-09-06 |
+| leetcode | Medium | [3904-smallest-stable-index-ii](./leetcode/Medium/3904-smallest-stable-index-ii/) | Python | 2026-09-05 |
 | leetcode | Medium | [1884-egg-drop-with-2-eggs-and-n-floors](./leetcode/Medium/1884-egg-drop-with-2-eggs-and-n-floors/) | Python | 2023-09-18 |
 | leetcode | Medium | [3499-maximize-active-section-with-trade-i](./leetcode/Medium/3499-maximize-active-section-with-trade-i/) | Python | 2026-07-21 |
 | leetcode | Medium | [0086-partition-list](./leetcode/Medium/0086-partition-list/) | Python | 2023-08-15 |
@@ -1140,6 +1140,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Hard | [1106-parsing-a-boolean-expression](./leetcode/Hard/1106-parsing-a-boolean-expression/) | Python | 2024-10-20 |
 | leetcode | Hard | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](./leetcode/Hard/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/) | Python | 2023-08-19 |
 | leetcode | Hard | [1510-stone-game-iv](./leetcode/Hard/1510-stone-game-iv/) | Python | 2026-08-10 |
+| leetcode | Hard | [0115-distinct-subsequences](./leetcode/Hard/0115-distinct-subsequences/) | Python | 2026-09-06 |
 | leetcode | Hard | [3495-minimum-operations-to-make-array-elements-zero](./leetcode/Hard/3495-minimum-operations-to-make-array-elements-zero/) | Python | 2025-09-06 |
 | leetcode | Hard | [2050-parallel-courses-iii](./leetcode/Hard/2050-parallel-courses-iii/) | Python | 2023-12-21 |
 | leetcode | Hard | [1255-maximum-score-words-formed-by-letters](./leetcode/Hard/1255-maximum-score-words-formed-by-letters/) | Python | 2024-05-24 |
