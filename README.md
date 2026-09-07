@@ -1013,6 +1013,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [0955-delete-columns-to-make-sorted-ii](./leetcode/Medium/0955-delete-columns-to-make-sorted-ii/) | Python | 2025-12-21 |
 | leetcode | Hard | [1074-number-of-submatrices-that-sum-to-target](./leetcode/Hard/1074-number-of-submatrices-that-sum-to-target/) | Python | 2024-01-28 |
 | leetcode | Hard | [1622-fancy-sequence](./leetcode/Hard/1622-fancy-sequence/) | Python | 2026-03-15 |
+| leetcode | Hard | [0940-distinct-subsequences-ii](./leetcode/Hard/0940-distinct-subsequences-ii/) | Python | 2026-09-07 |
 | leetcode | Hard | [0214-shortest-palindrome](./leetcode/Hard/0214-shortest-palindrome/) | Python | 2024-09-20 |
 | leetcode | Hard | [2751-robot-collisions](./leetcode/Hard/2751-robot-collisions/) | Python | 2024-07-13 |
 | leetcode | Hard | [0847-shortest-path-visiting-all-nodes](./leetcode/Hard/0847-shortest-path-visiting-all-nodes/) | Python | 2023-09-17 |

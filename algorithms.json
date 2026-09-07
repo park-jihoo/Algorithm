@@ -8074,6 +8074,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Hard",
+    "problem_name": "0940-distinct-subsequences-ii",
+    "languages": "Python",
+    "last_commit_date": "2026-09-07",
+    "slug": "leetcode/Hard/0940-distinct-subsequences-ii"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Hard",
     "problem_name": "0214-shortest-palindrome",
     "languages": "Python",
     "last_commit_date": "2024-09-20",
