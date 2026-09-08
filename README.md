@@ -390,6 +390,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [1464-maximum-product-of-two-elements-in-an-array](./leetcode/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Python | 2026-07-27 |
 | leetcode | Easy | [1137-n-th-tribonacci-number](./leetcode/Easy/1137-n-th-tribonacci-number/) | Python | 2024-09-14 |
 | leetcode | Easy | [0989-add-to-array-form-of-integer](./leetcode/Easy/0989-add-to-array-form-of-integer/) | Python | 2023-08-14 |
+| leetcode | Easy | [3870-count-commas-in-range](./leetcode/Easy/3870-count-commas-in-range/) | Python | 2026-09-08 |
 | leetcode | Easy | [0101-symmetric-tree](./leetcode/Easy/0101-symmetric-tree/) | Python | 2024-09-14 |
 | leetcode | Easy | [0605-can-place-flowers](./leetcode/Easy/0605-can-place-flowers/) | Python | 2024-09-14 |
 | leetcode | Easy | [0035-search-insert-position](./leetcode/Easy/0035-search-insert-position/) | C,C++,Java,Python | 2024-09-14 |
