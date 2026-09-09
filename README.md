@@ -935,6 +935,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [2337-move-pieces-to-obtain-a-string](./leetcode/Medium/2337-move-pieces-to-obtain-a-string/) | Python | 2024-12-05 |
 | leetcode | Medium | [2492-minimum-score-of-a-path-between-two-cities](./leetcode/Medium/2492-minimum-score-of-a-path-between-two-cities/) | Python | 2026-07-04 |
 | leetcode | Medium | [0802-find-eventual-safe-states](./leetcode/Medium/0802-find-eventual-safe-states/) | Python | 2025-01-24 |
+| leetcode | Medium | [3871-count-commas-in-range-ii](./leetcode/Medium/3871-count-commas-in-range-ii/) | Python | 2026-09-09 |
 | leetcode | Medium | [1733-minimum-number-of-people-to-teach](./leetcode/Medium/1733-minimum-number-of-people-to-teach/) | Python | 2025-09-10 |
 | leetcode | Medium | [3286-find-a-safe-walk-through-a-grid](./leetcode/Medium/3286-find-a-safe-walk-through-a-grid/) | Python | 2026-07-02 |
 | leetcode | Medium | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](./leetcode/Medium/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Python | 2023-08-14 |

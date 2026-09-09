@@ -7450,6 +7450,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "3871-count-commas-in-range-ii",
+    "languages": "Python",
+    "last_commit_date": "2026-09-09",
+    "slug": "leetcode/Medium/3871-count-commas-in-range-ii"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "1733-minimum-number-of-people-to-teach",
     "languages": "Python",
     "last_commit_date": "2025-09-10",
