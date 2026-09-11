@@ -298,6 +298,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [0001-two-sum](./leetcode/Easy/0001-two-sum/) | C,C++,Java,JavaScript,Python | 2024-09-14 |
 | leetcode | Easy | [1971-find-if-path-exists-in-graph](./leetcode/Easy/1971-find-if-path-exists-in-graph/) | Python | 2024-04-21 |
 | leetcode | Easy | [0404-sum-of-left-leaves](./leetcode/Easy/0404-sum-of-left-leaves/) | Python | 2024-04-14 |
+| leetcode | Easy | [3483-unique-3-digit-even-numbers](./leetcode/Easy/3483-unique-3-digit-even-numbers/) | Python | 2026-09-11 |
 | leetcode | Easy | [0844-backspace-string-compare](./leetcode/Easy/0844-backspace-string-compare/) | Python | 2023-10-19 |
 | leetcode | Easy | [0501-find-mode-in-binary-search-tree](./leetcode/Easy/0501-find-mode-in-binary-search-tree/) | Python | 2024-09-14 |
 | leetcode | Easy | [1916-find-center-of-star-graph](./leetcode/Easy/1916-find-center-of-star-graph/) | Python | 2024-06-27 |
