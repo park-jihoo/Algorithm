@@ -8946,6 +8946,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Hard",
+    "problem_name": "3414-maximum-score-of-non-overlapping-intervals",
+    "languages": "Python",
+    "last_commit_date": "2026-09-12",
+    "slug": "leetcode/Hard/3414-maximum-score-of-non-overlapping-intervals"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Hard",
     "problem_name": "3203-find-minimum-diameter-after-merging-two-trees",
     "languages": "Python",
     "last_commit_date": "2024-12-24",

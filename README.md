@@ -1122,6 +1122,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Hard | [1411-number-of-ways-to-paint-n-3-grid](./leetcode/Hard/1411-number-of-ways-to-paint-n-3-grid/) | Python | 2026-01-03 |
 | leetcode | Hard | [0502-ipo](./leetcode/Hard/0502-ipo/) | Python | 2024-06-15 |
 | leetcode | Hard | [0564-find-the-closest-palindrome](./leetcode/Hard/0564-find-the-closest-palindrome/) | Python | 2024-08-24 |
+| leetcode | Hard | [3414-maximum-score-of-non-overlapping-intervals](./leetcode/Hard/3414-maximum-score-of-non-overlapping-intervals/) | Python | 2026-09-12 |
 | leetcode | Hard | [3203-find-minimum-diameter-after-merging-two-trees](./leetcode/Hard/3203-find-minimum-diameter-after-merging-two-trees/) | Python | 2024-12-24 |
 | leetcode | Hard | [2742-painting-the-walls](./leetcode/Hard/2742-painting-the-walls/) | Python | 2023-10-14 |
 | leetcode | Hard | [2999-count-the-number-of-powerful-integers](./leetcode/Hard/2999-count-the-number-of-powerful-integers/) | Python | 2025-04-10 |
