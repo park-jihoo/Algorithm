@@ -193,6 +193,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [2833-furthest-point-from-origin](./leetcode/Easy/2833-furthest-point-from-origin/) | Python | 2026-04-24 |
 | leetcode | Easy | [1128-number-of-equivalent-domino-pairs](./leetcode/Easy/1128-number-of-equivalent-domino-pairs/) | Python | 2025-05-04 |
 | leetcode | Easy | [2460-apply-operations-to-an-array](./leetcode/Easy/2460-apply-operations-to-an-array/) | Python | 2025-03-01 |
+| leetcode | Easy | [0836-rectangle-overlap](./leetcode/Easy/0836-rectangle-overlap/) | Python | 2026-09-14 |
 | leetcode | Easy | [0110-balanced-binary-tree](./leetcode/Easy/0110-balanced-binary-tree/) | Python | 2026-02-08 |
 | leetcode | Easy | [0094-binary-tree-inorder-traversal](./leetcode/Easy/0094-binary-tree-inorder-traversal/) | Python | 2024-09-14 |
 | leetcode | Easy | [3300-minimum-element-after-replacement-with-digit-sum](./leetcode/Easy/3300-minimum-element-after-replacement-with-digit-sum/) | Python | 2026-05-29 |
@@ -968,6 +969,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [3346-maximum-frequency-of-an-element-after-performing-operations-i](./leetcode/Medium/3346-maximum-frequency-of-an-element-after-performing-operations-i/) | Unknown | 2025-10-21 |
 | leetcode | Medium | [0823-binary-trees-with-factors](./leetcode/Medium/0823-binary-trees-with-factors/) | Python | 2023-10-26 |
 | leetcode | Medium | [0788-rotated-digits](./leetcode/Medium/0788-rotated-digits/) | Python | 2026-05-02 |
+| leetcode | Medium | [0835-image-overlap](./leetcode/Medium/0835-image-overlap/) | Unknown | 2026-09-13 |
 | leetcode | Medium | [0756-pyramid-transition-matrix](./leetcode/Medium/0756-pyramid-transition-matrix/) | Unknown | 2025-12-29 |
 | leetcode | Medium | [0592-fraction-addition-and-subtraction](./leetcode/Medium/0592-fraction-addition-and-subtraction/) | Python | 2024-08-23 |
 | leetcode | Medium | [0921-minimum-add-to-make-parentheses-valid](./leetcode/Medium/0921-minimum-add-to-make-parentheses-valid/) | Python | 2024-10-09 |

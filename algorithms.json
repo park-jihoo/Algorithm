@@ -1514,6 +1514,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Easy",
+    "problem_name": "0836-rectangle-overlap",
+    "languages": "Python",
+    "last_commit_date": "2026-09-14",
+    "slug": "leetcode/Easy/0836-rectangle-overlap"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Easy",
     "problem_name": "0110-balanced-binary-tree",
     "languages": "Python",
     "last_commit_date": "2026-02-08",
@@ -7710,6 +7718,14 @@
     "languages": "Python",
     "last_commit_date": "2026-05-02",
     "slug": "leetcode/Medium/0788-rotated-digits"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
+    "problem_name": "0835-image-overlap",
+    "languages": "Unknown",
+    "last_commit_date": "2026-09-13",
+    "slug": "leetcode/Medium/0835-image-overlap"
   },
   {
     "platform": "leetcode",
