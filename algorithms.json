@@ -8530,6 +8530,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Hard",
+    "problem_name": "2472-maximum-number-of-non-overlapping-palindrome-substrings",
+    "languages": "Python",
+    "last_commit_date": "2026-09-15",
+    "slug": "leetcode/Hard/2472-maximum-number-of-non-overlapping-palindrome-substrings"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Hard",
     "problem_name": "1912-design-movie-rental-system",
     "languages": "Python",
     "last_commit_date": "2025-09-21",

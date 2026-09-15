@@ -1070,6 +1070,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Hard | [1840-maximum-building-height](./leetcode/Hard/1840-maximum-building-height/) | Python | 2026-06-20 |
 | leetcode | Hard | [2444-count-subarrays-with-fixed-bounds](./leetcode/Hard/2444-count-subarrays-with-fixed-bounds/) | Python | 2025-04-26 |
 | leetcode | Hard | [3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii](./leetcode/Hard/3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii/) | Python | 2025-05-29 |
+| leetcode | Hard | [2472-maximum-number-of-non-overlapping-palindrome-substrings](./leetcode/Hard/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Python | 2026-09-15 |
 | leetcode | Hard | [1912-design-movie-rental-system](./leetcode/Hard/1912-design-movie-rental-system/) | Python | 2025-09-21 |
 | leetcode | Hard | [2127-maximum-employees-to-be-invited-to-a-meeting](./leetcode/Hard/2127-maximum-employees-to-be-invited-to-a-meeting/) | Python | 2025-01-26 |
 | leetcode | Hard | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](./leetcode/Hard/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Python | 2025-01-18 |
