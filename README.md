@@ -880,6 +880,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [0443-string-compression](./leetcode/Medium/0443-string-compression/) | Python | 2024-09-14 |
 | leetcode | Medium | [0081-search-in-rotated-sorted-array-ii](./leetcode/Medium/0081-search-in-rotated-sorted-array-ii/) | C,C++,Python | 2023-08-14 |
 | leetcode | Medium | [1325-delete-leaves-with-a-given-value](./leetcode/Medium/1325-delete-leaves-with-a-given-value/) | Python | 2024-05-17 |
+| leetcode | Medium | [1621-number-of-sets-of-k-non-overlapping-line-segments](./leetcode/Medium/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Python | 2026-09-16 |
 | leetcode | Medium | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](./leetcode/Medium/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/) | Python | 2026-01-19 |
 | leetcode | Medium | [3453-separate-squares-i](./leetcode/Medium/3453-separate-squares-i/) | Unknown | 2026-01-13 |
 | leetcode | Medium | [3372-maximize-the-number-of-target-nodes-after-connecting-trees-i](./leetcode/Medium/3372-maximize-the-number-of-target-nodes-after-connecting-trees-i/) | Python | 2025-05-28 |

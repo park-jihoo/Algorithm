@@ -7010,6 +7010,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "1621-number-of-sets-of-k-non-overlapping-line-segments",
+    "languages": "Python",
+    "last_commit_date": "2026-09-16",
+    "slug": "leetcode/Medium/1621-number-of-sets-of-k-non-overlapping-line-segments"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold",
     "languages": "Python",
     "last_commit_date": "2026-01-19",
