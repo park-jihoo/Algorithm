@@ -5154,6 +5154,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "1477-find-two-non-overlapping-sub-arrays-each-with-target-sum",
+    "languages": "Python",
+    "last_commit_date": "2026-09-17",
+    "slug": "leetcode/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "0692-top-k-frequent-words",
     "languages": "Python",
     "last_commit_date": "2024-09-14",

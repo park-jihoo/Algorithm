@@ -648,6 +648,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [0241-different-ways-to-add-parentheses](./leetcode/Medium/0241-different-ways-to-add-parentheses/) | Python | 2024-09-19 |
 | leetcode | Medium | [1376-time-needed-to-inform-all-employees](./leetcode/Medium/1376-time-needed-to-inform-all-employees/) | Python | 2023-08-14 |
 | leetcode | Medium | [2067-maximum-number-of-points-with-cost](./leetcode/Medium/2067-maximum-number-of-points-with-cost/) | Python | 2024-08-17 |
+| leetcode | Medium | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](./leetcode/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Python | 2026-09-17 |
 | leetcode | Medium | [0692-top-k-frequent-words](./leetcode/Medium/0692-top-k-frequent-words/) | Python | 2024-09-14 |
 | leetcode | Medium | [0787-cheapest-flights-within-k-stops](./leetcode/Medium/0787-cheapest-flights-within-k-stops/) | Python | 2024-09-14 |
 | leetcode | Medium | [3342-find-minimum-time-to-reach-last-room-ii](./leetcode/Medium/3342-find-minimum-time-to-reach-last-room-ii/) | Python | 2025-05-08 |
