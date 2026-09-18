@@ -8482,6 +8482,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Hard",
+    "problem_name": "1520-maximum-number-of-non-overlapping-substrings",
+    "languages": "Python",
+    "last_commit_date": "2026-09-18",
+    "slug": "leetcode/Hard/1520-maximum-number-of-non-overlapping-substrings"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Hard",
     "problem_name": "1458-max-dot-product-of-two-subsequences",
     "languages": "Python",
     "last_commit_date": "2023-10-08",

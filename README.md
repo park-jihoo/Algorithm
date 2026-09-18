@@ -1064,6 +1064,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Hard | [0135-candy](./leetcode/Hard/0135-candy/) | Python | 2023-09-13 |
 | leetcode | Hard | [1575-count-all-possible-routes](./leetcode/Hard/1575-count-all-possible-routes/) | Python | 2023-08-14 |
 | leetcode | Hard | [2493-divide-nodes-into-the-maximum-number-of-groups](./leetcode/Hard/2493-divide-nodes-into-the-maximum-number-of-groups/) | Python | 2025-01-30 |
+| leetcode | Hard | [1520-maximum-number-of-non-overlapping-substrings](./leetcode/Hard/1520-maximum-number-of-non-overlapping-substrings/) | Python | 2026-09-18 |
 | leetcode | Hard | [1458-max-dot-product-of-two-subsequences](./leetcode/Hard/1458-max-dot-product-of-two-subsequences/) | Python | 2023-10-08 |
 | leetcode | Hard | [0879-profitable-schemes](./leetcode/Hard/0879-profitable-schemes/) | Python | 2024-09-14 |
 | leetcode | Hard | [3337-total-characters-in-string-after-transformations-ii](./leetcode/Hard/3337-total-characters-in-string-after-transformations-ii/) | Python | 2025-05-14 |

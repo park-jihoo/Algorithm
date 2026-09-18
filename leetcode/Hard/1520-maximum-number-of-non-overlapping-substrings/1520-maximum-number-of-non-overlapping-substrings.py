@@ -26,7 +26,7 @@ class Solution:
 
         for r, l in intervals:
             if l > end:
-                ans.append(s[l:r + 1])
+                ans.append(s[l : r + 1])
                 end = r
 
         return ans
