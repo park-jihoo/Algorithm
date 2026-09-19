@@ -524,6 +524,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [1038-binary-search-tree-to-greater-sum-tree](./leetcode/Medium/1038-binary-search-tree-to-greater-sum-tree/) | Python | 2024-06-25 |
 | leetcode | Medium | [1331-path-with-maximum-gold](./leetcode/Medium/1331-path-with-maximum-gold/) | Python | 2024-05-14 |
 | leetcode | Medium | [1381-design-a-stack-with-increment-operation](./leetcode/Medium/1381-design-a-stack-with-increment-operation/) | Python | 2024-09-30 |
+| leetcode | Medium | [1401-circle-and-rectangle-overlapping](./leetcode/Medium/1401-circle-and-rectangle-overlapping/) | Python | 2026-09-19 |
 | leetcode | Medium | [2958-length-of-longest-subarray-with-at-most-k-frequency](./leetcode/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Python | 2026-08-12 |
 | leetcode | Medium | [1637-widest-vertical-area-between-two-points-containing-no-points](./leetcode/Medium/1637-widest-vertical-area-between-two-points-containing-no-points/) | Python | 2023-12-21 |
 | leetcode | Medium | [2554-maximum-number-of-integers-to-choose-from-a-range-i](./leetcode/Medium/2554-maximum-number-of-integers-to-choose-from-a-range-i/) | Python | 2024-12-06 |
