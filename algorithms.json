@@ -1074,6 +1074,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Easy",
+    "problem_name": "3498-reverse-degree-of-a-string",
+    "languages": "Python",
+    "last_commit_date": "2026-09-20",
+    "slug": "leetcode/Easy/3498-reverse-degree-of-a-string"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Easy",
     "problem_name": "0258-add-digits",
     "languages": "Python",
     "last_commit_date": "2024-09-14",

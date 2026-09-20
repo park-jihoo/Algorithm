@@ -138,6 +138,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [2206-divide-array-into-equal-pairs](./leetcode/Easy/2206-divide-array-into-equal-pairs/) | Python | 2025-03-17 |
 | leetcode | Easy | [1331-rank-transform-of-an-array](./leetcode/Easy/1331-rank-transform-of-an-array/) | Python | 2024-10-02 |
 | leetcode | Easy | [1295-find-numbers-with-even-number-of-digits](./leetcode/Easy/1295-find-numbers-with-even-number-of-digits/) | C++,Python | 2025-04-30 |
+| leetcode | Easy | [3498-reverse-degree-of-a-string](./leetcode/Easy/3498-reverse-degree-of-a-string/) | Python | 2026-09-20 |
 | leetcode | Easy | [0258-add-digits](./leetcode/Easy/0258-add-digits/) | Python | 2024-09-14 |
 | leetcode | Easy | [1122-relative-sort-array](./leetcode/Easy/1122-relative-sort-array/) | Python | 2024-06-11 |
 | leetcode | Easy | [3783-mirror-distance-of-an-integer](./leetcode/Easy/3783-mirror-distance-of-an-integer/) | Python | 2026-04-18 |
