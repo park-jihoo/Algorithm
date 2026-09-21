@@ -3714,6 +3714,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "3524-find-x-value-of-array-i",
+    "languages": "Python",
+    "last_commit_date": "2026-09-21",
+    "slug": "leetcode/Medium/3524-find-x-value-of-array-i"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "0623-add-one-row-to-tree",
     "languages": "Python",
     "last_commit_date": "2024-04-16",

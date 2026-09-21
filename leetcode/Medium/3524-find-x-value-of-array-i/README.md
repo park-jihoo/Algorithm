@@ -53,24 +53,25 @@
 <ul>
 	<li>For <code>x = 0</code>, the only operations that <strong>do not</strong> result in <code>x = 0</code> are:
 
-	<ul>
-		<li>Remove the empty prefix and the suffix <code>[4, 8, 16, 32]</code>. <code>nums</code> becomes <code>[1, 2]</code>.</li>
-		<li>Remove the empty prefix and the suffix <code>[2, 4, 8, 16, 32]</code>. <code>nums</code> becomes <code>[1]</code>.</li>
-		<li>Remove the prefix <code>[1]</code> and the suffix <code>[4, 8, 16, 32]</code>. <code>nums</code> becomes <code>[2]</code>.</li>
-	</ul>
-	</li>
-	<li>For <code>x = 1</code>, the only possible operation is:
-	<ul>
-		<li>Remove the empty prefix and the suffix <code>[2, 4, 8, 16, 32]</code>. <code>nums</code> becomes <code>[1]</code>.</li>
-	</ul>
-	</li>
-	<li>For <code>x = 2</code>, the possible operations are:
-	<ul>
-		<li>Remove the empty prefix and the suffix <code>[4, 8, 16, 32]</code>. <code>nums</code> becomes <code>[1, 2]</code>.</li>
-		<li>Remove the prefix <code>[1]</code> and the suffix <code>[4, 8, 16, 32]</code>. <code>nums</code> becomes <code>[2]</code>.</li>
-	</ul>
-	</li>
-	<li>For <code>x = 3</code>, there is no possible way to perform the operation.</li>
+    <ul>
+    	<li>Remove the empty prefix and the suffix <code>[4, 8, 16, 32]</code>. <code>nums</code> becomes <code>[1, 2]</code>.</li>
+    	<li>Remove the empty prefix and the suffix <code>[2, 4, 8, 16, 32]</code>. <code>nums</code> becomes <code>[1]</code>.</li>
+    	<li>Remove the prefix <code>[1]</code> and the suffix <code>[4, 8, 16, 32]</code>. <code>nums</code> becomes <code>[2]</code>.</li>
+    </ul>
+    </li>
+    <li>For <code>x = 1</code>, the only possible operation is:
+    <ul>
+    	<li>Remove the empty prefix and the suffix <code>[2, 4, 8, 16, 32]</code>. <code>nums</code> becomes <code>[1]</code>.</li>
+    </ul>
+    </li>
+    <li>For <code>x = 2</code>, the possible operations are:
+    <ul>
+    	<li>Remove the empty prefix and the suffix <code>[4, 8, 16, 32]</code>. <code>nums</code> becomes <code>[1, 2]</code>.</li>
+    	<li>Remove the prefix <code>[1]</code> and the suffix <code>[4, 8, 16, 32]</code>. <code>nums</code> becomes <code>[2]</code>.</li>
+    </ul>
+    </li>
+    <li>For <code>x = 3</code>, there is no possible way to perform the operation.</li>
+
 </ul>
 </div>
 

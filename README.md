@@ -468,6 +468,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [1870-minimum-speed-to-arrive-on-time](./leetcode/Medium/1870-minimum-speed-to-arrive-on-time/) | Python | 2023-08-14 |
 | leetcode | Medium | [3394-check-if-grid-can-be-cut-into-sections](./leetcode/Medium/3394-check-if-grid-can-be-cut-into-sections/) | Python | 2025-03-25 |
 | leetcode | Medium | [1493-longest-subarray-of-1s-after-deleting-one-element](./leetcode/Medium/1493-longest-subarray-of-1s-after-deleting-one-element/) | Python | 2025-08-24 |
+| leetcode | Medium | [3524-find-x-value-of-array-i](./leetcode/Medium/3524-find-x-value-of-array-i/) | Python | 2026-09-21 |
 | leetcode | Medium | [0623-add-one-row-to-tree](./leetcode/Medium/0623-add-one-row-to-tree/) | Python | 2024-04-16 |
 | leetcode | Medium | [3737-count-subarrays-with-majority-element-i](./leetcode/Medium/3737-count-subarrays-with-majority-element-i/) | Python | 2026-06-25 |
 | leetcode | Medium | [2536-increment-submatrices-by-one](./leetcode/Medium/2536-increment-submatrices-by-one/) | Python | 2025-11-14 |
