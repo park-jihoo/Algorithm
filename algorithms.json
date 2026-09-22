@@ -9682,6 +9682,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Hard",
+    "problem_name": "3525-find-x-value-of-array-ii",
+    "languages": "Python",
+    "last_commit_date": "2026-09-22",
+    "slug": "leetcode/Hard/3525-find-x-value-of-array-ii"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Hard",
     "problem_name": "3116-kth-smallest-amount-with-single-denomination-combination",
     "languages": "Python",
     "last_commit_date": "2026-08-21",

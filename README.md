@@ -1214,6 +1214,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Hard | [3614-process-string-with-special-operations-ii](./leetcode/Hard/3614-process-string-with-special-operations-ii/) | Python | 2026-06-17 |
 | leetcode | Hard | [3700-number-of-zigzag-arrays-ii](./leetcode/Hard/3700-number-of-zigzag-arrays-ii/) | Python | 2026-06-24 |
 | leetcode | Hard | [3068-find-the-maximum-sum-of-node-values](./leetcode/Hard/3068-find-the-maximum-sum-of-node-values/) | Python | 2025-05-23 |
+| leetcode | Hard | [3525-find-x-value-of-array-ii](./leetcode/Hard/3525-find-x-value-of-array-ii/) | Python | 2026-09-22 |
 | leetcode | Hard | [3116-kth-smallest-amount-with-single-denomination-combination](./leetcode/Hard/3116-kth-smallest-amount-with-single-denomination-combination/) | Python | 2026-08-21 |
 | leetcode | Hard | [1601-maximum-number-of-achievable-transfer-requests](./leetcode/Hard/1601-maximum-number-of-achievable-transfer-requests/) | Python | 2023-08-14 |
 
