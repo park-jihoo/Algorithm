@@ -1046,6 +1046,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Hard | [1255-maximum-score-words-formed-by-letters](./leetcode/Hard/1255-maximum-score-words-formed-by-letters/) | Python | 2024-05-24 |
 | leetcode | Hard | [0514-freedom-trail](./leetcode/Hard/0514-freedom-trail/) | Python | 2024-04-27 |
 | leetcode | Hard | [1301-number-of-paths-with-max-score](./leetcode/Hard/1301-number-of-paths-with-max-score/) | Python | 2026-07-05 |
+| leetcode | Hard | [1096-brace-expansion-ii](./leetcode/Hard/1096-brace-expansion-ii/) | Python | 2026-09-25 |
 | leetcode | Hard | [1547-minimum-cost-to-cut-a-stick](./leetcode/Hard/1547-minimum-cost-to-cut-a-stick/) | Python | 2023-08-14 |
 | leetcode | Hard | [3445-maximum-difference-between-even-and-odd-frequency-ii](./leetcode/Hard/3445-maximum-difference-between-even-and-odd-frequency-ii/) | Python | 2025-06-12 |
 | leetcode | Hard | [0719-find-k-th-smallest-pair-distance](./leetcode/Hard/0719-find-k-th-smallest-pair-distance/) | Python | 2024-08-14 |
