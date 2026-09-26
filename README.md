@@ -9,6 +9,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [0120-triangle](./leetcode/Medium/0120-triangle/) | Python | 2025-09-25 |
 | leetcode | Medium | [2115-find-all-possible-recipes-from-given-supplies](./leetcode/Medium/2115-find-all-possible-recipes-from-given-supplies/) | Python | 2025-03-21 |
 | leetcode | Medium | [0427-construct-quad-tree](./leetcode/Medium/0427-construct-quad-tree/) | Python | 2024-09-14 |
+| leetcode | Medium | [1807-evaluate-the-bracket-pairs-of-a-string](./leetcode/Medium/1807-evaluate-the-bracket-pairs-of-a-string/) | Python | 2026-09-26 |
 | leetcode | Medium | [0874-walking-robot-simulation](./leetcode/Medium/0874-walking-robot-simulation/) | Python | 2024-09-04 |
 | leetcode | Medium | [1594-maximum-non-negative-product-in-a-matrix](./leetcode/Medium/1594-maximum-non-negative-product-in-a-matrix/) | Python | 2026-03-23 |
 | leetcode | Medium | [1035-uncrossed-lines](./leetcode/Medium/1035-uncrossed-lines/) | Python | 2023-08-14 |
