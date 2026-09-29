@@ -1049,6 +1049,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Hard | [1301-number-of-paths-with-max-score](./leetcode/Hard/1301-number-of-paths-with-max-score/) | Python | 2026-07-05 |
 | leetcode | Hard | [1096-brace-expansion-ii](./leetcode/Hard/1096-brace-expansion-ii/) | Python | 2026-09-25 |
 | leetcode | Hard | [1547-minimum-cost-to-cut-a-stick](./leetcode/Hard/1547-minimum-cost-to-cut-a-stick/) | Python | 2023-08-14 |
+| leetcode | Hard | [2267-check-if-there-is-a-valid-parentheses-string-path](./leetcode/Hard/2267-check-if-there-is-a-valid-parentheses-string-path/) | Python | 2026-09-29 |
 | leetcode | Hard | [3445-maximum-difference-between-even-and-odd-frequency-ii](./leetcode/Hard/3445-maximum-difference-between-even-and-odd-frequency-ii/) | Python | 2025-06-12 |
 | leetcode | Hard | [0719-find-k-th-smallest-pair-distance](./leetcode/Hard/0719-find-k-th-smallest-pair-distance/) | Python | 2024-08-14 |
 | leetcode | Hard | [2366-minimum-replacements-to-sort-the-array](./leetcode/Hard/2366-minimum-replacements-to-sort-the-array/) | C++ | 2023-08-30 |

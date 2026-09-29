@@ -15,8 +15,6 @@ class Solution:
             if i == m - 1 and j == n - 1:
                 return x == 0
 
-            return (i < m - 1 and dfs(i + 1, j, x)) or \
-                   (j < n - 1 and dfs(i, j + 1, x))
+            return (i < m - 1 and dfs(i + 1, j, x)) or (j < n - 1 and dfs(i, j + 1, x))
 
         return dfs(0, 0, 0)
-        

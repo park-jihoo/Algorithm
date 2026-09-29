@@ -8362,6 +8362,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Hard",
+    "problem_name": "2267-check-if-there-is-a-valid-parentheses-string-path",
+    "languages": "Python",
+    "last_commit_date": "2026-09-29",
+    "slug": "leetcode/Hard/2267-check-if-there-is-a-valid-parentheses-string-path"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Hard",
     "problem_name": "3445-maximum-difference-between-even-and-odd-frequency-ii",
     "languages": "Python",
     "last_commit_date": "2025-06-12",
