@@ -239,6 +239,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [0935-knight-dialer](./leetcode/Medium/0935-knight-dialer/) | Python | 2023-11-27 |
 | leetcode | Medium | [2116-check-if-a-parentheses-string-can-be-valid](./leetcode/Medium/2116-check-if-a-parentheses-string-can-be-valid/) | Python | 2025-01-12 |
 | leetcode | Medium | [3720-lexicographically-smallest-permutation-greater-than-target](./leetcode/Medium/3720-lexicographically-smallest-permutation-greater-than-target/) | Python | 2026-08-27 |
+| leetcode | Medium | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](./leetcode/Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Python | 2026-09-30 |
 | leetcode | Medium | [1493-longest-subarray-of-1s-after-deleting-one-element](./leetcode/Medium/1493-longest-subarray-of-1s-after-deleting-one-element/) | Python | 2025-08-24 |
 | leetcode | Medium | [1401-circle-and-rectangle-overlapping](./leetcode/Medium/1401-circle-and-rectangle-overlapping/) | Python | 2026-09-19 |
 | leetcode | Medium | [3408-design-task-manager](./leetcode/Medium/3408-design-task-manager/) | Python | 2025-09-18 |
