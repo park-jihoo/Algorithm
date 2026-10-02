@@ -291,6 +291,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [2452-words-within-two-edits-of-dictionary](./leetcode/Medium/2452-words-within-two-edits-of-dictionary/) | Python | 2026-04-22 |
 | leetcode | Medium | [2684-maximum-number-of-moves-in-a-grid](./leetcode/Medium/2684-maximum-number-of-moves-in-a-grid/) | Python | 2024-10-29 |
 | leetcode | Medium | [2064-minimized-maximum-of-products-distributed-to-any-store](./leetcode/Medium/2064-minimized-maximum-of-products-distributed-to-any-store/) | Python | 2024-11-14 |
+| leetcode | Medium | [0022-generate-parentheses](./leetcode/Medium/0022-generate-parentheses/) | Python | 2026-10-02 |
 | leetcode | Medium | [3653-xor-after-range-multiplication-queries-i](./leetcode/Medium/3653-xor-after-range-multiplication-queries-i/) | Python | 2026-04-08 |
 | leetcode | Medium | [2971-find-polygon-with-the-largest-perimeter](./leetcode/Medium/2971-find-polygon-with-the-largest-perimeter/) | Python | 2024-02-15 |
 | leetcode | Medium | [2762-continuous-subarrays](./leetcode/Medium/2762-continuous-subarrays/) | Python | 2024-12-14 |

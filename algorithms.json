@@ -2298,6 +2298,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "0022-generate-parentheses",
+    "languages": "Python",
+    "last_commit_date": "2026-10-02",
+    "slug": "leetcode/Medium/0022-generate-parentheses"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "3653-xor-after-range-multiplication-queries-i",
     "languages": "Python",
     "last_commit_date": "2026-04-08",
