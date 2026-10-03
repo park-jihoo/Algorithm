@@ -1016,6 +1016,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Hard | [0076-minimum-window-substring](./leetcode/Hard/0076-minimum-window-substring/) | Python | 2024-09-14 |
 | leetcode | Hard | [0140-word-break-ii](./leetcode/Hard/0140-word-break-ii/) | Python | 2024-05-25 |
 | leetcode | Hard | [0041-first-missing-positive](./leetcode/Hard/0041-first-missing-positive/) | Python | 2024-03-26 |
+| leetcode | Hard | [0032-longest-valid-parentheses](./leetcode/Hard/0032-longest-valid-parentheses/) | Python | 2026-10-03 |
 | leetcode | Hard | [0068-text-justification](./leetcode/Hard/0068-text-justification/) | Python | 2023-08-24 |
 | leetcode | Hard | [3518-smallest-palindromic-rearrangement-ii](./leetcode/Hard/3518-smallest-palindromic-rearrangement-ii/) | Python | 2026-07-29 |
 | leetcode | Hard | [2463-minimum-total-distance-traveled](./leetcode/Hard/2463-minimum-total-distance-traveled/) | Python | 2024-10-31 |
