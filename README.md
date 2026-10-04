@@ -375,7 +375,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [0077-combinations](./leetcode/Medium/0077-combinations/) | Python | 2023-08-14 |
 | leetcode | Medium | [1011-capacity-to-ship-packages-within-d-days](./leetcode/Medium/1011-capacity-to-ship-packages-within-d-days/) | Python | 2024-09-14 |
 | leetcode | Medium | [2707-extra-characters-in-a-string](./leetcode/Medium/2707-extra-characters-in-a-string/) | Python | 2023-09-02 |
-| leetcode | Medium | [0678-valid-parenthesis-string](./leetcode/Medium/0678-valid-parenthesis-string/) | Python | 2024-04-07 |
+| leetcode | Medium | [0678-valid-parenthesis-string](./leetcode/Medium/0678-valid-parenthesis-string/) | Python | 2026-10-04 |
 | leetcode | Medium | [2149-rearrange-array-elements-by-sign](./leetcode/Medium/2149-rearrange-array-elements-by-sign/) | Python | 2024-02-14 |
 | leetcode | Medium | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](./leetcode/Medium/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Python | 2024-09-14 |
 | leetcode | Medium | [2069-walking-robot-simulation-ii](./leetcode/Medium/2069-walking-robot-simulation-ii/) | Python | 2026-04-07 |
