@@ -492,6 +492,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [2359-find-closest-node-to-given-two-nodes](./leetcode/Medium/2359-find-closest-node-to-given-two-nodes/) | Python | 2025-05-30 |
 | leetcode | Medium | [1405-longest-happy-string](./leetcode/Medium/1405-longest-happy-string/) | Python | 2024-10-16 |
 | leetcode | Medium | [2598-smallest-missing-non-negative-integer-after-operations](./leetcode/Medium/2598-smallest-missing-non-negative-integer-after-operations/) | Python | 2025-10-16 |
+| leetcode | Medium | [0856-score-of-parentheses](./leetcode/Medium/0856-score-of-parentheses/) | Python | 2026-10-06 |
 | leetcode | Medium | [1759-count-number-of-homogenous-substrings](./leetcode/Medium/1759-count-number-of-homogenous-substrings/) | Python | 2024-09-14 |
 | leetcode | Medium | [2410-maximum-matching-of-players-with-trainers](./leetcode/Medium/2410-maximum-matching-of-players-with-trainers/) | Python | 2025-07-13 |
 | leetcode | Medium | [2191-sort-the-jumbled-numbers](./leetcode/Medium/2191-sort-the-jumbled-numbers/) | Python | 2024-07-24 |
