@@ -988,6 +988,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Hard | [0564-find-the-closest-palindrome](./leetcode/Hard/0564-find-the-closest-palindrome/) | Python | 2024-08-24 |
 | leetcode | Hard | [3510-minimum-pair-removal-to-sort-array-ii](./leetcode/Hard/3510-minimum-pair-removal-to-sort-array-ii/) | Python | 2026-01-24 |
 | leetcode | Hard | [1425-constrained-subsequence-sum](./leetcode/Hard/1425-constrained-subsequence-sum/) | Python | 2023-10-21 |
+| leetcode | Hard | [0301-remove-invalid-parentheses](./leetcode/Hard/0301-remove-invalid-parentheses/) | Python | 2026-10-07 |
 | leetcode | Hard | [2709-greatest-common-divisor-traversal](./leetcode/Hard/2709-greatest-common-divisor-traversal/) | Python | 2024-02-25 |
 | leetcode | Hard | [0330-patching-array](./leetcode/Hard/0330-patching-array/) | Python | 2024-06-16 |
 | leetcode | Hard | [2448-minimum-cost-to-make-array-equal](./leetcode/Hard/2448-minimum-cost-to-make-array-equal/) | Python | 2023-08-14 |

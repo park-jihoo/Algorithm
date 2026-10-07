@@ -7874,6 +7874,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Hard",
+    "problem_name": "0301-remove-invalid-parentheses",
+    "languages": "Python",
+    "last_commit_date": "2026-10-07",
+    "slug": "leetcode/Hard/0301-remove-invalid-parentheses"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Hard",
     "problem_name": "2709-greatest-common-divisor-traversal",
     "languages": "Python",
     "last_commit_date": "2024-02-25",
