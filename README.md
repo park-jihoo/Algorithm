@@ -649,6 +649,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [3289-the-two-sneaky-numbers-of-digitville](./leetcode/Easy/3289-the-two-sneaky-numbers-of-digitville/) | Python | 2025-10-31 |
 | leetcode | Easy | [1913-maximum-product-difference-between-two-pairs](./leetcode/Easy/1913-maximum-product-difference-between-two-pairs/) | Python | 2024-09-14 |
 | leetcode | Easy | [1460-make-two-arrays-equal-by-reversing-subarrays](./leetcode/Easy/1460-make-two-arrays-equal-by-reversing-subarrays/) | Python | 2024-08-03 |
+| leetcode | Easy | [1021-remove-outermost-parentheses](./leetcode/Easy/1021-remove-outermost-parentheses/) | Python | 2026-10-08 |
 | leetcode | Easy | [0070-climbing-stairs](./leetcode/Easy/0070-climbing-stairs/) | Python | 2024-09-14 |
 | leetcode | Easy | [0860-lemonade-change](./leetcode/Easy/0860-lemonade-change/) | Python | 2024-08-15 |
 | leetcode | Easy | [0876-middle-of-the-linked-list](./leetcode/Easy/0876-middle-of-the-linked-list/) | Python | 2024-03-07 |
