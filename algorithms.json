@@ -1890,6 +1890,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "1541-minimum-insertions-to-balance-a-parentheses-string",
+    "languages": "Python",
+    "last_commit_date": "2026-10-09",
+    "slug": "leetcode/Medium/1541-minimum-insertions-to-balance-a-parentheses-string"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "1493-longest-subarray-of-1s-after-deleting-one-element",
     "languages": "Python",
     "last_commit_date": "2025-08-24",
