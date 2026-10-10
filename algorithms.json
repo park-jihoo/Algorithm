@@ -4170,6 +4170,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "2333-minimum-sum-of-squared-difference",
+    "languages": "Python",
+    "last_commit_date": "2026-10-10",
+    "slug": "leetcode/Medium/2333-minimum-sum-of-squared-difference"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "0443-string-compression",
     "languages": "Python",
     "last_commit_date": "2024-09-14",

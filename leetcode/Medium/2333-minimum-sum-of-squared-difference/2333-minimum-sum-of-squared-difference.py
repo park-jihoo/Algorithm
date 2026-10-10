@@ -1,5 +1,7 @@
 class Solution:
-    def minSumSquareDiff(self, nums1: list[int], nums2: list[int], k1: int, k2: int) -> int:
+    def minSumSquareDiff(
+        self, nums1: list[int], nums2: list[int], k1: int, k2: int
+    ) -> int:
         diff = []
         k = k1 + k2
 
@@ -17,7 +19,7 @@ class Solution:
 
             sub = min(k, counter[val])
             counter[val] -= sub
-            counter[val-1] += sub
+            counter[val - 1] += sub
             k -= sub
 
         res = 0

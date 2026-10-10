@@ -525,6 +525,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [1038-binary-search-tree-to-greater-sum-tree](./leetcode/Medium/1038-binary-search-tree-to-greater-sum-tree/) | Python | 2024-06-25 |
 | leetcode | Medium | [0038-count-and-say](./leetcode/Medium/0038-count-and-say/) | Python | 2024-09-14 |
 | leetcode | Medium | [1513-number-of-substrings-with-only-1s](./leetcode/Medium/1513-number-of-substrings-with-only-1s/) | Python | 2025-11-16 |
+| leetcode | Medium | [2333-minimum-sum-of-squared-difference](./leetcode/Medium/2333-minimum-sum-of-squared-difference/) | Python | 2026-10-10 |
 | leetcode | Medium | [0443-string-compression](./leetcode/Medium/0443-string-compression/) | Python | 2024-09-14 |
 | leetcode | Medium | [0921-minimum-add-to-make-parentheses-valid](./leetcode/Medium/0921-minimum-add-to-make-parentheses-valid/) | Python | 2024-10-09 |
 | leetcode | Medium | [1552-magnetic-force-between-two-balls](./leetcode/Medium/1552-magnetic-force-between-two-balls/) | Python | 2024-06-20 |
