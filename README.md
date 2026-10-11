@@ -713,6 +713,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [3461-check-if-digits-are-equal-in-string-after-operations-i](./leetcode/Easy/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Python | 2025-10-23 |
 | leetcode | Easy | [0905-sort-array-by-parity](./leetcode/Easy/0905-sort-array-by-parity/) | Python | 2023-09-28 |
 | leetcode | Easy | [1346-check-if-n-and-its-double-exist](./leetcode/Easy/1346-check-if-n-and-its-double-exist/) | Python | 2024-12-01 |
+| leetcode | Easy | [2778-sum-of-squares-of-special-elements](./leetcode/Easy/2778-sum-of-squares-of-special-elements/) | Python | 2026-10-11 |
 | leetcode | Easy | [1716-calculate-money-in-leetcode-bank](./leetcode/Easy/1716-calculate-money-in-leetcode-bank/) | Python | 2023-12-12 |
 | leetcode | Easy | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](./leetcode/Easy/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Python | 2026-02-01 |
 | leetcode | Easy | [0141-linked-list-cycle](./leetcode/Easy/0141-linked-list-cycle/) | C++,Python | 2023-09-04 |

@@ -5674,6 +5674,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Easy",
+    "problem_name": "2778-sum-of-squares-of-special-elements",
+    "languages": "Python",
+    "last_commit_date": "2026-10-11",
+    "slug": "leetcode/Easy/2778-sum-of-squares-of-special-elements"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Easy",
     "problem_name": "1716-calculate-money-in-leetcode-bank",
     "languages": "Python",
     "last_commit_date": "2023-12-12",
