@@ -7370,6 +7370,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Hard",
+    "problem_name": "2897-apply-operations-on-array-to-maximize-sum-of-squares",
+    "languages": "Python",
+    "last_commit_date": "2026-10-12",
+    "slug": "leetcode/Hard/2897-apply-operations-on-array-to-maximize-sum-of-squares"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Hard",
     "problem_name": "3197-find-the-minimum-area-to-cover-all-ones-ii",
     "languages": "Python",
     "last_commit_date": "2025-08-23",

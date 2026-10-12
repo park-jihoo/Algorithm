@@ -925,6 +925,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Hard | [1187-make-array-strictly-increasing](./leetcode/Hard/1187-make-array-strictly-increasing/) | Java | 2024-09-14 |
 | leetcode | Hard | [0037-sudoku-solver](./leetcode/Hard/0037-sudoku-solver/) | Python | 2025-08-31 |
 | leetcode | Hard | [1970-last-day-where-you-can-still-cross](./leetcode/Hard/1970-last-day-where-you-can-still-cross/) | Python | 2025-12-31 |
+| leetcode | Hard | [2897-apply-operations-on-array-to-maximize-sum-of-squares](./leetcode/Hard/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Python | 2026-10-12 |
 | leetcode | Hard | [3197-find-the-minimum-area-to-cover-all-ones-ii](./leetcode/Hard/3197-find-the-minimum-area-to-cover-all-ones-ii/) | Python | 2025-08-23 |
 | leetcode | Hard | [3700-number-of-zigzag-arrays-ii](./leetcode/Hard/3700-number-of-zigzag-arrays-ii/) | Python | 2026-06-24 |
 | leetcode | Hard | [3068-find-the-maximum-sum-of-node-values](./leetcode/Hard/3068-find-the-maximum-sum-of-node-values/) | Python | 2025-05-23 |
