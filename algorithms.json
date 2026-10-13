@@ -434,6 +434,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "3727-maximum-alternating-sum-of-squares",
+    "languages": "Python",
+    "last_commit_date": "2026-10-13",
+    "slug": "leetcode/Medium/3727-maximum-alternating-sum-of-squares"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "1524-number-of-sub-arrays-with-odd-sum",
     "languages": "Python",
     "last_commit_date": "2025-02-25",

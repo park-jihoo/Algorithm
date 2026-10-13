@@ -58,6 +58,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [0028-find-the-index-of-the-first-occurrence-in-a-string](./leetcode/Medium/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Python | 2024-09-14 |
 | leetcode | Medium | [2429-minimize-xor](./leetcode/Medium/2429-minimize-xor/) | Python | 2025-01-15 |
 | leetcode | Medium | [1110-delete-nodes-and-return-forest](./leetcode/Medium/1110-delete-nodes-and-return-forest/) | Python | 2024-07-17 |
+| leetcode | Medium | [3727-maximum-alternating-sum-of-squares](./leetcode/Medium/3727-maximum-alternating-sum-of-squares/) | Python | 2026-10-13 |
 | leetcode | Medium | [1524-number-of-sub-arrays-with-odd-sum](./leetcode/Medium/1524-number-of-sub-arrays-with-odd-sum/) | Python | 2025-02-25 |
 | leetcode | Medium | [1894-find-the-student-that-will-replace-the-chalk](./leetcode/Medium/1894-find-the-student-that-will-replace-the-chalk/) | Python | 2024-09-02 |
 | leetcode | Medium | [2685-count-the-number-of-complete-components](./leetcode/Medium/2685-count-the-number-of-complete-components/) | Python | 2025-03-22 |
