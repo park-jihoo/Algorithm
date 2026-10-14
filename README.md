@@ -571,6 +571,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [0885-spiral-matrix-iii](./leetcode/Medium/0885-spiral-matrix-iii/) | Python | 2024-08-08 |
 | leetcode | Medium | [3186-maximum-total-damage-with-spell-casting](./leetcode/Medium/3186-maximum-total-damage-with-spell-casting/) | Python | 2025-10-11 |
 | leetcode | Medium | [0576-out-of-boundary-paths](./leetcode/Medium/0576-out-of-boundary-paths/) | Python | 2024-01-26 |
+| leetcode | Medium | [3723-maximize-sum-of-squares-of-digits](./leetcode/Medium/3723-maximize-sum-of-squares-of-digits/) | Python | 2026-10-14 |
 | leetcode | Medium | [1884-egg-drop-with-2-eggs-and-n-floors](./leetcode/Medium/1884-egg-drop-with-2-eggs-and-n-floors/) | Python | 2023-09-18 |
 | leetcode | Medium | [1254-number-of-closed-islands](./leetcode/Medium/1254-number-of-closed-islands/) | Python | 2024-09-14 |
 | leetcode | Medium | [3170-lexicographically-minimum-string-after-removing-stars](./leetcode/Medium/3170-lexicographically-minimum-string-after-removing-stars/) | Python | 2025-06-07 |

@@ -4538,6 +4538,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "3723-maximize-sum-of-squares-of-digits",
+    "languages": "Python",
+    "last_commit_date": "2026-10-14",
+    "slug": "leetcode/Medium/3723-maximize-sum-of-squares-of-digits"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "1884-egg-drop-with-2-eggs-and-n-floors",
     "languages": "Python",
     "last_commit_date": "2023-09-18",
