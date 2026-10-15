@@ -811,6 +811,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [0867-transpose-matrix](./leetcode/Easy/0867-transpose-matrix/) | Python | 2023-12-10 |
 | leetcode | Easy | [1688-count-of-matches-in-tournament](./leetcode/Easy/1688-count-of-matches-in-tournament/) | Python | 2023-12-12 |
 | leetcode | Easy | [3304-find-the-k-th-character-in-string-game-i](./leetcode/Easy/3304-find-the-k-th-character-in-string-game-i/) | Python | 2025-07-03 |
+| leetcode | Easy | [2913-subarrays-distinct-element-sum-of-squares-i](./leetcode/Easy/2913-subarrays-distinct-element-sum-of-squares-i/) | Python | 2026-10-15 |
 | leetcode | Easy | [0594-longest-harmonious-subsequence](./leetcode/Easy/0594-longest-harmonious-subsequence/) | Python | 2025-06-30 |
 | leetcode | Easy | [3516-find-closest-person](./leetcode/Easy/3516-find-closest-person/) | Python | 2025-09-04 |
 | leetcode | Easy | [0094-binary-tree-inorder-traversal](./leetcode/Easy/0094-binary-tree-inorder-traversal/) | Python | 2024-09-14 |
