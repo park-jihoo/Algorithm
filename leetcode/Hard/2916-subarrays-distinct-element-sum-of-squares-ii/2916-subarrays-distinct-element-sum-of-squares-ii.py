@@ -1,7 +1,9 @@
 class Solution:
     def sumCounts(self, nums: List[int]) -> int:
         n = len(nums)
-        cnt, tot = [0] * (n + 1), [0] * (n + 1)  # Fenwick trees over previous-copy positions, stored right to left
+        cnt, tot = [0] * (n + 1), [0] * (
+            n + 1
+        )  # Fenwick trees over previous-copy positions, stored right to left
         last, ans = {}, 0
         for r, x in enumerate(nums):
             p = last.get(x, -1)

@@ -1069,6 +1069,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Hard | [1359-count-all-valid-pickup-and-delivery-options](./leetcode/Hard/1359-count-all-valid-pickup-and-delivery-options/) | Python | 2023-09-10 |
 | leetcode | Hard | [3620-network-recovery-pathways](./leetcode/Hard/3620-network-recovery-pathways/) | Python | 2026-07-03 |
 | leetcode | Hard | [2097-valid-arrangement-of-pairs](./leetcode/Hard/2097-valid-arrangement-of-pairs/) | Python | 2024-11-30 |
+| leetcode | Hard | [2916-subarrays-distinct-element-sum-of-squares-ii](./leetcode/Hard/2916-subarrays-distinct-element-sum-of-squares-ii/) | Python | 2026-10-16 |
 | leetcode | Hard | [1402-reducing-dishes](./leetcode/Hard/1402-reducing-dishes/) | Python | 2024-09-14 |
 | leetcode | Hard | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](./leetcode/Hard/2435-paths-in-matrix-whose-sum-is-divisible-by-k/) | Python | 2025-11-26 |
 | leetcode | Hard | [1312-minimum-insertion-steps-to-make-a-string-palindrome](./leetcode/Hard/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Python | 2024-09-14 |
