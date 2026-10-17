@@ -389,6 +389,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [2492-minimum-score-of-a-path-between-two-cities](./leetcode/Medium/2492-minimum-score-of-a-path-between-two-cities/) | Python | 2026-07-04 |
 | leetcode | Medium | [2486-append-characters-to-string-to-make-subsequence](./leetcode/Medium/2486-append-characters-to-string-to-make-subsequence/) | Python | 2024-06-03 |
 | leetcode | Medium | [2075-decode-the-slanted-ciphertext](./leetcode/Medium/2075-decode-the-slanted-ciphertext/) | Python | 2026-04-04 |
+| leetcode | Medium | [3551-minimum-swaps-to-sort-by-digit-sum](./leetcode/Medium/3551-minimum-swaps-to-sort-by-digit-sum/) | Python | 2026-10-17 |
 | leetcode | Medium | [2530-maximal-score-after-applying-k-operations](./leetcode/Medium/2530-maximal-score-after-applying-k-operations/) | Python | 2024-10-14 |
 | leetcode | Medium | [2101-detonate-the-maximum-bombs](./leetcode/Medium/2101-detonate-the-maximum-bombs/) | Python | 2023-08-14 |
 | leetcode | Medium | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](./leetcode/Medium/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Python | 2023-08-14 |
