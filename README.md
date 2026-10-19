@@ -870,6 +870,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [1886-determine-whether-matrix-can-be-obtained-by-rotation](./leetcode/Easy/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Python | 2026-03-22 |
 | leetcode | Easy | [0501-find-mode-in-binary-search-tree](./leetcode/Easy/0501-find-mode-in-binary-search-tree/) | Python | 2024-09-14 |
 | leetcode | Easy | [0705-design-hashset](./leetcode/Easy/0705-design-hashset/) | Python | 2023-08-14 |
+| leetcode | Easy | [2089-find-target-indices-after-sorting-array](./leetcode/Easy/2089-find-target-indices-after-sorting-array/) | Python | 2026-10-19 |
 | leetcode | Easy | [2200-find-all-k-distant-indices-in-an-array](./leetcode/Easy/2200-find-all-k-distant-indices-in-an-array/) | Python | 2025-06-24 |
 | leetcode | Easy | [0605-can-place-flowers](./leetcode/Easy/0605-can-place-flowers/) | Python | 2024-09-14 |
 | leetcode | Easy | [1971-find-if-path-exists-in-graph](./leetcode/Easy/1971-find-if-path-exists-in-graph/) | Python | 2024-04-21 |
