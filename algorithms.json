@@ -8538,6 +8538,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Hard",
+    "problem_name": "3886-sum-of-sortable-integers",
+    "languages": "Python",
+    "last_commit_date": "2026-10-20",
+    "slug": "leetcode/Hard/3886-sum-of-sortable-integers"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Hard",
     "problem_name": "2916-subarrays-distinct-element-sum-of-squares-ii",
     "languages": "Python",
     "last_commit_date": "2026-10-16",
