@@ -499,6 +499,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [1759-count-number-of-homogenous-substrings](./leetcode/Medium/1759-count-number-of-homogenous-substrings/) | Python | 2024-09-14 |
 | leetcode | Medium | [2410-maximum-matching-of-players-with-trainers](./leetcode/Medium/2410-maximum-matching-of-players-with-trainers/) | Python | 2025-07-13 |
 | leetcode | Medium | [2191-sort-the-jumbled-numbers](./leetcode/Medium/2191-sort-the-jumbled-numbers/) | Python | 2024-07-24 |
+| leetcode | Medium | [3863-minimum-operations-to-sort-a-string](./leetcode/Medium/3863-minimum-operations-to-sort-a-string/) | Python | 2026-10-21 |
 | leetcode | Medium | [2352-equal-row-and-column-pairs](./leetcode/Medium/2352-equal-row-and-column-pairs/) | Python | 2023-08-14 |
 | leetcode | Medium | [1376-time-needed-to-inform-all-employees](./leetcode/Medium/1376-time-needed-to-inform-all-employees/) | Python | 2023-08-14 |
 | leetcode | Medium | [2391-minimum-amount-of-time-to-collect-garbage](./leetcode/Medium/2391-minimum-amount-of-time-to-collect-garbage/) | Python | 2023-12-21 |

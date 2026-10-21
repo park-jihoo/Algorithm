@@ -10,8 +10,10 @@ class Solution:
             mn = min(mn, s[i])
             mx = max(mx, s[i])
 
-        if isSorted: return 0
-        if n == 2: return -1
+        if isSorted:
+            return 0
+        if n == 2:
+            return -1
         if s[0] == mn or s[-1] == mx:
             return 1
 
