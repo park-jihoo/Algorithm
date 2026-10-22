@@ -578,6 +578,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [1254-number-of-closed-islands](./leetcode/Medium/1254-number-of-closed-islands/) | Python | 2024-09-14 |
 | leetcode | Medium | [3170-lexicographically-minimum-string-after-removing-stars](./leetcode/Medium/3170-lexicographically-minimum-string-after-removing-stars/) | Python | 2025-06-07 |
 | leetcode | Medium | [1838-frequency-of-the-most-frequent-element](./leetcode/Medium/1838-frequency-of-the-most-frequent-element/) | Python | 2023-12-21 |
+| leetcode | Medium | [3942-minimum-operations-to-sort-a-permutation](./leetcode/Medium/3942-minimum-operations-to-sort-a-permutation/) | Python | 2026-10-22 |
 | leetcode | Medium | [0179-largest-number](./leetcode/Medium/0179-largest-number/) | Python | 2024-09-18 |
 | leetcode | Medium | [2300-successful-pairs-of-spells-and-potions](./leetcode/Medium/2300-successful-pairs-of-spells-and-potions/) | Python | 2024-09-14 |
 | leetcode | Medium | [0208-implement-trie-prefix-tree](./leetcode/Medium/0208-implement-trie-prefix-tree/) | Python | 2023-08-14 |

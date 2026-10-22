@@ -4594,6 +4594,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "3942-minimum-operations-to-sort-a-permutation",
+    "languages": "Python",
+    "last_commit_date": "2026-10-22",
+    "slug": "leetcode/Medium/3942-minimum-operations-to-sort-a-permutation"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "0179-largest-number",
     "languages": "Python",
     "last_commit_date": "2024-09-18",
