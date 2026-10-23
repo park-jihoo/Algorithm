@@ -235,6 +235,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [2311-longest-binary-subsequence-less-than-or-equal-to-k](./leetcode/Medium/2311-longest-binary-subsequence-less-than-or-equal-to-k/) | Python | 2025-06-26 |
 | leetcode | Medium | [3163-string-compression-iii](./leetcode/Medium/3163-string-compression-iii/) | Python | 2024-11-05 |
 | leetcode | Medium | [0139-word-break](./leetcode/Medium/0139-word-break/) | C,C++,Python | 2023-08-14 |
+| leetcode | Medium | [3644-maximum-k-to-sort-a-permutation](./leetcode/Medium/3644-maximum-k-to-sort-a-permutation/) | Python | 2026-10-23 |
 | leetcode | Medium | [2285-maximum-total-importance-of-roads](./leetcode/Medium/2285-maximum-total-importance-of-roads/) | Python | 2024-06-28 |
 | leetcode | Medium | [2975-maximum-square-area-by-removing-fences-from-a-field](./leetcode/Medium/2975-maximum-square-area-by-removing-fences-from-a-field/) | Unknown | 2026-01-16 |
 | leetcode | Medium | [0935-knight-dialer](./leetcode/Medium/0935-knight-dialer/) | Python | 2023-11-27 |
