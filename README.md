@@ -904,6 +904,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [0069-sqrtx](./leetcode/Easy/0069-sqrtx/) | Python | 2023-12-21 |
 | leetcode | Easy | [2843-count-symmetric-integers](./leetcode/Easy/2843-count-symmetric-integers/) | Python | 2025-04-11 |
 | leetcode | Easy | [2176-count-equal-and-divisible-pairs-in-an-array](./leetcode/Easy/2176-count-equal-and-divisible-pairs-in-an-array/) | Python | 2025-04-17 |
+| leetcode | Easy | [2409-count-days-spent-together](./leetcode/Easy/2409-count-days-spent-together/) | Python | 2026-10-24 |
 | leetcode | Easy | [2264-largest-3-same-digit-number-in-string](./leetcode/Easy/2264-largest-3-same-digit-number-in-string/) | Python | 2025-08-14 |
 | leetcode | Easy | [0101-symmetric-tree](./leetcode/Easy/0101-symmetric-tree/) | Python | 2024-09-14 |
 | leetcode | Easy | [0606-construct-string-from-binary-tree](./leetcode/Easy/0606-construct-string-from-binary-tree/) | Python | 2023-12-09 |
