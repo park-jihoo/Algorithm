@@ -3634,6 +3634,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "3619-count-islands-with-total-value-divisible-by-k",
+    "languages": "Python",
+    "last_commit_date": "2026-10-26",
+    "slug": "leetcode/Medium/3619-count-islands-with-total-value-divisible-by-k"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "1441-build-an-array-with-stack-operations",
     "languages": "Python",
     "last_commit_date": "2023-11-03",

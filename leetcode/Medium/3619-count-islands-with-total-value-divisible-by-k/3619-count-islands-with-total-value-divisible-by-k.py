@@ -13,9 +13,12 @@ class Solution:
                         x, y = queue.popleft()
                         for dx, dy in d:
                             if 0 <= x + dx < len(grid) and 0 <= y + dy < len(grid[0]):
-                                if grid[x + dx][y + dy] >= 1 and (x+dx, y+dy) not in visited:
-                                    visited.add((x+dx, y+dy))
-                                    s += grid[x+dx][y+dy]
+                                if (
+                                    grid[x + dx][y + dy] >= 1
+                                    and (x + dx, y + dy) not in visited
+                                ):
+                                    visited.add((x + dx, y + dy))
+                                    s += grid[x + dx][y + dy]
                                     queue.append((x + dx, y + dy))
-                    ans += ((s%k) == 0)
+                    ans += (s % k) == 0
         return ans

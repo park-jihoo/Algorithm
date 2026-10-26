@@ -458,6 +458,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [0445-add-two-numbers-ii](./leetcode/Medium/0445-add-two-numbers-ii/) | Python | 2023-08-14 |
 | leetcode | Medium | [1233-remove-sub-folders-from-the-filesystem](./leetcode/Medium/1233-remove-sub-folders-from-the-filesystem/) | Python | 2024-10-25 |
 | leetcode | Medium | [0641-design-circular-deque](./leetcode/Medium/0641-design-circular-deque/) | C++,Java | 2024-09-29 |
+| leetcode | Medium | [3619-count-islands-with-total-value-divisible-by-k](./leetcode/Medium/3619-count-islands-with-total-value-divisible-by-k/) | Python | 2026-10-26 |
 | leetcode | Medium | [1441-build-an-array-with-stack-operations](./leetcode/Medium/1441-build-an-array-with-stack-operations/) | Python | 2023-11-03 |
 | leetcode | Medium | [3085-minimum-deletions-to-make-string-k-special](./leetcode/Medium/3085-minimum-deletions-to-make-string-k-special/) | Python | 2025-06-21 |
 | leetcode | Medium | [0036-valid-sudoku](./leetcode/Medium/0036-valid-sudoku/) | Python | 2025-08-30 |
