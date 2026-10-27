@@ -5970,6 +5970,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Easy",
+    "problem_name": "3963-create-grid-with-exactly-one-path",
+    "languages": "Python",
+    "last_commit_date": "2026-10-27",
+    "slug": "leetcode/Easy/3963-create-grid-with-exactly-one-path"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Easy",
     "problem_name": "2490-circular-sentence",
     "languages": "Python",
     "last_commit_date": "2024-11-02",

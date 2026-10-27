@@ -750,6 +750,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Easy | [1399-count-largest-group](./leetcode/Easy/1399-count-largest-group/) | Python | 2025-04-23 |
 | leetcode | Easy | [1356-sort-integers-by-the-number-of-1-bits](./leetcode/Easy/1356-sort-integers-by-the-number-of-1-bits/) | Python | 2023-10-30 |
 | leetcode | Easy | [2873-maximum-value-of-an-ordered-triplet-i](./leetcode/Easy/2873-maximum-value-of-an-ordered-triplet-i/) | Python | 2025-04-02 |
+| leetcode | Easy | [3963-create-grid-with-exactly-one-path](./leetcode/Easy/3963-create-grid-with-exactly-one-path/) | Python | 2026-10-27 |
 | leetcode | Easy | [2490-circular-sentence](./leetcode/Easy/2490-circular-sentence/) | Python | 2024-11-02 |
 | leetcode | Easy | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](./leetcode/Easy/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Python | 2026-01-25 |
 | leetcode | Easy | [3314-construct-the-minimum-bitwise-array-i](./leetcode/Easy/3314-construct-the-minimum-bitwise-array-i/) | Unknown | 2026-01-20 |
