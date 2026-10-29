@@ -1,5 +1,7 @@
 class Solution:
-    def palindromePath(self, n: int, edges: list[list[int]], s: str, queries: list[str]) -> list[bool]:
+    def palindromePath(
+        self, n: int, edges: list[list[int]], s: str, queries: list[str]
+    ) -> list[bool]:
         g = [[] for _ in range(n)]
 
         for u, v in edges:

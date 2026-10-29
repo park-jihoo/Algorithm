@@ -1003,6 +1003,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Hard | [3739-count-subarrays-with-majority-element-ii](./leetcode/Hard/3739-count-subarrays-with-majority-element-ii/) | Python | 2026-06-26 |
 | leetcode | Hard | [1255-maximum-score-words-formed-by-letters](./leetcode/Hard/1255-maximum-score-words-formed-by-letters/) | Python | 2024-05-24 |
 | leetcode | Hard | [2267-check-if-there-is-a-valid-parentheses-string-path](./leetcode/Hard/2267-check-if-there-is-a-valid-parentheses-string-path/) | Python | 2026-09-29 |
+| leetcode | Hard | [3841-palindromic-path-queries-in-a-tree](./leetcode/Hard/3841-palindromic-path-queries-in-a-tree/) | Python | 2026-10-29 |
 | leetcode | Hard | [0446-arithmetic-slices-ii-subsequence](./leetcode/Hard/0446-arithmetic-slices-ii-subsequence/) | Python | 2024-01-07 |
 | leetcode | Hard | [1359-count-all-valid-pickup-and-delivery-options](./leetcode/Hard/1359-count-all-valid-pickup-and-delivery-options/) | Python | 2023-09-10 |
 | leetcode | Hard | [1074-number-of-submatrices-that-sum-to-target](./leetcode/Hard/1074-number-of-submatrices-that-sum-to-target/) | Python | 2024-01-28 |
