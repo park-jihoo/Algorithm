@@ -184,6 +184,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [3254-find-the-power-of-k-size-subarrays-i](./leetcode/Medium/3254-find-the-power-of-k-size-subarrays-i/) | Python | 2024-11-16 |
 | leetcode | Medium | [0373-find-k-pairs-with-smallest-sums](./leetcode/Medium/0373-find-k-pairs-with-smallest-sums/) | Python | 2023-08-14 |
 | leetcode | Medium | [2594-minimum-time-to-repair-cars](./leetcode/Medium/2594-minimum-time-to-repair-cars/) | Unknown | 2025-03-16 |
+| leetcode | Medium | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](./leetcode/Medium/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Python | 2026-10-30 |
 | leetcode | Medium | [1915-number-of-wonderful-substrings](./leetcode/Medium/1915-number-of-wonderful-substrings/) | Python | 2024-09-14 |
 | leetcode | Medium | [2353-design-a-food-rating-system](./leetcode/Medium/2353-design-a-food-rating-system/) | Python | 2025-09-17 |
 | leetcode | Medium | [2466-count-ways-to-build-good-strings](./leetcode/Medium/2466-count-ways-to-build-good-strings/) | Python | 2024-12-30 |

@@ -4,11 +4,11 @@ class Solution:
         for u, v, w in edges:
             graph[u].append((v, w))
 
-        best = [k + 1] * n  
-        heap = [(0, 1, 0)] 
+        best = [k + 1] * n
+        heap = [(0, 1, 0)]
         while heap:
             d, run, x = heappop(heap)
-            if run >= best[x]: 
+            if run >= best[x]:
                 continue
             if x == n - 1:
                 return d

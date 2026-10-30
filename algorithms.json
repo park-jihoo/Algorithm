@@ -1442,6 +1442,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "3970-shortest-path-with-at-most-k-consecutive-identical-characters",
+    "languages": "Python",
+    "last_commit_date": "2026-10-30",
+    "slug": "leetcode/Medium/3970-shortest-path-with-at-most-k-consecutive-identical-characters"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "1915-number-of-wonderful-substrings",
     "languages": "Python",
     "last_commit_date": "2024-09-14",
