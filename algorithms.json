@@ -3882,6 +3882,14 @@
   {
     "platform": "leetcode",
     "difficulty": "Medium",
+    "problem_name": "3665-twisted-mirror-path-count",
+    "languages": "Python",
+    "last_commit_date": "2026-10-31",
+    "slug": "leetcode/Medium/3665-twisted-mirror-path-count"
+  },
+  {
+    "platform": "leetcode",
+    "difficulty": "Medium",
     "problem_name": "0684-redundant-connection",
     "languages": "Python",
     "last_commit_date": "2025-01-29",

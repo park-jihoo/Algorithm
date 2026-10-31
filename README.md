@@ -489,6 +489,7 @@ This project contains the following subfolders (up to 3 levels deep):
 | leetcode | Medium | [0912-sort-an-array](./leetcode/Medium/0912-sort-an-array/) | Python | 2024-09-14 |
 | leetcode | Medium | [2375-construct-smallest-number-from-di-string](./leetcode/Medium/2375-construct-smallest-number-from-di-string/) | Python | 2025-02-18 |
 | leetcode | Medium | [1930-unique-length-3-palindromic-subsequences](./leetcode/Medium/1930-unique-length-3-palindromic-subsequences/) | Python | 2025-11-21 |
+| leetcode | Medium | [3665-twisted-mirror-path-count](./leetcode/Medium/3665-twisted-mirror-path-count/) | Python | 2026-10-31 |
 | leetcode | Medium | [0684-redundant-connection](./leetcode/Medium/0684-redundant-connection/) | Python | 2025-01-29 |
 | leetcode | Medium | [1718-construct-the-lexicographically-largest-valid-sequence](./leetcode/Medium/1718-construct-the-lexicographically-largest-valid-sequence/) | Python | 2025-02-16 |
 | leetcode | Medium | [3546-equal-sum-grid-partition-i](./leetcode/Medium/3546-equal-sum-grid-partition-i/) | Python | 2026-03-25 |
